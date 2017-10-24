@@ -17,6 +17,12 @@
      <changefreq>daily</changefreq>
     </url>
         
+    <url>
+     <loc>/auto_reward_points/</loc>
+     <lastmod>2017-10-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
     
 
 </urlset>
