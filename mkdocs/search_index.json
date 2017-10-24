@@ -127,7 +127,7 @@
         }, 
         {
             "location": "/auto_reward_points/", 
-            "text": "Auto Reward Points\n\n\n\n\nCurrent Version: 2.0.0\n\n\nLast Updated: 24 June 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility:\nOpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nOpenCart does not automatically add reward points for completed orders. Are you tired of manually doing so? This extension will handle it for you! The system will automatically add reward points for completed orders based on the points OpenCart has calculated. As simple as that, let automation ease your daily workload!\n\n\nFeatures\n\n\n\n\nAutomatically add reward points for completed orders\n\n\n100% new files\n\n\nSimple installation with installer available", 
+            "text": "Auto Reward Points\n\n\n\n\nCurrent Version: 2.0.0\n\n\nLast Updated: 24 June 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility:\nOpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nOpenCart does not automatically add reward points for completed orders. Are you tired of manually doing so? This extension will handle it for you! The system will automatically add reward points for completed orders based on the points OpenCart has calculated. As simple as that, let automation ease your daily workload!\n\n\nFeatures\n\n\n\n\nAutomatically add reward points for completed orders\n\n\n100% new files\n\n\nSimple installation with installer available\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nAuto Reward Points\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 2 \n 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nAuto Reward Points\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nAuto Reward Points\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 2 \n 3\n\n\n\n\nComplete Order Status Configuration\n\n\n\n\nYou can configure the order complete status in \nSystem \n Settings \n Edit Store \n Options Tab\n. Upon changing to any of the configured complete order statuses, reward points will be automatically given to the registered customer.\n\n\n\n\nOpenCart 1.5\n\n\n\n\nComplete Order Status Configuration\n\n\n\n\nYou can configure the order complete status in \nSystem \n Settings \n Edit Store \n Options Tab\n. Upon changing to the configured complete order status, reward points will be automatically given to the registered customer.\n\n\n\n\nChange Log\n\n\nVersion 2.0.0 (24/06/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\n\n\nVersion 1.1.3 (08/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 1.1.2 (04/03/2016)\n\n\n\n\nImproved code quality\n\n\n\n\nVersion 1.1.1 (24/02/2016)\n\n\n\n\nFixed issue with installation\n\n\n\n\nVersion 1.1.0 (25/01/2016)\n\n\n\n\nImproved installation method\n\n\n\n\nVersion 1.0.1 (09/03/2015)\n\n\n\n\nFixed points being added to guest\n\n\n\n\nVersion 1.0.0 (21/02/2015)\n\n\n\n\nExtension created", 
             "title": "Auto Reward Points"
         }, 
         {
@@ -144,6 +144,81 @@
             "location": "/auto_reward_points/#features", 
             "text": "Automatically add reward points for completed orders  100% new files  Simple installation with installer available", 
             "title": "Features"
+        }, 
+        {
+            "location": "/auto_reward_points/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/auto_reward_points/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Auto Reward Points . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Please view configuration details below.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/auto_reward_points/#opencart-2-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Auto Reward Points . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Please view configuration details below.", 
+            "title": "OpenCart 2 &amp; 3"
+        }, 
+        {
+            "location": "/auto_reward_points/#opencart-15", 
+            "text": "Unzip the files. Ensure that vQmod has been installed.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Auto Reward Points . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 1.5"
+        }, 
+        {
+            "location": "/auto_reward_points/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/auto_reward_points/#opencart-2-3_1", 
+            "text": "Complete Order Status Configuration   You can configure the order complete status in  System   Settings   Edit Store   Options Tab . Upon changing to any of the configured complete order statuses, reward points will be automatically given to the registered customer.", 
+            "title": "OpenCart 2 &amp; 3"
+        }, 
+        {
+            "location": "/auto_reward_points/#opencart-15_1", 
+            "text": "Complete Order Status Configuration   You can configure the order complete status in  System   Settings   Edit Store   Options Tab . Upon changing to the configured complete order status, reward points will be automatically given to the registered customer.", 
+            "title": "OpenCart 1.5"
+        }, 
+        {
+            "location": "/auto_reward_points/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/auto_reward_points/#version-200-24062017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0", 
+            "title": "Version 2.0.0 (24/06/2017)"
+        }, 
+        {
+            "location": "/auto_reward_points/#version-113-08072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Version 1.1.3 (08/07/2016)"
+        }, 
+        {
+            "location": "/auto_reward_points/#version-112-04032016", 
+            "text": "Improved code quality", 
+            "title": "Version 1.1.2 (04/03/2016)"
+        }, 
+        {
+            "location": "/auto_reward_points/#version-111-24022016", 
+            "text": "Fixed issue with installation", 
+            "title": "Version 1.1.1 (24/02/2016)"
+        }, 
+        {
+            "location": "/auto_reward_points/#version-110-25012016", 
+            "text": "Improved installation method", 
+            "title": "Version 1.1.0 (25/01/2016)"
+        }, 
+        {
+            "location": "/auto_reward_points/#version-101-09032015", 
+            "text": "Fixed points being added to guest", 
+            "title": "Version 1.0.1 (09/03/2015)"
+        }, 
+        {
+            "location": "/auto_reward_points/#version-100-21022015", 
+            "text": "Extension created", 
+            "title": "Version 1.0.0 (21/02/2015)"
         }
     ]
 }
