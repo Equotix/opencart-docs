@@ -3,6 +3,9 @@
 * Current Version: 2.0.0
 * Last Updated: 23 June 2017
 * License: [Commercial License][1]
+* Compatibility:
+OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x
+
 
 [1]: https://www.marketinsg.com/usage-license
 
@@ -38,6 +41,12 @@ Add to Cart Notification displays a popup notification when your customers add a
 2. Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.
 3. In your admin panel, proceed to `Extensions >> Modules`. Then, install `Add to Cart Notification`. Configure extension accordingly.
 4. Popup notification will now show up when a product is added.
+
+## Configurations
+
+There are no configurations required for Add to Cart Notification. Head over to your store front and add an item to cart, you should now see the Add to Cart Notification popup as per below.
+
+![Screenshot](images/add_to_cart_notification/image-1.png)
 
 ## Change Log
 
