@@ -62,23 +62,23 @@ You can configure the order complete status in `System >> Settings >> Edit Store
 
 ## Change Log
 
-###Version 2.0.0 (24/06/2017)
+### Version 2.0.0 (24/06/2017)
 * Fixed compatibility with OpenCart 3.0.0.0
 
-###Version 1.1.3 (08/07/2016)
+### Version 1.1.3 (08/07/2016)
 * Fixed compatibility with OpenCart 2.3.0.0
 
-###Version 1.1.2 (04/03/2016)
+### Version 1.1.2 (04/03/2016)
 * Improved code quality
 
-###Version 1.1.1 (24/02/2016)
+### Version 1.1.1 (24/02/2016)
 * Fixed issue with installation
 
-###Version 1.1.0 (25/01/2016)
+### Version 1.1.0 (25/01/2016)
 * Improved installation method
 
-###Version 1.0.1 (09/03/2015)
+### Version 1.0.1 (09/03/2015)
 * Fixed points being added to guest
 
-###Version 1.0.0 (21/02/2015)
+### Version 1.0.0 (21/02/2015)
 * Extension created
