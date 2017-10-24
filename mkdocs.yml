@@ -6,7 +6,6 @@ pages:
 site_name: MarketInSG Documentations
 site_description: MarketInSG product documentations - OpenCart extensions Singapore.
 copyright: MarketInSG &copy; 2017
-repo_url: https://github.com/Equotix/opencart-docs
 remote_branch: gh-pages
 theme: material
 site_favicon: 'images/favicon.png'
