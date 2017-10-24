@@ -219,6 +219,461 @@
             "location": "/auto_reward_points/#version-100-21022015", 
             "text": "Extension created", 
             "title": "Version 1.0.0 (21/02/2015)"
+        }, 
+        {
+            "location": "/quick_checkout/", 
+            "text": "Quick Checkout\n\n\n\n\nCurrent Version: 11.0.0\n\n\nLast Updated: 30 June 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility:\nOpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nQuick Checkout 10 is the final release for OpenCart 1.5.x. Please upgrade your OpenCart store to have access to Quick Checkout 11.\n\n\nDescription\n\n\nQuick Checkout enhances your customer's checkout experience. It allows you to fully customise your the checkout process from adding fields to removing fields! Quick Checkout is the top rated One Page Checkout solution in OpenCart with top-tier support.\n\n\nFeatures\n\n\n\n\nCustomise your checkout experience, enable / disable fields (eg. Telephone, Country, Zone, Company etc)\n\n\nEasy to use One Page Checkout\n\n\nCompatible with all payment modules\n\n\nCompatible with all shipping modules\n\n\nCompatible with all themes\n\n\n100% new files, no overwrites\n\n\nMulti-language supported\n\n\nMulti-store supported\n\n\nMulti columns layout\n\n\nSet fields sort position\n\n\nSet default values for fields\n\n\nSet placeholder text for fields\n\n\nSet fields required / optional\n\n\nResponsive feature to integrate with responsive themes\n\n\nSupports postal code based shipping modules\n\n\nEnable / Disable cart module\n\n\nEnable / Disable voucher / coupon / reward points module\n\n\nEnable / Disable login module\n\n\nEnable / Disable countdown timer\n\n\nEnable / Disable delivery field\n\n\nEnable / Disable delivery time field\n\n\nEnable / Disable order confirmation page\n\n\nSelect or Radio choice type for shipping \n payment\n\n\nSet default payment \n shipping method\n\n\nSet payment and shipping logo\n\n\nSet default newsletter status\n\n\nDisplay loading screen\n\n\nDisplay spinner loading icon or overlay loading design\n\n\nEnable / disable drop down survey response\n\n\nHighlight error fields\n\n\nAdd custom HTML header and footer content\n\n\nAdd custom CSS codes through admin panel\n\n\nEasy one click installation\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nQuick Checkout\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nQuick Checkout\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 2 \n 1.5\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nQuick Checkout\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nGeneral Settings\n\n\nStatus\n\n\nTurn on/off Quick Checkout. Set status to enable to begin using Quick Checkout.\n\n\nMinimum Order Amount\n\n\nThe minimum amount (in system's default currency) the cart total must reach before checkout is enabled.\n\n\nDebug\n\n\nThis function is for developer to debug javascript and checkout errors.\n\n\nConfirmation Page\n\n\nTurn on/off the order confirmation page. If disabled, customer will not see their order cart for confirmation before payment.\n\n\nAuto Save Data\n\n\nAllow the customer's information to be saved automatically when the customer starts entering information on your checkout page.\n\n\nAllow Users to Edit Cart Quantities\n\n\nAllow the customer to change the product quantity on the checkout page. Disable to prevent customer from changing quantity on the checkout page.\n\n\nHighlight Fields with Error\n\n\nEnable to highlight fields with error when checkout form is submitted.\n\n\nDisplay Error Below Fields\n\n\nEnable to display error message below each field when checkout form is submitted.\n\n\nAttempt Auto Submit\n\n\nAttempt to automatically submit the payment form. This will only work if the payment module you are using does not require additional information (e.g. Bank Transfer, PayPal Standard). Payment modules that require additional information such as credit card fields cannot be automatically submitted.\n\n\nPayment Button Targets\n\n\nThis is used to target the auto submit payment forms. If your payment module uses another button ID, add it to this field to target correctly for auto submit feature to work.\n\n\nProceed Button Text\n\n\nConfigure the text to be shown to customer to proceed to the next step of the checkout.\n\n\nDesign\n\n\nDisplay Load Screen\n\n\nDisplay the page loading screen when checkout page is loaded.\n\n\nLoading Display\n\n\nConfigure how the loading icon should be displayed.\n\n\nLayout\n\n\nConfigure the layout of the checkout page.\n\n\nResponsive Quick Checkout\n\n\nConfigure the checkout for a responsive design.\n\n\nSlide Effect\n\n\nConfigure the checkout transition when it proceeds to the order confirmation page.\n\n\nCustom CSS Codes\n\n\nAdd your custom CSS codes here if you wish to further style the checkout page.\n\n\nFields\n\n\nDisplay\n\n\nConfigure whether the field should be displayed to the customer on the checkout page.\n\n\nRequired\n\n\nConfigure whether the field is required to be filled in.\n\n\nDefault Value\n\n\nConfigure the default value for the field when it is loaded.\n\n\nPlaceholder\n\n\nConfigure the field placeholder.\n\n\nSort Order\n\n\nConfigure the field position when displayed on the checkout page.\n\n\nModules\n\n\nDisplay Coupon Module\n\n\nToggle on/off the coupon module on the checkout page.\n\n\nDisplay Voucher Module\n\n\nToggle on/off the voucher module on the checkout page.\n\n\nDisplay Reward Module\n\n\nToggle on/off the reward module on the checkout page.\n\n\nDisplay Cart Module\n\n\nToggle on/off the cart module on the checkout page.\n\n\nDisplay Login Module\n\n\nToggle on/off the login module for guest customers on the checkout page.\n\n\nCustom HTML Header\n\n\nAdd custom HTML text to the header of the checkout page.\n\n\nCustom HTML Footer\n\n\nAdd custom HTML text to the footer of the checkout page.\n\n\nPayment\n\n\nDisplay Payment Method Module\n\n\nTurn on/off the payment method module on the checkout page. The default selected payment module will be used if the payment method module is disabled.\n\n\nPayment Reloads Cart\n\n\nTurn on/off payment reloads cart feature. This is useful if your payment methods have additional fees.\n\n\nPayment Selection\n\n\nConfigure the payment method selection to be select or radio type display.\n\n\nDefault Payment Module\n\n\nConfigure the default payment method for checkout.\n\n\nPayment Logo URL\n\n\nConfigure the payment logo image URL to be loaded on the checkout page.\n\n\nShipping\n\n\nDisplay Shipping Method Module\n\n\nTurn on/off the shipping method module on the checkout page. The default selected shipping module will be used if the shipping method module is disabled.\n\n\nShipping Reloads Payment\n\n\nTurn on/off shipping reloads payment feature. This is useful if your payment methods are dependent on the selected shipping methods.\n\n\nShipping Selection\n\n\nConfigure the shipping method selection to be select or radio type display.\n\n\nDefault Shipping Module\n\n\nConfigure the default shipping method for checkout.\n\n\nShipping Logo URL\n\n\nConfigure the shipping logo image URL to be loaded on the checkout page.\n\n\nSurvey\n\n\nSurvey response will be captured in the order comments section.\n\n\nDisplay Survey Field\n\n\nConfigure the status of the survey field.\n\n\nSurvey Required\n\n\nConfigure if the survey field must be filled up before checkout.\n\n\nSurvey Question\n\n\nConfigure the survey question to be displayed to the customer.\n\n\nSurvey Type\n\n\nConfigure the type for the survey. Select \ntext\n for an open ended answer, and select \nselect\n for customer to select from a list of answers.\n\n\nDelivery\n\n\nAdditional delivery details are stored into the order comments section.\n\n\nDisplay Delivery Field\n\n\nTurn on/off the delivery field.\n\n\nDisplay Delivery Time\n\n\nConfigure whether the delivery time can be chosen by the customer, will only be an estimate, or is from a list of drop down timings.\n\n\nDelivery Date Required\n\n\nConfigure whether delivery date field must be filled in during checkout.\n\n\nDelivery Dates Unavailable\n\n\nConfigure the list of dates unavailable for delivery.\n\n\nDelivery Minimum Days in Advance\n\n\nConfigure the minimum number of days required in advance for delivery date selection.\n\n\nDelivery Maximum Days in Advance\n\n\nConfigure the maximum number of days allowed in advance for delivery selection.\n\n\nDelivery Earliest Hour\n\n\nConfigure the earliest hour the customer can select for delivery.\n\n\nDelivery Latest Hour\n\n\nConfigure the latest hour the customer can select for delivery.\n\n\nDelivery Days of Week to Disable\n\n\nConfigure the days of the week to disable delivery.\n\n\nTimer\n\n\nCountdown Timer\n\n\nTurn on/off the countdown timer.\n\n\nCountdown Starts\n\n\nConfigure how the countdown timer should start.\n\n\nCountdown Text\n\n\nThe text to display for the countdown timer. Use the \n{timer}\n template code to display the timer on the checkout page.\n\n\nAnalytics\n\n\nRecover Abandoned Carts\n\n\nPurchase our Recover Abandoned Carts extension to turn abandoned carts into sales.\n\n\nChange Log\n\n\nVersion 11.0.0 (30/06/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nFixed minor bugs and improvements\n\n\nRemoved fax field for OpenCart 3\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 10.1.0 (13/05/2017)\n\n\n\n\nAdded multi-language placeholder\n\n\nAdded multi-language default text\n\n\nFixed custom fields not hiding\n\n\nFixed custom fields validation\n\n\nFixed cart total display when login for price is enabled\n\n\nImproved email validation when field not required\n\n\nImproved shipping reloads payment\n\n\n\n\nVersion 10.0.6 (31/01/2017)\n\n\n\n\nFixed missing column language\n\n\n\n\nVersion 10.0.5 (26/01/2017)\n\n\n\n\nAdded ability to remove rewards, coupons and vouchers\n\n\n\n\nVersion 10.0.4 (16/11/2016)\n\n\n\n\nFixed minor bugs with OpenCart 1.5 release\n\n\nFixed minor bugs with minimum order feature\n\n\n\n\nVersion 10.0.3 (26/09/2016)\n\n\n\n\nFixed minor bugs\n\n\n\n\nVersion 10.0.2 (08/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 10.0.1 (20/05/2016)\n\n\n\n\nFixed force registration\n\n\nFixed minor bugs\n\n\n\n\nVersion 10.0.0 (03/05/2016)\n\n\n\n\nImproved feature to disable confirmation page\n\n\nImproved speed and performance by reducing ajax requests\n\n\nImproved auto submit feature\n\n\nImproved loading screen\n\n\nImproved auto submit targets\n\n\nImproved overlay design \n\n\nImproved delivery field and date picker\n\n\nImproved custom fields integration with OpenCart 2\n\n\nAdded default payment method\n\n\nAdded default shipping method\n\n\nAdded payment logos\n\n\nAdded shipping logos\n\n\nAdded place holder for fields\n\n\nAdded configurable proceed button language\n\n\nAdded minimum and maximum hours for delivery\n\n\nFixed minor bugs\n\n\nFixed minor layout issue\n\n\nRemoved loading gif from OC 1.5 release\n\n\n\n\nVersion 9.5.0 (08/04/2016)\n\n\n\n\nAdded custom CSS field\n\n\nAdded analytics tab\n\n\nAdded feature to remove confirmation page\n\n\nAdded auto submit target field\n\n\nAdded new overlay module loading feature\n\n\nFixed blank option for payment method\n\n\n\n\nVersion 9.4.5 (04/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\nLast release for OpenCart 1.5.1.x and OpenCart 1.5.2.x\n\n\n\n\nVersion 9.4.4 (20/01/2016)\n\n\n\n\nFixed minimum order cart validation\n\n\nImproved three columns layout design\n\n\n\n\nVersion 9.4.3 (23/12/2015)\n\n\n\n\nFixed issue with payment address refreshing shipping methods\n\n\n\n\nVersion 9.4.2 (06/12/2015)\n\n\n\n\nFixed order comments tag\n\n\nFixed issue with shipping address not saving on OC 1.5.x\n\n\n\n\nVersion 9.4.1 (04/12/2015)\n\n\n\n\nFixed fatal bug on OC 1.5.3.x to OC 1.5.6.x caused by v9.4.0\n\n\nFixed minor bug OC 2.1.0.x", 
+            "title": "Quick Checkout"
+        }, 
+        {
+            "location": "/quick_checkout/#quick-checkout", 
+            "text": "Current Version: 11.0.0  Last Updated: 30 June 2017  License:  Commercial License  Compatibility:\nOpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x   Quick Checkout 10 is the final release for OpenCart 1.5.x. Please upgrade your OpenCart store to have access to Quick Checkout 11.", 
+            "title": "Quick Checkout"
+        }, 
+        {
+            "location": "/quick_checkout/#description", 
+            "text": "Quick Checkout enhances your customer's checkout experience. It allows you to fully customise your the checkout process from adding fields to removing fields! Quick Checkout is the top rated One Page Checkout solution in OpenCart with top-tier support.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/quick_checkout/#features", 
+            "text": "Customise your checkout experience, enable / disable fields (eg. Telephone, Country, Zone, Company etc)  Easy to use One Page Checkout  Compatible with all payment modules  Compatible with all shipping modules  Compatible with all themes  100% new files, no overwrites  Multi-language supported  Multi-store supported  Multi columns layout  Set fields sort position  Set default values for fields  Set placeholder text for fields  Set fields required / optional  Responsive feature to integrate with responsive themes  Supports postal code based shipping modules  Enable / Disable cart module  Enable / Disable voucher / coupon / reward points module  Enable / Disable login module  Enable / Disable countdown timer  Enable / Disable delivery field  Enable / Disable delivery time field  Enable / Disable order confirmation page  Select or Radio choice type for shipping   payment  Set default payment   shipping method  Set payment and shipping logo  Set default newsletter status  Display loading screen  Display spinner loading icon or overlay loading design  Enable / disable drop down survey response  Highlight error fields  Add custom HTML header and footer content  Add custom CSS codes through admin panel  Easy one click installation", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/quick_checkout/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/quick_checkout/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Quick Checkout . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/quick_checkout/#opencart-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Quick Checkout . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 3"
+        }, 
+        {
+            "location": "/quick_checkout/#opencart-2-15", 
+            "text": "Unzip the files. Ensure that vQmod has been installed.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Quick Checkout . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 2 &amp; 1.5"
+        }, 
+        {
+            "location": "/quick_checkout/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/quick_checkout/#general-settings", 
+            "text": "", 
+            "title": "General Settings"
+        }, 
+        {
+            "location": "/quick_checkout/#status", 
+            "text": "Turn on/off Quick Checkout. Set status to enable to begin using Quick Checkout.", 
+            "title": "Status"
+        }, 
+        {
+            "location": "/quick_checkout/#minimum-order-amount", 
+            "text": "The minimum amount (in system's default currency) the cart total must reach before checkout is enabled.", 
+            "title": "Minimum Order Amount"
+        }, 
+        {
+            "location": "/quick_checkout/#debug", 
+            "text": "This function is for developer to debug javascript and checkout errors.", 
+            "title": "Debug"
+        }, 
+        {
+            "location": "/quick_checkout/#confirmation-page", 
+            "text": "Turn on/off the order confirmation page. If disabled, customer will not see their order cart for confirmation before payment.", 
+            "title": "Confirmation Page"
+        }, 
+        {
+            "location": "/quick_checkout/#auto-save-data", 
+            "text": "Allow the customer's information to be saved automatically when the customer starts entering information on your checkout page.", 
+            "title": "Auto Save Data"
+        }, 
+        {
+            "location": "/quick_checkout/#allow-users-to-edit-cart-quantities", 
+            "text": "Allow the customer to change the product quantity on the checkout page. Disable to prevent customer from changing quantity on the checkout page.", 
+            "title": "Allow Users to Edit Cart Quantities"
+        }, 
+        {
+            "location": "/quick_checkout/#highlight-fields-with-error", 
+            "text": "Enable to highlight fields with error when checkout form is submitted.", 
+            "title": "Highlight Fields with Error"
+        }, 
+        {
+            "location": "/quick_checkout/#display-error-below-fields", 
+            "text": "Enable to display error message below each field when checkout form is submitted.", 
+            "title": "Display Error Below Fields"
+        }, 
+        {
+            "location": "/quick_checkout/#attempt-auto-submit", 
+            "text": "Attempt to automatically submit the payment form. This will only work if the payment module you are using does not require additional information (e.g. Bank Transfer, PayPal Standard). Payment modules that require additional information such as credit card fields cannot be automatically submitted.", 
+            "title": "Attempt Auto Submit"
+        }, 
+        {
+            "location": "/quick_checkout/#payment-button-targets", 
+            "text": "This is used to target the auto submit payment forms. If your payment module uses another button ID, add it to this field to target correctly for auto submit feature to work.", 
+            "title": "Payment Button Targets"
+        }, 
+        {
+            "location": "/quick_checkout/#proceed-button-text", 
+            "text": "Configure the text to be shown to customer to proceed to the next step of the checkout.", 
+            "title": "Proceed Button Text"
+        }, 
+        {
+            "location": "/quick_checkout/#design", 
+            "text": "", 
+            "title": "Design"
+        }, 
+        {
+            "location": "/quick_checkout/#display-load-screen", 
+            "text": "Display the page loading screen when checkout page is loaded.", 
+            "title": "Display Load Screen"
+        }, 
+        {
+            "location": "/quick_checkout/#loading-display", 
+            "text": "Configure how the loading icon should be displayed.", 
+            "title": "Loading Display"
+        }, 
+        {
+            "location": "/quick_checkout/#layout", 
+            "text": "Configure the layout of the checkout page.", 
+            "title": "Layout"
+        }, 
+        {
+            "location": "/quick_checkout/#responsive-quick-checkout", 
+            "text": "Configure the checkout for a responsive design.", 
+            "title": "Responsive Quick Checkout"
+        }, 
+        {
+            "location": "/quick_checkout/#slide-effect", 
+            "text": "Configure the checkout transition when it proceeds to the order confirmation page.", 
+            "title": "Slide Effect"
+        }, 
+        {
+            "location": "/quick_checkout/#custom-css-codes", 
+            "text": "Add your custom CSS codes here if you wish to further style the checkout page.", 
+            "title": "Custom CSS Codes"
+        }, 
+        {
+            "location": "/quick_checkout/#fields", 
+            "text": "", 
+            "title": "Fields"
+        }, 
+        {
+            "location": "/quick_checkout/#display", 
+            "text": "Configure whether the field should be displayed to the customer on the checkout page.", 
+            "title": "Display"
+        }, 
+        {
+            "location": "/quick_checkout/#required", 
+            "text": "Configure whether the field is required to be filled in.", 
+            "title": "Required"
+        }, 
+        {
+            "location": "/quick_checkout/#default-value", 
+            "text": "Configure the default value for the field when it is loaded.", 
+            "title": "Default Value"
+        }, 
+        {
+            "location": "/quick_checkout/#placeholder", 
+            "text": "Configure the field placeholder.", 
+            "title": "Placeholder"
+        }, 
+        {
+            "location": "/quick_checkout/#sort-order", 
+            "text": "Configure the field position when displayed on the checkout page.", 
+            "title": "Sort Order"
+        }, 
+        {
+            "location": "/quick_checkout/#modules", 
+            "text": "", 
+            "title": "Modules"
+        }, 
+        {
+            "location": "/quick_checkout/#display-coupon-module", 
+            "text": "Toggle on/off the coupon module on the checkout page.", 
+            "title": "Display Coupon Module"
+        }, 
+        {
+            "location": "/quick_checkout/#display-voucher-module", 
+            "text": "Toggle on/off the voucher module on the checkout page.", 
+            "title": "Display Voucher Module"
+        }, 
+        {
+            "location": "/quick_checkout/#display-reward-module", 
+            "text": "Toggle on/off the reward module on the checkout page.", 
+            "title": "Display Reward Module"
+        }, 
+        {
+            "location": "/quick_checkout/#display-cart-module", 
+            "text": "Toggle on/off the cart module on the checkout page.", 
+            "title": "Display Cart Module"
+        }, 
+        {
+            "location": "/quick_checkout/#display-login-module", 
+            "text": "Toggle on/off the login module for guest customers on the checkout page.", 
+            "title": "Display Login Module"
+        }, 
+        {
+            "location": "/quick_checkout/#custom-html-header", 
+            "text": "Add custom HTML text to the header of the checkout page.", 
+            "title": "Custom HTML Header"
+        }, 
+        {
+            "location": "/quick_checkout/#custom-html-footer", 
+            "text": "Add custom HTML text to the footer of the checkout page.", 
+            "title": "Custom HTML Footer"
+        }, 
+        {
+            "location": "/quick_checkout/#payment", 
+            "text": "", 
+            "title": "Payment"
+        }, 
+        {
+            "location": "/quick_checkout/#display-payment-method-module", 
+            "text": "Turn on/off the payment method module on the checkout page. The default selected payment module will be used if the payment method module is disabled.", 
+            "title": "Display Payment Method Module"
+        }, 
+        {
+            "location": "/quick_checkout/#payment-reloads-cart", 
+            "text": "Turn on/off payment reloads cart feature. This is useful if your payment methods have additional fees.", 
+            "title": "Payment Reloads Cart"
+        }, 
+        {
+            "location": "/quick_checkout/#payment-selection", 
+            "text": "Configure the payment method selection to be select or radio type display.", 
+            "title": "Payment Selection"
+        }, 
+        {
+            "location": "/quick_checkout/#default-payment-module", 
+            "text": "Configure the default payment method for checkout.", 
+            "title": "Default Payment Module"
+        }, 
+        {
+            "location": "/quick_checkout/#payment-logo-url", 
+            "text": "Configure the payment logo image URL to be loaded on the checkout page.", 
+            "title": "Payment Logo URL"
+        }, 
+        {
+            "location": "/quick_checkout/#shipping", 
+            "text": "", 
+            "title": "Shipping"
+        }, 
+        {
+            "location": "/quick_checkout/#display-shipping-method-module", 
+            "text": "Turn on/off the shipping method module on the checkout page. The default selected shipping module will be used if the shipping method module is disabled.", 
+            "title": "Display Shipping Method Module"
+        }, 
+        {
+            "location": "/quick_checkout/#shipping-reloads-payment", 
+            "text": "Turn on/off shipping reloads payment feature. This is useful if your payment methods are dependent on the selected shipping methods.", 
+            "title": "Shipping Reloads Payment"
+        }, 
+        {
+            "location": "/quick_checkout/#shipping-selection", 
+            "text": "Configure the shipping method selection to be select or radio type display.", 
+            "title": "Shipping Selection"
+        }, 
+        {
+            "location": "/quick_checkout/#default-shipping-module", 
+            "text": "Configure the default shipping method for checkout.", 
+            "title": "Default Shipping Module"
+        }, 
+        {
+            "location": "/quick_checkout/#shipping-logo-url", 
+            "text": "Configure the shipping logo image URL to be loaded on the checkout page.", 
+            "title": "Shipping Logo URL"
+        }, 
+        {
+            "location": "/quick_checkout/#survey", 
+            "text": "Survey response will be captured in the order comments section.", 
+            "title": "Survey"
+        }, 
+        {
+            "location": "/quick_checkout/#display-survey-field", 
+            "text": "Configure the status of the survey field.", 
+            "title": "Display Survey Field"
+        }, 
+        {
+            "location": "/quick_checkout/#survey-required", 
+            "text": "Configure if the survey field must be filled up before checkout.", 
+            "title": "Survey Required"
+        }, 
+        {
+            "location": "/quick_checkout/#survey-question", 
+            "text": "Configure the survey question to be displayed to the customer.", 
+            "title": "Survey Question"
+        }, 
+        {
+            "location": "/quick_checkout/#survey-type", 
+            "text": "Configure the type for the survey. Select  text  for an open ended answer, and select  select  for customer to select from a list of answers.", 
+            "title": "Survey Type"
+        }, 
+        {
+            "location": "/quick_checkout/#delivery", 
+            "text": "Additional delivery details are stored into the order comments section.", 
+            "title": "Delivery"
+        }, 
+        {
+            "location": "/quick_checkout/#display-delivery-field", 
+            "text": "Turn on/off the delivery field.", 
+            "title": "Display Delivery Field"
+        }, 
+        {
+            "location": "/quick_checkout/#display-delivery-time", 
+            "text": "Configure whether the delivery time can be chosen by the customer, will only be an estimate, or is from a list of drop down timings.", 
+            "title": "Display Delivery Time"
+        }, 
+        {
+            "location": "/quick_checkout/#delivery-date-required", 
+            "text": "Configure whether delivery date field must be filled in during checkout.", 
+            "title": "Delivery Date Required"
+        }, 
+        {
+            "location": "/quick_checkout/#delivery-dates-unavailable", 
+            "text": "Configure the list of dates unavailable for delivery.", 
+            "title": "Delivery Dates Unavailable"
+        }, 
+        {
+            "location": "/quick_checkout/#delivery-minimum-days-in-advance", 
+            "text": "Configure the minimum number of days required in advance for delivery date selection.", 
+            "title": "Delivery Minimum Days in Advance"
+        }, 
+        {
+            "location": "/quick_checkout/#delivery-maximum-days-in-advance", 
+            "text": "Configure the maximum number of days allowed in advance for delivery selection.", 
+            "title": "Delivery Maximum Days in Advance"
+        }, 
+        {
+            "location": "/quick_checkout/#delivery-earliest-hour", 
+            "text": "Configure the earliest hour the customer can select for delivery.", 
+            "title": "Delivery Earliest Hour"
+        }, 
+        {
+            "location": "/quick_checkout/#delivery-latest-hour", 
+            "text": "Configure the latest hour the customer can select for delivery.", 
+            "title": "Delivery Latest Hour"
+        }, 
+        {
+            "location": "/quick_checkout/#delivery-days-of-week-to-disable", 
+            "text": "Configure the days of the week to disable delivery.", 
+            "title": "Delivery Days of Week to Disable"
+        }, 
+        {
+            "location": "/quick_checkout/#timer", 
+            "text": "", 
+            "title": "Timer"
+        }, 
+        {
+            "location": "/quick_checkout/#countdown-timer", 
+            "text": "Turn on/off the countdown timer.", 
+            "title": "Countdown Timer"
+        }, 
+        {
+            "location": "/quick_checkout/#countdown-starts", 
+            "text": "Configure how the countdown timer should start.", 
+            "title": "Countdown Starts"
+        }, 
+        {
+            "location": "/quick_checkout/#countdown-text", 
+            "text": "The text to display for the countdown timer. Use the  {timer}  template code to display the timer on the checkout page.", 
+            "title": "Countdown Text"
+        }, 
+        {
+            "location": "/quick_checkout/#analytics", 
+            "text": "", 
+            "title": "Analytics"
+        }, 
+        {
+            "location": "/quick_checkout/#recover-abandoned-carts", 
+            "text": "Purchase our Recover Abandoned Carts extension to turn abandoned carts into sales.", 
+            "title": "Recover Abandoned Carts"
+        }, 
+        {
+            "location": "/quick_checkout/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/quick_checkout/#version-1100-30062017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Fixed minor bugs and improvements  Removed fax field for OpenCart 3  Ceased support for OpenCart 1.5", 
+            "title": "Version 11.0.0 (30/06/2017)"
+        }, 
+        {
+            "location": "/quick_checkout/#version-1010-13052017", 
+            "text": "Added multi-language placeholder  Added multi-language default text  Fixed custom fields not hiding  Fixed custom fields validation  Fixed cart total display when login for price is enabled  Improved email validation when field not required  Improved shipping reloads payment", 
+            "title": "Version 10.1.0 (13/05/2017)"
+        }, 
+        {
+            "location": "/quick_checkout/#version-1006-31012017", 
+            "text": "Fixed missing column language", 
+            "title": "Version 10.0.6 (31/01/2017)"
+        }, 
+        {
+            "location": "/quick_checkout/#version-1005-26012017", 
+            "text": "Added ability to remove rewards, coupons and vouchers", 
+            "title": "Version 10.0.5 (26/01/2017)"
+        }, 
+        {
+            "location": "/quick_checkout/#version-1004-16112016", 
+            "text": "Fixed minor bugs with OpenCart 1.5 release  Fixed minor bugs with minimum order feature", 
+            "title": "Version 10.0.4 (16/11/2016)"
+        }, 
+        {
+            "location": "/quick_checkout/#version-1003-26092016", 
+            "text": "Fixed minor bugs", 
+            "title": "Version 10.0.3 (26/09/2016)"
+        }, 
+        {
+            "location": "/quick_checkout/#version-1002-08072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Version 10.0.2 (08/07/2016)"
+        }, 
+        {
+            "location": "/quick_checkout/#version-1001-20052016", 
+            "text": "Fixed force registration  Fixed minor bugs", 
+            "title": "Version 10.0.1 (20/05/2016)"
+        }, 
+        {
+            "location": "/quick_checkout/#version-1000-03052016", 
+            "text": "Improved feature to disable confirmation page  Improved speed and performance by reducing ajax requests  Improved auto submit feature  Improved loading screen  Improved auto submit targets  Improved overlay design   Improved delivery field and date picker  Improved custom fields integration with OpenCart 2  Added default payment method  Added default shipping method  Added payment logos  Added shipping logos  Added place holder for fields  Added configurable proceed button language  Added minimum and maximum hours for delivery  Fixed minor bugs  Fixed minor layout issue  Removed loading gif from OC 1.5 release", 
+            "title": "Version 10.0.0 (03/05/2016)"
+        }, 
+        {
+            "location": "/quick_checkout/#version-950-08042016", 
+            "text": "Added custom CSS field  Added analytics tab  Added feature to remove confirmation page  Added auto submit target field  Added new overlay module loading feature  Fixed blank option for payment method", 
+            "title": "Version 9.5.0 (08/04/2016)"
+        }, 
+        {
+            "location": "/quick_checkout/#version-945-04032016", 
+            "text": "Fixed compatibility with OpenCart 2.2.0.0  Last release for OpenCart 1.5.1.x and OpenCart 1.5.2.x", 
+            "title": "Version 9.4.5 (04/03/2016)"
+        }, 
+        {
+            "location": "/quick_checkout/#version-944-20012016", 
+            "text": "Fixed minimum order cart validation  Improved three columns layout design", 
+            "title": "Version 9.4.4 (20/01/2016)"
+        }, 
+        {
+            "location": "/quick_checkout/#version-943-23122015", 
+            "text": "Fixed issue with payment address refreshing shipping methods", 
+            "title": "Version 9.4.3 (23/12/2015)"
+        }, 
+        {
+            "location": "/quick_checkout/#version-942-06122015", 
+            "text": "Fixed order comments tag  Fixed issue with shipping address not saving on OC 1.5.x", 
+            "title": "Version 9.4.2 (06/12/2015)"
+        }, 
+        {
+            "location": "/quick_checkout/#version-941-04122015", 
+            "text": "Fixed fatal bug on OC 1.5.3.x to OC 1.5.6.x caused by v9.4.0  Fixed minor bug OC 2.1.0.x", 
+            "title": "Version 9.4.1 (04/12/2015)"
         }
     ]
 }
