@@ -36,6 +36,12 @@
     </url>
         
     <url>
+     <loc>/option_image/</loc>
+     <lastmod>2017-10-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
      <loc>/quick_checkout/</loc>
      <lastmod>2017-10-25</lastmod>
      <changefreq>daily</changefreq>
