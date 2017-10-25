@@ -49,11 +49,15 @@ Dependent Options allows you to display certain options or option values depende
 
 1. Proceed to `Catalog >> Products >> Edit Product >> Options Tab` to setup the option value dependencies.
 
-2. Parent options can only be `select` type options, and each option can only have one parent.
+2. Parent options must be a `select` type option, and each option can only have one parent.
 
 3. Select the linked parent option values accordingly. Hold the `shift` key on your keyboard to select multiple option values.
 
+	![Screenshot](images/dependent_options/image-1.png)
+
 4. The setup dependencies should now show / hide accordingly on the store front.
+
+	![Screenshot](images/dependent_options/image-2.png)
 
 ## Change Log
 
