@@ -56,37 +56,49 @@ Four versions included in one extension:
 
 1. `select` type options only
 
-Colour Picker uses `select` type options only. Please add images to the option values in `Catalog >> Options >> Edit Options`. The image added here will be used for the small option thumbnail on the store front.
+	Colour Picker uses `select` type options only. Please add images to the option values in `Catalog >> Options >> Edit Options`. The image added here will be used for the small option thumbnail on the store front.
+
+	![Screenshot](images/colour_picker/image-1.png)
 
 2. Enable option for Colour Picker use.
 
-Proceed to `Extensions >> Extensions` and select `Modules`. Then, edit `Colour Picker` and select the options you wish to enable for Colour Picker use.
+	Proceed to `Extensions >> Extensions` and select `Modules`. Then, edit `Colour Picker` and select the options you wish to enable for Colour Picker use.
+
+	![Screenshot](images/colour_picker/image-2.png)
 
 3. Configure Product
 
-Proceed to `Catalog >> Products >> Edit Product >> Options Tab` and add the options to the product. Set the option value image here if you are using Colour Picker Plus or Colour Picker Dependent Plus.
+	Proceed to `Catalog >> Products >> Edit Product >> Options Tab` and add the options to the product. Set the option value image here if you are using Colour Picker Plus or Colour Picker Dependent Plus.
+
+	![Screenshot](images/colour_picker/image-4.png)
 
 4. Configure Option Value Dependency
 
-If you are using Colour Picker Dependent or Colour Picker Dependent Plus, proceed to `Catalog >> Products >> Edit Product >> Options Tab` and configure the dependency for the option values here.
+	If you are using Colour Picker Dependent or Colour Picker Dependent Plus, proceed to `Catalog >> Products >> Edit Product >> Options Tab` and configure the dependency for the option values here.
 
 ### OpenCart 1.5 & 2
 
 1. `select` type options only
 
-Colour Picker uses `select` type options only. Please add images to the option values in `Catalog >> Options >> Edit Options`. The image added here will be used for the small option thumbnail on the store front.
+	Colour Picker uses `select` type options only. Please add images to the option values in `Catalog >> Options >> Edit Options`. The image added here will be used for the small option thumbnail on the store front.
+
+	![Screenshot](images/colour_picker/image-1.png)
 
 2. Enable option for Colour Picker use.
 
-Proceed to `Extensions >> Extensions` and select `Modules`. Then, edit `Colour Picker` and enter the names of the options you wish to enable for Colour Picker use. E.g. (colour,size,color).
+	Proceed to `Extensions >> Extensions` and select `Modules`. Then, edit `Colour Picker` and enter the names of the options you wish to enable for Colour Picker use. E.g. (colour,size,color).
+
+	![Screenshot](images/colour_picker/image-3.png)
 
 3. Configure Product
 
-Proceed to `Catalog >> Products >> Edit Product >> Options Tab` and add the options to the product. Set the option value image here if you are using Colour Picker Plus or Colour Picker Dependent Plus.
+	Proceed to `Catalog >> Products >> Edit Product >> Options Tab` and add the options to the product. Set the option value image here if you are using Colour Picker Plus or Colour Picker Dependent Plus.
+
+	![Screenshot](images/colour_picker/image-4.png)
 
 4. Configure Option Value Dependency
 
-If you are using Colour Picker Dependent or Colour Picker Dependent Plus, proceed to `Catalog >> Products >> Edit Product >> Options Tab` and configure the dependency for the option values here.
+	If you are using Colour Picker Dependent or Colour Picker Dependent Plus, proceed to `Catalog >> Products >> Edit Product >> Options Tab` and configure the dependency for the option values here.
 
 ## Change Log
 
