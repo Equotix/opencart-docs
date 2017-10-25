@@ -3,8 +3,7 @@
 * Current Version: 5.0.0
 * Last Updated: 04 July 2017
 * License: [Commercial License][1]
-* Compatibility:
-OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x
+* Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x
 
 
 [1]: https://www.marketinsg.com/usage-license
@@ -61,7 +60,7 @@ Four versions included in one extension:
 
 	![Screenshot](images/colour_picker/image-1.png)
 
-2. Enable option for Colour Picker use.
+2. Enable option for Colour Picker use
 
 	Proceed to `Extensions >> Extensions` and select `Modules`. Then, edit `Colour Picker` and select the options you wish to enable for Colour Picker use.
 

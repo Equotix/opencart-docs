@@ -3,8 +3,7 @@
 * Current Version: 2.0.0
 * Last Updated: 28 June 2017
 * License: [Commercial License][1]
-* Compatibility:
-OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x
+* Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x
 
 
 [1]: https://www.marketinsg.com/usage-license
@@ -47,15 +46,23 @@ Dependent Options allows you to display certain options or option values depende
 
 ### OpenCart 1.5, 2, 3 & Cloud
 
-1. Proceed to `Catalog >> Products >> Edit Product >> Options Tab` to setup the option value dependencies.
+1. Adding Options to Products
 
-2. Parent options must be a `select` type option, and each option can only have one parent.
+	Proceed to `Catalog >> Products >> Edit Product >> Options Tab` to setup the options for the products.
 
-3. Select the linked parent option values accordingly. Hold the `shift` key on your keyboard to select multiple option values.
+2. Setting Options Parent
+
+	Parent options must be a `select` type option, and each option can only have one parent.
+
+3. Setting Dependent Values
+
+	Select the linked parent option values accordingly. Hold the `shift` key on your keyboard to select multiple option values.
 
 	![Screenshot](images/dependent_options/image-1.png)
 
-4. The setup dependencies should now show / hide accordingly on the store front.
+4. Store Front Display
+
+	The dependencies setup for the product options should now show / hide accordingly on the store front.
 
 	![Screenshot](images/dependent_options/image-2.png)
 

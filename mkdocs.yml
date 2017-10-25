@@ -5,6 +5,7 @@ pages:
         - Auto Reward Points: 'auto_reward_points.md'
         - Colour Picker: 'colour_picker.md'
         - Dependent Options: 'dependent_options.md'
+        - Option Image: 'option_image.md'
         - Quick Checkout: 'quick_checkout.md'
 site_name: MarketInSG Documentations
 site_description: MarketInSG product documentations - OpenCart extensions Singapore.
