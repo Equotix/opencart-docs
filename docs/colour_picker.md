@@ -14,6 +14,7 @@ OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x
 Having a user friendly interface brings you more sales. Colour Picker allows your customers to easily view all the option variations you have, displayed in small thumbnails. Parent-child relationship options can also be setup with our Colour Picker Dependent Plus feature.
 
 Four versions included in one extension:
+
 * Colour Picker
 * Colour Picker Plus
 * Colour Picker Dependent
@@ -52,7 +53,7 @@ Four versions included in one extension:
 
 ## Configurations
 
-### OpenCart 3
+### OpenCart 3 & Cloud
 
 1. `select` type options only
 

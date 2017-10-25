@@ -44,6 +44,8 @@ Add to Cart Notification displays a popup notification when your customers add a
 
 ## Configurations
 
+### OpenCart 1.5, 2, 3 & Cloud
+
 There are no configurations required for Add to Cart Notification. Head over to your store front and add an item to cart, you should now see the Add to Cart Notification popup as per below.
 
 ![Screenshot](images/add_to_cart_notification/image-1.png)

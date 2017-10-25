@@ -4,6 +4,7 @@ pages:
         - Add to Cart Notification: 'add_to_cart_notification.md'
         - Auto Reward Points: 'auto_reward_points.md'
         - Colour Picker: 'colour_picker.md'
+        - Dependent Options: 'dependent_options.md'
         - Quick Checkout: 'quick_checkout.md'
 site_name: MarketInSG Documentations
 site_description: MarketInSG product documentations - OpenCart extensions Singapore.

@@ -44,7 +44,7 @@ OpenCart does not automatically add reward points for completed orders. Are you 
 
 ## Configurations
 
-### OpenCart 2 & 3
+### OpenCart 2, 3 & Cloud
 
 1. Complete Order Status Configuration
 
