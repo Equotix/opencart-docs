@@ -22,7 +22,7 @@
         }, 
         {
             "location": "/add_to_cart_notification/", 
-            "text": "Add to Cart Notification\n\n\n\n\nCurrent Version: 2.0.0\n\n\nLast Updated: 23 June 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility:\nOpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nAdd to Cart Notification displays a popup notification when your customers add a product to their shopping cart. It also allows your customers to easily proceed to the checkout from the popup notification.\n\n\nFeatures\n\n\n\n\nNice and responsive \u2018add to cart\u2019 notification\n\n\nProceed to checkout button\n\n\nContinue with shopping button\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nAdd to Cart Notification\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPopup notification will now show up when a product is added.\n\n\n\n\nOpenCart 2 \n 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nAdd to Cart Notification\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPopup notification will now show up when a product is added.\n\n\n\n\nOpenCart 1.5\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nAdd to Cart Notification\n. Configure extension accordingly.\n\n\nPopup notification will now show up when a product is added.\n\n\n\n\nConfigurations\n\n\nThere are no configurations required for Add to Cart Notification. Head over to your store front and add an item to cart, you should now see the Add to Cart Notification popup as per below.\n\n\n\n\nChange Log\n\n\nVersion 2.0.0 (23/06/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nAdded installer package for OpenCart 2 release\n\n\nAdded language file for easier translation\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 1.1.4 (08/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 1.1.3 (31/03/2016)\n\n\n\n\nAdded proper classes for buttons on OpenCart 2.2.0.0\n\n\n\n\nVersion 1.1.2 (04/03/2016)\n\n\n\n\nImproved licensing system\n\n\nChecked with compatibility with OpenCart 2.2.0.0\n\n\n\n\nVersion 1.1.1 (24/02/2016)\n\n\n\n\nFixed issue with automated installation\n\n\n\n\nVersion 1.1.0 (25/01/2016)\n\n\n\n\nAdded automated extension installation\n\n\n\n\nVersion 1.0.4 (02/04/2015)\n\n\n\n\nFixed compatibility with OpenCart 2.0.2.0\n\n\n\n\nVersion 1.0.3 (14/03/2015)\n\n\n\n\nImproved compatibility with mobile devices\n\n\nImproved placing of popup box\n\n\n\n\nVersion 1.0.2 (07/10/2014)\n\n\n\n\nFixed compatibility with OpenCart 2.0.0.0\n\n\n\n\nVersion 1.0.1 (27/05/2014)\n\n\n\n\nFixed minor bugs\n\n\n\n\nVersion 1.0.0 (28/03/2014)\n\n\n\n\nModule created", 
+            "text": "Add to Cart Notification\n\n\n\n\nCurrent Version: 2.0.0\n\n\nLast Updated: 23 June 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility:\nOpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nAdd to Cart Notification displays a popup notification when your customers add a product to their shopping cart. It also allows your customers to easily proceed to the checkout from the popup notification.\n\n\nFeatures\n\n\n\n\nNice and responsive \u2018add to cart\u2019 notification\n\n\nProceed to checkout button\n\n\nContinue with shopping button\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nAdd to Cart Notification\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPopup notification will now show up when a product is added.\n\n\n\n\nOpenCart 2 \n 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nAdd to Cart Notification\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPopup notification will now show up when a product is added.\n\n\n\n\nOpenCart 1.5\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nAdd to Cart Notification\n. Configure extension accordingly.\n\n\nPopup notification will now show up when a product is added.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\nThere are no configurations required for Add to Cart Notification. Head over to your store front and add an item to cart, you should now see the Add to Cart Notification popup as per below.\n\n\n\n\nChange Log\n\n\nVersion 2.0.0 (23/06/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nAdded installer package for OpenCart 2 release\n\n\nAdded language file for easier translation\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 1.1.4 (08/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 1.1.3 (31/03/2016)\n\n\n\n\nAdded proper classes for buttons on OpenCart 2.2.0.0\n\n\n\n\nVersion 1.1.2 (04/03/2016)\n\n\n\n\nImproved licensing system\n\n\nChecked with compatibility with OpenCart 2.2.0.0\n\n\n\n\nVersion 1.1.1 (24/02/2016)\n\n\n\n\nFixed issue with automated installation\n\n\n\n\nVersion 1.1.0 (25/01/2016)\n\n\n\n\nAdded automated extension installation\n\n\n\n\nVersion 1.0.4 (02/04/2015)\n\n\n\n\nFixed compatibility with OpenCart 2.0.2.0\n\n\n\n\nVersion 1.0.3 (14/03/2015)\n\n\n\n\nImproved compatibility with mobile devices\n\n\nImproved placing of popup box\n\n\n\n\nVersion 1.0.2 (07/10/2014)\n\n\n\n\nFixed compatibility with OpenCart 2.0.0.0\n\n\n\n\nVersion 1.0.1 (27/05/2014)\n\n\n\n\nFixed minor bugs\n\n\n\n\nVersion 1.0.0 (28/03/2014)\n\n\n\n\nModule created", 
             "title": "Add to Cart Notification"
         }, 
         {
@@ -62,8 +62,13 @@
         }, 
         {
             "location": "/add_to_cart_notification/#configurations", 
-            "text": "There are no configurations required for Add to Cart Notification. Head over to your store front and add an item to cart, you should now see the Add to Cart Notification popup as per below.", 
+            "text": "", 
             "title": "Configurations"
+        }, 
+        {
+            "location": "/add_to_cart_notification/#opencart-15-2-3-cloud", 
+            "text": "There are no configurations required for Add to Cart Notification. Head over to your store front and add an item to cart, you should now see the Add to Cart Notification popup as per below.", 
+            "title": "OpenCart 1.5, 2, 3 &amp; Cloud"
         }, 
         {
             "location": "/add_to_cart_notification/#change-log", 
@@ -127,7 +132,7 @@
         }, 
         {
             "location": "/auto_reward_points/", 
-            "text": "Auto Reward Points\n\n\n\n\nCurrent Version: 2.0.0\n\n\nLast Updated: 24 June 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility:\nOpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nOpenCart does not automatically add reward points for completed orders. Are you tired of manually doing so? This extension will handle it for you! The system will automatically add reward points for completed orders based on the points OpenCart has calculated. As simple as that, let automation ease your daily workload!\n\n\nFeatures\n\n\n\n\nAutomatically add reward points for completed orders\n\n\n100% new files\n\n\nSimple installation with installer available\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nAuto Reward Points\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 2 \n 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nAuto Reward Points\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nAuto Reward Points\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 2 \n 3\n\n\n\n\nComplete Order Status Configuration\n\n\n\n\nYou can configure the order complete status in \nSystem \n Settings \n Edit Store \n Options Tab\n. Upon changing to any of the configured complete order statuses, reward points will be automatically given to the registered customer.\n\n\n\n\nOpenCart 1.5\n\n\n\n\nComplete Order Status Configuration\n\n\n\n\nYou can configure the order complete status in \nSystem \n Settings \n Edit Store \n Options Tab\n. Upon changing to the configured complete order status, reward points will be automatically given to the registered customer.\n\n\n\n\nChange Log\n\n\nVersion 2.0.0 (24/06/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\n\n\nVersion 1.1.3 (08/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 1.1.2 (04/03/2016)\n\n\n\n\nImproved code quality\n\n\n\n\nVersion 1.1.1 (24/02/2016)\n\n\n\n\nFixed issue with installation\n\n\n\n\nVersion 1.1.0 (25/01/2016)\n\n\n\n\nImproved installation method\n\n\n\n\nVersion 1.0.1 (09/03/2015)\n\n\n\n\nFixed points being added to guest\n\n\n\n\nVersion 1.0.0 (21/02/2015)\n\n\n\n\nExtension created", 
+            "text": "Auto Reward Points\n\n\n\n\nCurrent Version: 2.0.0\n\n\nLast Updated: 24 June 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility:\nOpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nOpenCart does not automatically add reward points for completed orders. Are you tired of manually doing so? This extension will handle it for you! The system will automatically add reward points for completed orders based on the points OpenCart has calculated. As simple as that, let automation ease your daily workload!\n\n\nFeatures\n\n\n\n\nAutomatically add reward points for completed orders\n\n\n100% new files\n\n\nSimple installation with installer available\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nAuto Reward Points\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 2 \n 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nAuto Reward Points\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nAuto Reward Points\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 2, 3 \n Cloud\n\n\n\n\nComplete Order Status Configuration\n\n\n\n\nYou can configure the order complete status in \nSystem \n Settings \n Edit Store \n Options Tab\n. Upon changing to any of the configured complete order statuses, reward points will be automatically given to the registered customer.\n\n\n\n\nOpenCart 1.5\n\n\n\n\nComplete Order Status Configuration\n\n\n\n\nYou can configure the order complete status in \nSystem \n Settings \n Edit Store \n Options Tab\n. Upon changing to the configured complete order status, reward points will be automatically given to the registered customer.\n\n\n\n\nChange Log\n\n\nVersion 2.0.0 (24/06/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\n\n\nVersion 1.1.3 (08/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 1.1.2 (04/03/2016)\n\n\n\n\nImproved code quality\n\n\n\n\nVersion 1.1.1 (24/02/2016)\n\n\n\n\nFixed issue with installation\n\n\n\n\nVersion 1.1.0 (25/01/2016)\n\n\n\n\nImproved installation method\n\n\n\n\nVersion 1.0.1 (09/03/2015)\n\n\n\n\nFixed points being added to guest\n\n\n\n\nVersion 1.0.0 (21/02/2015)\n\n\n\n\nExtension created", 
             "title": "Auto Reward Points"
         }, 
         {
@@ -171,9 +176,9 @@
             "title": "Configurations"
         }, 
         {
-            "location": "/auto_reward_points/#opencart-2-3_1", 
+            "location": "/auto_reward_points/#opencart-2-3-cloud", 
             "text": "Complete Order Status Configuration   You can configure the order complete status in  System   Settings   Edit Store   Options Tab . Upon changing to any of the configured complete order statuses, reward points will be automatically given to the registered customer.", 
-            "title": "OpenCart 2 &amp; 3"
+            "title": "OpenCart 2, 3 &amp; Cloud"
         }, 
         {
             "location": "/auto_reward_points/#opencart-15_1", 
@@ -222,7 +227,7 @@
         }, 
         {
             "location": "/colour_picker/", 
-            "text": "Colour Picker\n\n\n\n\nCurrent Version: 5.0.0\n\n\nLast Updated: 04 July 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility:\nOpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nHaving a user friendly interface brings you more sales. Colour Picker allows your customers to easily view all the option variations you have, displayed in small thumbnails. Parent-child relationship options can also be setup with our Colour Picker Dependent Plus feature.\n\n\nFour versions included in one extension:\n\n Colour Picker\n\n Colour Picker Plus\n\n Colour Picker Dependent\n\n Colour Picker Dependent Plus\n\n\nFeatures\n\n\n\n\nAdd images to product options\n\n\nMain image changes upon colour selection\n\n\nOpenCart multi language supported\n\n\nChanges shopping cart image according to option selected (Colour Picker Plus and Colour Dependent Plus only)\n\n\nAllows dependent options selection (Colour Picker Dependent and Colour Picker Dependent Plus only)\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nColour Picker\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nColour Picker\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nColour Picker\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 3\n\n\n\n\n\n\nselect\n type options only\n\n\nColour Picker uses \nselect\n type options only. Please add images to the option values in \nCatalog \n Options \n Edit Options\n. The image added here will be used for the small option thumbnail on the store front.\n\n\n\n\n\n\n\n\nEnable option for Colour Picker use.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, edit \nColour Picker\n and select the options you wish to enable for Colour Picker use.\n\n\n\n\n\n\n\n\nConfigure Product\n\n\nProceed to \nCatalog \n Products \n Edit Product \n Options Tab\n and add the options to the product. Set the option value image here if you are using Colour Picker Plus or Colour Picker Dependent Plus.\n\n\n\n\n\n\n\n\nConfigure Option Value Dependency\n\n\nIf you are using Colour Picker Dependent or Colour Picker Dependent Plus, proceed to \nCatalog \n Products \n Edit Product \n Options Tab\n and configure the dependency for the option values here.\n\n\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\n\n\nselect\n type options only\n\n\nColour Picker uses \nselect\n type options only. Please add images to the option values in \nCatalog \n Options \n Edit Options\n. The image added here will be used for the small option thumbnail on the store front.\n\n\n\n\n\n\n\n\nEnable option for Colour Picker use.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, edit \nColour Picker\n and enter the names of the options you wish to enable for Colour Picker use. E.g. (colour,size,color).\n\n\n\n\n\n\n\n\nConfigure Product\n\n\nProceed to \nCatalog \n Products \n Edit Product \n Options Tab\n and add the options to the product. Set the option value image here if you are using Colour Picker Plus or Colour Picker Dependent Plus.\n\n\n\n\n\n\n\n\nConfigure Option Value Dependency\n\n\nIf you are using Colour Picker Dependent or Colour Picker Dependent Plus, proceed to \nCatalog \n Products \n Edit Product \n Options Tab\n and configure the dependency for the option values here.\n\n\n\n\n\n\nChange Log\n\n\nVersion 5.0.0 (04/07/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 4.1.9 (02/02/2017)\n\n\n\n\nFixed minor bugs with OpenCart 2.2.0.0 and above releases\n\n\n\n\nVersion 4.1.8 (19/08/2016)\n\n\n\n\nFixed minor bugs with OpenCart 2.3.0.0 release\n\n\n\n\nVersion 4.1.7 (08/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 4.1.6 (07/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\nFixed issues caused by previous release\n\n\n\n\nVersion 4.1.5 (04/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\nRemoved repetitive codes in Colour Picker Plus\n\n\n\n\nVersion 4.1.4 (15/02/2016)\n\n\n\n\nFixed wrong line height CSS added previously\n\n\nImproved search expressions for better compatibility\n\n\n\n\nVersion 4.1.3 (04/01/2016)\n\n\n\n\nFixed missing files for OpenCart 1.5.x release", 
+            "text": "Colour Picker\n\n\n\n\nCurrent Version: 5.0.0\n\n\nLast Updated: 04 July 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility:\nOpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nHaving a user friendly interface brings you more sales. Colour Picker allows your customers to easily view all the option variations you have, displayed in small thumbnails. Parent-child relationship options can also be setup with our Colour Picker Dependent Plus feature.\n\n\nFour versions included in one extension:\n\n\n\n\nColour Picker\n\n\nColour Picker Plus\n\n\nColour Picker Dependent\n\n\nColour Picker Dependent Plus\n\n\n\n\nFeatures\n\n\n\n\nAdd images to product options\n\n\nMain image changes upon colour selection\n\n\nOpenCart multi language supported\n\n\nChanges shopping cart image according to option selected (Colour Picker Plus and Colour Dependent Plus only)\n\n\nAllows dependent options selection (Colour Picker Dependent and Colour Picker Dependent Plus only)\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nColour Picker\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nColour Picker\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nColour Picker\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 3 \n Cloud\n\n\n\n\n\n\nselect\n type options only\n\n\nColour Picker uses \nselect\n type options only. Please add images to the option values in \nCatalog \n Options \n Edit Options\n. The image added here will be used for the small option thumbnail on the store front.\n\n\n\n\n\n\n\n\nEnable option for Colour Picker use.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, edit \nColour Picker\n and select the options you wish to enable for Colour Picker use.\n\n\n\n\n\n\n\n\nConfigure Product\n\n\nProceed to \nCatalog \n Products \n Edit Product \n Options Tab\n and add the options to the product. Set the option value image here if you are using Colour Picker Plus or Colour Picker Dependent Plus.\n\n\n\n\n\n\n\n\nConfigure Option Value Dependency\n\n\nIf you are using Colour Picker Dependent or Colour Picker Dependent Plus, proceed to \nCatalog \n Products \n Edit Product \n Options Tab\n and configure the dependency for the option values here.\n\n\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\n\n\nselect\n type options only\n\n\nColour Picker uses \nselect\n type options only. Please add images to the option values in \nCatalog \n Options \n Edit Options\n. The image added here will be used for the small option thumbnail on the store front.\n\n\n\n\n\n\n\n\nEnable option for Colour Picker use.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, edit \nColour Picker\n and enter the names of the options you wish to enable for Colour Picker use. E.g. (colour,size,color).\n\n\n\n\n\n\n\n\nConfigure Product\n\n\nProceed to \nCatalog \n Products \n Edit Product \n Options Tab\n and add the options to the product. Set the option value image here if you are using Colour Picker Plus or Colour Picker Dependent Plus.\n\n\n\n\n\n\n\n\nConfigure Option Value Dependency\n\n\nIf you are using Colour Picker Dependent or Colour Picker Dependent Plus, proceed to \nCatalog \n Products \n Edit Product \n Options Tab\n and configure the dependency for the option values here.\n\n\n\n\n\n\nChange Log\n\n\nVersion 5.0.0 (04/07/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 4.1.9 (02/02/2017)\n\n\n\n\nFixed minor bugs with OpenCart 2.2.0.0 and above releases\n\n\n\n\nVersion 4.1.8 (19/08/2016)\n\n\n\n\nFixed minor bugs with OpenCart 2.3.0.0 release\n\n\n\n\nVersion 4.1.7 (08/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 4.1.6 (07/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\nFixed issues caused by previous release\n\n\n\n\nVersion 4.1.5 (04/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\nRemoved repetitive codes in Colour Picker Plus\n\n\n\n\nVersion 4.1.4 (15/02/2016)\n\n\n\n\nFixed wrong line height CSS added previously\n\n\nImproved search expressions for better compatibility\n\n\n\n\nVersion 4.1.3 (04/01/2016)\n\n\n\n\nFixed missing files for OpenCart 1.5.x release", 
             "title": "Colour Picker"
         }, 
         {
@@ -232,7 +237,7 @@
         }, 
         {
             "location": "/colour_picker/#description", 
-            "text": "Having a user friendly interface brings you more sales. Colour Picker allows your customers to easily view all the option variations you have, displayed in small thumbnails. Parent-child relationship options can also be setup with our Colour Picker Dependent Plus feature.  Four versions included in one extension:  Colour Picker  Colour Picker Plus  Colour Picker Dependent  Colour Picker Dependent Plus", 
+            "text": "Having a user friendly interface brings you more sales. Colour Picker allows your customers to easily view all the option variations you have, displayed in small thumbnails. Parent-child relationship options can also be setup with our Colour Picker Dependent Plus feature.  Four versions included in one extension:   Colour Picker  Colour Picker Plus  Colour Picker Dependent  Colour Picker Dependent Plus", 
             "title": "Description"
         }, 
         {
@@ -266,9 +271,9 @@
             "title": "Configurations"
         }, 
         {
-            "location": "/colour_picker/#opencart-3_1", 
+            "location": "/colour_picker/#opencart-3-cloud", 
             "text": "select  type options only  Colour Picker uses  select  type options only. Please add images to the option values in  Catalog   Options   Edit Options . The image added here will be used for the small option thumbnail on the store front.     Enable option for Colour Picker use.  Proceed to  Extensions   Extensions  and select  Modules . Then, edit  Colour Picker  and select the options you wish to enable for Colour Picker use.     Configure Product  Proceed to  Catalog   Products   Edit Product   Options Tab  and add the options to the product. Set the option value image here if you are using Colour Picker Plus or Colour Picker Dependent Plus.     Configure Option Value Dependency  If you are using Colour Picker Dependent or Colour Picker Dependent Plus, proceed to  Catalog   Products   Edit Product   Options Tab  and configure the dependency for the option values here.", 
-            "title": "OpenCart 3"
+            "title": "OpenCart 3 &amp; Cloud"
         }, 
         {
             "location": "/colour_picker/#opencart-15-2_1", 
@@ -319,6 +324,151 @@
             "location": "/colour_picker/#version-413-04012016", 
             "text": "Fixed missing files for OpenCart 1.5.x release", 
             "title": "Version 4.1.3 (04/01/2016)"
+        }, 
+        {
+            "location": "/dependent_options/", 
+            "text": "Dependent Options\n\n\n\n\nCurrent Version: 2.0.0\n\n\nLast Updated: 28 June 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility:\nOpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nDependent Options allows you to display certain options or option values dependent on the parent options in your products. This allows you to be able to set different conditional option values for your product based on the different selected combination.\n\n\nFeatures\n\n\n\n\nDisplay certain options or option values based on the selected parent value\n\n\nConditional options on products\n\n\nParent option can only be select type\n\n\nWorks for all OpenCart built in option types\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nDependent Options\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nDependent Options\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nDependent Options\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\n\n\n\n\nProceed to \nCatalog \n Products \n Edit Product \n Options Tab\n to setup the option value dependencies.\n\n\n\n\n\n\nParent options can only be \nselect\n type options, and each option can only have one parent.\n\n\n\n\n\n\nSelect the linked parent option values accordingly. Hold the \nshift\n key on your keyboard to select multiple option values.\n\n\n\n\n\n\nThe setup dependencies should now show / hide accordingly on the store front.\n\n\n\n\n\n\nChange Log\n\n\nVersion 2.0.0 (28/06/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 1.6.3 (10/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 1.6.2 (27/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\n\n\nVersion 1.6.1 (07/03/2016)\n\n\n\n\nImproved installation of module\n\n\nFixed text box not clearing values\n\n\n\n\nVersion 1.6.0 (09/12/2015)\n\n\n\n\nFixed text box not clearing values when hidden\n\n\nMoved dependency controller\n\n\n\n\nVersion 1.5.3 (04/07/2015)\n\n\n\n\nFixed minor bugs for OpenCart 2 release\n\n\n\n\nVersion 1.5.2 (21/06/2015)\n\n\n\n\nFixed minor bugs for OpenCart 2 release\n\n\n\n\nVersion 1.5.1 (13/05/2015)\n\n\n\n\nMinor aesthetic improvements in administration panel\n\n\n\n\nVersion 1.5.0 (12/05/2015)\n\n\n\n\nImproved administration interface design\n\n\nAdded licensing system\n\n\n\n\nVersion 1.4.2 (23/04/2015)\n\n\n\n\nFixed compatibility for OpenCart 2.0.2.0 mail\n\n\n\n\nVersion 1.4.1 (14/04/2015)\n\n\n\n\nSupport for OC 2 date and date time field fixed\n\n\n\n\nVersion 1.4.0 (22/01/2015)\n\n\n\n\nAdded support for import/export extension by MarketInSG\n\n\n\n\nVersion 1.3.1 (22/12/2014)\n\n\n\n\nUpdate support Facebook link\n\n\n\n\nVersion 1.3.0 (09/10/2014)\n\n\n\n\nOC 2 compatibility\n\n\n\n\nVersion 1.2.1 (20/08/2014)\n\n\n\n\nBug fixes\n\n\n\n\nVersion 1.2 (29/04/2014)\n\n\n\n\nAllow hidden options to be not required\n\n\nBug fixes\n\n\n\n\nVersion 1.1.0 (16/11/2013)\n\n\n\n\nAllow radio and select and checkbox type to hide fully\n\n\nBug fixes\n\n\n\n\nVersion 1.0.1 (26/09/2013)\n\n\n\n\nBug fixes", 
+            "title": "Dependent Options"
+        }, 
+        {
+            "location": "/dependent_options/#dependent-options", 
+            "text": "Current Version: 2.0.0  Last Updated: 28 June 2017  License:  Commercial License  Compatibility:\nOpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "Dependent Options"
+        }, 
+        {
+            "location": "/dependent_options/#description", 
+            "text": "Dependent Options allows you to display certain options or option values dependent on the parent options in your products. This allows you to be able to set different conditional option values for your product based on the different selected combination.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/dependent_options/#features", 
+            "text": "Display certain options or option values based on the selected parent value  Conditional options on products  Parent option can only be select type  Works for all OpenCart built in option types", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/dependent_options/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/dependent_options/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Dependent Options . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Please view configuration details below.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/dependent_options/#opencart-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Dependent Options . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Please view configuration details below.", 
+            "title": "OpenCart 3"
+        }, 
+        {
+            "location": "/dependent_options/#opencart-15-2", 
+            "text": "Unzip the files. Ensure that vQmod has been installed.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Dependent Options . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 1.5 &amp; 2"
+        }, 
+        {
+            "location": "/dependent_options/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/dependent_options/#opencart-15-2-3-cloud", 
+            "text": "Proceed to  Catalog   Products   Edit Product   Options Tab  to setup the option value dependencies.    Parent options can only be  select  type options, and each option can only have one parent.    Select the linked parent option values accordingly. Hold the  shift  key on your keyboard to select multiple option values.    The setup dependencies should now show / hide accordingly on the store front.", 
+            "title": "OpenCart 1.5, 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/dependent_options/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/dependent_options/#version-200-28062017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Minor improvements and updates  Ceased support for OpenCart 1.5", 
+            "title": "Version 2.0.0 (28/06/2017)"
+        }, 
+        {
+            "location": "/dependent_options/#version-163-10072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Version 1.6.3 (10/07/2016)"
+        }, 
+        {
+            "location": "/dependent_options/#version-162-27032016", 
+            "text": "Fixed compatibility with OpenCart 2.2.0.0", 
+            "title": "Version 1.6.2 (27/03/2016)"
+        }, 
+        {
+            "location": "/dependent_options/#version-161-07032016", 
+            "text": "Improved installation of module  Fixed text box not clearing values", 
+            "title": "Version 1.6.1 (07/03/2016)"
+        }, 
+        {
+            "location": "/dependent_options/#version-160-09122015", 
+            "text": "Fixed text box not clearing values when hidden  Moved dependency controller", 
+            "title": "Version 1.6.0 (09/12/2015)"
+        }, 
+        {
+            "location": "/dependent_options/#version-153-04072015", 
+            "text": "Fixed minor bugs for OpenCart 2 release", 
+            "title": "Version 1.5.3 (04/07/2015)"
+        }, 
+        {
+            "location": "/dependent_options/#version-152-21062015", 
+            "text": "Fixed minor bugs for OpenCart 2 release", 
+            "title": "Version 1.5.2 (21/06/2015)"
+        }, 
+        {
+            "location": "/dependent_options/#version-151-13052015", 
+            "text": "Minor aesthetic improvements in administration panel", 
+            "title": "Version 1.5.1 (13/05/2015)"
+        }, 
+        {
+            "location": "/dependent_options/#version-150-12052015", 
+            "text": "Improved administration interface design  Added licensing system", 
+            "title": "Version 1.5.0 (12/05/2015)"
+        }, 
+        {
+            "location": "/dependent_options/#version-142-23042015", 
+            "text": "Fixed compatibility for OpenCart 2.0.2.0 mail", 
+            "title": "Version 1.4.2 (23/04/2015)"
+        }, 
+        {
+            "location": "/dependent_options/#version-141-14042015", 
+            "text": "Support for OC 2 date and date time field fixed", 
+            "title": "Version 1.4.1 (14/04/2015)"
+        }, 
+        {
+            "location": "/dependent_options/#version-140-22012015", 
+            "text": "Added support for import/export extension by MarketInSG", 
+            "title": "Version 1.4.0 (22/01/2015)"
+        }, 
+        {
+            "location": "/dependent_options/#version-131-22122014", 
+            "text": "Update support Facebook link", 
+            "title": "Version 1.3.1 (22/12/2014)"
+        }, 
+        {
+            "location": "/dependent_options/#version-130-09102014", 
+            "text": "OC 2 compatibility", 
+            "title": "Version 1.3.0 (09/10/2014)"
+        }, 
+        {
+            "location": "/dependent_options/#version-121-20082014", 
+            "text": "Bug fixes", 
+            "title": "Version 1.2.1 (20/08/2014)"
+        }, 
+        {
+            "location": "/dependent_options/#version-12-29042014", 
+            "text": "Allow hidden options to be not required  Bug fixes", 
+            "title": "Version 1.2 (29/04/2014)"
+        }, 
+        {
+            "location": "/dependent_options/#version-110-16112013", 
+            "text": "Allow radio and select and checkbox type to hide fully  Bug fixes", 
+            "title": "Version 1.1.0 (16/11/2013)"
+        }, 
+        {
+            "location": "/dependent_options/#version-101-26092013", 
+            "text": "Bug fixes", 
+            "title": "Version 1.0.1 (26/09/2013)"
         }, 
         {
             "location": "/quick_checkout/", 
