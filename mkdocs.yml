@@ -7,6 +7,7 @@ pages:
         - Dependent Options: 'dependent_options.md'
         - Option Image: 'option_image.md'
         - Quick Checkout: 'quick_checkout.md'
+        - Xero Integration: 'xero_integration.md'
 site_name: MarketInSG Documentations
 site_description: MarketInSG product documentations - OpenCart extensions Singapore.
 copyright: MarketInSG &copy; 2017
