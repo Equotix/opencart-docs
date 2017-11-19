@@ -1,7 +1,7 @@
 # Xero Integration
 
-* Current Version: 4.1.0
-* Last Updated: 05 November 2017
+* Current Version: 4.1.1
+* Last Updated: 19 November 2017
 * License: [Commercial License][1]
 * Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x
 
@@ -191,6 +191,8 @@ Xero Integration allows you to export your OpenCart orders, customers and produc
 
 ## Change Log
 
+### Version 4.1.1 (19/11/2017)
+* Minor bug fixes
 ### Version 4.1.0 (05/11/2017)
 * Added rounding account to handle taxing rounding difference
 * Added debug orders feature to handle order debugging
