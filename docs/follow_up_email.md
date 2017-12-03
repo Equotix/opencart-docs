@@ -1,7 +1,7 @@
 # Follow Up Email
 
-* Current Version: 4.0.0
-* Last Updated: 17 November 2017
+* Current Version: 4.0.1
+* Last Updated: 03 December 2017
 * License: [Commercial License][1]
 * Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x
 
@@ -114,6 +114,8 @@ Following up with your customers after they have made an order is the best custo
 
 ## Change Log
 
+### Version 4.0.1 (03/12/2017)
+* Fixed minor bug for OpenCart 1.5 to OpenCart 2.2.x release
 ### Version 4.0.0 (17/11/2017)
 * Rebuilt of the extension
 * Added ability to have multiple email templates
