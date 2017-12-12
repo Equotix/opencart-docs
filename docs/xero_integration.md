@@ -191,6 +191,8 @@ Xero Integration allows you to export your OpenCart orders, customers and produc
 
 ## Change Log
 
+### Version 4.1.2 (09/12/2017)
+* Minor bug fixes
 ### Version 4.1.1 (19/11/2017)
 * Minor bug fixes
 ### Version 4.1.0 (05/11/2017)

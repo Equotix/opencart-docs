@@ -3,6 +3,7 @@ pages:
     - Products:
         - Add to Cart Notification: 'add_to_cart_notification.md'
         - Auto Reward Points: 'auto_reward_points.md'
+        - Auto Translate: 'auto_translate.md'
         - Colour Picker: 'colour_picker.md'
         - Dependent Options: 'dependent_options.md'
         - Follow Up Email: 'follow_up_email.md'
