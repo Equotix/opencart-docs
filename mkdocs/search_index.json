@@ -226,6 +226,236 @@
             "title": "Version 1.0.0 (21/02/2015)"
         }, 
         {
+            "location": "/auto_translate/", 
+            "text": "Auto Translate\n\n\n\n\nCurrent Version: 2.0.1\n\n\nLast Updated: 09 December 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nTired of manually translating your data in your OpenCart store? Looking for automated translation that\u2019s affordable? Auto Translate will do just the job! Using Microsoft\u2019s translation API, accurate translation is done automatically, right from your administration panel.\n\n\nNote: You will need to sign up with Microsoft to use their translation API. Microsoft has a free tier that supports up to 2 million characters translation per month! Credit card is required to subscribe to Microsoft Azure (your card wouldn\u2019t be charged unless you use more than the free limit). \n\n\nFeatures\n\n\n\n\nAutomatically mass translate your products, categories, information pages etc.\n\n\nAdds quick translate button beside fields that can be translated\n\n\nUses Microsoft Azure translation API\n\n\nTranslate your website to over 40 languages\n\n\nMachine translation, preserves your source styles and formatting in product description\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nAuto Translate\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nEnsure that your server has PHP SOAP installed.\n\n\nYou can now mass translate or translate individual fields on your store.\n\n\nPlease read on below for more information on getting your Microsoft App Key.\n\n\n\n\nOpenCart 2 \n 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nAuto Translate\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nEnsure that your server has PHP SOAP installed.\n\n\nYou can now mass translate or translate individual fields on your store.\n\n\nPlease read on below for more information on getting your Microsoft App Key.\n\n\n\n\nOpenCart 1.5\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nAuto Translate\n. Configure extension accordingly.\n\n\nEnsure that your server has PHP SOAP installed.\n\n\nYou can now mass translate or translate individual fields on your store.\n\n\nPlease read on below for more information on getting your Microsoft App Key.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\n\n\n\n\nSign up with Microsoft Azure\n\n\nIf you do not have a Microsoft Azure account, sign up at \nhttp://azure.com/\n. If you do, login at \nhttp://portal.azure.com/\n.\n\n\n\n\n\n\nCreating a New Application\n\n\na. After logging in, you should see the dashboard. Click 'New' in the menu.\n\n\n\n\nb. Search for \u2018Cognitive Services APIs\u2019 and select it.\n\n\n\n\n\n\nc. Click \u2018Create\u2019 to proceed with creating the application.\n\n\n\n\nd. If you do not have a subscription, you will need to sign up for an Azure subscription. Select \u2018free trial\u2019 if it\u2019s available to you. Proceed to fill in your personal particulars and card details for Microsoft to activate your subscription.\n\n\n\n\n\n\ne. Once done with the subscription, continue with creating the application. Ensure you setup correctly, and select \u2018Translator Text API\u2019.\n\n\n\n\n\n\n\n\nGetting Your Key\n\n\nOnce the application has been created, click to enter the application console. Then, select \u2018Keys\u2019 menu to retrieve your key. Copy Key 1 to the Auto Translate extension in your OpenCart store to begin.\n\n\n\n\n\n\n\n\n\n\nChange Log\n\n\nVersion 2.0.1 (09/12/2017)\n\n\n\n\nFixed minor bugs with OpenCart 3 release\n\n\n\n\nVersion 2.0.0 (24/06/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\n\n\nVersion 1.6.0 (12/01/2017)\n\n\n\n\nUpgraded API to use Microsoft Azure new API\n\n\n\n\nVersion 1.5.2 (10/10/2016)\n\n\n\n\nFixed compatibility with new summernote editor\n\n\n\n\nVersion 1.5.1 (08/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 1.5.0 (04/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.0.0.0\n\n\nAdded translation for meta titles for products, categories and information pages\n\n\nAdded translation for meta description and meta keywords for information pages\n\n\n\n\nVersion 1.4.3 (22/02/2016)\n\n\n\n\nFixed text editor descriptions not decoding before being sent\n\n\n\n\nVersion 1.4.2 (21/02/2016)\n\n\n\n\nImprovements made to remove repetitive codes\n\n\nBetter handling of long product descriptions\n\n\n\n\nVersion 1.4.1 (11/12/2015)\n\n\n\n\nFixed critical bug fix caused by version 1.4.0\n\n\n\n\nVersion 1.4.0 (09/12/2015)\n\n\n\n\nAdded support for continuing mass translate from a certain point\n\n\nAdded new design for OC 1.5\n\n\n\n\nVersion 1.3.0 (25/10/2015)\n\n\n\n\nChanged system to use SOAP instead to support up to 10,000 characters\n\n\nAdded support for product attributes\n\n\n\n\nVersion 1.2.1 (19/05/2015)\n\n\n\n\nMinor bug fixes\n\n\n\n\nVersion 1.2.0 (15/05/2015)\n\n\n\n\nMinor bug fixes\n\n\nAdmin aesthetic improvements\n\n\n\n\nVersion 1.1.1 (23/04/2015)\n\n\n\n\nOC 2.0.2.0 mail support compatibility fix\n\n\n\n\nVersion 1.1.0 (10/04/2015)\n\n\n\n\nAdded mass translate for options and attributes\n\n\nBug fixes\n\n\n\n\nVersion 1.0.0 (04/03/2015)\n\n\n\n\nExtension created", 
+            "title": "Auto Translate"
+        }, 
+        {
+            "location": "/auto_translate/#auto-translate", 
+            "text": "Current Version: 2.0.1  Last Updated: 09 December 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "Auto Translate"
+        }, 
+        {
+            "location": "/auto_translate/#description", 
+            "text": "Tired of manually translating your data in your OpenCart store? Looking for automated translation that\u2019s affordable? Auto Translate will do just the job! Using Microsoft\u2019s translation API, accurate translation is done automatically, right from your administration panel.  Note: You will need to sign up with Microsoft to use their translation API. Microsoft has a free tier that supports up to 2 million characters translation per month! Credit card is required to subscribe to Microsoft Azure (your card wouldn\u2019t be charged unless you use more than the free limit).", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/auto_translate/#features", 
+            "text": "Automatically mass translate your products, categories, information pages etc.  Adds quick translate button beside fields that can be translated  Uses Microsoft Azure translation API  Translate your website to over 40 languages  Machine translation, preserves your source styles and formatting in product description", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/auto_translate/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/auto_translate/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Auto Translate . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Ensure that your server has PHP SOAP installed.  You can now mass translate or translate individual fields on your store.  Please read on below for more information on getting your Microsoft App Key.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/auto_translate/#opencart-2-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Auto Translate . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Ensure that your server has PHP SOAP installed.  You can now mass translate or translate individual fields on your store.  Please read on below for more information on getting your Microsoft App Key.", 
+            "title": "OpenCart 2 &amp; 3"
+        }, 
+        {
+            "location": "/auto_translate/#opencart-15", 
+            "text": "Unzip the files. Ensure that vQmod has been installed.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Auto Translate . Configure extension accordingly.  Ensure that your server has PHP SOAP installed.  You can now mass translate or translate individual fields on your store.  Please read on below for more information on getting your Microsoft App Key.", 
+            "title": "OpenCart 1.5"
+        }, 
+        {
+            "location": "/auto_translate/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/auto_translate/#opencart-15-2-3-cloud", 
+            "text": "Sign up with Microsoft Azure  If you do not have a Microsoft Azure account, sign up at  http://azure.com/ . If you do, login at  http://portal.azure.com/ .    Creating a New Application  a. After logging in, you should see the dashboard. Click 'New' in the menu.   b. Search for \u2018Cognitive Services APIs\u2019 and select it.    c. Click \u2018Create\u2019 to proceed with creating the application.   d. If you do not have a subscription, you will need to sign up for an Azure subscription. Select \u2018free trial\u2019 if it\u2019s available to you. Proceed to fill in your personal particulars and card details for Microsoft to activate your subscription.    e. Once done with the subscription, continue with creating the application. Ensure you setup correctly, and select \u2018Translator Text API\u2019.     Getting Your Key  Once the application has been created, click to enter the application console. Then, select \u2018Keys\u2019 menu to retrieve your key. Copy Key 1 to the Auto Translate extension in your OpenCart store to begin.", 
+            "title": "OpenCart 1.5, 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/auto_translate/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/auto_translate/#version-201-09122017", 
+            "text": "Fixed minor bugs with OpenCart 3 release", 
+            "title": "Version 2.0.1 (09/12/2017)"
+        }, 
+        {
+            "location": "/auto_translate/#version-200-24062017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0", 
+            "title": "Version 2.0.0 (24/06/2017)"
+        }, 
+        {
+            "location": "/auto_translate/#version-160-12012017", 
+            "text": "Upgraded API to use Microsoft Azure new API", 
+            "title": "Version 1.6.0 (12/01/2017)"
+        }, 
+        {
+            "location": "/auto_translate/#version-152-10102016", 
+            "text": "Fixed compatibility with new summernote editor", 
+            "title": "Version 1.5.2 (10/10/2016)"
+        }, 
+        {
+            "location": "/auto_translate/#version-151-08072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Version 1.5.1 (08/07/2016)"
+        }, 
+        {
+            "location": "/auto_translate/#version-150-04032016", 
+            "text": "Fixed compatibility with OpenCart 2.0.0.0  Added translation for meta titles for products, categories and information pages  Added translation for meta description and meta keywords for information pages", 
+            "title": "Version 1.5.0 (04/03/2016)"
+        }, 
+        {
+            "location": "/auto_translate/#version-143-22022016", 
+            "text": "Fixed text editor descriptions not decoding before being sent", 
+            "title": "Version 1.4.3 (22/02/2016)"
+        }, 
+        {
+            "location": "/auto_translate/#version-142-21022016", 
+            "text": "Improvements made to remove repetitive codes  Better handling of long product descriptions", 
+            "title": "Version 1.4.2 (21/02/2016)"
+        }, 
+        {
+            "location": "/auto_translate/#version-141-11122015", 
+            "text": "Fixed critical bug fix caused by version 1.4.0", 
+            "title": "Version 1.4.1 (11/12/2015)"
+        }, 
+        {
+            "location": "/auto_translate/#version-140-09122015", 
+            "text": "Added support for continuing mass translate from a certain point  Added new design for OC 1.5", 
+            "title": "Version 1.4.0 (09/12/2015)"
+        }, 
+        {
+            "location": "/auto_translate/#version-130-25102015", 
+            "text": "Changed system to use SOAP instead to support up to 10,000 characters  Added support for product attributes", 
+            "title": "Version 1.3.0 (25/10/2015)"
+        }, 
+        {
+            "location": "/auto_translate/#version-121-19052015", 
+            "text": "Minor bug fixes", 
+            "title": "Version 1.2.1 (19/05/2015)"
+        }, 
+        {
+            "location": "/auto_translate/#version-120-15052015", 
+            "text": "Minor bug fixes  Admin aesthetic improvements", 
+            "title": "Version 1.2.0 (15/05/2015)"
+        }, 
+        {
+            "location": "/auto_translate/#version-111-23042015", 
+            "text": "OC 2.0.2.0 mail support compatibility fix", 
+            "title": "Version 1.1.1 (23/04/2015)"
+        }, 
+        {
+            "location": "/auto_translate/#version-110-10042015", 
+            "text": "Added mass translate for options and attributes  Bug fixes", 
+            "title": "Version 1.1.0 (10/04/2015)"
+        }, 
+        {
+            "location": "/auto_translate/#version-100-04032015", 
+            "text": "Extension created", 
+            "title": "Version 1.0.0 (04/03/2015)"
+        }, 
+        {
+            "location": "/clean_seo_url/", 
+            "text": "Clean SEO URL\n\n\n\n\nCurrent Version: 2.0.3\n\n\nLast Updated: 09 December 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nClean SEO URL beautifies your URLs on OpenCart. Say goodbye to the long index.php?route=xxx/yyy on your website that OpenCart doesn\u2019t handle.\n\n\nExamples:\n\n\n\n\nChanges the long URLs such as \u201cwebsite.com/index.php?route=xxx/yyy\u201d to \u201cwebsite.com/xxx/yyy\u201d and makes them SEO friendly\n\n\nCategories, information pages, products and manufacturer pages will continue using the SEO keyword field\n\n\n\n\nFeatures\n\n\n\n\nSEO friendly URL site wide for pages that does not have OpenCart\u2019s SEO URL feature\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nClean SEO URL\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nTurn on SEO URL in Admin \n System \n Settings \n Server tab if you have not.\n\n\nYour URLs should now be displayed in a SEO friendly manner.\n\n\n\n\nOpenCart 2 \n 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nClean SEO URL\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nTurn on SEO URL in Admin \n System \n Settings \n Server tab if you have not.\n\n\nRename OpenCart\u2019s default .htaccess.txt file to .htaccess if you have yet to.\n\n\nYour URLs should now be displayed in a SEO friendly manner.\n\n\n\n\nOpenCart 1.5\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nClean SEO URL\n. Configure extension accordingly.\n\n\nTurn on SEO URL in Admin \n System \n Settings \n Server tab if you have not.\n\n\nRename OpenCart\u2019s default .htaccess.txt file to .htaccess if you have yet to.\n\n\nYour URLs should now be displayed in a SEO friendly manner.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\nThere are no configurations required for Clean SEO URL. Please remember to turn on your SEO URL function in \nAdmin \n System \n Settings\n.\n\n\nFor categories, information, products and manufacturer pages, you will need to add your own SEO keyword. It is not generated by this extension. Our \nSEO Pack\n extension handles auto generation of SEO keyword instead.\n\n\nChange Log\n\n\nVersion 2.0.3 (09/12/2017)\n\n\n\n\nFixed issue with OpenCart 2.0 to 2.2 releases\n\n\n\n\nVersion 2.0.2 (24/06/2017)\n\n\n\n\nCompleted full integration with OCMod for OpenCart 2 and 3\n\n\n\n\nVersion 2.0.1 (08/06/2017)\n\n\n\n\nCeased support for OpenCart 1.5\n\n\nAdded administration interface to control module status (OC 2)\n\n\nIntegration with OCMod (OC 2)\n\n\nIntegrated to work with OpenCart installer (OC 2)\n\n\n\n\nVersion 2.0.0 (29/05/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nAdded administration interface to control module status (OC 3)\n\n\nIntegration with OCMod (OC 3)\n\n\nIntegrated to work with OpenCart installer (OC 3)\n\n\n\n\nVersion 1.1.3 (08/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 1.1.2 (15/03/2016)\n\n\n\n\nFixed issue with vqmod search not found in OpenCart 2.2.0.0\n\n\n\n\nVersion 1.1.1 (08/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\n\n\nVersion 1.1.0 (18/06/2015)\n\n\n\n\nAdded admin panel interface", 
+            "title": "Clean SEO URL"
+        }, 
+        {
+            "location": "/clean_seo_url/#clean-seo-url", 
+            "text": "Current Version: 2.0.3  Last Updated: 09 December 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "Clean SEO URL"
+        }, 
+        {
+            "location": "/clean_seo_url/#description", 
+            "text": "Clean SEO URL beautifies your URLs on OpenCart. Say goodbye to the long index.php?route=xxx/yyy on your website that OpenCart doesn\u2019t handle.  Examples:   Changes the long URLs such as \u201cwebsite.com/index.php?route=xxx/yyy\u201d to \u201cwebsite.com/xxx/yyy\u201d and makes them SEO friendly  Categories, information pages, products and manufacturer pages will continue using the SEO keyword field", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/clean_seo_url/#features", 
+            "text": "SEO friendly URL site wide for pages that does not have OpenCart\u2019s SEO URL feature", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/clean_seo_url/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/clean_seo_url/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Clean SEO URL . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Turn on SEO URL in Admin   System   Settings   Server tab if you have not.  Your URLs should now be displayed in a SEO friendly manner.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/clean_seo_url/#opencart-2-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Clean SEO URL . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Turn on SEO URL in Admin   System   Settings   Server tab if you have not.  Rename OpenCart\u2019s default .htaccess.txt file to .htaccess if you have yet to.  Your URLs should now be displayed in a SEO friendly manner.", 
+            "title": "OpenCart 2 &amp; 3"
+        }, 
+        {
+            "location": "/clean_seo_url/#opencart-15", 
+            "text": "Unzip the files. Ensure that vQmod has been installed.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Clean SEO URL . Configure extension accordingly.  Turn on SEO URL in Admin   System   Settings   Server tab if you have not.  Rename OpenCart\u2019s default .htaccess.txt file to .htaccess if you have yet to.  Your URLs should now be displayed in a SEO friendly manner.", 
+            "title": "OpenCart 1.5"
+        }, 
+        {
+            "location": "/clean_seo_url/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/clean_seo_url/#opencart-15-2-3-cloud", 
+            "text": "There are no configurations required for Clean SEO URL. Please remember to turn on your SEO URL function in  Admin   System   Settings .  For categories, information, products and manufacturer pages, you will need to add your own SEO keyword. It is not generated by this extension. Our  SEO Pack  extension handles auto generation of SEO keyword instead.", 
+            "title": "OpenCart 1.5, 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/clean_seo_url/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/clean_seo_url/#version-203-09122017", 
+            "text": "Fixed issue with OpenCart 2.0 to 2.2 releases", 
+            "title": "Version 2.0.3 (09/12/2017)"
+        }, 
+        {
+            "location": "/clean_seo_url/#version-202-24062017", 
+            "text": "Completed full integration with OCMod for OpenCart 2 and 3", 
+            "title": "Version 2.0.2 (24/06/2017)"
+        }, 
+        {
+            "location": "/clean_seo_url/#version-201-08062017", 
+            "text": "Ceased support for OpenCart 1.5  Added administration interface to control module status (OC 2)  Integration with OCMod (OC 2)  Integrated to work with OpenCart installer (OC 2)", 
+            "title": "Version 2.0.1 (08/06/2017)"
+        }, 
+        {
+            "location": "/clean_seo_url/#version-200-29052017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Added administration interface to control module status (OC 3)  Integration with OCMod (OC 3)  Integrated to work with OpenCart installer (OC 3)", 
+            "title": "Version 2.0.0 (29/05/2017)"
+        }, 
+        {
+            "location": "/clean_seo_url/#version-113-08072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Version 1.1.3 (08/07/2016)"
+        }, 
+        {
+            "location": "/clean_seo_url/#version-112-15032016", 
+            "text": "Fixed issue with vqmod search not found in OpenCart 2.2.0.0", 
+            "title": "Version 1.1.2 (15/03/2016)"
+        }, 
+        {
+            "location": "/clean_seo_url/#version-111-08032016", 
+            "text": "Fixed compatibility with OpenCart 2.2.0.0", 
+            "title": "Version 1.1.1 (08/03/2016)"
+        }, 
+        {
+            "location": "/clean_seo_url/#version-110-18062015", 
+            "text": "Added admin panel interface", 
+            "title": "Version 1.1.0 (18/06/2015)"
+        }, 
+        {
             "location": "/colour_picker/", 
             "text": "Colour Picker\n\n\n\n\nCurrent Version: 5.0.0\n\n\nLast Updated: 04 July 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nHaving a user friendly interface brings you more sales. Colour Picker allows your customers to easily view all the option variations you have, displayed in small thumbnails. Parent-child relationship options can also be setup with our Colour Picker Dependent Plus feature.\n\n\nFour versions included in one extension:\n\n\n\n\nColour Picker\n\n\nColour Picker Plus\n\n\nColour Picker Dependent\n\n\nColour Picker Dependent Plus\n\n\n\n\nFeatures\n\n\n\n\nAdd images to product options\n\n\nMain image changes upon colour selection\n\n\nOpenCart multi language supported\n\n\nChanges shopping cart image according to option selected (Colour Picker Plus and Colour Dependent Plus only)\n\n\nAllows dependent options selection (Colour Picker Dependent and Colour Picker Dependent Plus only)\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nColour Picker\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nColour Picker\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nColour Picker\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 3 \n Cloud\n\n\n\n\n\n\nselect\n type options only\n\n\nColour Picker uses \nselect\n type options only. Please add images to the option values in \nCatalog \n Options \n Edit Options\n. The image added here will be used for the small option thumbnail on the store front.\n\n\n\n\n\n\n\n\nEnable option for Colour Picker use\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, edit \nColour Picker\n and select the options you wish to enable for Colour Picker use.\n\n\n\n\n\n\n\n\nConfigure Product\n\n\nProceed to \nCatalog \n Products \n Edit Product \n Options Tab\n and add the options to the product. Set the option value image here if you are using Colour Picker Plus or Colour Picker Dependent Plus.\n\n\n\n\n\n\n\n\nConfigure Option Value Dependency\n\n\nIf you are using Colour Picker Dependent or Colour Picker Dependent Plus, proceed to \nCatalog \n Products \n Edit Product \n Options Tab\n and configure the dependency for the option values here.\n\n\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\n\n\nselect\n type options only\n\n\nColour Picker uses \nselect\n type options only. Please add images to the option values in \nCatalog \n Options \n Edit Options\n. The image added here will be used for the small option thumbnail on the store front.\n\n\n\n\n\n\n\n\nEnable option for Colour Picker use.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, edit \nColour Picker\n and enter the names of the options you wish to enable for Colour Picker use. E.g. (colour,size,color).\n\n\n\n\n\n\n\n\nConfigure Product\n\n\nProceed to \nCatalog \n Products \n Edit Product \n Options Tab\n and add the options to the product. Set the option value image here if you are using Colour Picker Plus or Colour Picker Dependent Plus.\n\n\n\n\n\n\n\n\nConfigure Option Value Dependency\n\n\nIf you are using Colour Picker Dependent or Colour Picker Dependent Plus, proceed to \nCatalog \n Products \n Edit Product \n Options Tab\n and configure the dependency for the option values here.\n\n\n\n\n\n\nChange Log\n\n\nVersion 5.0.0 (04/07/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 4.1.9 (02/02/2017)\n\n\n\n\nFixed minor bugs with OpenCart 2.2.0.0 and above releases\n\n\n\n\nVersion 4.1.8 (19/08/2016)\n\n\n\n\nFixed minor bugs with OpenCart 2.3.0.0 release\n\n\n\n\nVersion 4.1.7 (08/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 4.1.6 (07/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\nFixed issues caused by previous release\n\n\n\n\nVersion 4.1.5 (04/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\nRemoved repetitive codes in Colour Picker Plus\n\n\n\n\nVersion 4.1.4 (15/02/2016)\n\n\n\n\nFixed wrong line height CSS added previously\n\n\nImproved search expressions for better compatibility\n\n\n\n\nVersion 4.1.3 (04/01/2016)\n\n\n\n\nFixed missing files for OpenCart 1.5.x release", 
             "title": "Colour Picker"
@@ -324,6 +554,71 @@
             "location": "/colour_picker/#version-413-04012016", 
             "text": "Fixed missing files for OpenCart 1.5.x release", 
             "title": "Version 4.1.3 (04/01/2016)"
+        }, 
+        {
+            "location": "/country_ip_rules/", 
+            "text": "Country IP Rules\n\n\n\n\nCurrent Version: 2.0.1\n\n\nLast Updated: 09 December 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: 2.x, 3.x\n\n\n\n\nDescription\n\n\nEver need to detect your customer\u2019s IP address and setup rules accordingly? Country IP Rules does just that! Redirect your customers to a different page based on their IP address, or control their default currency and language with this extension.\n\n\nFeatures\n\n\n\n\nDisplay currency based on IP address\n\n\nDisplay language based on IP address\n\n\nDisplay categories based on IP address\n\n\nDisplay manufacturer based on IP address\n\n\nDisplay products based on IP address\n\n\nRestricted products are dependent on the category or manufacturer assigned\n\n\nRedirect to URL based on IP address\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nCountry IP Rules\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nYou can now control the IP address rules accordingly from the module or the respective category or manufacturer pages.\n\n\n\n\nOpenCart 2 \n 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nCountry IP Rules\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nYou can now control the IP address rules accordingly from the module or the respective category or manufacturer pages.\n\n\n\n\nConfigurations\n\n\nOpenCart 2, 3 \n Cloud\n\n\nMost of the configurations for the extension can be found in \nAdmin \n Extensions \n Modules \n Country IP Rules\n.\n\n\nFor additional configurations such as restricting products through the manufacturer or linked categories (\nAdmin \n Catalog \n Category \n Edit Category \n Data Tab\n), you can do so at the respective manufacturer or category page. You should see a field similar to the below to configure the restrictions.\n\n\n\n\nChange Log\n\n\nVersion 2.0.1 (26/06/2017)\n\n\n\n\nImproved IP detection\n\n\n\n\nVersion 2.0.0 (26/06/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nFixed minor bugs and improvements\n\n\n\n\nVersion 1.0.1 (09/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Country IP Rules"
+        }, 
+        {
+            "location": "/country_ip_rules/#country-ip-rules", 
+            "text": "Current Version: 2.0.1  Last Updated: 09 December 2017  License:  Commercial License  Compatibility: 2.x, 3.x", 
+            "title": "Country IP Rules"
+        }, 
+        {
+            "location": "/country_ip_rules/#description", 
+            "text": "Ever need to detect your customer\u2019s IP address and setup rules accordingly? Country IP Rules does just that! Redirect your customers to a different page based on their IP address, or control their default currency and language with this extension.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/country_ip_rules/#features", 
+            "text": "Display currency based on IP address  Display language based on IP address  Display categories based on IP address  Display manufacturer based on IP address  Display products based on IP address  Restricted products are dependent on the category or manufacturer assigned  Redirect to URL based on IP address", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/country_ip_rules/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/country_ip_rules/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Country IP Rules . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  You can now control the IP address rules accordingly from the module or the respective category or manufacturer pages.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/country_ip_rules/#opencart-2-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Country IP Rules . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  You can now control the IP address rules accordingly from the module or the respective category or manufacturer pages.", 
+            "title": "OpenCart 2 &amp; 3"
+        }, 
+        {
+            "location": "/country_ip_rules/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/country_ip_rules/#opencart-2-3-cloud", 
+            "text": "Most of the configurations for the extension can be found in  Admin   Extensions   Modules   Country IP Rules .  For additional configurations such as restricting products through the manufacturer or linked categories ( Admin   Catalog   Category   Edit Category   Data Tab ), you can do so at the respective manufacturer or category page. You should see a field similar to the below to configure the restrictions.", 
+            "title": "OpenCart 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/country_ip_rules/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/country_ip_rules/#version-201-26062017", 
+            "text": "Improved IP detection", 
+            "title": "Version 2.0.1 (26/06/2017)"
+        }, 
+        {
+            "location": "/country_ip_rules/#version-200-26062017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Fixed minor bugs and improvements", 
+            "title": "Version 2.0.0 (26/06/2017)"
+        }, 
+        {
+            "location": "/country_ip_rules/#version-101-09072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Version 1.0.1 (09/07/2016)"
         }, 
         {
             "location": "/dependent_options/", 
@@ -1167,7 +1462,7 @@
         }, 
         {
             "location": "/xero_integration/", 
-            "text": "Xero Integration\n\n\n\n\nCurrent Version: 4.1.1\n\n\nLast Updated: 19 November 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nXero Integration allows you to export your OpenCart orders, customers and products to your Xero account. Automate your business accounting with our OpenCart to Xero Integration.\n\n\nFeatures\n\n\n\n\nExport your OpenCart customers to your Xero contacts\n\n\nExport your OpenCart orders to your Xero invoices\n\n\nExport your OpenCart products to your Xero inventory (Option values not exported)\n\n\nAutomated export with cron job\n\n\nChoose order statuses to export\n\n\nChoose order statuses to remove from Xero\n\n\nSupports multi store \u2013 Export orders to different sales account in Xero based on the store the order belongs to\n\n\nSupports a different account code for your freight / courier charges\n\n\nSupports payment account code and tax rounding account code\n\n\nSync your OpenCart product stocks with your Xero inventory (Option values quantity not sync)\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nUsers \n User Groups\n and select give permission to view and modify \nextension/xero\n.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nConfigure extension accordingly in \nExtensions \n Xero\n.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nUsers \n User Groups\n and select give permission to view and modify \nextension/xero\n.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nConfigure extension accordingly in \nExtensions \n Xero\n.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nProceed to \nUsers \n User Groups\n and select give permission to view and modify \nextension/xero\n.\n\n\nConfigure extension accordingly in \nExtensions \n Xero\n.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\n\n\n\n\nSign Up with Xero\n\n\nIf you do not have an account with Xero, please sign up at https://www.xero.com before proceeding.\n\n\n\n\n\n\nGetting your Key \n Secret\n\n\nGenerate a new certificate (see point 5 below) or use the certificate included in the zip package of our software. Proceed to https://app.xero.com/Application/ to setup your application.\n\n\n\n\nAdd an application.\n\n\nSelect \"Private Application\".\n\n\nEnter an Application Name (e.g. OpenCart Integration).\n\n\nSelect an organisation for application to access.\n\n\nUpload the certificate file (file is located in our zip folder (\nsystem/library/xero/certs/xero_public.cer\n).\n\n\nAgree to Xero's terms and conditions.\n\n\nSave the application.\n\n\nYou will now be presented with the consumer key and consumer secret.\n\n\n\n\n\n\n\n\n\n\nSetup Cron Job\n\n\nSetup a cron job task to automate the export. The cron job command is provided in your admin dashboard. Please copy it and setup your cron job task accordingly in your cPanel.\n\n\n\n\n\n\nXero Integration Configurations\n\n\nAPI Consumer Key\n\n\nThe API Consumer Key is available from your Xero application. This is a required field for authentication.\n\n\nAPI Secret Key\n\n\nThe API Secret Key is available from your Xero application. This is a required field for authentication.\n\n\nHTTP Loopback Workaround\n\n\nThis is a workaround for web hosts that have HTTP loopback prevention. Do not enable this unless your orders are not exporting and you have confirmed that loopback prevention is enabled on your server.\n\n\nToken\n\n\nThis will be the token the system cron job uses. This is to prevent unauthorised running of the Xero Integration extension. Alphanumeric can be used. The box below will be the cron job command to use for your cron job. Best recommended to run Xero Integration cron command hourly.\n\n\nSales Account Code\n\n\nUsually this is 200. Please check your Chart of Accounts to confirm. This is the sales account code. If you have more accounts in your Xero account for your multi store setup, you can assign each multi store a different account code. You can find all the account codes you require in your Chart of Accounts as per screenshot below.\n\n\n\n\nShipping Account Code\n\n\nUsually this is 425. Please check your Chart of Accounts to confirm. This is the shipping / freight account code. If you have more accounts in your Xero account for your multi store setup, you can assign each multi store a different account code.\n\n\nPayment Account Code\n\n\nPlease check your Chart of Accounts to confirm the account code. This is the bank / payment account code. If you have more accounts in your Xero account for your multi store setup, you can assign each multi store a different account code.\n\n\nRounding Account Code\n\n\nUsually this is 860. Please check your Chart of Accounts to confirm. This is the rounding account code for tax differences. If you have more accounts in your Xero account for your multi store setup, you can assign each multi store a different account code. A new rounding line will appear, if required, as per screenshot below.\n\n\n\n\nInventory Account Code\n\n\nUsually this is 630. Please check your Chart of Accounts to confirm. This is the inventory account code for tracked inventory.\n\n\nCost of Goods Sold Account Code\n\n\nUsually this is 310. Please check your Chart of Accounts to confirm. This is the Cost of Goods Sold account code.\n\n\nDefault Invoice Status\n\n\nThe default status of the invoice when it is sent over to Xero. It can only be authorised or draft.\n\n\nOrder Statuses to Export\n\n\nThis will be the order status the orders are required to reach before they are sent over to Xero. This will be good to reduce pending payments on your Xero account.\n\n\nOrder Statuses to Remove\n\n\nThis will be the order status the orders are required to reach before they are removed from Xero. Do note that AUTHORISED invoices will be voided, and DRAFT invoices will be deleted. If orders are already marked to other statuses on Xero, Xero does not allow us to update it.\n\n\nSync Products to Xero Inventory\n\n\nXero has their own inventory. If you wish to sync your products quantities with Xero, you can turn on this function. We will then attempt to sync the stock quantities from Xero and update your product quantities on OpenCart. Model code is used for keeping Xero inventory and OpenCart products in sync.\n\n\nMark All Orders\n\n\nMark all orders as exported and our system will ignore all the orders previously made in your store. This is useful for larger stores that just installed our Xero Integration but does not wish to export old orders.\n\n\nUnmark All Orders\n\n\nMark all orders as not exported and our system will attempt to export all unmarked orders again.\n\n\nDebug\n\n\nEnable this to write debugging logs to your OpenCart error logs. This is useful to determine the issue if your orders are not being exported.\n\n\nDebug Order\n\n\nThis is useful to debug specific order ID that's having issues being exported. Debug needs to be enabled before this feature will work.\n\n\n\n\n\n\nGenerating Your Certificate (optional)\n\n\nIf you wish to generate your own certificate, please follow the instructions below.\n\n\nWindows\n\n\n\n\nDownload and extract the zip file (\nhttps://www.dropbox.com/sh/r70yevrfgqh6tjm/FFzIj2YhYj\n) to your C drive so the path directioy is now C:\\openssl.\n\n\nSearch for \ncmd\n on your system and right click \n run as administrator.\n\n\nChange directory to the folder C:\\openssl\\bin\\ with the following command:\n    cd C:\\openssl\\bin\n\n\n\n\nRun the following commands to generate a certificate. A couple of questions would be asked. Answer them as accurately as possible.\n\n\n\n\nset OPENSSL_CONF=c:\\openssl\\bin\\openssl.cfg\n\n\nopenssl genrsa -out xero_private.pem 1024\n\n\nopenssl req -newkey rsa:1024 -x509 -key xero_private.pem -out xero_public.cer -days 1095\n\n\n\n\n\n\n\n\nYou should now find the certificate in your C:\\openssl\\bin\\ folder. The 2 files xero_private.pem and xero_public.cer will be what you need.\n\n\n\n\nUpload the 2 generated files to system/library/xero/certs/.\n\n\n\n\nLinux and OS X\n\n\n\n\nOpen \nterminal\n and navigate to a directory you wish to generate the certificates in.\n\n\n\n\nRun the following commands to generate a certificate. A couple of questions would be asked. Answer them as accurately as possible.\n\n\n\n\nopenssl genrsa -out xero_private.pem 1024\n\n\nopenssl req -newkey rsa:1024 -x509 -key xero_private.pem -out xero_public.cer\n\n\n\n\n\n\n\n\nYou should now find the certificate in the directory you have generated in. The 2 files xero_private.pem and xero_public.cer will be what you need.\n\n\n\n\nUpload the 2 generated files to system/library/xero/certs/.\n\n\n\n\n\n\n\n\nChange Log\n\n\nVersion 4.1.1 (19/11/2017)\n\n\n\n\nMinor bug fixes\n\n\n\n\nVersion 4.1.0 (05/11/2017)\n\n\n\n\nAdded rounding account to handle taxing rounding difference\n\n\nAdded debug orders feature to handle order debugging\n\n\nImproved inventory export to handle large inventories\n\n\n\n\nVersion 4.0.3 (29/08/2017)\n\n\n\n\nFixed export repeating for OpenCart 3 release\n\n\nFixed payment code to be used instead of ID\n\n\n\n\nVersion 4.0.2 (23/07/2017)\n\n\n\n\nFixed incorrect order export for OpenCart 2 release\n\n\n\n\nVersion 4.0.1 (22/07/2017)\n\n\n\n\nFixed incorrect mark orders link for OpenCart 2 release\n\n\n\n\nVersion 4.0.0 (07/07/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nAdded payments for invoices\n\n\nAdded ability to mark selected order IDs exported\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 3.2.1 (13/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 3.2.0 (09/02/2016)\n\n\n\n\nFixed OC 2 minor search not found\n\n\nAdded HTTP Loopback workaround\n\n\nFixed minor bugs\n\n\n\n\nVersion 3.1.3 (29/12/2015)\n\n\n\n\nFixed fatal bug in Xero admin customer export\n\n\n\n\nVersion 3.1.2 (21/12/2015)\n\n\n\n\nFixed customers looping only first 50\n\n\nFixed products looping only first 50\n\n\n\n\nVersion 3.1.1 (16/12/2015)\n\n\n\n\nFixed fatal bug preventing export to be done\n\n\nFixed bug preventing customers from being exported\n\n\n\n\nVersion 3.1.0 (11/12/2015)\n\n\n\n\nAdded new design for OC 1.5\n\n\nFixed not decoded characters\n\n\nFixed cron job issue\n\n\nFixed redirect issue on OC 1.5\n\n\n\n\nVersion 3.0.0 (25/10/2015)\n\n\n\n\nChanged how system exports\n\n\nBuilt background processing feature\n\n\nSystem automatically limit orders and data to export\n\n\nAdded inventory sync with Xero", 
+            "text": "Xero Integration\n\n\n\n\nCurrent Version: 4.1.1\n\n\nLast Updated: 19 November 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nXero Integration allows you to export your OpenCart orders, customers and products to your Xero account. Automate your business accounting with our OpenCart to Xero Integration.\n\n\nFeatures\n\n\n\n\nExport your OpenCart customers to your Xero contacts\n\n\nExport your OpenCart orders to your Xero invoices\n\n\nExport your OpenCart products to your Xero inventory (Option values not exported)\n\n\nAutomated export with cron job\n\n\nChoose order statuses to export\n\n\nChoose order statuses to remove from Xero\n\n\nSupports multi store \u2013 Export orders to different sales account in Xero based on the store the order belongs to\n\n\nSupports a different account code for your freight / courier charges\n\n\nSupports payment account code and tax rounding account code\n\n\nSync your OpenCart product stocks with your Xero inventory (Option values quantity not sync)\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nUsers \n User Groups\n and select give permission to view and modify \nextension/xero\n.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nConfigure extension accordingly in \nExtensions \n Xero\n.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nUsers \n User Groups\n and select give permission to view and modify \nextension/xero\n.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nConfigure extension accordingly in \nExtensions \n Xero\n.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nProceed to \nUsers \n User Groups\n and select give permission to view and modify \nextension/xero\n.\n\n\nConfigure extension accordingly in \nExtensions \n Xero\n.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\n\n\n\n\nSign Up with Xero\n\n\nIf you do not have an account with Xero, please sign up at https://www.xero.com before proceeding.\n\n\n\n\n\n\nGetting your Key \n Secret\n\n\nGenerate a new certificate (see point 5 below) or use the certificate included in the zip package of our software. Proceed to https://app.xero.com/Application/ to setup your application.\n\n\n\n\nAdd an application.\n\n\nSelect \"Private Application\".\n\n\nEnter an Application Name (e.g. OpenCart Integration).\n\n\nSelect an organisation for application to access.\n\n\nUpload the certificate file (file is located in our zip folder (\nsystem/library/xero/certs/xero_public.cer\n).\n\n\nAgree to Xero's terms and conditions.\n\n\nSave the application.\n\n\nYou will now be presented with the consumer key and consumer secret.\n\n\n\n\n\n\n\n\n\n\nSetup Cron Job\n\n\nSetup a cron job task to automate the export. The cron job command is provided in your admin dashboard. Please copy it and setup your cron job task accordingly in your cPanel.\n\n\n\n\n\n\nXero Integration Configurations\n\n\nAPI Consumer Key\n\n\nThe API Consumer Key is available from your Xero application. This is a required field for authentication.\n\n\nAPI Secret Key\n\n\nThe API Secret Key is available from your Xero application. This is a required field for authentication.\n\n\nHTTP Loopback Workaround\n\n\nThis is a workaround for web hosts that have HTTP loopback prevention. Do not enable this unless your orders are not exporting and you have confirmed that loopback prevention is enabled on your server.\n\n\nToken\n\n\nThis will be the token the system cron job uses. This is to prevent unauthorised running of the Xero Integration extension. Alphanumeric can be used. The box below will be the cron job command to use for your cron job. Best recommended to run Xero Integration cron command hourly.\n\n\nSales Account Code\n\n\nUsually this is 200. Please check your Chart of Accounts to confirm. This is the sales account code. If you have more accounts in your Xero account for your multi store setup, you can assign each multi store a different account code. You can find all the account codes you require in your Chart of Accounts as per screenshot below.\n\n\n\n\nShipping Account Code\n\n\nUsually this is 425. Please check your Chart of Accounts to confirm. This is the shipping / freight account code. If you have more accounts in your Xero account for your multi store setup, you can assign each multi store a different account code.\n\n\nPayment Account Code\n\n\nPlease check your Chart of Accounts to confirm the account code. This is the bank / payment account code. If you have more accounts in your Xero account for your multi store setup, you can assign each multi store a different account code.\n\n\nRounding Account Code\n\n\nUsually this is 860. Please check your Chart of Accounts to confirm. This is the rounding account code for tax differences. If you have more accounts in your Xero account for your multi store setup, you can assign each multi store a different account code. A new rounding line will appear, if required, as per screenshot below.\n\n\n\n\nInventory Account Code\n\n\nUsually this is 630. Please check your Chart of Accounts to confirm. This is the inventory account code for tracked inventory.\n\n\nCost of Goods Sold Account Code\n\n\nUsually this is 310. Please check your Chart of Accounts to confirm. This is the Cost of Goods Sold account code.\n\n\nDefault Invoice Status\n\n\nThe default status of the invoice when it is sent over to Xero. It can only be authorised or draft.\n\n\nOrder Statuses to Export\n\n\nThis will be the order status the orders are required to reach before they are sent over to Xero. This will be good to reduce pending payments on your Xero account.\n\n\nOrder Statuses to Remove\n\n\nThis will be the order status the orders are required to reach before they are removed from Xero. Do note that AUTHORISED invoices will be voided, and DRAFT invoices will be deleted. If orders are already marked to other statuses on Xero, Xero does not allow us to update it.\n\n\nSync Products to Xero Inventory\n\n\nXero has their own inventory. If you wish to sync your products quantities with Xero, you can turn on this function. We will then attempt to sync the stock quantities from Xero and update your product quantities on OpenCart. Model code is used for keeping Xero inventory and OpenCart products in sync.\n\n\nMark All Orders\n\n\nMark all orders as exported and our system will ignore all the orders previously made in your store. This is useful for larger stores that just installed our Xero Integration but does not wish to export old orders.\n\n\nUnmark All Orders\n\n\nMark all orders as not exported and our system will attempt to export all unmarked orders again.\n\n\nDebug\n\n\nEnable this to write debugging logs to your OpenCart error logs. This is useful to determine the issue if your orders are not being exported.\n\n\nDebug Order\n\n\nThis is useful to debug specific order ID that's having issues being exported. Debug needs to be enabled before this feature will work.\n\n\n\n\n\n\nGenerating Your Certificate (optional)\n\n\nIf you wish to generate your own certificate, please follow the instructions below.\n\n\nWindows\n\n\n\n\nDownload and extract the zip file (\nhttps://www.dropbox.com/sh/r70yevrfgqh6tjm/FFzIj2YhYj\n) to your C drive so the path directioy is now C:\\openssl.\n\n\nSearch for \ncmd\n on your system and right click \n run as administrator.\n\n\nChange directory to the folder C:\\openssl\\bin\\ with the following command:\n    cd C:\\openssl\\bin\n\n\n\n\nRun the following commands to generate a certificate. A couple of questions would be asked. Answer them as accurately as possible.\n\n\n\n\nset OPENSSL_CONF=c:\\openssl\\bin\\openssl.cfg\n\n\nopenssl genrsa -out xero_private.pem 1024\n\n\nopenssl req -newkey rsa:1024 -x509 -key xero_private.pem -out xero_public.cer -days 1095\n\n\n\n\n\n\n\n\nYou should now find the certificate in your C:\\openssl\\bin\\ folder. The 2 files xero_private.pem and xero_public.cer will be what you need.\n\n\n\n\nUpload the 2 generated files to system/library/xero/certs/.\n\n\n\n\nLinux and OS X\n\n\n\n\nOpen \nterminal\n and navigate to a directory you wish to generate the certificates in.\n\n\n\n\nRun the following commands to generate a certificate. A couple of questions would be asked. Answer them as accurately as possible.\n\n\n\n\nopenssl genrsa -out xero_private.pem 1024\n\n\nopenssl req -newkey rsa:1024 -x509 -key xero_private.pem -out xero_public.cer\n\n\n\n\n\n\n\n\nYou should now find the certificate in the directory you have generated in. The 2 files xero_private.pem and xero_public.cer will be what you need.\n\n\n\n\nUpload the 2 generated files to system/library/xero/certs/.\n\n\n\n\n\n\n\n\nChange Log\n\n\nVersion 4.1.2 (09/12/2017)\n\n\n\n\nMinor bug fixes\n\n\n\n\nVersion 4.1.1 (19/11/2017)\n\n\n\n\nMinor bug fixes\n\n\n\n\nVersion 4.1.0 (05/11/2017)\n\n\n\n\nAdded rounding account to handle taxing rounding difference\n\n\nAdded debug orders feature to handle order debugging\n\n\nImproved inventory export to handle large inventories\n\n\n\n\nVersion 4.0.3 (29/08/2017)\n\n\n\n\nFixed export repeating for OpenCart 3 release\n\n\nFixed payment code to be used instead of ID\n\n\n\n\nVersion 4.0.2 (23/07/2017)\n\n\n\n\nFixed incorrect order export for OpenCart 2 release\n\n\n\n\nVersion 4.0.1 (22/07/2017)\n\n\n\n\nFixed incorrect mark orders link for OpenCart 2 release\n\n\n\n\nVersion 4.0.0 (07/07/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nAdded payments for invoices\n\n\nAdded ability to mark selected order IDs exported\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 3.2.1 (13/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 3.2.0 (09/02/2016)\n\n\n\n\nFixed OC 2 minor search not found\n\n\nAdded HTTP Loopback workaround\n\n\nFixed minor bugs\n\n\n\n\nVersion 3.1.3 (29/12/2015)\n\n\n\n\nFixed fatal bug in Xero admin customer export\n\n\n\n\nVersion 3.1.2 (21/12/2015)\n\n\n\n\nFixed customers looping only first 50\n\n\nFixed products looping only first 50\n\n\n\n\nVersion 3.1.1 (16/12/2015)\n\n\n\n\nFixed fatal bug preventing export to be done\n\n\nFixed bug preventing customers from being exported\n\n\n\n\nVersion 3.1.0 (11/12/2015)\n\n\n\n\nAdded new design for OC 1.5\n\n\nFixed not decoded characters\n\n\nFixed cron job issue\n\n\nFixed redirect issue on OC 1.5\n\n\n\n\nVersion 3.0.0 (25/10/2015)\n\n\n\n\nChanged how system exports\n\n\nBuilt background processing feature\n\n\nSystem automatically limit orders and data to export\n\n\nAdded inventory sync with Xero", 
             "title": "Xero Integration"
         }, 
         {
@@ -1219,6 +1514,11 @@
             "location": "/xero_integration/#change-log", 
             "text": "", 
             "title": "Change Log"
+        }, 
+        {
+            "location": "/xero_integration/#version-412-09122017", 
+            "text": "Minor bug fixes", 
+            "title": "Version 4.1.2 (09/12/2017)"
         }, 
         {
             "location": "/xero_integration/#version-411-19112017", 
