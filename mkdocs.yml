@@ -11,6 +11,7 @@ pages:
         - Follow Up Email: 'follow_up_email.md'
         - Option Image: 'option_image.md'
         - Quick Checkout: 'quick_checkout.md'
+        - Shopping Cart: 'shopping_cart.md'
         - Xero Integration: 'xero_integration.md'
 site_name: MarketInSG Documentations
 site_description: MarketInSG product documentations - OpenCart extensions Singapore.
