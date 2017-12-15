@@ -361,6 +361,101 @@
             "title": "Version 1.0.0 (04/03/2015)"
         }, 
         {
+            "location": "/canned_messages/", 
+            "text": "Canned Messages\n\n\n\n\nCurrent Version: 2.0.1\n\n\nLast Updated: 3 September 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nManually typing the same order history comments for each of your orders can be tiring. Wouldn\u2019t it be good to have a list of pre-set templates for the order comments? Canned Messages is exactly what you need! You will be able to setup a list of pre-set messages that you can use when updating the order history. \n\n\nFeatures\n\n\n\n\nPre-set a list of messages for use on order history comments\n\n\nSort order to sort the messages, place often used messages at the top\n\n\nUnlimited canned messages\n\n\nAvailable template codes to use for the canned messages\n\n\n{firstname}\n\n\n{lastname}\n\n\n{email}\n\n\n{telephone}\n\n\n{order_id}\n\n\n{date_added}\n\n\n{payment_method}\n\n\n{shipping_method}\n\n\n\n\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nCanned Messages\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nCanned Messages\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nCanned Messages\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\n\n\n\n\nSetup Canned Messages\n\n\nConfigure Canned Messages in your admin panel to begin. Then, you should be able to see the canned message selection when updating your order history.\n\n\n\n\n\n\n\n\nChange Log\n\n\nVersion 2.0.1 (03/09/2017)\n\n\n\n\nFixed incorrect token for OpenCart 2 release\n\n\n\n\nVersion 2.0.0 (24/06/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\n\n\nVersion 1.0.4 (29/04/2017)\n\n\n\n\nFixed incorrect directory path for OpenCart 1.5\n\n\n\n\nVersion 1.0.3 (08/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 1.0.2 (04/03/2016)\n\n\n\n\nImproved installation manual\n\n\nVersion number unchanged\n\n\n\n\nVersion 1.0.2 (26/12/2015)\n\n\n\n\nEnhanced module interface\n\n\n\n\nVersion 1.0.1 (23/04/2015)\n\n\n\n\nOC 2.0.2.0 mail support compatibility fix\n\n\n\n\nVersion 1.0.0 (06/03/2015)\n\n\n\n\nExtension created", 
+            "title": "Canned Messages"
+        }, 
+        {
+            "location": "/canned_messages/#canned-messages", 
+            "text": "Current Version: 2.0.1  Last Updated: 3 September 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "Canned Messages"
+        }, 
+        {
+            "location": "/canned_messages/#description", 
+            "text": "Manually typing the same order history comments for each of your orders can be tiring. Wouldn\u2019t it be good to have a list of pre-set templates for the order comments? Canned Messages is exactly what you need! You will be able to setup a list of pre-set messages that you can use when updating the order history.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/canned_messages/#features", 
+            "text": "Pre-set a list of messages for use on order history comments  Sort order to sort the messages, place often used messages at the top  Unlimited canned messages  Available template codes to use for the canned messages  {firstname}  {lastname}  {email}  {telephone}  {order_id}  {date_added}  {payment_method}  {shipping_method}", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/canned_messages/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/canned_messages/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Canned Messages . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Please view configuration details below.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/canned_messages/#opencart-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Canned Messages . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Please view configuration details below.", 
+            "title": "OpenCart 3"
+        }, 
+        {
+            "location": "/canned_messages/#opencart-15-2", 
+            "text": "Unzip the files. Ensure that vQmod has been installed.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Canned Messages . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 1.5 &amp; 2"
+        }, 
+        {
+            "location": "/canned_messages/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/canned_messages/#opencart-15-2-3-cloud", 
+            "text": "Setup Canned Messages  Configure Canned Messages in your admin panel to begin. Then, you should be able to see the canned message selection when updating your order history.", 
+            "title": "OpenCart 1.5, 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/canned_messages/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/canned_messages/#version-201-03092017", 
+            "text": "Fixed incorrect token for OpenCart 2 release", 
+            "title": "Version 2.0.1 (03/09/2017)"
+        }, 
+        {
+            "location": "/canned_messages/#version-200-24062017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0", 
+            "title": "Version 2.0.0 (24/06/2017)"
+        }, 
+        {
+            "location": "/canned_messages/#version-104-29042017", 
+            "text": "Fixed incorrect directory path for OpenCart 1.5", 
+            "title": "Version 1.0.4 (29/04/2017)"
+        }, 
+        {
+            "location": "/canned_messages/#version-103-08072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Version 1.0.3 (08/07/2016)"
+        }, 
+        {
+            "location": "/canned_messages/#version-102-04032016", 
+            "text": "Improved installation manual  Version number unchanged", 
+            "title": "Version 1.0.2 (04/03/2016)"
+        }, 
+        {
+            "location": "/canned_messages/#version-102-26122015", 
+            "text": "Enhanced module interface", 
+            "title": "Version 1.0.2 (26/12/2015)"
+        }, 
+        {
+            "location": "/canned_messages/#version-101-23042015", 
+            "text": "OC 2.0.2.0 mail support compatibility fix", 
+            "title": "Version 1.0.1 (23/04/2015)"
+        }, 
+        {
+            "location": "/canned_messages/#version-100-06032015", 
+            "text": "Extension created", 
+            "title": "Version 1.0.0 (06/03/2015)"
+        }, 
+        {
             "location": "/clean_seo_url/", 
             "text": "Clean SEO URL\n\n\n\n\nCurrent Version: 2.0.3\n\n\nLast Updated: 09 December 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nClean SEO URL beautifies your URLs on OpenCart. Say goodbye to the long index.php?route=xxx/yyy on your website that OpenCart doesn\u2019t handle.\n\n\nExamples:\n\n\n\n\nChanges the long URLs such as \u201cwebsite.com/index.php?route=xxx/yyy\u201d to \u201cwebsite.com/xxx/yyy\u201d and makes them SEO friendly\n\n\nCategories, information pages, products and manufacturer pages will continue using the SEO keyword field\n\n\n\n\nFeatures\n\n\n\n\nSEO friendly URL site wide for pages that does not have OpenCart\u2019s SEO URL feature\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nClean SEO URL\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nTurn on SEO URL in Admin \n System \n Settings \n Server tab if you have not.\n\n\nYour URLs should now be displayed in a SEO friendly manner.\n\n\n\n\nOpenCart 2 \n 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nClean SEO URL\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nTurn on SEO URL in Admin \n System \n Settings \n Server tab if you have not.\n\n\nRename OpenCart\u2019s default .htaccess.txt file to .htaccess if you have yet to.\n\n\nYour URLs should now be displayed in a SEO friendly manner.\n\n\n\n\nOpenCart 1.5\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nClean SEO URL\n. Configure extension accordingly.\n\n\nTurn on SEO URL in Admin \n System \n Settings \n Server tab if you have not.\n\n\nRename OpenCart\u2019s default .htaccess.txt file to .htaccess if you have yet to.\n\n\nYour URLs should now be displayed in a SEO friendly manner.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\nThere are no configurations required for Clean SEO URL. Please remember to turn on your SEO URL function in \nAdmin \n System \n Settings\n.\n\n\nFor categories, information, products and manufacturer pages, you will need to add your own SEO keyword. It is not generated by this extension. Our \nSEO Pack\n extension handles auto generation of SEO keyword instead.\n\n\nChange Log\n\n\nVersion 2.0.3 (09/12/2017)\n\n\n\n\nFixed issue with OpenCart 2.0 to 2.2 releases\n\n\n\n\nVersion 2.0.2 (24/06/2017)\n\n\n\n\nCompleted full integration with OCMod for OpenCart 2 and 3\n\n\n\n\nVersion 2.0.1 (08/06/2017)\n\n\n\n\nCeased support for OpenCart 1.5\n\n\nAdded administration interface to control module status (OC 2)\n\n\nIntegration with OCMod (OC 2)\n\n\nIntegrated to work with OpenCart installer (OC 2)\n\n\n\n\nVersion 2.0.0 (29/05/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nAdded administration interface to control module status (OC 3)\n\n\nIntegration with OCMod (OC 3)\n\n\nIntegrated to work with OpenCart installer (OC 3)\n\n\n\n\nVersion 1.1.3 (08/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 1.1.2 (15/03/2016)\n\n\n\n\nFixed issue with vqmod search not found in OpenCart 2.2.0.0\n\n\n\n\nVersion 1.1.1 (08/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\n\n\nVersion 1.1.0 (18/06/2015)\n\n\n\n\nAdded admin panel interface", 
             "title": "Clean SEO URL"
@@ -454,6 +549,96 @@
             "location": "/clean_seo_url/#version-110-18062015", 
             "text": "Added admin panel interface", 
             "title": "Version 1.1.0 (18/06/2015)"
+        }, 
+        {
+            "location": "/colour_code/", 
+            "text": "Colour Code\n\n\n\n\nCurrent Version: 3.0.0\n\n\nLast Updated: 25 June 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nMake administration of your store less of a chore. Colour code your orders by their order status, your customers by their groups, or your product returns by their return statuses.\n\n\nFeatures\n\n\n\n\nColour code customers by customer groups\n\n\nColour code orders by order statuses\n\n\nColour code product returns by return statuses \n\n\nUnlimited colour codes\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nColour Code\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\n\n\nOpenCart 2 \n 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nColour Code\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\n\n\nOpenCart 1.5\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nColour Code\n. Configure extension accordingly.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\nUpon configuring the colour codes, you should be able to see the rows for orders and customers automatically highlighted according to your configuration.\n\n\nChange Log\n\n\nVersion 3.0.0 (25/06/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nExtension packaged as an installer\n\n\n\n\nVersion 2.1.3 (08/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 2.1.2 (04/03/2016)\n\n\n\n\nUpdated installation manual\n\n\nVersion number unchanged\n\n\n\n\nVersion 2.1.2 (10/10/2015)\n\n\n\n\nMade compatible with OC 2.1.0.0\n\n\n\n\nVersion 2.1.1 (25/06/2015)\n\n\n\n\nBug fixes\n\n\n\n\nVersion 2.1.0 (24/06/2015)\n\n\n\n\nAllow customer group ID and order status ID condition\n\n\n\n\nVersion 2.0.0 (20/10/2014)\n\n\n\n\nOC 2.0 compatibility", 
+            "title": "Colour Code"
+        }, 
+        {
+            "location": "/colour_code/#colour-code", 
+            "text": "Current Version: 3.0.0  Last Updated: 25 June 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "Colour Code"
+        }, 
+        {
+            "location": "/colour_code/#description", 
+            "text": "Make administration of your store less of a chore. Colour code your orders by their order status, your customers by their groups, or your product returns by their return statuses.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/colour_code/#features", 
+            "text": "Colour code customers by customer groups  Colour code orders by order statuses  Colour code product returns by return statuses   Unlimited colour codes", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/colour_code/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/colour_code/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Colour Code . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/colour_code/#opencart-2-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Colour Code . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.", 
+            "title": "OpenCart 2 &amp; 3"
+        }, 
+        {
+            "location": "/colour_code/#opencart-15", 
+            "text": "Unzip the files. Ensure that vQmod has been installed.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Colour Code . Configure extension accordingly.", 
+            "title": "OpenCart 1.5"
+        }, 
+        {
+            "location": "/colour_code/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/colour_code/#opencart-15-2-3-cloud", 
+            "text": "Upon configuring the colour codes, you should be able to see the rows for orders and customers automatically highlighted according to your configuration.", 
+            "title": "OpenCart 1.5, 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/colour_code/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/colour_code/#version-300-25062017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Extension packaged as an installer", 
+            "title": "Version 3.0.0 (25/06/2017)"
+        }, 
+        {
+            "location": "/colour_code/#version-213-08072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Version 2.1.3 (08/07/2016)"
+        }, 
+        {
+            "location": "/colour_code/#version-212-04032016", 
+            "text": "Updated installation manual  Version number unchanged", 
+            "title": "Version 2.1.2 (04/03/2016)"
+        }, 
+        {
+            "location": "/colour_code/#version-212-10102015", 
+            "text": "Made compatible with OC 2.1.0.0", 
+            "title": "Version 2.1.2 (10/10/2015)"
+        }, 
+        {
+            "location": "/colour_code/#version-211-25062015", 
+            "text": "Bug fixes", 
+            "title": "Version 2.1.1 (25/06/2015)"
+        }, 
+        {
+            "location": "/colour_code/#version-210-24062015", 
+            "text": "Allow customer group ID and order status ID condition", 
+            "title": "Version 2.1.0 (24/06/2015)"
+        }, 
+        {
+            "location": "/colour_code/#version-200-20102014", 
+            "text": "OC 2.0 compatibility", 
+            "title": "Version 2.0.0 (20/10/2014)"
         }, 
         {
             "location": "/colour_picker/", 
@@ -619,6 +804,211 @@
             "location": "/country_ip_rules/#version-101-09072016", 
             "text": "Fixed compatibility with OpenCart 2.3.0.0", 
             "title": "Version 1.0.1 (09/07/2016)"
+        }, 
+        {
+            "location": "/coupon_manager/", 
+            "text": "Coupon Manager\n\n\n\n\nCurrent Version: 3.0.0\n\n\nLast Updated: 26 June 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nDo you have too many coupons to manage in your store? Coupon Manager allows you to easily manage all your coupons from one single interface. You can select the coupons you wish to modify, and update their statuses, their products, or their categories in one single click.\n\n\nFeatures\n\n\n\n\nUpdate statuses of selected coupons in one click\n\n\nUpdate products attached to the coupons in one click\n\n\nUpdate categories attached to the coupons in one click\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nCoupon Manager\n.\n\n\nYou can now manage your coupons right from the extension itself.\n\n\n\n\nOpenCart 1.5, 2 \n 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nCoupon Manager\n. Configure extension accordingly.\n\n\nYou can now manage your coupons right from the extension itself.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\nThere are no additional configurations required for Coupon Manager.\n\n\nChange Log\n\n\nVersion 3.0.0 (26/06/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 2.1.1 (09/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 2.1.0 (04/03/2016)\n\n\n\n\nUpdated installation manual\n\n\nVersion number remains unchanged\n\n\n\n\nVersion 2.1.0 (29/01/2016)\n\n\n\n\nUpdated interface design for OpenCart 1.5.x\n\n\nAdded licensing system\n\n\n\n\nVersion 2.0.2 (23/04/2015)\n\n\n\n\nFixed mail compatibility with OpenCart 2.0.2.0\n\n\n\n\nVersion 2.0.1 (22/12/2014)\n\n\n\n\nUpdated Facebook support link\n\n\n\n\nVersion 2.0.0 (09/10/2014)\n\n\n\n\nAdded category selection to add to coupon\n\n\nFixed compatibility with OpenCart 2", 
+            "title": "Coupon Manager"
+        }, 
+        {
+            "location": "/coupon_manager/#coupon-manager", 
+            "text": "Current Version: 3.0.0  Last Updated: 26 June 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "Coupon Manager"
+        }, 
+        {
+            "location": "/coupon_manager/#description", 
+            "text": "Do you have too many coupons to manage in your store? Coupon Manager allows you to easily manage all your coupons from one single interface. You can select the coupons you wish to modify, and update their statuses, their products, or their categories in one single click.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/coupon_manager/#features", 
+            "text": "Update statuses of selected coupons in one click  Update products attached to the coupons in one click  Update categories attached to the coupons in one click", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/coupon_manager/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/coupon_manager/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Coupon Manager .  You can now manage your coupons right from the extension itself.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/coupon_manager/#opencart-15-2-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Coupon Manager . Configure extension accordingly.  You can now manage your coupons right from the extension itself.", 
+            "title": "OpenCart 1.5, 2 &amp; 3"
+        }, 
+        {
+            "location": "/coupon_manager/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/coupon_manager/#opencart-15-2-3-cloud", 
+            "text": "There are no additional configurations required for Coupon Manager.", 
+            "title": "OpenCart 1.5, 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/coupon_manager/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/coupon_manager/#version-300-26062017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Ceased support for OpenCart 1.5", 
+            "title": "Version 3.0.0 (26/06/2017)"
+        }, 
+        {
+            "location": "/coupon_manager/#version-211-09072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Version 2.1.1 (09/07/2016)"
+        }, 
+        {
+            "location": "/coupon_manager/#version-210-04032016", 
+            "text": "Updated installation manual  Version number remains unchanged", 
+            "title": "Version 2.1.0 (04/03/2016)"
+        }, 
+        {
+            "location": "/coupon_manager/#version-210-29012016", 
+            "text": "Updated interface design for OpenCart 1.5.x  Added licensing system", 
+            "title": "Version 2.1.0 (29/01/2016)"
+        }, 
+        {
+            "location": "/coupon_manager/#version-202-23042015", 
+            "text": "Fixed mail compatibility with OpenCart 2.0.2.0", 
+            "title": "Version 2.0.2 (23/04/2015)"
+        }, 
+        {
+            "location": "/coupon_manager/#version-201-22122014", 
+            "text": "Updated Facebook support link", 
+            "title": "Version 2.0.1 (22/12/2014)"
+        }, 
+        {
+            "location": "/coupon_manager/#version-200-09102014", 
+            "text": "Added category selection to add to coupon  Fixed compatibility with OpenCart 2", 
+            "title": "Version 2.0.0 (09/10/2014)"
+        }, 
+        {
+            "location": "/custom_product_fields/", 
+            "text": "Custom Product Fields\n\n\n\n\nCurrent Version: 3.0.0\n\n\nLast Updated: 27 June 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nCustom Product Fields allows you to add an unlimited number of custom fields to your product form. If you are looking for an easy way to allow your customers to download an installation manual or display some extra details about your product, this extension is just what you need!\n\n\nCustom Product Fields also supports searching of the fields (except for checkbox and file type fields) you have added. You can toggle the added fields to be searchable in your OpenCart\u2019s default search.\n\n\nFeatures\n\n\n\n\nUnlimited custom products fields\n\n\nMulti-language supported\n\n\nSet fields required / not required in product form\n\n\nAllow text fields\n\n\nAllow file upload fields\n\n\nAllow date fields\n\n\nAllow date time fields\n\n\nAllow textarea fields\n\n\nAllow select fields\n\n\nAllow checkbox fields\n\n\nAllow radio fields\n\n\nSearchable fields (except checkbox and file type options)\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nCustom Product Fields\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nThe additional fields should now show up in a tab in your product form.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nCustom Product Fields\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nThe additional fields should now show up in a tab in your product form.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nCustom Product Fields\n. Configure extension accordingly.\n\n\nThe additional fields should now show up in a tab in your product form.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\n\n\n\n\nSetting Up Fields\n\n\nAdditional fields can be configured from the Custom Product Fields page.\n\n\n\n\n\n\n\n\nFilling Up Custom Fields\n\n\nYou can access the newly created custom fields in your admin panel \nCatalog \n Products \n Edit Products\n.\n\n\n\n\n\n\n\n\nChange Log\n\n\nVersion 3.0.0 (27/06/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor updates and improvements\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 2.1.2 (09/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 2.1.1 (07/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\n\n\nVersion 2.1.0 (13/05/2015)\n\n\n\n\nAdded support for searchable fields for OpenCart 1.5\n\n\nAdded support to decode HTML entities on front end\n\n\n\n\nVersion 2.0.2 (23/04/2015)\n\n\n\n\nFixed mail compatibly with OpenCart 2.0.2.0\n\n\n\n\nVersion 2.0.1 (12/01/2015)\n\n\n\n\nFixed for OpenCart copy function\n\n\n\n\nVersion 2.0.1 (22/12/2014)\n\n\n\n\nFixed Facebook support link\n\n\n\n\nVersion 2.0.0 (09/10/2014)\n\n\n\n\nFixed compatibly with OC 2\n\n\nAdded searchable fields for OpenCart 2\n\n\nNew data storage structure\n\n\n\n\nVersion 1.4.0 (23/04/2014)\n\n\n\n\nAllow download of uploaded files from admin\n\n\n\n\nVersion 1.3.1 (17/11/2013)\n\n\n\n\nBug fixes\n\n\n\n\nVersion 1.3.0 (28/10/2013)\n\n\n\n\nPrevent empty field settings\n\n\nClear button for uploaded files\n\n\n\n\nVersion 1.2.0 (25/07/2013)\n\n\n\n\nBug fix for empty checkbox\n\n\n\n\nVersion 1.1.0 (18/05/2013)\n\n\n\n\nAllows empty value for select fields", 
+            "title": "Custom Product Fields"
+        }, 
+        {
+            "location": "/custom_product_fields/#custom-product-fields", 
+            "text": "Current Version: 3.0.0  Last Updated: 27 June 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "Custom Product Fields"
+        }, 
+        {
+            "location": "/custom_product_fields/#description", 
+            "text": "Custom Product Fields allows you to add an unlimited number of custom fields to your product form. If you are looking for an easy way to allow your customers to download an installation manual or display some extra details about your product, this extension is just what you need!  Custom Product Fields also supports searching of the fields (except for checkbox and file type fields) you have added. You can toggle the added fields to be searchable in your OpenCart\u2019s default search.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/custom_product_fields/#features", 
+            "text": "Unlimited custom products fields  Multi-language supported  Set fields required / not required in product form  Allow text fields  Allow file upload fields  Allow date fields  Allow date time fields  Allow textarea fields  Allow select fields  Allow checkbox fields  Allow radio fields  Searchable fields (except checkbox and file type options)", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/custom_product_fields/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/custom_product_fields/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Custom Product Fields . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  The additional fields should now show up in a tab in your product form.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/custom_product_fields/#opencart-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Custom Product Fields . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  The additional fields should now show up in a tab in your product form.", 
+            "title": "OpenCart 3"
+        }, 
+        {
+            "location": "/custom_product_fields/#opencart-15-2", 
+            "text": "Unzip the files. Ensure that vQmod has been installed.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Custom Product Fields . Configure extension accordingly.  The additional fields should now show up in a tab in your product form.", 
+            "title": "OpenCart 1.5 &amp; 2"
+        }, 
+        {
+            "location": "/custom_product_fields/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/custom_product_fields/#opencart-15-2-3-cloud", 
+            "text": "Setting Up Fields  Additional fields can be configured from the Custom Product Fields page.     Filling Up Custom Fields  You can access the newly created custom fields in your admin panel  Catalog   Products   Edit Products .", 
+            "title": "OpenCart 1.5, 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/custom_product_fields/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/custom_product_fields/#version-300-27062017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Minor updates and improvements  Ceased support for OpenCart 1.5", 
+            "title": "Version 3.0.0 (27/06/2017)"
+        }, 
+        {
+            "location": "/custom_product_fields/#version-212-09072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Version 2.1.2 (09/07/2016)"
+        }, 
+        {
+            "location": "/custom_product_fields/#version-211-07032016", 
+            "text": "Fixed compatibility with OpenCart 2.2.0.0", 
+            "title": "Version 2.1.1 (07/03/2016)"
+        }, 
+        {
+            "location": "/custom_product_fields/#version-210-13052015", 
+            "text": "Added support for searchable fields for OpenCart 1.5  Added support to decode HTML entities on front end", 
+            "title": "Version 2.1.0 (13/05/2015)"
+        }, 
+        {
+            "location": "/custom_product_fields/#version-202-23042015", 
+            "text": "Fixed mail compatibly with OpenCart 2.0.2.0", 
+            "title": "Version 2.0.2 (23/04/2015)"
+        }, 
+        {
+            "location": "/custom_product_fields/#version-201-12012015", 
+            "text": "Fixed for OpenCart copy function", 
+            "title": "Version 2.0.1 (12/01/2015)"
+        }, 
+        {
+            "location": "/custom_product_fields/#version-201-22122014", 
+            "text": "Fixed Facebook support link", 
+            "title": "Version 2.0.1 (22/12/2014)"
+        }, 
+        {
+            "location": "/custom_product_fields/#version-200-09102014", 
+            "text": "Fixed compatibly with OC 2  Added searchable fields for OpenCart 2  New data storage structure", 
+            "title": "Version 2.0.0 (09/10/2014)"
+        }, 
+        {
+            "location": "/custom_product_fields/#version-140-23042014", 
+            "text": "Allow download of uploaded files from admin", 
+            "title": "Version 1.4.0 (23/04/2014)"
+        }, 
+        {
+            "location": "/custom_product_fields/#version-131-17112013", 
+            "text": "Bug fixes", 
+            "title": "Version 1.3.1 (17/11/2013)"
+        }, 
+        {
+            "location": "/custom_product_fields/#version-130-28102013", 
+            "text": "Prevent empty field settings  Clear button for uploaded files", 
+            "title": "Version 1.3.0 (28/10/2013)"
+        }, 
+        {
+            "location": "/custom_product_fields/#version-120-25072013", 
+            "text": "Bug fix for empty checkbox", 
+            "title": "Version 1.2.0 (25/07/2013)"
+        }, 
+        {
+            "location": "/custom_product_fields/#version-110-18052013", 
+            "text": "Allows empty value for select fields", 
+            "title": "Version 1.1.0 (18/05/2013)"
         }, 
         {
             "location": "/dependent_options/", 
@@ -1459,6 +1849,141 @@
             "location": "/quick_checkout/#version-941-04122015", 
             "text": "Fixed fatal bug on OC 1.5.3.x to OC 1.5.6.x caused by v9.4.0  Fixed minor bug OC 2.1.0.x", 
             "title": "Version 9.4.1 (04/12/2015)"
+        }, 
+        {
+            "location": "/shopping_cart/", 
+            "text": "Shopping Cart\n\n\n\n\nCurrent Version: 4.0.0\n\n\nLast Updated: 13 July 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nShopping Cart is a simple module to display the customer\u2019s shopping cart anywhere on your website. You can place it at left, right, top, or even bottom of the page\u2019s layout in your OpenCart store. It also comes with animation when you add an item to cart.\n\n\nFeatures\n\n\n\n\nAuto update cart when an item is added\n\n\nAnimation when an item is added\n\n\nAnimation available even if cart is not displayed\n\n\nSimple styling to match your theme\n\n\nSmall cross beside each item for quick removal from cart\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nShopping Cart\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nGo to the layouts management page in your admin and add this module to the layout you wish to display on. \n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nShopping Cart\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nGo to the layouts management page in your admin and add this module to the layout you wish to display on.\n\n\n\n\nOpenCart 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nShopping Cart\n. Configure extension accordingly.\n\n\nGo to the layouts management page in your admin and add this module to the layout you wish to display on. \n\n\n\n\nOpenCart 1.5\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nShopping Cart\n. Configure extension accordingly.\n\n\nAdd this module to the layout you wish to display on right from the module settings page.\n\n\n\n\nConfigurations\n\n\nOpenCart 2, 3 \n Cloud\n\n\n\n\n\n\nAdding Module to Layout\n\n\nOnce you have installed and enabled the extension, you can add the extension to your layout through the OpenCart's layout management page.\n\n\n\n\n\n\n\n\nOpenCart 1.5\n\n\n\n\n\n\nAdding Module to Layout\n\n\nOnce you have installed the extension, you can add the extension to your layout through the Shopping Cart module settings page itself.\n\n\n\n\n\n\nChange Log\n\n\nVersion 4.0.0 (13/07/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nFixed minor bugs and improvements\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 3.3.5 (26/09/2016)\n\n\n\n\nFixed minor bugs\n\n\nAdded minor improvements\n\n\n\n\nVersion 3.3.4 (12/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 3.3.3 (08/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\n\n\nVersion 3.3.2 (24/02/2016)\n\n\n\n\nFixed compatibility issues with OC 2.1.0.0\n\n\n\n\nVersion 3.3.1 (20/05/2015)\n\n\n\n\nFixed minor permission issues\n\n\n\n\nVersion 3.3.0 (14/05/2015)\n\n\n\n\nMinor admin aesthetic improvements\n\n\n\n\nVersion 3.2.4 (23/04/2015)\n\n\n\n\nOC 2.0.2.0 mail support compatibility fix\n\n\n\n\nVersion 3.2.3 (02/04/2015)\n\n\n\n\nOC 2.0.2.0 compatibility\n\n\n\n\nVersion 3.2.2 (28/01/2015)\n\n\n\n\nOC 2 version bug fixes\n\n\n\n\nVersion 3.2.1 (23/12/2014)\n\n\n\n\nUpdated support Facebook link\n\n\n\n\nVersion 3.2.0 (10/10/2014)\n\n\n\n\nAdded OpenCart 2.0 compatibility\n\n\n\n\nVersion 3.1.0(25/06/2013)\n\n\n\n\nBug fixes for v1.5.2.1 to v1.5.5.1\n\n\n\n\nVersion 3.0.0 (07/05/2013)\n\n\n\n\nAnimation now on all pages\n\n\nMerged for all different versions of OpenCart\n\n\nSupport desk in admin panel", 
+            "title": "Shopping Cart"
+        }, 
+        {
+            "location": "/shopping_cart/#shopping-cart", 
+            "text": "Current Version: 4.0.0  Last Updated: 13 July 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "Shopping Cart"
+        }, 
+        {
+            "location": "/shopping_cart/#description", 
+            "text": "Shopping Cart is a simple module to display the customer\u2019s shopping cart anywhere on your website. You can place it at left, right, top, or even bottom of the page\u2019s layout in your OpenCart store. It also comes with animation when you add an item to cart.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/shopping_cart/#features", 
+            "text": "Auto update cart when an item is added  Animation when an item is added  Animation available even if cart is not displayed  Simple styling to match your theme  Small cross beside each item for quick removal from cart", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/shopping_cart/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/shopping_cart/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Shopping Cart . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Go to the layouts management page in your admin and add this module to the layout you wish to display on.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/shopping_cart/#opencart-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Shopping Cart . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Go to the layouts management page in your admin and add this module to the layout you wish to display on.", 
+            "title": "OpenCart 3"
+        }, 
+        {
+            "location": "/shopping_cart/#opencart-2", 
+            "text": "Unzip the files. Ensure that vQmod has been installed.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Shopping Cart . Configure extension accordingly.  Go to the layouts management page in your admin and add this module to the layout you wish to display on.", 
+            "title": "OpenCart 2"
+        }, 
+        {
+            "location": "/shopping_cart/#opencart-15", 
+            "text": "Unzip the files. Ensure that vQmod has been installed.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Shopping Cart . Configure extension accordingly.  Add this module to the layout you wish to display on right from the module settings page.", 
+            "title": "OpenCart 1.5"
+        }, 
+        {
+            "location": "/shopping_cart/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/shopping_cart/#opencart-2-3-cloud", 
+            "text": "Adding Module to Layout  Once you have installed and enabled the extension, you can add the extension to your layout through the OpenCart's layout management page.", 
+            "title": "OpenCart 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/shopping_cart/#opencart-15_1", 
+            "text": "Adding Module to Layout  Once you have installed the extension, you can add the extension to your layout through the Shopping Cart module settings page itself.", 
+            "title": "OpenCart 1.5"
+        }, 
+        {
+            "location": "/shopping_cart/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/shopping_cart/#version-400-13072017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Fixed minor bugs and improvements  Ceased support for OpenCart 1.5", 
+            "title": "Version 4.0.0 (13/07/2017)"
+        }, 
+        {
+            "location": "/shopping_cart/#version-335-26092016", 
+            "text": "Fixed minor bugs  Added minor improvements", 
+            "title": "Version 3.3.5 (26/09/2016)"
+        }, 
+        {
+            "location": "/shopping_cart/#version-334-12072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Version 3.3.4 (12/07/2016)"
+        }, 
+        {
+            "location": "/shopping_cart/#version-333-08032016", 
+            "text": "Fixed compatibility with OpenCart 2.2.0.0", 
+            "title": "Version 3.3.3 (08/03/2016)"
+        }, 
+        {
+            "location": "/shopping_cart/#version-332-24022016", 
+            "text": "Fixed compatibility issues with OC 2.1.0.0", 
+            "title": "Version 3.3.2 (24/02/2016)"
+        }, 
+        {
+            "location": "/shopping_cart/#version-331-20052015", 
+            "text": "Fixed minor permission issues", 
+            "title": "Version 3.3.1 (20/05/2015)"
+        }, 
+        {
+            "location": "/shopping_cart/#version-330-14052015", 
+            "text": "Minor admin aesthetic improvements", 
+            "title": "Version 3.3.0 (14/05/2015)"
+        }, 
+        {
+            "location": "/shopping_cart/#version-324-23042015", 
+            "text": "OC 2.0.2.0 mail support compatibility fix", 
+            "title": "Version 3.2.4 (23/04/2015)"
+        }, 
+        {
+            "location": "/shopping_cart/#version-323-02042015", 
+            "text": "OC 2.0.2.0 compatibility", 
+            "title": "Version 3.2.3 (02/04/2015)"
+        }, 
+        {
+            "location": "/shopping_cart/#version-322-28012015", 
+            "text": "OC 2 version bug fixes", 
+            "title": "Version 3.2.2 (28/01/2015)"
+        }, 
+        {
+            "location": "/shopping_cart/#version-321-23122014", 
+            "text": "Updated support Facebook link", 
+            "title": "Version 3.2.1 (23/12/2014)"
+        }, 
+        {
+            "location": "/shopping_cart/#version-320-10102014", 
+            "text": "Added OpenCart 2.0 compatibility", 
+            "title": "Version 3.2.0 (10/10/2014)"
+        }, 
+        {
+            "location": "/shopping_cart/#version-31025062013", 
+            "text": "Bug fixes for v1.5.2.1 to v1.5.5.1", 
+            "title": "Version 3.1.0(25/06/2013)"
+        }, 
+        {
+            "location": "/shopping_cart/#version-300-07052013", 
+            "text": "Animation now on all pages  Merged for all different versions of OpenCart  Support desk in admin panel", 
+            "title": "Version 3.0.0 (07/05/2013)"
         }, 
         {
             "location": "/xero_integration/", 
