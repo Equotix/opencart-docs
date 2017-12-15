@@ -72,6 +72,12 @@
     </url>
         
     <url>
+     <loc>/customer_group_membership/</loc>
+     <lastmod>2017-12-15</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
      <loc>/dependent_options/</loc>
      <lastmod>2017-12-15</lastmod>
      <changefreq>daily</changefreq>

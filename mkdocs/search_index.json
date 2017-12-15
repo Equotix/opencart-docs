@@ -1011,6 +1011,136 @@
             "title": "Version 1.1.0 (18/05/2013)"
         }, 
         {
+            "location": "/customer_group_membership/", 
+            "text": "Customer Group Membership\n\n\n\n\nCurrent Version: 2.0.1\n\n\nLast Updated: 22 July 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nCustomer Group Membership allows you to sell your customer groups on OpenCart as a membership. You can make use of the built in customer groups to give special prices for various customer groups, or give credit rebates to your customers.\n\n\nFeatures\n\n\n\n\nSell your customer groups as membership\n\n\nGive X% credit rebate based on the customer group\n\n\nSend notification email when membership is expiring\n\n\nList the memberships available on your website with the membership module\n\n\nCustomer can check when their membership is expiring from their account\n\n\nAdmin can modify / assign membership to customers\n\n\n\n\nX% credit rebate is given to the customer after their order reaches the complete order status, so the customer can use the rebate credits on their next purchase. This encourages your customer to shop with you again.\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nCustomer Group Membership\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nCustomer Group Membership\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nCustomer Group Membership\n. Configure extension accordingly.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\n\n\n\n\nConfiguring a Group for Sale\n\n\nStart selling a customer group. Head over to the customer group page in your admin and add / edit a group. At the bottom of the page, you will be able to link a product to the specific group.\n\n\n\n\nThe customer that purchases the linked product will automatically be assigned to the customer group you've configured. The duration field allows you to set the duration the customer remains in the customer group, before being assigned back to the system's default customer group.\n\n\n\n\n\n\nConfiguring Rebate Rate\n\n\nYou can setup a rebate rate for a specific customer group, so the customer receives rebates for each order made on your store. Rebates are only given after the order has been marked complete (configurable in your system settings).\n\n\n\n\n\n\nViewing Membership Status\n\n\nThe customer can view the membership status from his account on the store front. The admin will be able to view the customer's membership from the customer edit page.\n\n\n\n\n\n\n\n\nConfiguring Reminder Email\n\n\nYou can setup reminder emails to remind your customer to renew their membership, or sign up to another membership again. Membership reminder emails can be configured right from our Customer Group Membership module.\n\n\n\n\n\n\n\n\nMemberships Display Module\n\n\nAn additonal module can be added to your layouts to display the available memberships you have for sale on your website. In OpenCart 2, 3 and Cloud, you will do it through the layouts management page. In OpenCart 1.5, you will do it through our module page itself.\n\n\n\n\n\n\n\n\nChange Log\n\n\nVersion 2.0.1 (22/07/2017)\n\n\n\n\nFixed mail reminder issue for OpenCart 2.3 release\n\n\n\n\nVersion 2.0.0 (26/06/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor updates and improvements\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 1.4.5 (25/04/2017)\n\n\n\n\nFixed old records not being removed when account upgraded\n\n\n\n\nVersion 1.4.4 (09/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 1.4.3 (24/05/2016)\n\n\n\n\nFixed email notification still sending despite already renewed\n\n\nFixed minor bugs\n\n\n\n\nVersion 1.4.2 (07/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\nRemoved backwards compatibility upgrade function\n\n\nFixed bugs with membership module\n\n\n\n\nVersion 1.4.1 (29/12/2015)\n\n\n\n\nResolved compatibility issue with OC 2.1.0.0 auto complete\n\n\n\n\nVersion 1.4.0 (12/12/2015)\n\n\n\n\nFixed duration overlapping when purchased the same membership group\n\n\n\n\nVersion 1.3.1 (10/10/2015)\n\n\n\n\nMade compatible with OC 2.1.0.0\n\n\n\n\nVersion 1.3.0 (15/05/2015)\n\n\n\n\nMinor admin aesthetic improvements\n\n\n\n\nVersion 1.2.1 (23/03/2015)\n\n\n\n\nOC 2.0.2.0 mail support compatibility fix\n\n\n\n\nVersion 1.2.0 (16/03/2015)\n\n\n\n\nMinor bug fixes\n\n\nAllow admin to edit customer\u2019s group and expiry\n\n\n\n\nVersion 1.1.1 (22/12/2014)\n\n\n\n\nUpdated Facebook support link\n\n\n\n\nVersion 1.1.0 (23/10/2014)\n\n\n\n\nOC 2 compatibility\n\n\n\n\nVersion 1.0.0 (27/02/2014)\n\n\n\n\nExtension created.", 
+            "title": "Customer Group Membership"
+        }, 
+        {
+            "location": "/customer_group_membership/#customer-group-membership", 
+            "text": "Current Version: 2.0.1  Last Updated: 22 July 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "Customer Group Membership"
+        }, 
+        {
+            "location": "/customer_group_membership/#description", 
+            "text": "Customer Group Membership allows you to sell your customer groups on OpenCart as a membership. You can make use of the built in customer groups to give special prices for various customer groups, or give credit rebates to your customers.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/customer_group_membership/#features", 
+            "text": "Sell your customer groups as membership  Give X% credit rebate based on the customer group  Send notification email when membership is expiring  List the memberships available on your website with the membership module  Customer can check when their membership is expiring from their account  Admin can modify / assign membership to customers   X% credit rebate is given to the customer after their order reaches the complete order status, so the customer can use the rebate credits on their next purchase. This encourages your customer to shop with you again.", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/customer_group_membership/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/customer_group_membership/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Customer Group Membership . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/customer_group_membership/#opencart-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Customer Group Membership . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.", 
+            "title": "OpenCart 3"
+        }, 
+        {
+            "location": "/customer_group_membership/#opencart-15-2", 
+            "text": "Unzip the files. Ensure that vQmod has been installed.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Customer Group Membership . Configure extension accordingly.", 
+            "title": "OpenCart 1.5 &amp; 2"
+        }, 
+        {
+            "location": "/customer_group_membership/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/customer_group_membership/#opencart-15-2-3-cloud", 
+            "text": "Configuring a Group for Sale  Start selling a customer group. Head over to the customer group page in your admin and add / edit a group. At the bottom of the page, you will be able to link a product to the specific group.   The customer that purchases the linked product will automatically be assigned to the customer group you've configured. The duration field allows you to set the duration the customer remains in the customer group, before being assigned back to the system's default customer group.    Configuring Rebate Rate  You can setup a rebate rate for a specific customer group, so the customer receives rebates for each order made on your store. Rebates are only given after the order has been marked complete (configurable in your system settings).    Viewing Membership Status  The customer can view the membership status from his account on the store front. The admin will be able to view the customer's membership from the customer edit page.     Configuring Reminder Email  You can setup reminder emails to remind your customer to renew their membership, or sign up to another membership again. Membership reminder emails can be configured right from our Customer Group Membership module.     Memberships Display Module  An additonal module can be added to your layouts to display the available memberships you have for sale on your website. In OpenCart 2, 3 and Cloud, you will do it through the layouts management page. In OpenCart 1.5, you will do it through our module page itself.", 
+            "title": "OpenCart 1.5, 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/customer_group_membership/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/customer_group_membership/#version-201-22072017", 
+            "text": "Fixed mail reminder issue for OpenCart 2.3 release", 
+            "title": "Version 2.0.1 (22/07/2017)"
+        }, 
+        {
+            "location": "/customer_group_membership/#version-200-26062017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Minor updates and improvements  Ceased support for OpenCart 1.5", 
+            "title": "Version 2.0.0 (26/06/2017)"
+        }, 
+        {
+            "location": "/customer_group_membership/#version-145-25042017", 
+            "text": "Fixed old records not being removed when account upgraded", 
+            "title": "Version 1.4.5 (25/04/2017)"
+        }, 
+        {
+            "location": "/customer_group_membership/#version-144-09072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Version 1.4.4 (09/07/2016)"
+        }, 
+        {
+            "location": "/customer_group_membership/#version-143-24052016", 
+            "text": "Fixed email notification still sending despite already renewed  Fixed minor bugs", 
+            "title": "Version 1.4.3 (24/05/2016)"
+        }, 
+        {
+            "location": "/customer_group_membership/#version-142-07032016", 
+            "text": "Fixed compatibility with OpenCart 2.2.0.0  Removed backwards compatibility upgrade function  Fixed bugs with membership module", 
+            "title": "Version 1.4.2 (07/03/2016)"
+        }, 
+        {
+            "location": "/customer_group_membership/#version-141-29122015", 
+            "text": "Resolved compatibility issue with OC 2.1.0.0 auto complete", 
+            "title": "Version 1.4.1 (29/12/2015)"
+        }, 
+        {
+            "location": "/customer_group_membership/#version-140-12122015", 
+            "text": "Fixed duration overlapping when purchased the same membership group", 
+            "title": "Version 1.4.0 (12/12/2015)"
+        }, 
+        {
+            "location": "/customer_group_membership/#version-131-10102015", 
+            "text": "Made compatible with OC 2.1.0.0", 
+            "title": "Version 1.3.1 (10/10/2015)"
+        }, 
+        {
+            "location": "/customer_group_membership/#version-130-15052015", 
+            "text": "Minor admin aesthetic improvements", 
+            "title": "Version 1.3.0 (15/05/2015)"
+        }, 
+        {
+            "location": "/customer_group_membership/#version-121-23032015", 
+            "text": "OC 2.0.2.0 mail support compatibility fix", 
+            "title": "Version 1.2.1 (23/03/2015)"
+        }, 
+        {
+            "location": "/customer_group_membership/#version-120-16032015", 
+            "text": "Minor bug fixes  Allow admin to edit customer\u2019s group and expiry", 
+            "title": "Version 1.2.0 (16/03/2015)"
+        }, 
+        {
+            "location": "/customer_group_membership/#version-111-22122014", 
+            "text": "Updated Facebook support link", 
+            "title": "Version 1.1.1 (22/12/2014)"
+        }, 
+        {
+            "location": "/customer_group_membership/#version-110-23102014", 
+            "text": "OC 2 compatibility", 
+            "title": "Version 1.1.0 (23/10/2014)"
+        }, 
+        {
+            "location": "/customer_group_membership/#version-100-27022014", 
+            "text": "Extension created.", 
+            "title": "Version 1.0.0 (27/02/2014)"
+        }, 
+        {
             "location": "/dependent_options/", 
             "text": "Dependent Options\n\n\n\n\nCurrent Version: 2.0.0\n\n\nLast Updated: 28 June 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nDependent Options allows you to display certain options or option values dependent on the parent options in your products. This allows you to be able to set different conditional option values for your product based on the different selected combination.\n\n\nFeatures\n\n\n\n\nDisplay certain options or option values based on the selected parent value\n\n\nConditional options on products\n\n\nParent option can only be select type\n\n\nWorks for all OpenCart built in option types\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nDependent Options\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nDependent Options\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nDependent Options\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\n\n\n\n\nAdding Options to Products\n\n\nProceed to \nCatalog \n Products \n Edit Product \n Options Tab\n to setup the options for the products.\n\n\n\n\n\n\nSetting Options Parent\n\n\nParent options must be a \nselect\n type option, and each option can only have one parent.\n\n\n\n\n\n\nSetting Dependent Values\n\n\nSelect the linked parent option values accordingly. Hold the \nshift\n key on your keyboard to select multiple option values.\n\n\n\n\n\n\n\n\nStore Front Display\n\n\nThe dependencies setup for the product options should now show / hide accordingly on the store front.\n\n\n\n\n\n\n\n\nChange Log\n\n\nVersion 2.0.0 (28/06/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 1.6.3 (10/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 1.6.2 (27/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\n\n\nVersion 1.6.1 (07/03/2016)\n\n\n\n\nImproved installation of module\n\n\nFixed text box not clearing values\n\n\n\n\nVersion 1.6.0 (09/12/2015)\n\n\n\n\nFixed text box not clearing values when hidden\n\n\nMoved dependency controller\n\n\n\n\nVersion 1.5.3 (04/07/2015)\n\n\n\n\nFixed minor bugs for OpenCart 2 release\n\n\n\n\nVersion 1.5.2 (21/06/2015)\n\n\n\n\nFixed minor bugs for OpenCart 2 release\n\n\n\n\nVersion 1.5.1 (13/05/2015)\n\n\n\n\nMinor aesthetic improvements in administration panel\n\n\n\n\nVersion 1.5.0 (12/05/2015)\n\n\n\n\nImproved administration interface design\n\n\nAdded licensing system\n\n\n\n\nVersion 1.4.2 (23/04/2015)\n\n\n\n\nFixed compatibility for OpenCart 2.0.2.0 mail\n\n\n\n\nVersion 1.4.1 (14/04/2015)\n\n\n\n\nSupport for OC 2 date and date time field fixed\n\n\n\n\nVersion 1.4.0 (22/01/2015)\n\n\n\n\nAdded support for import/export extension by MarketInSG\n\n\n\n\nVersion 1.3.1 (22/12/2014)\n\n\n\n\nUpdate support Facebook link\n\n\n\n\nVersion 1.3.0 (09/10/2014)\n\n\n\n\nOC 2 compatibility\n\n\n\n\nVersion 1.2.1 (20/08/2014)\n\n\n\n\nBug fixes\n\n\n\n\nVersion 1.2 (29/04/2014)\n\n\n\n\nAllow hidden options to be not required\n\n\nBug fixes\n\n\n\n\nVersion 1.1.0 (16/11/2013)\n\n\n\n\nAllow radio and select and checkbox type to hide fully\n\n\nBug fixes\n\n\n\n\nVersion 1.0.1 (26/09/2013)\n\n\n\n\nBug fixes", 
             "title": "Dependent Options"
