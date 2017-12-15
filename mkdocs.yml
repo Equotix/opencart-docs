@@ -11,6 +11,7 @@ pages:
         - Country IP Rules: 'country_ip_rules.md'
         - Coupon Manager: 'coupon_manager.md'
         - Custom Product Fields: 'custom_product_fields.md'
+        - Customer Group Membership: 'customer_group_membership.md'
         - Dependent Options: 'dependent_options.md'
         - Follow Up Email: 'follow_up_email.md'
         - Option Image: 'option_image.md'
