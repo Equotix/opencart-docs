@@ -57,7 +57,7 @@ Manually typing the same order history comments for each of your orders can be t
 
 1. Setup Canned Messages
 
-	Configure canned messages in your admin panel to begin. Then, you should be able to see the canned message selection when updating your order history.
+	Configure Canned Messages in your admin panel to begin. Then, you should be able to see the canned message selection when updating your order history.
 
 	![Screenshot](images/canned_messages/image-1.png)
 
