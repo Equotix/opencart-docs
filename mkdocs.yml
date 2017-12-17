@@ -15,6 +15,7 @@ pages:
         - Customer Group Restrictions: 'customer_group_restrictions.md'
         - Default Option Value: 'default_option_value.md'
         - Dependent Options: 'dependent_options.md'
+        - Disable Products: 'disable_products.md'
         - Follow Up Email: 'follow_up_email.md'
         - Option Image: 'option_image.md'
         - Quick Checkout: 'quick_checkout.md'
