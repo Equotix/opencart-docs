@@ -13,10 +13,12 @@ pages:
         - Custom Product Fields: 'custom_product_fields.md'
         - Customer Group Membership: 'customer_group_membership.md'
         - Customer Group Restrictions: 'customer_group_restrictions.md'
+        - Default Option Value: 'default_option_value.md'
         - Dependent Options: 'dependent_options.md'
         - Follow Up Email: 'follow_up_email.md'
         - Option Image: 'option_image.md'
         - Quick Checkout: 'quick_checkout.md'
+        - Recover Abandoned Cart: 'recover_abandoned_cart.md'
         - Shopping Cart: 'shopping_cart.md'
         - Xero Integration: 'xero_integration.md'
 site_name: MarketInSG Documentations
