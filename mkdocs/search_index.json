@@ -1246,6 +1246,86 @@
             "title": "Version 1.0.0 (11/01/2016)"
         }, 
         {
+            "location": "/default_option_value/", 
+            "text": "Default Option Value\n\n\n\n\nCurrent Version: 2.0.0\n\n\nLast Updated: 27 June 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nDo you need an option value selected by default when your customers view your products? This extension will do exactly just that, which will allow you to set the option values to be selected by default.\n\n\nFeatures\n\n\n\n\nSet option values selected by default\n\n\nSupports radio, image, select and checkbox type options\n\n\nSupports multiple default value for checkbox type options\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nDefault Option Value\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nDefault Option Value\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nDefault Option Value\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\n\n\nSetting Default Option Value\n\n\n\n\nYou can configure the default option value for each product in \nCatalog \n Products \n Edit Product\n options tab.\n\n\n\n\nChange Log\n\n\nVersion 2.0.0 (27/06/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 1.1.0 (17/05/2017)\n\n\n\n\nAdded ability to show default prices on listing (requires uncommenting codes)\n\n\n\n\nVersion 1.0.2 (09/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 1.0.1 (04/03/2016)\n\n\n\n\nFixed minor bugs causing issues with option values\n\n\n\n\nVersion 1.0.0 (03/02/2016)\n\n\n\n\nExtension created", 
+            "title": "Default Option Value"
+        }, 
+        {
+            "location": "/default_option_value/#default-option-value", 
+            "text": "Current Version: 2.0.0  Last Updated: 27 June 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "Default Option Value"
+        }, 
+        {
+            "location": "/default_option_value/#description", 
+            "text": "Do you need an option value selected by default when your customers view your products? This extension will do exactly just that, which will allow you to set the option values to be selected by default.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/default_option_value/#features", 
+            "text": "Set option values selected by default  Supports radio, image, select and checkbox type options  Supports multiple default value for checkbox type options", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/default_option_value/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/default_option_value/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Default Option Value . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Please view configuration details below.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/default_option_value/#opencart-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Default Option Value . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Please view configuration details below.", 
+            "title": "OpenCart 3"
+        }, 
+        {
+            "location": "/default_option_value/#opencart-15-2", 
+            "text": "Unzip the files. Ensure that vQmod has been installed.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Default Option Value . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 1.5 &amp; 2"
+        }, 
+        {
+            "location": "/default_option_value/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/default_option_value/#opencart-15-2-3-cloud", 
+            "text": "Setting Default Option Value   You can configure the default option value for each product in  Catalog   Products   Edit Product  options tab.", 
+            "title": "OpenCart 1.5, 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/default_option_value/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/default_option_value/#version-200-27062017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Minor improvements and updates  Ceased support for OpenCart 1.5", 
+            "title": "Version 2.0.0 (27/06/2017)"
+        }, 
+        {
+            "location": "/default_option_value/#version-110-17052017", 
+            "text": "Added ability to show default prices on listing (requires uncommenting codes)", 
+            "title": "Version 1.1.0 (17/05/2017)"
+        }, 
+        {
+            "location": "/default_option_value/#version-102-09072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Version 1.0.2 (09/07/2016)"
+        }, 
+        {
+            "location": "/default_option_value/#version-101-04032016", 
+            "text": "Fixed minor bugs causing issues with option values", 
+            "title": "Version 1.0.1 (04/03/2016)"
+        }, 
+        {
+            "location": "/default_option_value/#version-100-03022016", 
+            "text": "Extension created", 
+            "title": "Version 1.0.0 (03/02/2016)"
+        }, 
+        {
             "location": "/dependent_options/", 
             "text": "Dependent Options\n\n\n\n\nCurrent Version: 2.0.0\n\n\nLast Updated: 28 June 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nDependent Options allows you to display certain options or option values dependent on the parent options in your products. This allows you to be able to set different conditional option values for your product based on the different selected combination.\n\n\nFeatures\n\n\n\n\nDisplay certain options or option values based on the selected parent value\n\n\nConditional options on products\n\n\nParent option can only be select type\n\n\nWorks for all OpenCart built in option types\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nDependent Options\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nDependent Options\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nDependent Options\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\n\n\n\n\nAdding Options to Products\n\n\nProceed to \nCatalog \n Products \n Edit Product \n Options Tab\n to setup the options for the products.\n\n\n\n\n\n\nSetting Options Parent\n\n\nParent options must be a \nselect\n type option, and each option can only have one parent.\n\n\n\n\n\n\nSetting Dependent Values\n\n\nSelect the linked parent option values accordingly. Hold the \nshift\n key on your keyboard to select multiple option values.\n\n\n\n\n\n\n\n\nStore Front Display\n\n\nThe dependencies setup for the product options should now show / hide accordingly on the store front.\n\n\n\n\n\n\n\n\nChange Log\n\n\nVersion 2.0.0 (28/06/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 1.6.3 (10/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 1.6.2 (27/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\n\n\nVersion 1.6.1 (07/03/2016)\n\n\n\n\nImproved installation of module\n\n\nFixed text box not clearing values\n\n\n\n\nVersion 1.6.0 (09/12/2015)\n\n\n\n\nFixed text box not clearing values when hidden\n\n\nMoved dependency controller\n\n\n\n\nVersion 1.5.3 (04/07/2015)\n\n\n\n\nFixed minor bugs for OpenCart 2 release\n\n\n\n\nVersion 1.5.2 (21/06/2015)\n\n\n\n\nFixed minor bugs for OpenCart 2 release\n\n\n\n\nVersion 1.5.1 (13/05/2015)\n\n\n\n\nMinor aesthetic improvements in administration panel\n\n\n\n\nVersion 1.5.0 (12/05/2015)\n\n\n\n\nImproved administration interface design\n\n\nAdded licensing system\n\n\n\n\nVersion 1.4.2 (23/04/2015)\n\n\n\n\nFixed compatibility for OpenCart 2.0.2.0 mail\n\n\n\n\nVersion 1.4.1 (14/04/2015)\n\n\n\n\nSupport for OC 2 date and date time field fixed\n\n\n\n\nVersion 1.4.0 (22/01/2015)\n\n\n\n\nAdded support for import/export extension by MarketInSG\n\n\n\n\nVersion 1.3.1 (22/12/2014)\n\n\n\n\nUpdate support Facebook link\n\n\n\n\nVersion 1.3.0 (09/10/2014)\n\n\n\n\nOC 2 compatibility\n\n\n\n\nVersion 1.2.1 (20/08/2014)\n\n\n\n\nBug fixes\n\n\n\n\nVersion 1.2 (29/04/2014)\n\n\n\n\nAllow hidden options to be not required\n\n\nBug fixes\n\n\n\n\nVersion 1.1.0 (16/11/2013)\n\n\n\n\nAllow radio and select and checkbox type to hide fully\n\n\nBug fixes\n\n\n\n\nVersion 1.0.1 (26/09/2013)\n\n\n\n\nBug fixes", 
             "title": "Dependent Options"
@@ -1389,6 +1469,81 @@
             "location": "/dependent_options/#version-101-26092013", 
             "text": "Bug fixes", 
             "title": "Version 1.0.1 (26/09/2013)"
+        }, 
+        {
+            "location": "/disable_products/", 
+            "text": "Disable Products\n\n\n\n\nCurrent Version: 3.0.0\n\n\nLast Updated: 28 June 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nHave hundreds or thousands of products in store? Some of your products are without an image? Looking for a quick solution? You got it! This extension is just what you need. One click of a button and the products with no images attached to it will be disabled\n\n\nFeatures\n\n\n\n\nDisable products without any images attached to it\n\n\nOne click to disable products.\n\n\nAjax loading to reduce memory consumption on stores with over thousands of products\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nDisable Products\n. Configure extension accordingly.\n\n\nStart the automated process by clicking the button in the extension.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nDisable Products\n. Configure extension accordingly.\n\n\nStart the automated process by clicking the button in the extension.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nDisable Products\n. Configure extension accordingly.\n\n\nStart the automated process by clicking the button in the extension.\n\n\n\n\nConfigurations\n\n\nThere are no configurations needed for this extension. Just start the automated process by clicking the button in the extension.\n\n\nChange Log\n\n\nVersion 3.0.0 (28/06/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 2.2.1 (10/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 2.2.0 (28/02/2016)\n\n\n\n\nImproved extension into a standalone module\n\n\n\n\nVersion 2.1.1 (10/10/2015)\n\n\n\n\nFixed compatibility with OC 2.1.0.0\n\n\n\n\nVersion 2.1.0 (10/10/2014)\n\n\n\n\nFixed compatibility with OC 2", 
+            "title": "Disable Products"
+        }, 
+        {
+            "location": "/disable_products/#disable-products", 
+            "text": "Current Version: 3.0.0  Last Updated: 28 June 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "Disable Products"
+        }, 
+        {
+            "location": "/disable_products/#description", 
+            "text": "Have hundreds or thousands of products in store? Some of your products are without an image? Looking for a quick solution? You got it! This extension is just what you need. One click of a button and the products with no images attached to it will be disabled", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/disable_products/#features", 
+            "text": "Disable products without any images attached to it  One click to disable products.  Ajax loading to reduce memory consumption on stores with over thousands of products", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/disable_products/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/disable_products/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Disable Products . Configure extension accordingly.  Start the automated process by clicking the button in the extension.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/disable_products/#opencart-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Disable Products . Configure extension accordingly.  Start the automated process by clicking the button in the extension.", 
+            "title": "OpenCart 3"
+        }, 
+        {
+            "location": "/disable_products/#opencart-15-2", 
+            "text": "Unzip the files.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Disable Products . Configure extension accordingly.  Start the automated process by clicking the button in the extension.", 
+            "title": "OpenCart 1.5 &amp; 2"
+        }, 
+        {
+            "location": "/disable_products/#configurations", 
+            "text": "There are no configurations needed for this extension. Just start the automated process by clicking the button in the extension.", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/disable_products/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/disable_products/#version-300-28062017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Ceased support for OpenCart 1.5", 
+            "title": "Version 3.0.0 (28/06/2017)"
+        }, 
+        {
+            "location": "/disable_products/#version-221-10072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Version 2.2.1 (10/07/2016)"
+        }, 
+        {
+            "location": "/disable_products/#version-220-28022016", 
+            "text": "Improved extension into a standalone module", 
+            "title": "Version 2.2.0 (28/02/2016)"
+        }, 
+        {
+            "location": "/disable_products/#version-211-10102015", 
+            "text": "Fixed compatibility with OC 2.1.0.0", 
+            "title": "Version 2.1.1 (10/10/2015)"
+        }, 
+        {
+            "location": "/disable_products/#version-210-10102014", 
+            "text": "Fixed compatibility with OC 2", 
+            "title": "Version 2.1.0 (10/10/2014)"
         }, 
         {
             "location": "/follow_up_email/", 
@@ -2084,6 +2239,146 @@
             "location": "/quick_checkout/#version-941-04122015", 
             "text": "Fixed fatal bug on OC 1.5.3.x to OC 1.5.6.x caused by v9.4.0  Fixed minor bug OC 2.1.0.x", 
             "title": "Version 9.4.1 (04/12/2015)"
+        }, 
+        {
+            "location": "/recover_abandoned_cart/", 
+            "text": "Recover Abanadoned Cart\n\n\n\n\nCurrent Version: 2.1.0\n\n\nLast Updated: 17 December 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nMany of our customers leave before completing their orders due to various reasons. Recover Abandoned Carts is here to assist you in contacting your customers that left after adding items to their shopping cart without completing the order.\n\n\nFeatures\n\n\n\n\nTrack abandoned carts on your website for both guest and registered customers\n\n\nTrack customer\u2019s duration on your website with items in cart\n\n\nTrack customer\u2019s last visited page\n\n\nTrack customer\u2019s IP address\n\n\nCapture customer\u2019s information if available\n\n\nView abandoned carts from one single page\n\n\nAutomatically send reminder emails to customer\n\n\nMulti-language support\n\n\nMulti-store support\n\n\nSet up multiple email templates to remind customers\n\n\nGenerate unique coupon for customer along with the email\n\n\nSet coupon validity duration\n\n\nRich text editor for writing email template\n\n\nAutomatically delete stored abandoned cart after reminding customer\n\n\nAllow customers to unsubscribe from your reminder emails\n\n\nView statistics and report\n\n\nAllow customer to restore their cart items with a single click\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nRecover Abandoned Cart\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nRecover Abandoned Cart\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nRecover Abandoned Cart\n. Configure extension accordingly.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\n\n\n\n\nSetting Up Cron Job\n\n\nPlease choose an option from the below to setup the automation of sending emails.\n\n\na. My server supports cron job\n\n\nUse the cron job command provided in the module for your convenience. Add it to your server to run daily.\n\n\nb. My server does not support cron job\n\n\nUse an external service like EasyCron or SetCronJob to trigger the cron job URL. Cron job URL has been provided in the module for your convenience.\n\n\n\n\n\n\nSetting Up Email Template\n\n\nYou can setup up various email templates in the Email Templates tab. The email templates will be sent upon reaching the condition you have configured.\n\n\n\n\n\n\nPurging Useless Cart\n\n\nUseless carts are those abandoned carts recorded without email addresses. Those carts are from guests that have yet to even visit your checkout page or enter any information on your website for us to track. You can click the purge useless cart button to remove those abandoned carts.\n\n\n\n\n\n\nPurging Reminded Cart\n\n\nReminded carts are those that have already been sent an email reminder. If you no longer wish to track them, you can delete those carts by pressing the purge reminded carts button. Alternatively, you can let the system handle it automatically by enabling the \u2018delete\u2019 function in the email template. Once carts have been deleted, the one click restore cart feature will not work for deleted carts.\n\n\n\n\n\n\nUnsubscribed Customers\n\n\nThe system will no longer send an email to the customer that has unsubscribed. However, it will still mark the cart as \u2018reminded\u2019 without sending the email, so you can easily delete off their carts by purging the reminded carts.\n\n\n\n\n\n\nChange Log\n\n\nVersion 2.1.0 (17/12/2017)\n\n\n\n\nAdded single click cart restore feature\n\n\nMinor bug fixes\n\n\n\n\nVersion 2.0.1 (29/08/2017)\n\n\n\n\nFixed token issue for OpenCart 2.0 to 2.2 release\n\n\n\n\nVersion 2.0.0 (11/07/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 1.2.1 (17/05/2017)\n\n\n\n\nFixed multi-store URL for unsubscribe link\n\n\nFixed wrongly loaded template for OpenCart 2.3.0.2\n\n\n\n\nVersion 1.2.0 (29/11/2016)\n\n\n\n\nFixed minor bugs\n\n\nAdded send individual mail feature for each abandoned cart\n\n\n\n\nVersion 1.1.6 (28/10/2016)\n\n\n\n\nFixed incorrect pagination\n\n\n\n\nVersion 1.1.5 (26/09/2016)\n\n\n\n\nFixed minor bugs for OpenCart 1.5 release\n\n\n\n\nVersion 1.1.4 (14/08/2016)\n\n\n\n\nFixed minor bugs\n\n\n\n\nVersion 1.1.3 (12/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 1.1.2 (13/06/2016)\n\n\n\n\nFixed auto cleanup feature cleaning incorrectly\n\n\n\n\nVersion 1.1.1 (21/04/2016)\n\n\n\n\nFixed template unable to be edited\n\n\nFixed email template text editor issue\n\n\nFixed OC 1.5 email not sending issue\n\n\nFixed undefined coupon expiry issue\n\n\nFixed reminded report calculations\n\n\n\n\nVersion 1.1.0 (07/04/2016)\n\n\n\n\nAdded chart report for reminded carts\n\n\nFixed minor bugs with email sending multiple times\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\n\n\nVersion 1.0.5 (01/04/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\n\n\nVersion 1.0.4 (27/03/2016)\n\n\n\n\nFixed wrong URL for viewing customer details\n\n\nFixed wrong SQL for updating reminded cart\n\n\n\n\nVersion 1.0.3 (07/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\n\n\nVersion 1.0.2 (25/02/2016)\n\n\n\n\nImproved automated cleanup\n\n\nAdded shortcut to page on menu\n\n\n\n\nVersion 1.0.1 (09/02/2016)\n\n\n\n\nFixed minor bugs\n\n\nImproved cron job handling", 
+            "title": "Recover Abandoned Cart"
+        }, 
+        {
+            "location": "/recover_abandoned_cart/#recover-abanadoned-cart", 
+            "text": "Current Version: 2.1.0  Last Updated: 17 December 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "Recover Abanadoned Cart"
+        }, 
+        {
+            "location": "/recover_abandoned_cart/#description", 
+            "text": "Many of our customers leave before completing their orders due to various reasons. Recover Abandoned Carts is here to assist you in contacting your customers that left after adding items to their shopping cart without completing the order.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/recover_abandoned_cart/#features", 
+            "text": "Track abandoned carts on your website for both guest and registered customers  Track customer\u2019s duration on your website with items in cart  Track customer\u2019s last visited page  Track customer\u2019s IP address  Capture customer\u2019s information if available  View abandoned carts from one single page  Automatically send reminder emails to customer  Multi-language support  Multi-store support  Set up multiple email templates to remind customers  Generate unique coupon for customer along with the email  Set coupon validity duration  Rich text editor for writing email template  Automatically delete stored abandoned cart after reminding customer  Allow customers to unsubscribe from your reminder emails  View statistics and report  Allow customer to restore their cart items with a single click", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/recover_abandoned_cart/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/recover_abandoned_cart/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Recover Abandoned Cart . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/recover_abandoned_cart/#opencart-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Recover Abandoned Cart . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.", 
+            "title": "OpenCart 3"
+        }, 
+        {
+            "location": "/recover_abandoned_cart/#opencart-15-2", 
+            "text": "Unzip the files. Ensure that vQmod has been installed.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Recover Abandoned Cart . Configure extension accordingly.", 
+            "title": "OpenCart 1.5 &amp; 2"
+        }, 
+        {
+            "location": "/recover_abandoned_cart/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/recover_abandoned_cart/#opencart-15-2-3-cloud", 
+            "text": "Setting Up Cron Job  Please choose an option from the below to setup the automation of sending emails.  a. My server supports cron job  Use the cron job command provided in the module for your convenience. Add it to your server to run daily.  b. My server does not support cron job  Use an external service like EasyCron or SetCronJob to trigger the cron job URL. Cron job URL has been provided in the module for your convenience.    Setting Up Email Template  You can setup up various email templates in the Email Templates tab. The email templates will be sent upon reaching the condition you have configured.    Purging Useless Cart  Useless carts are those abandoned carts recorded without email addresses. Those carts are from guests that have yet to even visit your checkout page or enter any information on your website for us to track. You can click the purge useless cart button to remove those abandoned carts.    Purging Reminded Cart  Reminded carts are those that have already been sent an email reminder. If you no longer wish to track them, you can delete those carts by pressing the purge reminded carts button. Alternatively, you can let the system handle it automatically by enabling the \u2018delete\u2019 function in the email template. Once carts have been deleted, the one click restore cart feature will not work for deleted carts.    Unsubscribed Customers  The system will no longer send an email to the customer that has unsubscribed. However, it will still mark the cart as \u2018reminded\u2019 without sending the email, so you can easily delete off their carts by purging the reminded carts.", 
+            "title": "OpenCart 1.5, 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/recover_abandoned_cart/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/recover_abandoned_cart/#version-210-17122017", 
+            "text": "Added single click cart restore feature  Minor bug fixes", 
+            "title": "Version 2.1.0 (17/12/2017)"
+        }, 
+        {
+            "location": "/recover_abandoned_cart/#version-201-29082017", 
+            "text": "Fixed token issue for OpenCart 2.0 to 2.2 release", 
+            "title": "Version 2.0.1 (29/08/2017)"
+        }, 
+        {
+            "location": "/recover_abandoned_cart/#version-200-11072017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Minor improvements and updates  Ceased support for OpenCart 1.5", 
+            "title": "Version 2.0.0 (11/07/2017)"
+        }, 
+        {
+            "location": "/recover_abandoned_cart/#version-121-17052017", 
+            "text": "Fixed multi-store URL for unsubscribe link  Fixed wrongly loaded template for OpenCart 2.3.0.2", 
+            "title": "Version 1.2.1 (17/05/2017)"
+        }, 
+        {
+            "location": "/recover_abandoned_cart/#version-120-29112016", 
+            "text": "Fixed minor bugs  Added send individual mail feature for each abandoned cart", 
+            "title": "Version 1.2.0 (29/11/2016)"
+        }, 
+        {
+            "location": "/recover_abandoned_cart/#version-116-28102016", 
+            "text": "Fixed incorrect pagination", 
+            "title": "Version 1.1.6 (28/10/2016)"
+        }, 
+        {
+            "location": "/recover_abandoned_cart/#version-115-26092016", 
+            "text": "Fixed minor bugs for OpenCart 1.5 release", 
+            "title": "Version 1.1.5 (26/09/2016)"
+        }, 
+        {
+            "location": "/recover_abandoned_cart/#version-114-14082016", 
+            "text": "Fixed minor bugs", 
+            "title": "Version 1.1.4 (14/08/2016)"
+        }, 
+        {
+            "location": "/recover_abandoned_cart/#version-113-12072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Version 1.1.3 (12/07/2016)"
+        }, 
+        {
+            "location": "/recover_abandoned_cart/#version-112-13062016", 
+            "text": "Fixed auto cleanup feature cleaning incorrectly", 
+            "title": "Version 1.1.2 (13/06/2016)"
+        }, 
+        {
+            "location": "/recover_abandoned_cart/#version-111-21042016", 
+            "text": "Fixed template unable to be edited  Fixed email template text editor issue  Fixed OC 1.5 email not sending issue  Fixed undefined coupon expiry issue  Fixed reminded report calculations", 
+            "title": "Version 1.1.1 (21/04/2016)"
+        }, 
+        {
+            "location": "/recover_abandoned_cart/#version-110-07042016", 
+            "text": "Added chart report for reminded carts  Fixed minor bugs with email sending multiple times  Fixed compatibility with OpenCart 2.2.0.0", 
+            "title": "Version 1.1.0 (07/04/2016)"
+        }, 
+        {
+            "location": "/recover_abandoned_cart/#version-105-01042016", 
+            "text": "Fixed compatibility with OpenCart 2.2.0.0", 
+            "title": "Version 1.0.5 (01/04/2016)"
+        }, 
+        {
+            "location": "/recover_abandoned_cart/#version-104-27032016", 
+            "text": "Fixed wrong URL for viewing customer details  Fixed wrong SQL for updating reminded cart", 
+            "title": "Version 1.0.4 (27/03/2016)"
+        }, 
+        {
+            "location": "/recover_abandoned_cart/#version-103-07032016", 
+            "text": "Fixed compatibility with OpenCart 2.2.0.0", 
+            "title": "Version 1.0.3 (07/03/2016)"
+        }, 
+        {
+            "location": "/recover_abandoned_cart/#version-102-25022016", 
+            "text": "Improved automated cleanup  Added shortcut to page on menu", 
+            "title": "Version 1.0.2 (25/02/2016)"
+        }, 
+        {
+            "location": "/recover_abandoned_cart/#version-101-09022016", 
+            "text": "Fixed minor bugs  Improved cron job handling", 
+            "title": "Version 1.0.1 (09/02/2016)"
         }, 
         {
             "location": "/shopping_cart/", 
