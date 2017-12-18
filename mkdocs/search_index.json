@@ -1546,6 +1546,431 @@
             "title": "Version 2.1.0 (10/10/2014)"
         }, 
         {
+            "location": "/enets_integration/", 
+            "text": "eNETS Integration\n\n\n\n\nCurrent Version: 3.0.0\n\n\nLast Updated: 18 December 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nOpenCart Singapore eNETS payment integration. Supports eNETS \n eNETS QR. UMAPI Lite Integration no longer supported.\n\n\nFeatures\n\n\n\n\neNETS payment gateway integration\n\n\neNETS Credit, Debit \n QR payment gateway\n\n\nActivate payment module only when reaches the specific order total\n\n\nCaptures call back notification to automatically update order status\n\n\nSandbox mode for testing\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nPayments\n. Then, install \neNETS Credit / Debit / QR\n. Configure extensions accordingly.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nPayments\n. Then, install \neNETS Credit / Debit / QR\n. Configure extension accordingly.\n\n\n\n\nOpenCart 2\n\n\n\n\nUnzip the files.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Payments\n. Then, install \neNETS Credit / Debit / QR\n. Configure extension accordingly.\n\n\n\n\nOpenCart 1.5 (Phased Out)\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Payments\n. Then, install \neNETS Credit / Debit\n. Configure extension accordingly.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\nUpon installing the respective payment modules you need, you will have to fill up your API details you have from eNETS. No additional configuration is required.\n\n\nChange Log\n\n\nVersion 3.0.0 (18/12/2017)\n\n\n\n\nAdded support for new eNETS API\n\n\nAdded QR payment support\n\n\nRemoved UMAPI Lite support\n\n\n\n\nVersion 2.0.0 (28/06/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 1.0.3 (10/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 1.0.2 (10/03/2016)\n\n\n\n\nFixed wrong path\n\n\n\n\nVersion 1.0.1 (07/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\nRemoved redundant codes\n\n\n\n\nVersion 1.0.0 (30/06/2015)\n\n\n\n\nPayment module created", 
+            "title": "eNETS Integration"
+        }, 
+        {
+            "location": "/enets_integration/#enets-integration", 
+            "text": "Current Version: 3.0.0  Last Updated: 18 December 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "eNETS Integration"
+        }, 
+        {
+            "location": "/enets_integration/#description", 
+            "text": "OpenCart Singapore eNETS payment integration. Supports eNETS   eNETS QR. UMAPI Lite Integration no longer supported.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/enets_integration/#features", 
+            "text": "eNETS payment gateway integration  eNETS Credit, Debit   QR payment gateway  Activate payment module only when reaches the specific order total  Captures call back notification to automatically update order status  Sandbox mode for testing", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/enets_integration/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/enets_integration/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Payments . Then, install  eNETS Credit / Debit / QR . Configure extensions accordingly.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/enets_integration/#opencart-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Payments . Then, install  eNETS Credit / Debit / QR . Configure extension accordingly.", 
+            "title": "OpenCart 3"
+        }, 
+        {
+            "location": "/enets_integration/#opencart-2", 
+            "text": "Unzip the files.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Payments . Then, install  eNETS Credit / Debit / QR . Configure extension accordingly.", 
+            "title": "OpenCart 2"
+        }, 
+        {
+            "location": "/enets_integration/#opencart-15-phased-out", 
+            "text": "Unzip the files. Ensure that vQmod has been installed.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Payments . Then, install  eNETS Credit / Debit . Configure extension accordingly.", 
+            "title": "OpenCart 1.5 (Phased Out)"
+        }, 
+        {
+            "location": "/enets_integration/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/enets_integration/#opencart-15-2-3-cloud", 
+            "text": "Upon installing the respective payment modules you need, you will have to fill up your API details you have from eNETS. No additional configuration is required.", 
+            "title": "OpenCart 1.5, 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/enets_integration/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/enets_integration/#version-300-18122017", 
+            "text": "Added support for new eNETS API  Added QR payment support  Removed UMAPI Lite support", 
+            "title": "Version 3.0.0 (18/12/2017)"
+        }, 
+        {
+            "location": "/enets_integration/#version-200-28062017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Minor improvements and updates  Ceased support for OpenCart 1.5", 
+            "title": "Version 2.0.0 (28/06/2017)"
+        }, 
+        {
+            "location": "/enets_integration/#version-103-10072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Version 1.0.3 (10/07/2016)"
+        }, 
+        {
+            "location": "/enets_integration/#version-102-10032016", 
+            "text": "Fixed wrong path", 
+            "title": "Version 1.0.2 (10/03/2016)"
+        }, 
+        {
+            "location": "/enets_integration/#version-101-07032016", 
+            "text": "Fixed compatibility with OpenCart 2.2.0.0  Removed redundant codes", 
+            "title": "Version 1.0.1 (07/03/2016)"
+        }, 
+        {
+            "location": "/enets_integration/#version-100-30062015", 
+            "text": "Payment module created", 
+            "title": "Version 1.0.0 (30/06/2015)"
+        }, 
+        {
+            "location": "/facebook_comments/", 
+            "text": "Facebook Comments\n\n\n\n\nCurrent Version: 4.0.0\n\n\nLast Updated: 28 June 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nEver wanted to allow your customers to comment on your website with their Facebook account? Facebook Comments is just the extension you need. This extension will let your customers post a comment / review on your website with ease via popular social network, Facebook. This extension can be placed anywhere on your site, or even replace the OpenCart\u2019s review tab. The colour scheme, number of comments, and sorting of the comments are all customisable.\n\n\nFeatures\n\n\n\n\nDisplay Facebook Comments box\n\n\nPost comments/reviews on your website with a Facebook account\n\n\nComments can be moderated from your Facebook account\n\n\nCustomisable colour scheme (light / dark)\n\n\nCustomisable number of posts to display\n\n\nSort the comments according to time / reverse time / social relevance\n\n\nAble to display Facebook Comments in a tab on your product page\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nFacebook Comments\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nFacebook Comments\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nFacebook Comments\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5 2, 3 \n Cloud\n\n\n\n\n\n\nGetting Facebook App ID\n\n\n\n\nProceed to https://developers.facebook.com/apps.\n\n\nClick \u2018Add a New App\u2019.\n\n\nSelect \u2018Website\u2019 when asked for a platform.\n\n\nGive your app a name.\n\n\nSelect the category that best matches the app. Click \u2018Create App ID\u2019.\n\n\nSkip quick start and proceed to the app settings page.\n\n\nIn the settings tab, perform the following:\n\n\nFill in your \u2018App Domain\u2019. E.g. ('marketinsg.com' will do, do not add the 'www' or 'http://')\n\n\nAdd your \u2018Site URL\u2019 under \u2018Website\u2019.\n\n\nAdd a contact email.\n\n\n\n\n\n\nClick \u2018Save\u2019.\n\n\nProceed to the \u2018App Review\u2019 tab and change your app to public.\n\n\nGrab your \u2018Application ID\u2019 and fill it into our extension\u2019s configurations in your administration panel.\n\n\n\n\n\n\n\n\nChange Log\n\n\nVersion 4.0.0 (28/06/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nFixed minor bugs and improvements\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 3.1.2 (10/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 3.1.1 (28/04/2016)\n\n\n\n\nFixed incorrect directory name for loading template\n\n\n\n\nVersion 3.1.0 (08/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\nNew administration interface for OpenCart 1.5.x\n\n\n\n\nVersion 3.0.2 (23/04/2015)\n\n\n\n\nFixed compatibility with OpenCart 2.0.2.0 mail\n\n\n\n\nVersion 3.0.1 (10/10/2014)\n\n\n\n\nUpdated support Facebook link\n\n\n\n\nVersion 3.0.0 (10/10/2014)\n\n\n\n\nOC 2 compatibility\n\n\nAdded sort comments\n\n\nAdded display in tab feature\n\n\nFixed responsive comment box\n\n\n\n\nVersion 2.1.0 (08/01/2013)\n\n\n\n\nOpenCart v1.5.5 compatibility \n\n\n\n\nVersion 2.0.0 (17/08/2012)\n\n\n\n\nAdded moderation function", 
+            "title": "Facebook Comments"
+        }, 
+        {
+            "location": "/facebook_comments/#facebook-comments", 
+            "text": "Current Version: 4.0.0  Last Updated: 28 June 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "Facebook Comments"
+        }, 
+        {
+            "location": "/facebook_comments/#description", 
+            "text": "Ever wanted to allow your customers to comment on your website with their Facebook account? Facebook Comments is just the extension you need. This extension will let your customers post a comment / review on your website with ease via popular social network, Facebook. This extension can be placed anywhere on your site, or even replace the OpenCart\u2019s review tab. The colour scheme, number of comments, and sorting of the comments are all customisable.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/facebook_comments/#features", 
+            "text": "Display Facebook Comments box  Post comments/reviews on your website with a Facebook account  Comments can be moderated from your Facebook account  Customisable colour scheme (light / dark)  Customisable number of posts to display  Sort the comments according to time / reverse time / social relevance  Able to display Facebook Comments in a tab on your product page", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/facebook_comments/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/facebook_comments/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Facebook Comments . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Please view configuration details below.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/facebook_comments/#opencart-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Facebook Comments . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Please view configuration details below.", 
+            "title": "OpenCart 3"
+        }, 
+        {
+            "location": "/facebook_comments/#opencart-15-2", 
+            "text": "Unzip the files. Ensure that vQmod has been installed.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Facebook Comments . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 1.5 &amp; 2"
+        }, 
+        {
+            "location": "/facebook_comments/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/facebook_comments/#opencart-15-2-3-cloud", 
+            "text": "Getting Facebook App ID   Proceed to https://developers.facebook.com/apps.  Click \u2018Add a New App\u2019.  Select \u2018Website\u2019 when asked for a platform.  Give your app a name.  Select the category that best matches the app. Click \u2018Create App ID\u2019.  Skip quick start and proceed to the app settings page.  In the settings tab, perform the following:  Fill in your \u2018App Domain\u2019. E.g. ('marketinsg.com' will do, do not add the 'www' or 'http://')  Add your \u2018Site URL\u2019 under \u2018Website\u2019.  Add a contact email.    Click \u2018Save\u2019.  Proceed to the \u2018App Review\u2019 tab and change your app to public.  Grab your \u2018Application ID\u2019 and fill it into our extension\u2019s configurations in your administration panel.", 
+            "title": "OpenCart 1.5 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/facebook_comments/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/facebook_comments/#version-400-28062017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Fixed minor bugs and improvements  Ceased support for OpenCart 1.5", 
+            "title": "Version 4.0.0 (28/06/2017)"
+        }, 
+        {
+            "location": "/facebook_comments/#version-312-10072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Version 3.1.2 (10/07/2016)"
+        }, 
+        {
+            "location": "/facebook_comments/#version-311-28042016", 
+            "text": "Fixed incorrect directory name for loading template", 
+            "title": "Version 3.1.1 (28/04/2016)"
+        }, 
+        {
+            "location": "/facebook_comments/#version-310-08032016", 
+            "text": "Fixed compatibility with OpenCart 2.2.0.0  New administration interface for OpenCart 1.5.x", 
+            "title": "Version 3.1.0 (08/03/2016)"
+        }, 
+        {
+            "location": "/facebook_comments/#version-302-23042015", 
+            "text": "Fixed compatibility with OpenCart 2.0.2.0 mail", 
+            "title": "Version 3.0.2 (23/04/2015)"
+        }, 
+        {
+            "location": "/facebook_comments/#version-301-10102014", 
+            "text": "Updated support Facebook link", 
+            "title": "Version 3.0.1 (10/10/2014)"
+        }, 
+        {
+            "location": "/facebook_comments/#version-300-10102014", 
+            "text": "OC 2 compatibility  Added sort comments  Added display in tab feature  Fixed responsive comment box", 
+            "title": "Version 3.0.0 (10/10/2014)"
+        }, 
+        {
+            "location": "/facebook_comments/#version-210-08012013", 
+            "text": "OpenCart v1.5.5 compatibility", 
+            "title": "Version 2.1.0 (08/01/2013)"
+        }, 
+        {
+            "location": "/facebook_comments/#version-200-17082012", 
+            "text": "Added moderation function", 
+            "title": "Version 2.0.0 (17/08/2012)"
+        }, 
+        {
+            "location": "/facebook_login/", 
+            "text": "Facebook Login\n\n\n\n\nCurrent Version: 2.0.0\n\n\nLast Updated: 28 June 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nFacebook login is a quick and popular login method. Integrating your store\u2019s login with Facebook will give you an edge over your competitors\u2019 websites. This extension allows your customer to login with Facebook and supports OpenCart multi-store and multi-language feature.\n\n\nFeatures\n\n\n\n\nAllow Facebook login on your store\n\n\nAllow user to create an account on your website with one click\n\n\nDoes not override account details if user is already a customer\n\n\nRedirects back to current page they were viewing for registered customers\n\n\nCustomisable button, heading, and display text.\n\n\nMulti language buttons and texts\n\n\nMulti store login supported\n\n\nSet Facebook registered customers to a specific customer group\n\n\nSet button alignment\n\n\nOptionally display a module box around the button\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nFacebook Login\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 2 \n 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nFacebook Login\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5\n\n\n\n\nUnzip the files.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nFacebook Login\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5 2, 3 \n Cloud\n\n\n\n\n\n\nGetting Facebook App ID\n\n\n\n\nProceed to https://developers.facebook.com/apps.\n\n\nClick \u2018Add a New App\u2019.\n\n\nSelect \u2018Website\u2019 when asked for a platform.\n\n\nGive your app a name.\n\n\nSelect the category that best matches the app. Click \u2018Create App ID\u2019.\n\n\nSkip quick start and proceed to the app settings page.\n\n\nIn the settings tab, perform the following:\n\n\nFill in your \u2018App Domain\u2019. E.g. ('marketinsg.com' will do, do not add the 'www' or 'http://')\n\n\nAdd your \u2018Site URL\u2019 under \u2018Website\u2019.\n\n\nAdd a contact email.\n\n\n\n\n\n\nClick \u2018Save\u2019.\n\n\nProceed to the \u2018App Review\u2019 tab and change your app to public.\n\n\nGrab your \u2018Application ID\u2019 and fill it into our extension\u2019s configurations in your administration panel.\n\n\n\n\n\n\n\n\nChange Log\n\n\nVersion 2.0.0 (28/06/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nFixed minor bugs and improvements\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 1.2.8 (11/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 1.2.7 (20/05/2016)\n\n\n\n\nFixed login authentication not working\n\n\n\n\nVersion 1.2.6 (11/04/2016)\n\n\n\n\nFixed issue where customers can register without email\n\n\n\n\nVersion 1.2.5 (07/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\nUpdated installation manual\n\n\n\n\nVersion 1.2.4 (10/10/2015)\n\n\n\n\nFixed compatibility with OpenCart 2.1.0.0\n\n\n\n\nVersion 1.2.3 (16/08/2015)\n\n\n\n\nFixed issue with Facebook API 2.4\n\n\n\n\nVersion 1.2.2 (23/04/2015)\n\n\n\n\nFixed compatibility with OpenCart 2.0.2.0 mail\n\n\n\n\nVersion 1.2.1 (22/12/2014)\n\n\n\n\nFixed Facebook support link\n\n\n\n\nVersion 1.2.0 (10/10/2014)\n\n\n\n\nFixed compatibility with OpenCart 2.0.0.0\n\n\n\n\nVersion 1.1.1 (18/04/2014)\n\n\n\n\nAdded redirection back to previous page customer was viewing\n\n\n\n\nVersion 1.1.0 (22/11/2013)\n\n\n\n\nAdded multi store support\n\n\n\n\nVersion 1.0.0 (20/11/2013)\n\n\n\n\nModule created", 
+            "title": "Facebook Login"
+        }, 
+        {
+            "location": "/facebook_login/#facebook-login", 
+            "text": "Current Version: 2.0.0  Last Updated: 28 June 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "Facebook Login"
+        }, 
+        {
+            "location": "/facebook_login/#description", 
+            "text": "Facebook login is a quick and popular login method. Integrating your store\u2019s login with Facebook will give you an edge over your competitors\u2019 websites. This extension allows your customer to login with Facebook and supports OpenCart multi-store and multi-language feature.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/facebook_login/#features", 
+            "text": "Allow Facebook login on your store  Allow user to create an account on your website with one click  Does not override account details if user is already a customer  Redirects back to current page they were viewing for registered customers  Customisable button, heading, and display text.  Multi language buttons and texts  Multi store login supported  Set Facebook registered customers to a specific customer group  Set button alignment  Optionally display a module box around the button", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/facebook_login/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/facebook_login/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Facebook Login . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/facebook_login/#opencart-2-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Facebook Login . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 2 &amp; 3"
+        }, 
+        {
+            "location": "/facebook_login/#opencart-15", 
+            "text": "Unzip the files.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Facebook Login . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 1.5"
+        }, 
+        {
+            "location": "/facebook_login/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/facebook_login/#opencart-15-2-3-cloud", 
+            "text": "Getting Facebook App ID   Proceed to https://developers.facebook.com/apps.  Click \u2018Add a New App\u2019.  Select \u2018Website\u2019 when asked for a platform.  Give your app a name.  Select the category that best matches the app. Click \u2018Create App ID\u2019.  Skip quick start and proceed to the app settings page.  In the settings tab, perform the following:  Fill in your \u2018App Domain\u2019. E.g. ('marketinsg.com' will do, do not add the 'www' or 'http://')  Add your \u2018Site URL\u2019 under \u2018Website\u2019.  Add a contact email.    Click \u2018Save\u2019.  Proceed to the \u2018App Review\u2019 tab and change your app to public.  Grab your \u2018Application ID\u2019 and fill it into our extension\u2019s configurations in your administration panel.", 
+            "title": "OpenCart 1.5 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/facebook_login/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/facebook_login/#version-200-28062017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Fixed minor bugs and improvements  Ceased support for OpenCart 1.5", 
+            "title": "Version 2.0.0 (28/06/2017)"
+        }, 
+        {
+            "location": "/facebook_login/#version-128-11072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Version 1.2.8 (11/07/2016)"
+        }, 
+        {
+            "location": "/facebook_login/#version-127-20052016", 
+            "text": "Fixed login authentication not working", 
+            "title": "Version 1.2.7 (20/05/2016)"
+        }, 
+        {
+            "location": "/facebook_login/#version-126-11042016", 
+            "text": "Fixed issue where customers can register without email", 
+            "title": "Version 1.2.6 (11/04/2016)"
+        }, 
+        {
+            "location": "/facebook_login/#version-125-07032016", 
+            "text": "Fixed compatibility with OpenCart 2.2.0.0  Updated installation manual", 
+            "title": "Version 1.2.5 (07/03/2016)"
+        }, 
+        {
+            "location": "/facebook_login/#version-124-10102015", 
+            "text": "Fixed compatibility with OpenCart 2.1.0.0", 
+            "title": "Version 1.2.4 (10/10/2015)"
+        }, 
+        {
+            "location": "/facebook_login/#version-123-16082015", 
+            "text": "Fixed issue with Facebook API 2.4", 
+            "title": "Version 1.2.3 (16/08/2015)"
+        }, 
+        {
+            "location": "/facebook_login/#version-122-23042015", 
+            "text": "Fixed compatibility with OpenCart 2.0.2.0 mail", 
+            "title": "Version 1.2.2 (23/04/2015)"
+        }, 
+        {
+            "location": "/facebook_login/#version-121-22122014", 
+            "text": "Fixed Facebook support link", 
+            "title": "Version 1.2.1 (22/12/2014)"
+        }, 
+        {
+            "location": "/facebook_login/#version-120-10102014", 
+            "text": "Fixed compatibility with OpenCart 2.0.0.0", 
+            "title": "Version 1.2.0 (10/10/2014)"
+        }, 
+        {
+            "location": "/facebook_login/#version-111-18042014", 
+            "text": "Added redirection back to previous page customer was viewing", 
+            "title": "Version 1.1.1 (18/04/2014)"
+        }, 
+        {
+            "location": "/facebook_login/#version-110-22112013", 
+            "text": "Added multi store support", 
+            "title": "Version 1.1.0 (22/11/2013)"
+        }, 
+        {
+            "location": "/facebook_login/#version-100-20112013", 
+            "text": "Module created", 
+            "title": "Version 1.0.0 (20/11/2013)"
+        }, 
+        {
+            "location": "/facebook_share/", 
+            "text": "Facebook Share\n\n\n\n\nCurrent Version: 2.0.0\n\n\nLast Updated: 28 June 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nAre you looking to share your website with everyone around the world quickly but do not have a large budget for advertisements? How about a viral marketing strategy? Offer your customers a coupon on your store for every Facebook post they share with their friends! This extension issues your customer a coupon automatically for each share.\n\n\nFeatures\n\n\n\n\nSelect your own text and image for your customers to share on the post\n\n\nSelect your own link for your customers to share on the post\n\n\nCustomise your own coupons to issue\n\n\nOptional display of container box\n\n\nOptional display of text under share button\n\n\nIP Address tracking to restrict maximum number of coupons claimable per person\n\n\nAble to limit the total number of coupons to be given out in total\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nFacebook Share\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 2 \n 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nFacebook Share\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nFacebook Share\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5 2, 3 \n Cloud\n\n\n\n\n\n\nGetting Facebook App ID\n\n\n\n\nProceed to https://developers.facebook.com/apps.\n\n\nClick \u2018Add a New App\u2019.\n\n\nSelect \u2018Website\u2019 when asked for a platform.\n\n\nGive your app a name.\n\n\nSelect the category that best matches the app. Click \u2018Create App ID\u2019.\n\n\nSkip quick start and proceed to the app settings page.\n\n\nIn the settings tab, perform the following:\n\n\nFill in your \u2018App Domain\u2019. E.g. ('marketinsg.com' will do, do not add the 'www' or 'http://')\n\n\nAdd your \u2018Site URL\u2019 under \u2018Website\u2019.\n\n\nAdd a contact email.\n\n\n\n\n\n\nClick \u2018Save\u2019.\n\n\nProceed to the \u2018App Review\u2019 tab and change your app to public.\n\n\nGrab your \u2018Application ID\u2019 and fill it into our extension\u2019s configurations in your administration panel.\n\n\n\n\n\n\n\n\nChange Log\n\n\nVersion 2.0.0 (28/06/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nFixed minor bugs and improvements\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 1.4.3 (29/11/2016)\n\n\n\n\nFixed minor bugs with OpenCart 2.3.0.0 release\n\n\n\n\nVersion 1.4.2 (11/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 1.4.1 (09/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\n\n\nVersion 1.4.0 (17/06/2015)\n\n\n\n\nLicensing system\n\n\nMinor improvements to use ajax to unset coupon\n\n\n\n\nVersion 1.3.2 (23/04/2015)\n\n\n\n\nOC 2.0.2.0 mail support compatibility fix\n\n\n\n\nVersion 1.3.1 (22/12/2014)\n\n\n\n\nUpdate support Facebook link\n\n\n\n\nVersion 1.3.0 (10/10/2014)\n\n\n\n\nOC 2 compatibility\n\n\nSupport coupon categories\n\n\n\n\nVersion 1.2.1 (14/04/2014)\n\n\n\n\nBack date 2 days for coupon date start\n\n\nUpdated creating an app instructions\n\n\n\n\nVersion 1.2.1 (17/11/2013)\n\n\n\n\nBug fixes\n\n\n\n\nVersion 1.2.0 (08/01/2013)\n\n\n\n\nOpenCart v1.5.5 compatibility\n\n\n\n\nVersion 1.1.0 (05/09/2012)\n\n\n\n\nMinor bug fixes", 
+            "title": "Facebook Share"
+        }, 
+        {
+            "location": "/facebook_share/#facebook-share", 
+            "text": "Current Version: 2.0.0  Last Updated: 28 June 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "Facebook Share"
+        }, 
+        {
+            "location": "/facebook_share/#description", 
+            "text": "Are you looking to share your website with everyone around the world quickly but do not have a large budget for advertisements? How about a viral marketing strategy? Offer your customers a coupon on your store for every Facebook post they share with their friends! This extension issues your customer a coupon automatically for each share.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/facebook_share/#features", 
+            "text": "Select your own text and image for your customers to share on the post  Select your own link for your customers to share on the post  Customise your own coupons to issue  Optional display of container box  Optional display of text under share button  IP Address tracking to restrict maximum number of coupons claimable per person  Able to limit the total number of coupons to be given out in total", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/facebook_share/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/facebook_share/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Facebook Share . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Please view configuration details below.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/facebook_share/#opencart-2-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Facebook Share . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Please view configuration details below.", 
+            "title": "OpenCart 2 &amp; 3"
+        }, 
+        {
+            "location": "/facebook_share/#opencart-15", 
+            "text": "Unzip the files. Ensure that vQmod has been installed.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Facebook Share . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 1.5"
+        }, 
+        {
+            "location": "/facebook_share/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/facebook_share/#opencart-15-2-3-cloud", 
+            "text": "Getting Facebook App ID   Proceed to https://developers.facebook.com/apps.  Click \u2018Add a New App\u2019.  Select \u2018Website\u2019 when asked for a platform.  Give your app a name.  Select the category that best matches the app. Click \u2018Create App ID\u2019.  Skip quick start and proceed to the app settings page.  In the settings tab, perform the following:  Fill in your \u2018App Domain\u2019. E.g. ('marketinsg.com' will do, do not add the 'www' or 'http://')  Add your \u2018Site URL\u2019 under \u2018Website\u2019.  Add a contact email.    Click \u2018Save\u2019.  Proceed to the \u2018App Review\u2019 tab and change your app to public.  Grab your \u2018Application ID\u2019 and fill it into our extension\u2019s configurations in your administration panel.", 
+            "title": "OpenCart 1.5 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/facebook_share/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/facebook_share/#version-200-28062017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Fixed minor bugs and improvements  Ceased support for OpenCart 1.5", 
+            "title": "Version 2.0.0 (28/06/2017)"
+        }, 
+        {
+            "location": "/facebook_share/#version-143-29112016", 
+            "text": "Fixed minor bugs with OpenCart 2.3.0.0 release", 
+            "title": "Version 1.4.3 (29/11/2016)"
+        }, 
+        {
+            "location": "/facebook_share/#version-142-11072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Version 1.4.2 (11/07/2016)"
+        }, 
+        {
+            "location": "/facebook_share/#version-141-09032016", 
+            "text": "Fixed compatibility with OpenCart 2.2.0.0", 
+            "title": "Version 1.4.1 (09/03/2016)"
+        }, 
+        {
+            "location": "/facebook_share/#version-140-17062015", 
+            "text": "Licensing system  Minor improvements to use ajax to unset coupon", 
+            "title": "Version 1.4.0 (17/06/2015)"
+        }, 
+        {
+            "location": "/facebook_share/#version-132-23042015", 
+            "text": "OC 2.0.2.0 mail support compatibility fix", 
+            "title": "Version 1.3.2 (23/04/2015)"
+        }, 
+        {
+            "location": "/facebook_share/#version-131-22122014", 
+            "text": "Update support Facebook link", 
+            "title": "Version 1.3.1 (22/12/2014)"
+        }, 
+        {
+            "location": "/facebook_share/#version-130-10102014", 
+            "text": "OC 2 compatibility  Support coupon categories", 
+            "title": "Version 1.3.0 (10/10/2014)"
+        }, 
+        {
+            "location": "/facebook_share/#version-121-14042014", 
+            "text": "Back date 2 days for coupon date start  Updated creating an app instructions", 
+            "title": "Version 1.2.1 (14/04/2014)"
+        }, 
+        {
+            "location": "/facebook_share/#version-121-17112013", 
+            "text": "Bug fixes", 
+            "title": "Version 1.2.1 (17/11/2013)"
+        }, 
+        {
+            "location": "/facebook_share/#version-120-08012013", 
+            "text": "OpenCart v1.5.5 compatibility", 
+            "title": "Version 1.2.0 (08/01/2013)"
+        }, 
+        {
+            "location": "/facebook_share/#version-110-05092012", 
+            "text": "Minor bug fixes", 
+            "title": "Version 1.1.0 (05/09/2012)"
+        }, 
+        {
             "location": "/follow_up_email/", 
             "text": "Follow Up Email\n\n\n\n\nCurrent Version: 4.0.1\n\n\nLast Updated: 03 December 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nFollowing up with your customers after they have made an order is the best customer service you can provide. This extension allows you to automatically send out an email to your customers after their order status reaches the specific status you specify. Ask them to review your products, to like your Facebook page, or anything you can think of.\n\n\nFeatures\n\n\n\n\nSetup multiple email templates\n\n\nMulti-store \n multi-language supported\n\n\nCustomisable subject \n email content\n\n\nCustomisable order status to send email\n\n\nCustomisable conditions to send email (duration after order, order status to reach, order total to reach, order date from, products required)\n\n\nDisplay the ordered products in the email message\n\n\nSet up cron job to automate sending of the emails\n\n\nGenerate coupon to attach with the email\n\n\nKeep a log of all emails sent\n\n\nAllow customers to unsubscribe for the follow up emails\n\n\nStatistic dashboard to give an overview of the follow ups\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nFollow Up Email\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nFollow Up Email\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nFollow Up Email\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\n\n\n\n\nModule Configurations\n\n\n\n\nAll configurations for the extension is located within one single page. You can navigate between the tabs for email configurations to viewing the statistics.\n\n\n\n\n\n\nConfiguring Email Templates\n\n\nGet started by configuring the email templates. Each configuration is exaplined below.\n\n\nName\n\n\nThis is for internal identification of the email template.\n\n\nSubject\n\n\nThis will be the subject of the email you are sending out.\n\n\nMessage\n\n\nFill up the email content to be sent out.\n\n\nBCC Emails\n\n\nYou can setup extra BCC emails, comma separated (e.g. test@web.com,test1@web.com)\n\n\nDelay\n\n\nConfigure the number of days the email template should wait before sending out this email. The date order is added is considered day 0. Minimum of 1 day wait is required.\n\n\nOrder Status to Reach\n\n\nConfigure the order status the order must be at for the email template to send an email out.\n\n\nOrder Total to Reach\n\n\nConfigure the order total the order must be more than or equal to for the email template to send an email out.\n\n\nOrder Date From\n\n\nConfigure the date for orders past the set date for the email template to send an email out. This is useful if you just installed this extension with many old orders.\n\n\nProducts Required\n\n\nConfigure the products required in the order for the email template to send an email out.\n\n\nGenerate Coupon\n\n\nConfigure the coupon the system should generate along with the email to be sent out. You will need to add the coupon code into the email template using the template code provided.\n\n\nCoupon Duration\n\n\nConfigure the validity duration for the coupon.\n\n\n\n\n\n\n\n\nSetting Up Cron Job\n\n\nSetup a cron job task to automate the export. The cron job command is provided in your admin dashboard. Please copy it and setup your cron job task accordingly in your cPanel.\n\n\n\n\n\n\nChange Log\n\n\nVersion 4.0.1 (03/12/2017)\n\n\n\n\nFixed minor bug for OpenCart 1.5 to OpenCart 2.2.x release\n\n\n\n\nVersion 4.0.0 (17/11/2017)\n\n\n\n\nRebuilt of the extension\n\n\nAdded ability to have multiple email templates\n\n\nAdded multi-store support\n\n\nAdded order total restriction\n\n\nAdded order date restriction\n\n\nAdded product restriction\n\n\nAdded coupon generation feature\n\n\nAdded email logs\n\n\nAdded coupon and statistics\n\n\nAdded unsubscribe feature\n\n\n\n\nVersion 3.0.0 (30/06/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 2.5.1 (11/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 2.5.0 (07/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\nAdded ability to list orders not yet sent\n\n\n\n\nVersion 2.4.1 (22/06/2015)\n\n\n\n\nFixed minor bugs for OpenCart 2.0.0.0\n\n\n\n\nVersion 2.4.0 (15/05/2015)\n\n\n\n\nImproved admin interface\n\n\n\n\nVersion 2.3.2 (23/04/2015)\n\n\n\n\nFixed mail compatibility with OpenCart 2.0.2.0\n\n\n\n\nVersion 2.3.1 (22/12/2014)\n\n\n\n\nFixed Facebook support link\n\n\n\n\nVersion 2.3.0 (13/10/2014)\n\n\n\n\nOC 2 compatibility\n\n\n\n\nVersion 2.2.0 (04/12/2013)\n\n\n\n\nAllow users to mark orders sent\n\n\nAllows order ID to be placed in subject\n\n\n\n\nVersion 2.1.0 (25/05/2013)\n\n\n\n\nAllows display of purchased products\n\n\nBug fixes\n\n\n\n\nVersion 2.0.0 (21/04/2013)\n\n\n\n\nMulti language support\n\n\nOrder status selection", 
             "title": "Follow Up Email"
