@@ -1,34 +1,54 @@
 pages:
     - Home: 'index.md'
     - Products:
-        - Add to Cart Notification: 'add_to_cart_notification.md'
-        - Auto Reward Points: 'auto_reward_points.md'
-        - Auto Translate: 'auto_translate.md'
-        - Canned Messages: 'canned_messages.md'
-        - Clean SEO URL: 'clean_seo_url.md'
-        - Colour Code: 'colour_code.md'
-        - Colour Picker: 'colour_picker.md'
-        - Country IP Rules: 'country_ip_rules.md'
-        - Coupon Manager: 'coupon_manager.md'
-        - Custom Product Fields: 'custom_product_fields.md'
-        - Customer Group Membership: 'customer_group_membership.md'
-        - Customer Group Restrictions: 'customer_group_restrictions.md'
-        - Default Option Value: 'default_option_value.md'
-        - Dependent Options: 'dependent_options.md'
-        - Disable Products: 'disable_products.md'
-        - eNETS Integration: 'enets_integration.md'
-        - Facebook Comments: 'facebook_comments.md'
-        - Facebook Login: 'facebook_login.md'
-        - Facebook Share: 'facebook_share.md'
-        - Feature Categories: 'feature_categories.md'
-        - Follow Up Email: 'follow_up_email.md'
-        - Footer Position: 'footer_position.md'
-        - Hover Image: 'hover_image.md'
-        - Option Image: 'option_image.md'
-        - Quick Checkout: 'quick_checkout.md'
-        - Recover Abandoned Cart: 'recover_abandoned_cart.md'
-        - Shopping Cart: 'shopping_cart.md'
-        - Xero Integration: 'xero_integration.md'
+        - A:
+            - Add to Cart Notification: 'add_to_cart_notification.md'
+            - Auto Reward Points: 'auto_reward_points.md'
+            - Auto Translate: 'auto_translate.md'
+        - C:
+            - Canned Messages: 'canned_messages.md'
+            - Clean SEO URL: 'clean_seo_url.md'
+            - Colour Code: 'colour_code.md'
+            - Colour Picker: 'colour_picker.md'
+            - Country IP Rules: 'country_ip_rules.md'
+            - Coupon Manager: 'coupon_manager.md'
+            - Custom Product Fields: 'custom_product_fields.md'
+            - Customer Group Membership: 'customer_group_membership.md'
+            - Customer Group Restrictions: 'customer_group_restrictions.md'
+        - D:
+            - Default Option Value: 'default_option_value.md'
+            - Dependent Options: 'dependent_options.md'
+            - Disable Products: 'disable_products.md'
+        - E:
+            - eNETS Integration: 'enets_integration.md'
+        - F:
+            - Facebook Comments: 'facebook_comments.md'
+            - Facebook Login: 'facebook_login.md'
+            - Facebook Share: 'facebook_share.md'
+            - Feature Categories: 'feature_categories.md'
+            - Follow Up Email: 'follow_up_email.md'
+            - Footer Position: 'footer_position.md'
+        - H:
+            - Hover Image: 'hover_image.md'
+        - I:
+            - Image Crop: 'image_crop.md'
+        - L:
+            - Live Price Update: 'live_price_update.md'
+            - Logic Message Integration: 'logic_message_integration.md'
+        - M:
+            - Main Image: 'main_image.md'
+            - Marquee Text: 'marquee_text.md'
+            - Mass Order History Update: 'mass_order_history_update.md'
+        - O:
+            - Option Image: 'option_image.md'
+        - Q:
+            - Quick Checkout: 'quick_checkout.md'
+        - R:
+            - Recover Abandoned Cart: 'recover_abandoned_cart.md'
+        - S:
+            - Shopping Cart: 'shopping_cart.md'
+        - X:
+            - Xero Integration: 'xero_integration.md'
 site_name: MarketInSG Documentations
 site_description: MarketInSG product documentations - OpenCart extensions Singapore.
 copyright: MarketInSG &copy; 2017
