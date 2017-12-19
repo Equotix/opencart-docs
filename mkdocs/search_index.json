@@ -1632,7 +1632,7 @@
         }, 
         {
             "location": "/facebook_comments/", 
-            "text": "Facebook Comments\n\n\n\n\nCurrent Version: 4.0.0\n\n\nLast Updated: 28 June 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nEver wanted to allow your customers to comment on your website with their Facebook account? Facebook Comments is just the extension you need. This extension will let your customers post a comment / review on your website with ease via popular social network, Facebook. This extension can be placed anywhere on your site, or even replace the OpenCart\u2019s review tab. The colour scheme, number of comments, and sorting of the comments are all customisable.\n\n\nFeatures\n\n\n\n\nDisplay Facebook Comments box\n\n\nPost comments/reviews on your website with a Facebook account\n\n\nComments can be moderated from your Facebook account\n\n\nCustomisable colour scheme (light / dark)\n\n\nCustomisable number of posts to display\n\n\nSort the comments according to time / reverse time / social relevance\n\n\nAble to display Facebook Comments in a tab on your product page\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nFacebook Comments\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nFacebook Comments\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nFacebook Comments\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5 2, 3 \n Cloud\n\n\n\n\n\n\nGetting Facebook App ID\n\n\n\n\nProceed to https://developers.facebook.com/apps.\n\n\nClick \u2018Add a New App\u2019.\n\n\nSelect \u2018Website\u2019 when asked for a platform.\n\n\nGive your app a name.\n\n\nSelect the category that best matches the app. Click \u2018Create App ID\u2019.\n\n\nSkip quick start and proceed to the app settings page.\n\n\nIn the settings tab, perform the following:\n\n\nFill in your \u2018App Domain\u2019. E.g. ('marketinsg.com' will do, do not add the 'www' or 'http://')\n\n\nAdd your \u2018Site URL\u2019 under \u2018Website\u2019.\n\n\nAdd a contact email.\n\n\n\n\n\n\nClick \u2018Save\u2019.\n\n\nProceed to the \u2018App Review\u2019 tab and change your app to public.\n\n\nGrab your \u2018Application ID\u2019 and fill it into our extension\u2019s configurations in your administration panel.\n\n\n\n\n\n\n\n\nChange Log\n\n\nVersion 4.0.0 (28/06/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nFixed minor bugs and improvements\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 3.1.2 (10/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 3.1.1 (28/04/2016)\n\n\n\n\nFixed incorrect directory name for loading template\n\n\n\n\nVersion 3.1.0 (08/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\nNew administration interface for OpenCart 1.5.x\n\n\n\n\nVersion 3.0.2 (23/04/2015)\n\n\n\n\nFixed compatibility with OpenCart 2.0.2.0 mail\n\n\n\n\nVersion 3.0.1 (10/10/2014)\n\n\n\n\nUpdated support Facebook link\n\n\n\n\nVersion 3.0.0 (10/10/2014)\n\n\n\n\nOC 2 compatibility\n\n\nAdded sort comments\n\n\nAdded display in tab feature\n\n\nFixed responsive comment box\n\n\n\n\nVersion 2.1.0 (08/01/2013)\n\n\n\n\nOpenCart v1.5.5 compatibility \n\n\n\n\nVersion 2.0.0 (17/08/2012)\n\n\n\n\nAdded moderation function", 
+            "text": "Facebook Comments\n\n\n\n\nCurrent Version: 4.0.0\n\n\nLast Updated: 28 June 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nEver wanted to allow your customers to comment on your website with their Facebook account? Facebook Comments is just the extension you need. This extension will let your customers post a comment / review on your website with ease via popular social network, Facebook. This extension can be placed anywhere on your site, or even replace the OpenCart\u2019s review tab. The colour scheme, number of comments, and sorting of the comments are all customisable.\n\n\nFeatures\n\n\n\n\nDisplay Facebook Comments box\n\n\nPost comments/reviews on your website with a Facebook account\n\n\nComments can be moderated from your Facebook account\n\n\nCustomisable colour scheme (light / dark)\n\n\nCustomisable number of posts to display\n\n\nSort the comments according to time / reverse time / social relevance\n\n\nAble to display Facebook Comments in a tab on your product page\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nFacebook Comments\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nFacebook Comments\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nFacebook Comments\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nGetting Facebook App ID\n\n\nYou will need a Facebook account to setup your Facebook App ID.\n\n\n\n\nProceed to https://developers.facebook.com/apps.\n\n\nClick \u2018Add a New App\u2019.\n\n\nSelect \u2018Website\u2019 when asked for a platform.\n\n\nGive your app a name.\n\n\nSelect the category that best matches the app. Click \u2018Create App ID\u2019.\n\n\nSkip quick start and proceed to the app settings page.\n\n\nIn the settings tab, perform the following:\n\n\nFill in your \u2018App Domain\u2019. E.g. ('marketinsg.com' will do, do not add the 'www' or 'http://')\n\n\nAdd your \u2018Site URL\u2019 under \u2018Website\u2019.\n\n\nAdd a contact email.\n\n\n\n\n\n\nClick \u2018Save\u2019.\n\n\nProceed to the \u2018App Review\u2019 tab and change your app to public.\n\n\nGrab your \u2018Application ID\u2019 and fill it into our extension\u2019s configurations in your administration panel.\n\n\n\n\nOpenCart 2, 3 \n Cloud\n\n\n\n\n\n\nAdding Module to Layout\n\n\nOnce you have installed and enabled the extension, you can add the extension to your layout through the OpenCart's layout management page.\n\n\n\n\n\n\n\n\nOpenCart 1.5\n\n\n\n\n\n\nAdding Module to Layout\n\n\nOnce you have installed the extension, you can add the extension to your layout through the Facebook Comments module settings page itself.\n\n\n\n\n\n\nChange Log\n\n\nVersion 4.0.0 (28/06/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nFixed minor bugs and improvements\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 3.1.2 (10/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 3.1.1 (28/04/2016)\n\n\n\n\nFixed incorrect directory name for loading template\n\n\n\n\nVersion 3.1.0 (08/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\nNew administration interface for OpenCart 1.5.x\n\n\n\n\nVersion 3.0.2 (23/04/2015)\n\n\n\n\nFixed compatibility with OpenCart 2.0.2.0 mail\n\n\n\n\nVersion 3.0.1 (10/10/2014)\n\n\n\n\nUpdated support Facebook link\n\n\n\n\nVersion 3.0.0 (10/10/2014)\n\n\n\n\nOC 2 compatibility\n\n\nAdded sort comments\n\n\nAdded display in tab feature\n\n\nFixed responsive comment box\n\n\n\n\nVersion 2.1.0 (08/01/2013)\n\n\n\n\nOpenCart v1.5.5 compatibility \n\n\n\n\nVersion 2.0.0 (17/08/2012)\n\n\n\n\nAdded moderation function", 
             "title": "Facebook Comments"
         }, 
         {
@@ -1676,9 +1676,19 @@
             "title": "Configurations"
         }, 
         {
-            "location": "/facebook_comments/#opencart-15-2-3-cloud", 
-            "text": "Getting Facebook App ID   Proceed to https://developers.facebook.com/apps.  Click \u2018Add a New App\u2019.  Select \u2018Website\u2019 when asked for a platform.  Give your app a name.  Select the category that best matches the app. Click \u2018Create App ID\u2019.  Skip quick start and proceed to the app settings page.  In the settings tab, perform the following:  Fill in your \u2018App Domain\u2019. E.g. ('marketinsg.com' will do, do not add the 'www' or 'http://')  Add your \u2018Site URL\u2019 under \u2018Website\u2019.  Add a contact email.    Click \u2018Save\u2019.  Proceed to the \u2018App Review\u2019 tab and change your app to public.  Grab your \u2018Application ID\u2019 and fill it into our extension\u2019s configurations in your administration panel.", 
-            "title": "OpenCart 1.5 2, 3 &amp; Cloud"
+            "location": "/facebook_comments/#getting-facebook-app-id", 
+            "text": "You will need a Facebook account to setup your Facebook App ID.   Proceed to https://developers.facebook.com/apps.  Click \u2018Add a New App\u2019.  Select \u2018Website\u2019 when asked for a platform.  Give your app a name.  Select the category that best matches the app. Click \u2018Create App ID\u2019.  Skip quick start and proceed to the app settings page.  In the settings tab, perform the following:  Fill in your \u2018App Domain\u2019. E.g. ('marketinsg.com' will do, do not add the 'www' or 'http://')  Add your \u2018Site URL\u2019 under \u2018Website\u2019.  Add a contact email.    Click \u2018Save\u2019.  Proceed to the \u2018App Review\u2019 tab and change your app to public.  Grab your \u2018Application ID\u2019 and fill it into our extension\u2019s configurations in your administration panel.", 
+            "title": "Getting Facebook App ID"
+        }, 
+        {
+            "location": "/facebook_comments/#opencart-2-3-cloud", 
+            "text": "Adding Module to Layout  Once you have installed and enabled the extension, you can add the extension to your layout through the OpenCart's layout management page.", 
+            "title": "OpenCart 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/facebook_comments/#opencart-15", 
+            "text": "Adding Module to Layout  Once you have installed the extension, you can add the extension to your layout through the Facebook Comments module settings page itself.", 
+            "title": "OpenCart 1.5"
         }, 
         {
             "location": "/facebook_comments/#change-log", 
@@ -1732,7 +1742,7 @@
         }, 
         {
             "location": "/facebook_login/", 
-            "text": "Facebook Login\n\n\n\n\nCurrent Version: 2.0.0\n\n\nLast Updated: 28 June 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nFacebook login is a quick and popular login method. Integrating your store\u2019s login with Facebook will give you an edge over your competitors\u2019 websites. This extension allows your customer to login with Facebook and supports OpenCart multi-store and multi-language feature.\n\n\nFeatures\n\n\n\n\nAllow Facebook login on your store\n\n\nAllow user to create an account on your website with one click\n\n\nDoes not override account details if user is already a customer\n\n\nRedirects back to current page they were viewing for registered customers\n\n\nCustomisable button, heading, and display text.\n\n\nMulti language buttons and texts\n\n\nMulti store login supported\n\n\nSet Facebook registered customers to a specific customer group\n\n\nSet button alignment\n\n\nOptionally display a module box around the button\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nFacebook Login\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 2 \n 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nFacebook Login\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5\n\n\n\n\nUnzip the files.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nFacebook Login\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5 2, 3 \n Cloud\n\n\n\n\n\n\nGetting Facebook App ID\n\n\n\n\nProceed to https://developers.facebook.com/apps.\n\n\nClick \u2018Add a New App\u2019.\n\n\nSelect \u2018Website\u2019 when asked for a platform.\n\n\nGive your app a name.\n\n\nSelect the category that best matches the app. Click \u2018Create App ID\u2019.\n\n\nSkip quick start and proceed to the app settings page.\n\n\nIn the settings tab, perform the following:\n\n\nFill in your \u2018App Domain\u2019. E.g. ('marketinsg.com' will do, do not add the 'www' or 'http://')\n\n\nAdd your \u2018Site URL\u2019 under \u2018Website\u2019.\n\n\nAdd a contact email.\n\n\n\n\n\n\nClick \u2018Save\u2019.\n\n\nProceed to the \u2018App Review\u2019 tab and change your app to public.\n\n\nGrab your \u2018Application ID\u2019 and fill it into our extension\u2019s configurations in your administration panel.\n\n\n\n\n\n\n\n\nChange Log\n\n\nVersion 2.0.0 (28/06/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nFixed minor bugs and improvements\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 1.2.8 (11/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 1.2.7 (20/05/2016)\n\n\n\n\nFixed login authentication not working\n\n\n\n\nVersion 1.2.6 (11/04/2016)\n\n\n\n\nFixed issue where customers can register without email\n\n\n\n\nVersion 1.2.5 (07/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\nUpdated installation manual\n\n\n\n\nVersion 1.2.4 (10/10/2015)\n\n\n\n\nFixed compatibility with OpenCart 2.1.0.0\n\n\n\n\nVersion 1.2.3 (16/08/2015)\n\n\n\n\nFixed issue with Facebook API 2.4\n\n\n\n\nVersion 1.2.2 (23/04/2015)\n\n\n\n\nFixed compatibility with OpenCart 2.0.2.0 mail\n\n\n\n\nVersion 1.2.1 (22/12/2014)\n\n\n\n\nFixed Facebook support link\n\n\n\n\nVersion 1.2.0 (10/10/2014)\n\n\n\n\nFixed compatibility with OpenCart 2.0.0.0\n\n\n\n\nVersion 1.1.1 (18/04/2014)\n\n\n\n\nAdded redirection back to previous page customer was viewing\n\n\n\n\nVersion 1.1.0 (22/11/2013)\n\n\n\n\nAdded multi store support\n\n\n\n\nVersion 1.0.0 (20/11/2013)\n\n\n\n\nModule created", 
+            "text": "Facebook Login\n\n\n\n\nCurrent Version: 2.0.0\n\n\nLast Updated: 28 June 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nFacebook login is a quick and popular login method. Integrating your store\u2019s login with Facebook will give you an edge over your competitors\u2019 websites. This extension allows your customer to login with Facebook and supports OpenCart multi-store and multi-language feature.\n\n\nFeatures\n\n\n\n\nAllow Facebook login on your store\n\n\nAllow user to create an account on your website with one click\n\n\nDoes not override account details if user is already a customer\n\n\nRedirects back to current page they were viewing for registered customers\n\n\nCustomisable button, heading, and display text.\n\n\nMulti language buttons and texts\n\n\nMulti store login supported\n\n\nSet Facebook registered customers to a specific customer group\n\n\nSet button alignment\n\n\nOptionally display a module box around the button\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nFacebook Login\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 2 \n 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nFacebook Login\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5\n\n\n\n\nUnzip the files.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nFacebook Login\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nGetting Facebook App ID\n\n\nYou will need a Facebook account to setup your Facebook App ID.\n\n\n\n\nProceed to https://developers.facebook.com/apps.\n\n\nClick \u2018Add a New App\u2019.\n\n\nSelect \u2018Website\u2019 when asked for a platform.\n\n\nGive your app a name.\n\n\nSelect the category that best matches the app. Click \u2018Create App ID\u2019.\n\n\nSkip quick start and proceed to the app settings page.\n\n\nIn the settings tab, perform the following:\n\n\nFill in your \u2018App Domain\u2019. E.g. ('marketinsg.com' will do, do not add the 'www' or 'http://')\n\n\nAdd your \u2018Site URL\u2019 under \u2018Website\u2019.\n\n\nAdd a contact email.\n\n\n\n\n\n\nClick \u2018Save\u2019.\n\n\nProceed to the \u2018App Review\u2019 tab and change your app to public.\n\n\nGrab your \u2018Application ID\u2019 and fill it into our extension\u2019s configurations in your administration panel.\n\n\n\n\nOpenCart 2, 3 \n Cloud\n\n\n\n\n\n\nAdding Module to Layout\n\n\nOnce you have installed and enabled the extension, you can add the extension to your layout through the OpenCart's layout management page.\n\n\n\n\n\n\n\n\nOpenCart 1.5\n\n\n\n\n\n\nAdding Module to Layout\n\n\nOnce you have installed the extension, you can add the extension to your layout through the Facebook Login module settings page itself.\n\n\n\n\n\n\nChange Log\n\n\nVersion 2.0.0 (28/06/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nFixed minor bugs and improvements\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 1.2.8 (11/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 1.2.7 (20/05/2016)\n\n\n\n\nFixed login authentication not working\n\n\n\n\nVersion 1.2.6 (11/04/2016)\n\n\n\n\nFixed issue where customers can register without email\n\n\n\n\nVersion 1.2.5 (07/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\nUpdated installation manual\n\n\n\n\nVersion 1.2.4 (10/10/2015)\n\n\n\n\nFixed compatibility with OpenCart 2.1.0.0\n\n\n\n\nVersion 1.2.3 (16/08/2015)\n\n\n\n\nFixed issue with Facebook API 2.4\n\n\n\n\nVersion 1.2.2 (23/04/2015)\n\n\n\n\nFixed compatibility with OpenCart 2.0.2.0 mail\n\n\n\n\nVersion 1.2.1 (22/12/2014)\n\n\n\n\nFixed Facebook support link\n\n\n\n\nVersion 1.2.0 (10/10/2014)\n\n\n\n\nFixed compatibility with OpenCart 2.0.0.0\n\n\n\n\nVersion 1.1.1 (18/04/2014)\n\n\n\n\nAdded redirection back to previous page customer was viewing\n\n\n\n\nVersion 1.1.0 (22/11/2013)\n\n\n\n\nAdded multi store support\n\n\n\n\nVersion 1.0.0 (20/11/2013)\n\n\n\n\nModule created", 
             "title": "Facebook Login"
         }, 
         {
@@ -1776,9 +1786,19 @@
             "title": "Configurations"
         }, 
         {
-            "location": "/facebook_login/#opencart-15-2-3-cloud", 
-            "text": "Getting Facebook App ID   Proceed to https://developers.facebook.com/apps.  Click \u2018Add a New App\u2019.  Select \u2018Website\u2019 when asked for a platform.  Give your app a name.  Select the category that best matches the app. Click \u2018Create App ID\u2019.  Skip quick start and proceed to the app settings page.  In the settings tab, perform the following:  Fill in your \u2018App Domain\u2019. E.g. ('marketinsg.com' will do, do not add the 'www' or 'http://')  Add your \u2018Site URL\u2019 under \u2018Website\u2019.  Add a contact email.    Click \u2018Save\u2019.  Proceed to the \u2018App Review\u2019 tab and change your app to public.  Grab your \u2018Application ID\u2019 and fill it into our extension\u2019s configurations in your administration panel.", 
-            "title": "OpenCart 1.5 2, 3 &amp; Cloud"
+            "location": "/facebook_login/#getting-facebook-app-id", 
+            "text": "You will need a Facebook account to setup your Facebook App ID.   Proceed to https://developers.facebook.com/apps.  Click \u2018Add a New App\u2019.  Select \u2018Website\u2019 when asked for a platform.  Give your app a name.  Select the category that best matches the app. Click \u2018Create App ID\u2019.  Skip quick start and proceed to the app settings page.  In the settings tab, perform the following:  Fill in your \u2018App Domain\u2019. E.g. ('marketinsg.com' will do, do not add the 'www' or 'http://')  Add your \u2018Site URL\u2019 under \u2018Website\u2019.  Add a contact email.    Click \u2018Save\u2019.  Proceed to the \u2018App Review\u2019 tab and change your app to public.  Grab your \u2018Application ID\u2019 and fill it into our extension\u2019s configurations in your administration panel.", 
+            "title": "Getting Facebook App ID"
+        }, 
+        {
+            "location": "/facebook_login/#opencart-2-3-cloud", 
+            "text": "Adding Module to Layout  Once you have installed and enabled the extension, you can add the extension to your layout through the OpenCart's layout management page.", 
+            "title": "OpenCart 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/facebook_login/#opencart-15_1", 
+            "text": "Adding Module to Layout  Once you have installed the extension, you can add the extension to your layout through the Facebook Login module settings page itself.", 
+            "title": "OpenCart 1.5"
         }, 
         {
             "location": "/facebook_login/#change-log", 
@@ -1966,6 +1986,111 @@
             "title": "Version 1.1.0 (05/09/2012)"
         }, 
         {
+            "location": "/feature_categories/", 
+            "text": "Feature Categories\n\n\n\n\nCurrent Version: 4.0.0\n\n\nLast Updated: 28 June 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nFeature Categories allows you to feature a list of selected categories on your website. If you wish to promote certain categories, this would just be what you are looking for.\n\n\nFeatures\n\n\n\n\nSelect your own categories to feature\n\n\nCategory image will be shown if available\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nFeature Categories\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 2 \n 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nFeature Categories\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5\n\n\n\n\nUnzip the files.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nFeature Categories\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 2, 3 \n Cloud\n\n\n\n\n\n\nAdding Module to Layout\n\n\nOnce you have installed and enabled the extension, you can add the extension to your layout through the OpenCart's layout management page.\n\n\n\n\n\n\n\n\nOpenCart 1.5\n\n\n\n\n\n\nAdding Module to Layout\n\n\nOnce you have installed the extension, you can add the extension to your layout through the Feature Categories module settings page itself.\n\n\n\n\n\n\nChange Log\n\n\nVersion 4.0.0 (28/06/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nFixed minor bugs and improvements\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 3.1.1 (11/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 3.1.0 (08/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\nNew administration interface for OpenCart 1.5.x\n\n\n\n\nVersion 3.0.3 (23/04/2015)\n\n\n\n\nOC 2.0.2.0 mail support compatibility fix\n\n\n\n\nVersion 3.0.2 (22/12/2015)\n\n\n\n\nBug fixes\n\n\n\n\nVersion 3.0.1 (22/12/2014)\n\n\n\n\nUpdate support Facebook link\n\n\n\n\nVersion 3.0.0 (10/10/2014)\n\n\n\n\nRemoved carousel feature\n\n\n\n\nVersion 2.1.0 (08/01/2013)\n\n\n\n\nOpenCart v1.5.5 compatibility\n\n\n\n\nVersion 2.0.2 (12/06/2012)\n\n\n\n\nMinor bug fixes", 
+            "title": "Feature Categories"
+        }, 
+        {
+            "location": "/feature_categories/#feature-categories", 
+            "text": "Current Version: 4.0.0  Last Updated: 28 June 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "Feature Categories"
+        }, 
+        {
+            "location": "/feature_categories/#description", 
+            "text": "Feature Categories allows you to feature a list of selected categories on your website. If you wish to promote certain categories, this would just be what you are looking for.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/feature_categories/#features", 
+            "text": "Select your own categories to feature  Category image will be shown if available", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/feature_categories/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/feature_categories/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Feature Categories . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/feature_categories/#opencart-2-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Feature Categories . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 2 &amp; 3"
+        }, 
+        {
+            "location": "/feature_categories/#opencart-15", 
+            "text": "Unzip the files.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Feature Categories . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 1.5"
+        }, 
+        {
+            "location": "/feature_categories/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/feature_categories/#opencart-2-3-cloud", 
+            "text": "Adding Module to Layout  Once you have installed and enabled the extension, you can add the extension to your layout through the OpenCart's layout management page.", 
+            "title": "OpenCart 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/feature_categories/#opencart-15_1", 
+            "text": "Adding Module to Layout  Once you have installed the extension, you can add the extension to your layout through the Feature Categories module settings page itself.", 
+            "title": "OpenCart 1.5"
+        }, 
+        {
+            "location": "/feature_categories/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/feature_categories/#version-400-28062017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Fixed minor bugs and improvements  Ceased support for OpenCart 1.5", 
+            "title": "Version 4.0.0 (28/06/2017)"
+        }, 
+        {
+            "location": "/feature_categories/#version-311-11072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Version 3.1.1 (11/07/2016)"
+        }, 
+        {
+            "location": "/feature_categories/#version-310-08032016", 
+            "text": "Fixed compatibility with OpenCart 2.2.0.0  New administration interface for OpenCart 1.5.x", 
+            "title": "Version 3.1.0 (08/03/2016)"
+        }, 
+        {
+            "location": "/feature_categories/#version-303-23042015", 
+            "text": "OC 2.0.2.0 mail support compatibility fix", 
+            "title": "Version 3.0.3 (23/04/2015)"
+        }, 
+        {
+            "location": "/feature_categories/#version-302-22122015", 
+            "text": "Bug fixes", 
+            "title": "Version 3.0.2 (22/12/2015)"
+        }, 
+        {
+            "location": "/feature_categories/#version-301-22122014", 
+            "text": "Update support Facebook link", 
+            "title": "Version 3.0.1 (22/12/2014)"
+        }, 
+        {
+            "location": "/feature_categories/#version-300-10102014", 
+            "text": "Removed carousel feature", 
+            "title": "Version 3.0.0 (10/10/2014)"
+        }, 
+        {
+            "location": "/feature_categories/#version-210-08012013", 
+            "text": "OpenCart v1.5.5 compatibility", 
+            "title": "Version 2.1.0 (08/01/2013)"
+        }, 
+        {
+            "location": "/feature_categories/#version-202-12062012", 
+            "text": "Minor bug fixes", 
+            "title": "Version 2.0.2 (12/06/2012)"
+        }, 
+        {
             "location": "/follow_up_email/", 
             "text": "Follow Up Email\n\n\n\n\nCurrent Version: 4.0.1\n\n\nLast Updated: 03 December 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nFollowing up with your customers after they have made an order is the best customer service you can provide. This extension allows you to automatically send out an email to your customers after their order status reaches the specific status you specify. Ask them to review your products, to like your Facebook page, or anything you can think of.\n\n\nFeatures\n\n\n\n\nSetup multiple email templates\n\n\nMulti-store \n multi-language supported\n\n\nCustomisable subject \n email content\n\n\nCustomisable order status to send email\n\n\nCustomisable conditions to send email (duration after order, order status to reach, order total to reach, order date from, products required)\n\n\nDisplay the ordered products in the email message\n\n\nSet up cron job to automate sending of the emails\n\n\nGenerate coupon to attach with the email\n\n\nKeep a log of all emails sent\n\n\nAllow customers to unsubscribe for the follow up emails\n\n\nStatistic dashboard to give an overview of the follow ups\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nFollow Up Email\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nFollow Up Email\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nFollow Up Email\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\n\n\n\n\nModule Configurations\n\n\n\n\nAll configurations for the extension is located within one single page. You can navigate between the tabs for email configurations to viewing the statistics.\n\n\n\n\n\n\nConfiguring Email Templates\n\n\nGet started by configuring the email templates. Each configuration is exaplined below.\n\n\nName\n\n\nThis is for internal identification of the email template.\n\n\nSubject\n\n\nThis will be the subject of the email you are sending out.\n\n\nMessage\n\n\nFill up the email content to be sent out.\n\n\nBCC Emails\n\n\nYou can setup extra BCC emails, comma separated (e.g. test@web.com,test1@web.com)\n\n\nDelay\n\n\nConfigure the number of days the email template should wait before sending out this email. The date order is added is considered day 0. Minimum of 1 day wait is required.\n\n\nOrder Status to Reach\n\n\nConfigure the order status the order must be at for the email template to send an email out.\n\n\nOrder Total to Reach\n\n\nConfigure the order total the order must be more than or equal to for the email template to send an email out.\n\n\nOrder Date From\n\n\nConfigure the date for orders past the set date for the email template to send an email out. This is useful if you just installed this extension with many old orders.\n\n\nProducts Required\n\n\nConfigure the products required in the order for the email template to send an email out.\n\n\nGenerate Coupon\n\n\nConfigure the coupon the system should generate along with the email to be sent out. You will need to add the coupon code into the email template using the template code provided.\n\n\nCoupon Duration\n\n\nConfigure the validity duration for the coupon.\n\n\n\n\n\n\n\n\nSetting Up Cron Job\n\n\nSetup a cron job task to automate the export. The cron job command is provided in your admin dashboard. Please copy it and setup your cron job task accordingly in your cPanel.\n\n\n\n\n\n\nChange Log\n\n\nVersion 4.0.1 (03/12/2017)\n\n\n\n\nFixed minor bug for OpenCart 1.5 to OpenCart 2.2.x release\n\n\n\n\nVersion 4.0.0 (17/11/2017)\n\n\n\n\nRebuilt of the extension\n\n\nAdded ability to have multiple email templates\n\n\nAdded multi-store support\n\n\nAdded order total restriction\n\n\nAdded order date restriction\n\n\nAdded product restriction\n\n\nAdded coupon generation feature\n\n\nAdded email logs\n\n\nAdded coupon and statistics\n\n\nAdded unsubscribe feature\n\n\n\n\nVersion 3.0.0 (30/06/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 2.5.1 (11/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 2.5.0 (07/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\nAdded ability to list orders not yet sent\n\n\n\n\nVersion 2.4.1 (22/06/2015)\n\n\n\n\nFixed minor bugs for OpenCart 2.0.0.0\n\n\n\n\nVersion 2.4.0 (15/05/2015)\n\n\n\n\nImproved admin interface\n\n\n\n\nVersion 2.3.2 (23/04/2015)\n\n\n\n\nFixed mail compatibility with OpenCart 2.0.2.0\n\n\n\n\nVersion 2.3.1 (22/12/2014)\n\n\n\n\nFixed Facebook support link\n\n\n\n\nVersion 2.3.0 (13/10/2014)\n\n\n\n\nOC 2 compatibility\n\n\n\n\nVersion 2.2.0 (04/12/2013)\n\n\n\n\nAllow users to mark orders sent\n\n\nAllows order ID to be placed in subject\n\n\n\n\nVersion 2.1.0 (25/05/2013)\n\n\n\n\nAllows display of purchased products\n\n\nBug fixes\n\n\n\n\nVersion 2.0.0 (21/04/2013)\n\n\n\n\nMulti language support\n\n\nOrder status selection", 
             "title": "Follow Up Email"
@@ -2086,8 +2211,718 @@
             "title": "Version 2.0.0 (21/04/2013)"
         }, 
         {
+            "location": "/footer_position/", 
+            "text": "Footer Position\n\n\n\n\nCurrent Version: 3.0.0\n\n\nLast Updated: 30 June 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nEver wanted to add some text or assign your modules to the footer of your website but realised OpenCart doesn't support the footer content position for your modules? You have found the extension you need!\n\n\nFeatures\n\n\n\n\nAdd a \u2018Content Footer\u2019 position to your modules\n\n\nAssign modules to the \u2018Content Footer\u2019 position\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nFooter Position\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 2 \n 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nFooter Position\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5\n\n\n\n\nUnzip the files.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nFooter Position\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 2, 3 \n Cloud\n\n\n\n\n\n\nAdding Module to Layout\n\n\nOnce you have installed and enabled the extension, you can find a new layout position in your layout management page.\n\n\n\n\n\n\n\n\nOpenCart 1.5\n\n\n\n\n\n\nAdding Module to Layout\n\n\nOnce you have installed the extension, you should be able to find the new layout position in all your modules settings page.\n\n\n\n\n\n\nChange Log\n\n\nVersion 3.0.0 (30/06/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 2.1.1 (11/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 2.1.0 (09/03/2016)\n\n\n\n\nImproved OpenCart 1.5 release to support position for all modules\n\n\nRemoved Footer Text module from OpenCart 1.5.x installation\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\n\n\nVersion 2.0.0 (23/10/2014)\n\n\n\n\nOC 2 compatibility\n\n\nRemoval of Footer Text module from OpenCart 2 installation\n\n\nRename of extension\n\n\n\n\nVersion 1.2.0 (08/01/2013)\n\n\n\n\nFixed compatibility with OpenCart 1.5.5.1.\n\n\n\n\nVersion 1.1.0 (17/08/2012)\n\n\n\n\nModule updated to support multi language", 
+            "title": "Footer Position"
+        }, 
+        {
+            "location": "/footer_position/#footer-position", 
+            "text": "Current Version: 3.0.0  Last Updated: 30 June 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "Footer Position"
+        }, 
+        {
+            "location": "/footer_position/#description", 
+            "text": "Ever wanted to add some text or assign your modules to the footer of your website but realised OpenCart doesn't support the footer content position for your modules? You have found the extension you need!", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/footer_position/#features", 
+            "text": "Add a \u2018Content Footer\u2019 position to your modules  Assign modules to the \u2018Content Footer\u2019 position", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/footer_position/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/footer_position/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Footer Position . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/footer_position/#opencart-2-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Footer Position . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 2 &amp; 3"
+        }, 
+        {
+            "location": "/footer_position/#opencart-15", 
+            "text": "Unzip the files.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Footer Position . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 1.5"
+        }, 
+        {
+            "location": "/footer_position/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/footer_position/#opencart-2-3-cloud", 
+            "text": "Adding Module to Layout  Once you have installed and enabled the extension, you can find a new layout position in your layout management page.", 
+            "title": "OpenCart 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/footer_position/#opencart-15_1", 
+            "text": "Adding Module to Layout  Once you have installed the extension, you should be able to find the new layout position in all your modules settings page.", 
+            "title": "OpenCart 1.5"
+        }, 
+        {
+            "location": "/footer_position/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/footer_position/#version-300-30062017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Minor improvements and updates  Ceased support for OpenCart 1.5", 
+            "title": "Version 3.0.0 (30/06/2017)"
+        }, 
+        {
+            "location": "/footer_position/#version-211-11072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Version 2.1.1 (11/07/2016)"
+        }, 
+        {
+            "location": "/footer_position/#version-210-09032016", 
+            "text": "Improved OpenCart 1.5 release to support position for all modules  Removed Footer Text module from OpenCart 1.5.x installation  Fixed compatibility with OpenCart 2.2.0.0", 
+            "title": "Version 2.1.0 (09/03/2016)"
+        }, 
+        {
+            "location": "/footer_position/#version-200-23102014", 
+            "text": "OC 2 compatibility  Removal of Footer Text module from OpenCart 2 installation  Rename of extension", 
+            "title": "Version 2.0.0 (23/10/2014)"
+        }, 
+        {
+            "location": "/footer_position/#version-120-08012013", 
+            "text": "Fixed compatibility with OpenCart 1.5.5.1.", 
+            "title": "Version 1.2.0 (08/01/2013)"
+        }, 
+        {
+            "location": "/footer_position/#version-110-17082012", 
+            "text": "Module updated to support multi language", 
+            "title": "Version 1.1.0 (17/08/2012)"
+        }, 
+        {
+            "location": "/hover_image/", 
+            "text": "Hover Image\n\n\n\n\nCurrent Version: 2.0.0\n\n\nLast Updated: 30 June 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nHover Image allows you to display images to next to your options, and changes the main image upon hovering over the option values.\n\n\nFeatures\n\n\n\n\nAdds images to product options (radio, checkbox)\n\n\nMain image changes when mouse hover over the image\n\n\nAll images are cached to reduce server workload\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nHover Image\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nHover Image\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nHover Image\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\n\n\n\n\nSetting Option Value Image\n\n\nAdd images to the option values in \nCatalog \n Options \n Edit Options\n. The image added here will be used for the small option thumbnail on the store front. \nselect\n type option will not show this small thumbnail.\n\n\n\n\n\n\n\n\nChange Log\n\n\nVersion 2.0.0 (30/06/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 1.3.3 (11/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 1.3.2 (07/03/2016)\n\n\n\n\nFixed wrong file directory\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\n\n\nVersion 1.3.1 (28/02/2016)\n\n\n\n\nFixed error in OC 1.5\n\n\n\n\nVersion 1.3.0 (24/02/2016)\n\n\n\n\nImproved installation method\n\n\nImproved codes standard for easier integration with custom themes\n\n\n\n\nVersion 1.2.0 (13/10/2014)\n\n\n\n\nFixed compatibility with OpenCart 2.0.0.0\n\n\n\n\nVersion 1.1.0 (19/04/2014)\n\n\n\n\nCode improvements", 
+            "title": "Hover Image"
+        }, 
+        {
+            "location": "/hover_image/#hover-image", 
+            "text": "Current Version: 2.0.0  Last Updated: 30 June 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "Hover Image"
+        }, 
+        {
+            "location": "/hover_image/#description", 
+            "text": "Hover Image allows you to display images to next to your options, and changes the main image upon hovering over the option values.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/hover_image/#features", 
+            "text": "Adds images to product options (radio, checkbox)  Main image changes when mouse hover over the image  All images are cached to reduce server workload", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/hover_image/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/hover_image/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Hover Image . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Please view configuration details below.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/hover_image/#opencart-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Hover Image . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Please view configuration details below.", 
+            "title": "OpenCart 3"
+        }, 
+        {
+            "location": "/hover_image/#opencart-15-2", 
+            "text": "Unzip the files. Ensure that vQmod has been installed.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Hover Image . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 1.5 &amp; 2"
+        }, 
+        {
+            "location": "/hover_image/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/hover_image/#opencart-15-2-3-cloud", 
+            "text": "Setting Option Value Image  Add images to the option values in  Catalog   Options   Edit Options . The image added here will be used for the small option thumbnail on the store front.  select  type option will not show this small thumbnail.", 
+            "title": "OpenCart 1.5, 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/hover_image/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/hover_image/#version-200-30062017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Minor improvements and updates  Ceased support for OpenCart 1.5", 
+            "title": "Version 2.0.0 (30/06/2017)"
+        }, 
+        {
+            "location": "/hover_image/#version-133-11072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Version 1.3.3 (11/07/2016)"
+        }, 
+        {
+            "location": "/hover_image/#version-132-07032016", 
+            "text": "Fixed wrong file directory  Fixed compatibility with OpenCart 2.2.0.0", 
+            "title": "Version 1.3.2 (07/03/2016)"
+        }, 
+        {
+            "location": "/hover_image/#version-131-28022016", 
+            "text": "Fixed error in OC 1.5", 
+            "title": "Version 1.3.1 (28/02/2016)"
+        }, 
+        {
+            "location": "/hover_image/#version-130-24022016", 
+            "text": "Improved installation method  Improved codes standard for easier integration with custom themes", 
+            "title": "Version 1.3.0 (24/02/2016)"
+        }, 
+        {
+            "location": "/hover_image/#version-120-13102014", 
+            "text": "Fixed compatibility with OpenCart 2.0.0.0", 
+            "title": "Version 1.2.0 (13/10/2014)"
+        }, 
+        {
+            "location": "/hover_image/#version-110-19042014", 
+            "text": "Code improvements", 
+            "title": "Version 1.1.0 (19/04/2014)"
+        }, 
+        {
+            "location": "/image_crop/", 
+            "text": "Image Crop\n\n\n\n\nCurrent Version: 2.0.0\n\n\nLast Updated: 30 June 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nSick and tired of the white pesky spaces OpenCart patches to your image? Want to crop your image? Then this is the right extension for you. This extension changes the default resizing function of OpenCart. Instead of resizing and adding white borders to your image, this extension brings your image to the right size and crops it to the proportion you defined.\n\n\nFeatures\n\n\n\n\nCrop images to center\n\n\nRemove pesky white borders around images.\n\n\nCache images after cropping it\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nImage Crop\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nImage Crop\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nClear your image cache to see the changes appear immediately.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nImage Crop\n. Configure extension accordingly.\n\n\nClear your image cache to see the changes appear immediately.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\n\n\n\n\nClearing Image Cache\n\n\nYou can clear your image cache by accessing your server with a FTP account, and delete the files inside the image/cache/ directory.\n\n\n\n\n\n\nChange Log\n\n\nVersion 2.0.0 (30/06/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 1.1.3 (24/10/2016)\n\n\n\n\nFixed critical bug for OpenCart 1.5 release\n\n\n\n\nVersion 1.1.2 (11/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 1.1.1 (04/03/2016)\n\n\n\n\nUpdated installation manual\n\n\nVersion number remains unchanged\n\n\n\n\nVersion 1.1.1 (13/12/2015)\n\n\n\n\nFixed compatibility for OC 2.1.0.0", 
+            "title": "Image Crop"
+        }, 
+        {
+            "location": "/image_crop/#image-crop", 
+            "text": "Current Version: 2.0.0  Last Updated: 30 June 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "Image Crop"
+        }, 
+        {
+            "location": "/image_crop/#description", 
+            "text": "Sick and tired of the white pesky spaces OpenCart patches to your image? Want to crop your image? Then this is the right extension for you. This extension changes the default resizing function of OpenCart. Instead of resizing and adding white borders to your image, this extension brings your image to the right size and crops it to the proportion you defined.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/image_crop/#features", 
+            "text": "Crop images to center  Remove pesky white borders around images.  Cache images after cropping it", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/image_crop/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/image_crop/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Image Crop . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Please view configuration details below.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/image_crop/#opencart-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Image Crop . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Clear your image cache to see the changes appear immediately.", 
+            "title": "OpenCart 3"
+        }, 
+        {
+            "location": "/image_crop/#opencart-15-2", 
+            "text": "Unzip the files. Ensure that vQmod has been installed.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Image Crop . Configure extension accordingly.  Clear your image cache to see the changes appear immediately.", 
+            "title": "OpenCart 1.5 &amp; 2"
+        }, 
+        {
+            "location": "/image_crop/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/image_crop/#opencart-15-2-3-cloud", 
+            "text": "Clearing Image Cache  You can clear your image cache by accessing your server with a FTP account, and delete the files inside the image/cache/ directory.", 
+            "title": "OpenCart 1.5, 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/image_crop/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/image_crop/#version-200-30062017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Minor improvements and updates  Ceased support for OpenCart 1.5", 
+            "title": "Version 2.0.0 (30/06/2017)"
+        }, 
+        {
+            "location": "/image_crop/#version-113-24102016", 
+            "text": "Fixed critical bug for OpenCart 1.5 release", 
+            "title": "Version 1.1.3 (24/10/2016)"
+        }, 
+        {
+            "location": "/image_crop/#version-112-11072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Version 1.1.2 (11/07/2016)"
+        }, 
+        {
+            "location": "/image_crop/#version-111-04032016", 
+            "text": "Updated installation manual  Version number remains unchanged", 
+            "title": "Version 1.1.1 (04/03/2016)"
+        }, 
+        {
+            "location": "/image_crop/#version-111-13122015", 
+            "text": "Fixed compatibility for OC 2.1.0.0", 
+            "title": "Version 1.1.1 (13/12/2015)"
+        }, 
+        {
+            "location": "/live_price_update/", 
+            "text": "Live Price Update\n\n\n\n\nCurrent Version: 2.0.0\n\n\nLast Updated: 01 July 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nLive Price Update allows you to instantly update the total price, the total tax, and the reward points based on the selected option values and quantities. Your product specials and bulk discounts are also taken into consideration when calculating the price.\n\n\nFeatures\n\n\n\n\nInstantly update total product price\n\n\nInstantly update total product tax\n\n\nInstantly update total product reward points\n\n\nSupports product specials\n\n\nSupports product bulk discounts\n\n\nSupports all custom themes\n\n\nFade in and fade out animation to show price update\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nLive Price Update\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nThe prices on the product page should now automatically update.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nLive Price Update\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nThe prices on the product page should now automatically update.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nLive Price Update\n. Configure extension accordingly.\n\n\nThe prices on the product page should now automatically update.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\nThere are no configurations required for Live Price Update. Head over to your product page on the store front to see the feature.\n\n\nChange Log\n\n\nVersion 2.0.0 (01/07/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 1.1.2 (11/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 1.1.1 (07/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\nImproved transition effect\n\n\n\n\nVersion 1.1.0 (04/06/2015)\n\n\n\n\nAdded administration interface", 
+            "title": "Live Price Update"
+        }, 
+        {
+            "location": "/live_price_update/#live-price-update", 
+            "text": "Current Version: 2.0.0  Last Updated: 01 July 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "Live Price Update"
+        }, 
+        {
+            "location": "/live_price_update/#description", 
+            "text": "Live Price Update allows you to instantly update the total price, the total tax, and the reward points based on the selected option values and quantities. Your product specials and bulk discounts are also taken into consideration when calculating the price.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/live_price_update/#features", 
+            "text": "Instantly update total product price  Instantly update total product tax  Instantly update total product reward points  Supports product specials  Supports product bulk discounts  Supports all custom themes  Fade in and fade out animation to show price update", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/live_price_update/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/live_price_update/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Live Price Update . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  The prices on the product page should now automatically update.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/live_price_update/#opencart-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Live Price Update . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  The prices on the product page should now automatically update.", 
+            "title": "OpenCart 3"
+        }, 
+        {
+            "location": "/live_price_update/#opencart-15-2", 
+            "text": "Unzip the files. Ensure that vQmod has been installed.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Live Price Update . Configure extension accordingly.  The prices on the product page should now automatically update.", 
+            "title": "OpenCart 1.5 &amp; 2"
+        }, 
+        {
+            "location": "/live_price_update/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/live_price_update/#opencart-15-2-3-cloud", 
+            "text": "There are no configurations required for Live Price Update. Head over to your product page on the store front to see the feature.", 
+            "title": "OpenCart 1.5, 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/live_price_update/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/live_price_update/#version-200-01072017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Minor improvements and updates  Ceased support for OpenCart 1.5", 
+            "title": "Version 2.0.0 (01/07/2017)"
+        }, 
+        {
+            "location": "/live_price_update/#version-112-11072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Version 1.1.2 (11/07/2016)"
+        }, 
+        {
+            "location": "/live_price_update/#version-111-07032016", 
+            "text": "Fixed compatibility with OpenCart 2.2.0.0  Improved transition effect", 
+            "title": "Version 1.1.1 (07/03/2016)"
+        }, 
+        {
+            "location": "/live_price_update/#version-110-04062015", 
+            "text": "Added administration interface", 
+            "title": "Version 1.1.0 (04/06/2015)"
+        }, 
+        {
+            "location": "/logic_message_integration/", 
+            "text": "Logic Message Integration\n\n\n\n\nCurrent Version: 2.0.1\n\n\nLast Updated: 19 December 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nLogic Message integration allows you to send SMS messages from your OpenCart store using Logic Message. Notify your customers of their order status update, welcome them to your store, or send them an order confirmation SMS. \n\n\nNote: A Logic Message (\nhttps://www.logicmessage.com\n) account is required to send SMS messages.\n\n\nFeatures\n\n\n\n\nIntegration with Logic Message\n\n\nSetup different SMS notification templates\n\n\nSetup different templates depending on the country of the receiving number\n\n\nSetup different sender number for the templates\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nLogic Message Integration\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nThe prices on the product page should now automatically update.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nLogic Message Integration\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nIf you do not have a Logic Message account, you can sign up at \nhttps://www.logicmessage.com\n.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nLogic Message Integration\n. Configure extension accordingly.\n\n\nIf you do not have a Logic Message account, you can sign up at \nhttps://www.logicmessage.com\n.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\n\n\n\n\nAuth Key\n\n\nYou can retrieve your auth key from your Logic Message account (API Applications).\n\n\n\n\n\n\nAuth Secret\n\n\nYou can retrieve your auth secret from your Logic Message account (API Applications).\n\n\n\n\n\n\nDefault Country Prefix\n\n\nEnter the default country code for telephone numbers that do not have a country code entered. Numbers without a matching country code will have this country prefix added.\n\n\n\n\n\n\nDebug\n\n\nLog API integration message sent from Logic Message into the OpenCart error logs.\n\n\n\n\n\n\nSender\n\n\nSender ID entered must be a number / ID already linked to your Logic Message account.\n\n\n\n\n\n\nChange Log\n\n\nVersion 2.0.1 (19/12/2017)\n\n\n\n\nFixed minor bugs\n\n\n\n\nVersion 2.0.0 (14/07/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\n\n\nVersion 1.0.4 (10/10/2016)\n\n\n\n\nFixed missing auto increment for database table\n\n\n\n\nVersion 1.0.3 (29/09/2016)\n\n\n\n\nRebranded to Logic Message\n\n\n\n\nVersion 1.0.2 (18/08/2016)\n\n\n\n\nFixed critical bugs", 
+            "title": "Logic Message Integration"
+        }, 
+        {
+            "location": "/logic_message_integration/#logic-message-integration", 
+            "text": "Current Version: 2.0.1  Last Updated: 19 December 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "Logic Message Integration"
+        }, 
+        {
+            "location": "/logic_message_integration/#description", 
+            "text": "Logic Message integration allows you to send SMS messages from your OpenCart store using Logic Message. Notify your customers of their order status update, welcome them to your store, or send them an order confirmation SMS.   Note: A Logic Message ( https://www.logicmessage.com ) account is required to send SMS messages.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/logic_message_integration/#features", 
+            "text": "Integration with Logic Message  Setup different SMS notification templates  Setup different templates depending on the country of the receiving number  Setup different sender number for the templates", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/logic_message_integration/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/logic_message_integration/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Logic Message Integration . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  The prices on the product page should now automatically update.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/logic_message_integration/#opencart-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Logic Message Integration . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  If you do not have a Logic Message account, you can sign up at  https://www.logicmessage.com .", 
+            "title": "OpenCart 3"
+        }, 
+        {
+            "location": "/logic_message_integration/#opencart-15-2", 
+            "text": "Unzip the files. Ensure that vQmod has been installed.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Logic Message Integration . Configure extension accordingly.  If you do not have a Logic Message account, you can sign up at  https://www.logicmessage.com .", 
+            "title": "OpenCart 1.5 &amp; 2"
+        }, 
+        {
+            "location": "/logic_message_integration/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/logic_message_integration/#opencart-15-2-3-cloud", 
+            "text": "Auth Key  You can retrieve your auth key from your Logic Message account (API Applications).    Auth Secret  You can retrieve your auth secret from your Logic Message account (API Applications).    Default Country Prefix  Enter the default country code for telephone numbers that do not have a country code entered. Numbers without a matching country code will have this country prefix added.    Debug  Log API integration message sent from Logic Message into the OpenCart error logs.    Sender  Sender ID entered must be a number / ID already linked to your Logic Message account.", 
+            "title": "OpenCart 1.5, 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/logic_message_integration/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/logic_message_integration/#version-201-19122017", 
+            "text": "Fixed minor bugs", 
+            "title": "Version 2.0.1 (19/12/2017)"
+        }, 
+        {
+            "location": "/logic_message_integration/#version-200-14072017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Minor improvements and updates", 
+            "title": "Version 2.0.0 (14/07/2017)"
+        }, 
+        {
+            "location": "/logic_message_integration/#version-104-10102016", 
+            "text": "Fixed missing auto increment for database table", 
+            "title": "Version 1.0.4 (10/10/2016)"
+        }, 
+        {
+            "location": "/logic_message_integration/#version-103-29092016", 
+            "text": "Rebranded to Logic Message", 
+            "title": "Version 1.0.3 (29/09/2016)"
+        }, 
+        {
+            "location": "/logic_message_integration/#version-102-18082016", 
+            "text": "Fixed critical bugs", 
+            "title": "Version 1.0.2 (18/08/2016)"
+        }, 
+        {
+            "location": "/main_image/", 
+            "text": "Main Image\n\n\n\n\nCurrent Version: 2.0.0\n\n\nLast Updated: 02 July 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nDo you need to show a different main image on the product listing and the main product page? This is exactly what you are looking for! You will be able to set a different image for the same product with this extension. For example, you can have one image for the product on the category listing page, and another different image for the same product in the product page.\n\n\nFeatures\n\n\n\n\nAdds additional \"main image\" field in admin panel for product\n\n\nAble to set a \"Listing Image\" and a \"Main Image\" for a product\n\n\nIf no main image is set, the listing image will be used for the product page instead\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nMain Image\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nMain Image\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nMain Image\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\n\n\n\n\nSetting Main Image\n\n\nMain image can be configured in your admin panel \nCatalog \n Products \n Edit Product \n Data Tab\n.\n\n\n\n\n\n\nChange Log\n\n\nVersion 2.0.0 (02/07/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 1.3.1 (11/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 1.3.0 (09/03/2016)\n\n\n\n\nImproved administration interface\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\n\n\nVersion 1.2.2 (23/04/2015)\n\n\n\n\nFixed support with OpenCart 2.0.2.0 mail\n\n\n\n\nVersion 1.2.1 (22/12/2014)\n\n\n\n\nUpdated Facebook support link\n\n\n\n\nVersion 1.2.0 (13/10/2014)\n\n\n\n\nFixed compatibility with OpenCart 2.0.0.0\n\n\n\n\nVersion 1.1.0 (08/01/2013)\n\n\n\n\nFixed compatibility with OpenCart 1.5.5.1", 
+            "title": "Main Image"
+        }, 
+        {
+            "location": "/main_image/#main-image", 
+            "text": "Current Version: 2.0.0  Last Updated: 02 July 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "Main Image"
+        }, 
+        {
+            "location": "/main_image/#description", 
+            "text": "Do you need to show a different main image on the product listing and the main product page? This is exactly what you are looking for! You will be able to set a different image for the same product with this extension. For example, you can have one image for the product on the category listing page, and another different image for the same product in the product page.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/main_image/#features", 
+            "text": "Adds additional \"main image\" field in admin panel for product  Able to set a \"Listing Image\" and a \"Main Image\" for a product  If no main image is set, the listing image will be used for the product page instead", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/main_image/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/main_image/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Main Image . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Please view configuration details below.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/main_image/#opencart-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Main Image . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Please view configuration details below.", 
+            "title": "OpenCart 3"
+        }, 
+        {
+            "location": "/main_image/#opencart-15-2", 
+            "text": "Unzip the files. Ensure that vQmod has been installed.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Main Image . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 1.5 &amp; 2"
+        }, 
+        {
+            "location": "/main_image/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/main_image/#opencart-15-2-3-cloud", 
+            "text": "Setting Main Image  Main image can be configured in your admin panel  Catalog   Products   Edit Product   Data Tab .", 
+            "title": "OpenCart 1.5, 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/main_image/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/main_image/#version-200-02072017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Minor improvements and updates  Ceased support for OpenCart 1.5", 
+            "title": "Version 2.0.0 (02/07/2017)"
+        }, 
+        {
+            "location": "/main_image/#version-131-11072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Version 1.3.1 (11/07/2016)"
+        }, 
+        {
+            "location": "/main_image/#version-130-09032016", 
+            "text": "Improved administration interface  Fixed compatibility with OpenCart 2.2.0.0", 
+            "title": "Version 1.3.0 (09/03/2016)"
+        }, 
+        {
+            "location": "/main_image/#version-122-23042015", 
+            "text": "Fixed support with OpenCart 2.0.2.0 mail", 
+            "title": "Version 1.2.2 (23/04/2015)"
+        }, 
+        {
+            "location": "/main_image/#version-121-22122014", 
+            "text": "Updated Facebook support link", 
+            "title": "Version 1.2.1 (22/12/2014)"
+        }, 
+        {
+            "location": "/main_image/#version-120-13102014", 
+            "text": "Fixed compatibility with OpenCart 2.0.0.0", 
+            "title": "Version 1.2.0 (13/10/2014)"
+        }, 
+        {
+            "location": "/main_image/#version-110-08012013", 
+            "text": "Fixed compatibility with OpenCart 1.5.5.1", 
+            "title": "Version 1.1.0 (08/01/2013)"
+        }, 
+        {
+            "location": "/marquee_text/", 
+            "text": "Marquee Text\n\n\n\n\nCurrent Version: 2.0.0\n\n\nLast Updated: 02 July 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nThe old \nmarquee\n tags in html are jumpy. This extension improves on the tag and your text will scroll smoothly. Additionally, you can now scroll in 4 directions instead of one single direction. Your customers wouldn\u2019t be missing out on the attention grabbing text now! \n\n\nFeatures\n\n\n\n\nSupports 4 directions scrolling (up, down, left, right)\n\n\nCustom scrolling speed\n\n\nMulti-language support\n\n\nClick to drag and move text\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nMarquee Text\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nMarquee Text\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nMarquee Text\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 2, 3 \n Cloud\n\n\n\n\n\n\nAdding Module to Layout\n\n\nOnce you have installed and enabled the extension, you can add the extension to your layout through the OpenCart's layout management page.\n\n\n\n\n\n\n\n\nOpenCart 1.5\n\n\n\n\n\n\nAdding Module to Layout\n\n\nOnce you have installed the extension, you can add the extension to your layout through the Marquee Text module settings page itself.\n\n\n\n\n\n\nChange Log\n\n\nVersion 2.0.0 (02/07/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 1.2.6 (11/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 1.2.5 (04/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\n\n\nVersion 1.2.4 (04/01/2016)\n\n\n\n\nFixed missing top and bottom scroll directions for OC 2\n\n\n\n\nVersion 1.2.3 (23/04/2015)\n\n\n\n\nOC 2.0.2.0 mail support compatibility fix\n\n\n\n\nVersion 1.2.2 (12/02/2015)\n\n\n\n\nBug fixes for OC 2\n\n\n\n\nVersion 1.2.1 (22/12/2014)\n\n\n\n\nUpdate support Facebook link\n\n\n\n\nVersion 1.2.0 (13/10/2014)\n\n\n\n\nOC 2 compatibility\n\n\n\n\nVersion 1.1.0 (08/01/2013)\n\n\n\n\nFixed compatibility with OpenCart 1.5.5.1", 
+            "title": "Marquee Text"
+        }, 
+        {
+            "location": "/marquee_text/#marquee-text", 
+            "text": "Current Version: 2.0.0  Last Updated: 02 July 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "Marquee Text"
+        }, 
+        {
+            "location": "/marquee_text/#description", 
+            "text": "The old  marquee  tags in html are jumpy. This extension improves on the tag and your text will scroll smoothly. Additionally, you can now scroll in 4 directions instead of one single direction. Your customers wouldn\u2019t be missing out on the attention grabbing text now!", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/marquee_text/#features", 
+            "text": "Supports 4 directions scrolling (up, down, left, right)  Custom scrolling speed  Multi-language support  Click to drag and move text", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/marquee_text/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/marquee_text/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Marquee Text . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/marquee_text/#opencart-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Marquee Text . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 3"
+        }, 
+        {
+            "location": "/marquee_text/#opencart-15-2", 
+            "text": "Unzip the files.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Marquee Text . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 1.5 &amp; 2"
+        }, 
+        {
+            "location": "/marquee_text/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/marquee_text/#opencart-2-3-cloud", 
+            "text": "Adding Module to Layout  Once you have installed and enabled the extension, you can add the extension to your layout through the OpenCart's layout management page.", 
+            "title": "OpenCart 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/marquee_text/#opencart-15", 
+            "text": "Adding Module to Layout  Once you have installed the extension, you can add the extension to your layout through the Marquee Text module settings page itself.", 
+            "title": "OpenCart 1.5"
+        }, 
+        {
+            "location": "/marquee_text/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/marquee_text/#version-200-02072017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Minor improvements and updates  Ceased support for OpenCart 1.5", 
+            "title": "Version 2.0.0 (02/07/2017)"
+        }, 
+        {
+            "location": "/marquee_text/#version-126-11072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Version 1.2.6 (11/07/2016)"
+        }, 
+        {
+            "location": "/marquee_text/#version-125-04032016", 
+            "text": "Fixed compatibility with OpenCart 2.2.0.0", 
+            "title": "Version 1.2.5 (04/03/2016)"
+        }, 
+        {
+            "location": "/marquee_text/#version-124-04012016", 
+            "text": "Fixed missing top and bottom scroll directions for OC 2", 
+            "title": "Version 1.2.4 (04/01/2016)"
+        }, 
+        {
+            "location": "/marquee_text/#version-123-23042015", 
+            "text": "OC 2.0.2.0 mail support compatibility fix", 
+            "title": "Version 1.2.3 (23/04/2015)"
+        }, 
+        {
+            "location": "/marquee_text/#version-122-12022015", 
+            "text": "Bug fixes for OC 2", 
+            "title": "Version 1.2.2 (12/02/2015)"
+        }, 
+        {
+            "location": "/marquee_text/#version-121-22122014", 
+            "text": "Update support Facebook link", 
+            "title": "Version 1.2.1 (22/12/2014)"
+        }, 
+        {
+            "location": "/marquee_text/#version-120-13102014", 
+            "text": "OC 2 compatibility", 
+            "title": "Version 1.2.0 (13/10/2014)"
+        }, 
+        {
+            "location": "/marquee_text/#version-110-08012013", 
+            "text": "Fixed compatibility with OpenCart 1.5.5.1", 
+            "title": "Version 1.1.0 (08/01/2013)"
+        }, 
+        {
+            "location": "/mass_order_history_update/", 
+            "text": "Mass Order History Update\n\n\n\n\nCurrent Version: 2.0.0\n\n\nLast Updated: 03 July 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nUpdating the order history order by order can be tiring. Why not mass update all of them together? All you need to do is select the orders you wish to update, then in a click of a button, you can assign all the selected orders with the same order history, order status and order comments!\n\n\nFeatures\n\n\n\n\nMass add order history\n\n\nMass add order comments\n\n\nMass update order status\n\n\nMass notify order history\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nUser \n User Groups\n and give yourself the permission for \nextension/historyupdate\n.\n\n\nProceed to Extensions \n Modifications and click the blue refresh button.\n\n\nYou can now mass update the order history by going to \nSales \n Orders\n and select the orders, followed by clicking the newly added button at the top right.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nUser \n User Groups\n and give yourself the permission for \nextension/historyupdate\n.\n\n\nProceed to Extensions \n Modifications and click the blue refresh button.\n\n\nYou can now mass update the order history by going to \nSales \n Orders\n and select the orders, followed by clicking the newly added button at the top right.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nProceed to \nUser \n User Groups\n and give yourself the permission for \nsale/historyupdate\n.\n\n\nYou can now mass update the order history by going to \nSales \n Orders\n and select the orders, followed by clicking the newly added button at the top right.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\nNo additional configuration is needed for Mass Order History Update.\n\n\nChange Log\n\n\nVersion 2.0.0 (03/07/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 1.4.0 (21/02/2016)\n\n\n\n\nFixed compatibility with latest OpenCart 2.1.x\n\n\nImproved coding standards\n\n\n\n\nVersion 1.3.3 (23/04/2015)\n\n\n\n\nOC 2.0.2.0 mail support compatibility fix\n\n\n\n\nVersion 1.3.2 (23/01/2015)\n\n\n\n\nMinor patch to allow easier integration with modified pages\n\n\nOpen in same window\n\n\n\n\nVersion 1.3.1 (22/12/2014)\n\n\n\n\nUpdate support Facebook link\n\n\n\n\nVersion 1.3.0 (13/10/2014)\n\n\n\n\nOC 2 compatibility\n\n\n\n\nVersion 1.2.0 (17/02/2013)\n\n\n\n\nBug fixes\n\n\n\n\nVersion 1.1.0 (08/01/2013)\n\n\n\n\nOpenCart v1.5.5 compatibility\n\n\n\n\nVersion 1.0.0 (06/09/2012)\n\n\n\n\nModule created", 
+            "title": "Mass Order History Update"
+        }, 
+        {
+            "location": "/mass_order_history_update/#mass-order-history-update", 
+            "text": "Current Version: 2.0.0  Last Updated: 03 July 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "Mass Order History Update"
+        }, 
+        {
+            "location": "/mass_order_history_update/#description", 
+            "text": "Updating the order history order by order can be tiring. Why not mass update all of them together? All you need to do is select the orders you wish to update, then in a click of a button, you can assign all the selected orders with the same order history, order status and order comments!", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/mass_order_history_update/#features", 
+            "text": "Mass add order history  Mass add order comments  Mass update order status  Mass notify order history", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/mass_order_history_update/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/mass_order_history_update/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  User   User Groups  and give yourself the permission for  extension/historyupdate .  Proceed to Extensions   Modifications and click the blue refresh button.  You can now mass update the order history by going to  Sales   Orders  and select the orders, followed by clicking the newly added button at the top right.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/mass_order_history_update/#opencart-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  User   User Groups  and give yourself the permission for  extension/historyupdate .  Proceed to Extensions   Modifications and click the blue refresh button.  You can now mass update the order history by going to  Sales   Orders  and select the orders, followed by clicking the newly added button at the top right.", 
+            "title": "OpenCart 3"
+        }, 
+        {
+            "location": "/mass_order_history_update/#opencart-15-2", 
+            "text": "Unzip the files. Ensure that vQmod has been installed.  Proceed to  User   User Groups  and give yourself the permission for  sale/historyupdate .  You can now mass update the order history by going to  Sales   Orders  and select the orders, followed by clicking the newly added button at the top right.", 
+            "title": "OpenCart 1.5 &amp; 2"
+        }, 
+        {
+            "location": "/mass_order_history_update/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/mass_order_history_update/#opencart-15-2-3-cloud", 
+            "text": "No additional configuration is needed for Mass Order History Update.", 
+            "title": "OpenCart 1.5, 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/mass_order_history_update/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/mass_order_history_update/#version-200-03072017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Minor improvements and updates  Ceased support for OpenCart 1.5", 
+            "title": "Version 2.0.0 (03/07/2017)"
+        }, 
+        {
+            "location": "/mass_order_history_update/#version-140-21022016", 
+            "text": "Fixed compatibility with latest OpenCart 2.1.x  Improved coding standards", 
+            "title": "Version 1.4.0 (21/02/2016)"
+        }, 
+        {
+            "location": "/mass_order_history_update/#version-133-23042015", 
+            "text": "OC 2.0.2.0 mail support compatibility fix", 
+            "title": "Version 1.3.3 (23/04/2015)"
+        }, 
+        {
+            "location": "/mass_order_history_update/#version-132-23012015", 
+            "text": "Minor patch to allow easier integration with modified pages  Open in same window", 
+            "title": "Version 1.3.2 (23/01/2015)"
+        }, 
+        {
+            "location": "/mass_order_history_update/#version-131-22122014", 
+            "text": "Update support Facebook link", 
+            "title": "Version 1.3.1 (22/12/2014)"
+        }, 
+        {
+            "location": "/mass_order_history_update/#version-130-13102014", 
+            "text": "OC 2 compatibility", 
+            "title": "Version 1.3.0 (13/10/2014)"
+        }, 
+        {
+            "location": "/mass_order_history_update/#version-120-17022013", 
+            "text": "Bug fixes", 
+            "title": "Version 1.2.0 (17/02/2013)"
+        }, 
+        {
+            "location": "/mass_order_history_update/#version-110-08012013", 
+            "text": "OpenCart v1.5.5 compatibility", 
+            "title": "Version 1.1.0 (08/01/2013)"
+        }, 
+        {
+            "location": "/mass_order_history_update/#version-100-06092012", 
+            "text": "Module created", 
+            "title": "Version 1.0.0 (06/09/2012)"
+        }, 
+        {
             "location": "/option_image/", 
-            "text": "Dependent Options\n\n\n\n\nCurrent Version: 5.0.1\n\n\nLast Updated: 04 September 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nOption Image allows you to display images next to your options, and it changes the main image when you click on an option value. Images can be added to drop down list, radio buttons, and check boxes.\n\n\nFeatures\n\n\n\n\nAdds images to product options\n\n\nMain image changes by clicking on option values\n\n\nOption image plus allows you to set a second option image at the product option\n\n\n100% new files\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nOption Image\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nOption Image\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nOption Image\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\n\n\n\n\nSetting Option Value Small Thumbnail Images\n\n\nAdd images to the option values in \nCatalog \n Options \n Edit Options\n. The image added here will be used for the small option thumbnail on the store front. \nselect\n type option will not show this small thumbnail.\n\n\n\n\n\n\n\n\nSetting Main Option Value Image (Option Image Plus)\n\n\nProceed to \nCatalog \n Products \n Edit Product \n Options Tab\n and add the options to the product. Set the option value image here if you are using Option Image Plus. If you are using Option Image, the small thumbnail image will be the main image shown.\n\n\n\n\n\n\n\n\nChange Log\n\n\nVersion 5.0.1 (04/09/2017)\n\n\n\n\nFixed incorrect OCMod script for OpenCart 3.0.0 release\n\n\n\n\nVersion 5.0.0 (04/07/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 4.3.2 (11/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 4.3.1 (04/03/2016)\n\n\n\n\nImproved script for easier integration with custom themes\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\n\n\nVersion 4.3.0 (18/05/2015)\n\n\n\n\nImproved administration interface\n\n\n\n\nVersion 4.2.2 (23/04/2015)\n\n\n\n\nFixed compatibility with OpenCart 2.0.2.0 mail\n\n\n\n\nVersion 4.2.1 (22/12/2014)\n\n\n\n\nFixed Facebook support link\n\n\n\n\nVersion 4.2.0 (14/10/2014)\n\n\n\n\nFixed compatibility with OpenCart 2.0.0.0\n\n\n\n\nVersion 4.1.1 (19/04/2014)\n\n\n\n\nImproved codes\n\n\n\n\nVersion 4.1.0 (08/01/2013)\n\n\n\n\nOpenCart v1.5.5 compatibility\n\n\n\n\nVersion 4.0.0 (01/12/2012)\n\n\n\n\nInstallation Improvements for Option Image\n\n\n\n\nVersion 3.1.0 (17/10/2012)\n\n\n\n\nBug fixes for Option Image Plus \n\n\n\n\nVersion 3.0.0 (03/10/2012)\n\n\n\n\nAdded Option Image Plus", 
+            "text": "Dependent Options\n\n\n\n\nCurrent Version: 5.0.1\n\n\nLast Updated: 04 September 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nOption Image allows you to display images next to your options, and it changes the main image when you click on an option value. Images can be added to drop down list, radio buttons, and check boxes.\n\n\nFeatures\n\n\n\n\nAdds images to product options\n\n\nMain image changes by clicking on option values\n\n\nOption image plus allows you to set a second option image at the product option\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nOption Image\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nOption Image\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nOption Image\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\n\n\n\n\nSetting Option Value Small Thumbnail Images\n\n\nAdd images to the option values in \nCatalog \n Options \n Edit Options\n. The image added here will be used for the small option thumbnail on the store front. \nselect\n type option will not show this small thumbnail.\n\n\n\n\n\n\n\n\nSetting Main Option Value Image (Option Image Plus)\n\n\nProceed to \nCatalog \n Products \n Edit Product \n Options Tab\n and add the options to the product. Set the option value image here if you are using Option Image Plus. If you are using Option Image, the small thumbnail image will be the main image shown.\n\n\n\n\n\n\n\n\nChange Log\n\n\nVersion 5.0.1 (04/09/2017)\n\n\n\n\nFixed incorrect OCMod script for OpenCart 3.0.0 release\n\n\n\n\nVersion 5.0.0 (04/07/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 4.3.2 (11/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 4.3.1 (04/03/2016)\n\n\n\n\nImproved script for easier integration with custom themes\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\n\n\nVersion 4.3.0 (18/05/2015)\n\n\n\n\nImproved administration interface\n\n\n\n\nVersion 4.2.2 (23/04/2015)\n\n\n\n\nFixed compatibility with OpenCart 2.0.2.0 mail\n\n\n\n\nVersion 4.2.1 (22/12/2014)\n\n\n\n\nFixed Facebook support link\n\n\n\n\nVersion 4.2.0 (14/10/2014)\n\n\n\n\nFixed compatibility with OpenCart 2.0.0.0\n\n\n\n\nVersion 4.1.1 (19/04/2014)\n\n\n\n\nImproved codes\n\n\n\n\nVersion 4.1.0 (08/01/2013)\n\n\n\n\nOpenCart v1.5.5 compatibility\n\n\n\n\nVersion 4.0.0 (01/12/2012)\n\n\n\n\nInstallation Improvements for Option Image\n\n\n\n\nVersion 3.1.0 (17/10/2012)\n\n\n\n\nBug fixes for Option Image Plus \n\n\n\n\nVersion 3.0.0 (03/10/2012)\n\n\n\n\nAdded Option Image Plus", 
             "title": "Option Image"
         }, 
         {
@@ -2102,7 +2937,7 @@
         }, 
         {
             "location": "/option_image/#features", 
-            "text": "Adds images to product options  Main image changes by clicking on option values  Option image plus allows you to set a second option image at the product option  100% new files", 
+            "text": "Adds images to product options  Main image changes by clicking on option values  Option image plus allows you to set a second option image at the product option", 
             "title": "Features"
         }, 
         {
