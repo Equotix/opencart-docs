@@ -48,23 +48,37 @@ Facebook login is a quick and popular login method. Integrating your store’s l
 
 ## Configurations
 
-### OpenCart 1.5 2, 3 & Cloud
+### Getting Facebook App ID
 
-1. Getting Facebook App ID
+You will need a Facebook account to setup your Facebook App ID.
 
-	1. Proceed to https://developers.facebook.com/apps.
-	2. Click ‘Add a New App’.
-	3. Select ‘Website’ when asked for a platform.
-	4. Give your app a name.
-	5. Select the category that best matches the app. Click ‘Create App ID’.
-	6. Skip quick start and proceed to the app settings page.
-	7. In the settings tab, perform the following:
-		1. Fill in your ‘App Domain’. E.g. ('marketinsg.com' will do, do not add the 'www' or 'http://')
-		2. Add your ‘Site URL’ under ‘Website’.
-		3. Add a contact email.
-	8. Click ‘Save’.
-	9. Proceed to the ‘App Review’ tab and change your app to public.
-	10. Grab your ‘Application ID’ and fill it into our extension’s configurations in your administration panel.
+1. Proceed to https://developers.facebook.com/apps.
+2. Click ‘Add a New App’.
+3. Select ‘Website’ when asked for a platform.
+4. Give your app a name.
+5. Select the category that best matches the app. Click ‘Create App ID’.
+6. Skip quick start and proceed to the app settings page.
+7. In the settings tab, perform the following:
+	1. Fill in your ‘App Domain’. E.g. ('marketinsg.com' will do, do not add the 'www' or 'http://')
+	2. Add your ‘Site URL’ under ‘Website’.
+	3. Add a contact email.
+8. Click ‘Save’.
+9. Proceed to the ‘App Review’ tab and change your app to public.
+10. Grab your ‘Application ID’ and fill it into our extension’s configurations in your administration panel.
+
+### OpenCart 2, 3 & Cloud
+
+1. Adding Module to Layout
+
+	Once you have installed and enabled the extension, you can add the extension to your layout through the OpenCart's layout management page.
+
+	![Screenshot](images/facebook-login/image-1.png)
+
+### OpenCart 1.5
+
+1. Adding Module to Layout
+
+	Once you have installed the extension, you can add the extension to your layout through the Facebook Login module settings page itself.
 
 ## Change Log
 

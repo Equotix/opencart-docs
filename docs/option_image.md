@@ -17,7 +17,6 @@ Option Image allows you to display images next to your options, and it changes t
 * Adds images to product options
 * Main image changes by clicking on option values
 * Option image plus allows you to set a second option image at the product option
-* 100% new files
 
 ## Installation
 
