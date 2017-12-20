@@ -39,8 +39,16 @@ pages:
             - Main Image: 'main_image.md'
             - Marquee Text: 'marquee_text.md'
             - Mass Order History Update: 'mass_order_history_update.md'
+            - Mega Menu: 'mega_menu.md'
+            - MultiStore Manager: 'multistore_manager.md'
+        - N:
+            - Newsletter: 'newsletter.md'
         - O:
+            - Option Description: 'option_description.md'
             - Option Image: 'option_image.md'
+            - Option Value Equals Sign: 'option_value_equals_sign.md'
+            - Options with Quantities: 'options_with_quantities.md'
+            - Order Limitation: 'order_limitation.md'
         - Q:
             - Quick Checkout: 'quick_checkout.md'
         - R:

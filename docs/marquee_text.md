@@ -48,7 +48,7 @@ The old `<marquee>` tags in html are jumpy. This extension improves on the tag a
 
 	Once you have installed and enabled the extension, you can add the extension to your layout through the OpenCart's layout management page.
 
-	![Screenshot](images/marquee-text/image-1.png)
+	![Screenshot](images/marquee_text/image-1.png)
 
 ### OpenCart 1.5
 

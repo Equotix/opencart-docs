@@ -1,4 +1,4 @@
-# Dependent Options
+# Option Image
 
 * Current Version: 5.0.1
 * Last Updated: 04 September 2017

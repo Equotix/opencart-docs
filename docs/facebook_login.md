@@ -72,7 +72,7 @@ You will need a Facebook account to setup your Facebook App ID.
 
 	Once you have installed and enabled the extension, you can add the extension to your layout through the OpenCart's layout management page.
 
-	![Screenshot](images/facebook-login/image-1.png)
+	![Screenshot](images/facebook_login/image-1.png)
 
 ### OpenCart 1.5
 

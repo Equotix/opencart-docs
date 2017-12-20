@@ -46,7 +46,7 @@ Ever wanted to add some text or assign your modules to the footer of your websit
 
 	Once you have installed and enabled the extension, you can find a new layout position in your layout management page.
 
-	![Screenshot](images/footer-position/image-1.png)
+	![Screenshot](images/footer_position/image-1.png)
 
 ### OpenCart 1.5
 

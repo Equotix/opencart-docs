@@ -46,7 +46,7 @@ Feature Categories allows you to feature a list of selected categories on your w
 
 	Once you have installed and enabled the extension, you can add the extension to your layout through the OpenCart's layout management page.
 
-	![Screenshot](images/feature-categories/image-1.png)
+	![Screenshot](images/feature_categories/image-1.png)
 
 ### OpenCart 1.5
 
