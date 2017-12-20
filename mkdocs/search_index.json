@@ -2921,14 +2921,464 @@
             "title": "Version 1.0.0 (06/09/2012)"
         }, 
         {
+            "location": "/mega_menu/", 
+            "text": "Mega Menu\n\n\n\n\nCurrent Version: 2.0.0\n\n\nLast Updated: 03 July 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nMega Menu is an improvement of the Category Module in OpenCart. It allows you to have a drop down menu instead of the default listing for the sub-categories. As you move between the categories, it refines your searches and narrows it down. Mega Menu supports up to 4 layers. I.e. Category \n Children Category \n Grandchildren Category \n Great Grandchildren Category. Mega Menu also allows you to easily modify the CCS styling to match your custom theme.\n\n\nFeatures\n\n\n\n\nSupports up to 4 layers deep\n\n\nRefine categories as you move deeper\n\n\nCustomisable CSS to match your theme\n\n\nAdmin panel for easy management\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nMega Menu\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 2 \n 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nMega Menu\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5\n\n\n\n\nUnzip the files.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nMega Menu\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 2, 3 \n Cloud\n\n\n\n\n\n\nAdding Module to Layout\n\n\nOnce you have installed and enabled the extension, you can add the extension to your layout through the OpenCart's layout management page.\n\n\n\n\n\n\n\n\nOpenCart 1.5\n\n\n\n\n\n\nAdding Module to Layout\n\n\nOnce you have installed the extension, you can add the extension to your layout through the Mega Menu module settings page itself.\n\n\n\n\n\n\nChange Log\n\n\nVersion 2.0.0 (03/07/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 1.3.1 (11/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 1.3.0 (09/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\nImproved administration interface\n\n\n\n\nVersion 1.2.2 (23/04/2015)\n\n\n\n\nOC 2.0.2.0 mail support compatibility fix\n\n\n\n\nVersion 1.2.1 (22/12/2014)\n\n\n\n\nUpdate support Facebook link\n\n\n\n\nVersion 1.2.0 (14/10/2014)\n\n\n\n\nOC 2 compatibility\n\n\n\n\nVersion 1.1.0 (08/01/2013)\n\n\n\n\nOpenCart v1.5.5 compatibility", 
+            "title": "Mega Menu"
+        }, 
+        {
+            "location": "/mega_menu/#mega-menu", 
+            "text": "Current Version: 2.0.0  Last Updated: 03 July 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "Mega Menu"
+        }, 
+        {
+            "location": "/mega_menu/#description", 
+            "text": "Mega Menu is an improvement of the Category Module in OpenCart. It allows you to have a drop down menu instead of the default listing for the sub-categories. As you move between the categories, it refines your searches and narrows it down. Mega Menu supports up to 4 layers. I.e. Category   Children Category   Grandchildren Category   Great Grandchildren Category. Mega Menu also allows you to easily modify the CCS styling to match your custom theme.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/mega_menu/#features", 
+            "text": "Supports up to 4 layers deep  Refine categories as you move deeper  Customisable CSS to match your theme  Admin panel for easy management", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/mega_menu/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/mega_menu/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Mega Menu . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/mega_menu/#opencart-2-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Mega Menu . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 2 &amp; 3"
+        }, 
+        {
+            "location": "/mega_menu/#opencart-15", 
+            "text": "Unzip the files.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Mega Menu . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 1.5"
+        }, 
+        {
+            "location": "/mega_menu/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/mega_menu/#opencart-2-3-cloud", 
+            "text": "Adding Module to Layout  Once you have installed and enabled the extension, you can add the extension to your layout through the OpenCart's layout management page.", 
+            "title": "OpenCart 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/mega_menu/#opencart-15_1", 
+            "text": "Adding Module to Layout  Once you have installed the extension, you can add the extension to your layout through the Mega Menu module settings page itself.", 
+            "title": "OpenCart 1.5"
+        }, 
+        {
+            "location": "/mega_menu/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/mega_menu/#version-200-03072017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Minor improvements and updates  Ceased support for OpenCart 1.5", 
+            "title": "Version 2.0.0 (03/07/2017)"
+        }, 
+        {
+            "location": "/mega_menu/#version-131-11072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Version 1.3.1 (11/07/2016)"
+        }, 
+        {
+            "location": "/mega_menu/#version-130-09032016", 
+            "text": "Fixed compatibility with OpenCart 2.2.0.0  Improved administration interface", 
+            "title": "Version 1.3.0 (09/03/2016)"
+        }, 
+        {
+            "location": "/mega_menu/#version-122-23042015", 
+            "text": "OC 2.0.2.0 mail support compatibility fix", 
+            "title": "Version 1.2.2 (23/04/2015)"
+        }, 
+        {
+            "location": "/mega_menu/#version-121-22122014", 
+            "text": "Update support Facebook link", 
+            "title": "Version 1.2.1 (22/12/2014)"
+        }, 
+        {
+            "location": "/mega_menu/#version-120-14102014", 
+            "text": "OC 2 compatibility", 
+            "title": "Version 1.2.0 (14/10/2014)"
+        }, 
+        {
+            "location": "/mega_menu/#version-110-08012013", 
+            "text": "OpenCart v1.5.5 compatibility", 
+            "title": "Version 1.1.0 (08/01/2013)"
+        }, 
+        {
+            "location": "/multistore_manager/", 
+            "text": "MultiStore Manager\n\n\n\n\nCurrent Version: 3.0.0\n\n\nLast Updated: 03 July 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nMultistore Manager allows you to assign all your products, categories, information pages, layouts, and manufacturers from stores to stores all on one single page. This will save you the trouble of needing to manually modify each of the layouts, products or categories whenever you create a new store. Additionally, you can restrict the shipping methods, payment methods, and order total modules to each individual store.\n\n\nFeatures\n\n\n\n\nLoad the products, categories, information pages, manufacturers and layouts without needing to refresh the page.\n\n\nAssign your products, categories, information pages, manufacturers and layout from one single page to different stores.\n\n\nAllows you to track the products, categories, information pages, manufacturers and layouts assigned to the different stores in one single page.\n\n\nView all stores and their current selected template from one single list\n\n\nAllow selection of payment modules for different store\n\n\nAllow selection of shipping modules for different store\n\n\nAllow selection of order total modules for different store\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nMultiStore Manager\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 2 \n 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nMultiStore Manager\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5\n\n\n\n\nUnzip the files.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nMultiStore Manager\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\n\n\n\n\nView \n Edit Feature\n\n\nView\n will display the list of categories, products, information, manufacturers, and layouts from the selected store. \nEdit\n will be the store you wish to update. Please select carefully and update accordingly.\n\n\n\n\n\n\n\n\nManaging Extensions\n\n\nYou will be able to turn on/off various payment modules, shipping modules and order total modules in the \nExtensions\n tab.\n\n\n\n\n\n\nChange Log\n\n\nVersion 3.0.0 (03/07/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 2.2.5 (02/11/2016)\n\n\n\n\nFixed redundant codes\n\n\n\n\nVersion 2.2.4 (11/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 2.2.3 (04/03/2016)\n\n\n\n\nUpdated installation manual\n\n\nVersion number remains unchanged\n\n\n\n\nVersion 2.2.3 (31/12/2015)\n\n\n\n\nFixed issue with save button\n\n\n\n\nVersion 2.2.2 (08/08/2015)\n\n\n\n\nFixed wrong require_once file name\n\n\n\n\nVersion 2.2.1 (04/07/2015)\n\n\n\n\nMinor bug fixes for OC 2\n\n\n\n\nVersion 2.2.0 (17/06/2015)\n\n\n\n\nMinor admin aesthetic improvements\n\n\n\n\nVersion 2.1.3 (23/04/2015)\n\n\n\n\nOC 2.0.2.0 mail support compatibility fix\n\n\n\n\nVersion 2.1.2 (24/03/2015)\n\n\n\n\nMinor bug fixes\n\n\n\n\nVersion 2.1.1 (22/12/2014)\n\n\n\n\nUpdate support Facebook link\n\n\n\n\nVersion 2.1.0 (14/10/2014)\n\n\n\n\nOC 2 compatibility\n\n\n\n\nVersion 2.0 (27/09/2013)\n\n\n\n\nAllow selection of payment modules for different store\n\n\nAllow selection of shipping modules for different store\n\n\nAllow selection of order total modules for different store\n\n\n\n\nVersion 1.2 (26/08/2013)\n\n\n\n\nAllows user to view all stores and their selected template \n\n\n\n\nVersion 1.1 (07/07/2013)\n\n\n\n\nRewrote module to support post limit\n\n\n\n\nVersion 1.0\n\n\n\n\nModule created", 
+            "title": "MultiStore Manager"
+        }, 
+        {
+            "location": "/multistore_manager/#multistore-manager", 
+            "text": "Current Version: 3.0.0  Last Updated: 03 July 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "MultiStore Manager"
+        }, 
+        {
+            "location": "/multistore_manager/#description", 
+            "text": "Multistore Manager allows you to assign all your products, categories, information pages, layouts, and manufacturers from stores to stores all on one single page. This will save you the trouble of needing to manually modify each of the layouts, products or categories whenever you create a new store. Additionally, you can restrict the shipping methods, payment methods, and order total modules to each individual store.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/multistore_manager/#features", 
+            "text": "Load the products, categories, information pages, manufacturers and layouts without needing to refresh the page.  Assign your products, categories, information pages, manufacturers and layout from one single page to different stores.  Allows you to track the products, categories, information pages, manufacturers and layouts assigned to the different stores in one single page.  View all stores and their current selected template from one single list  Allow selection of payment modules for different store  Allow selection of shipping modules for different store  Allow selection of order total modules for different store", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/multistore_manager/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/multistore_manager/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  MultiStore Manager . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/multistore_manager/#opencart-2-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  MultiStore Manager . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 2 &amp; 3"
+        }, 
+        {
+            "location": "/multistore_manager/#opencart-15", 
+            "text": "Unzip the files.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  MultiStore Manager . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 1.5"
+        }, 
+        {
+            "location": "/multistore_manager/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/multistore_manager/#opencart-15-2-3-cloud", 
+            "text": "View   Edit Feature  View  will display the list of categories, products, information, manufacturers, and layouts from the selected store.  Edit  will be the store you wish to update. Please select carefully and update accordingly.     Managing Extensions  You will be able to turn on/off various payment modules, shipping modules and order total modules in the  Extensions  tab.", 
+            "title": "OpenCart 1.5, 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/multistore_manager/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/multistore_manager/#version-300-03072017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Minor improvements and updates  Ceased support for OpenCart 1.5", 
+            "title": "Version 3.0.0 (03/07/2017)"
+        }, 
+        {
+            "location": "/multistore_manager/#version-225-02112016", 
+            "text": "Fixed redundant codes", 
+            "title": "Version 2.2.5 (02/11/2016)"
+        }, 
+        {
+            "location": "/multistore_manager/#version-224-11072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Version 2.2.4 (11/07/2016)"
+        }, 
+        {
+            "location": "/multistore_manager/#version-223-04032016", 
+            "text": "Updated installation manual  Version number remains unchanged", 
+            "title": "Version 2.2.3 (04/03/2016)"
+        }, 
+        {
+            "location": "/multistore_manager/#version-223-31122015", 
+            "text": "Fixed issue with save button", 
+            "title": "Version 2.2.3 (31/12/2015)"
+        }, 
+        {
+            "location": "/multistore_manager/#version-222-08082015", 
+            "text": "Fixed wrong require_once file name", 
+            "title": "Version 2.2.2 (08/08/2015)"
+        }, 
+        {
+            "location": "/multistore_manager/#version-221-04072015", 
+            "text": "Minor bug fixes for OC 2", 
+            "title": "Version 2.2.1 (04/07/2015)"
+        }, 
+        {
+            "location": "/multistore_manager/#version-220-17062015", 
+            "text": "Minor admin aesthetic improvements", 
+            "title": "Version 2.2.0 (17/06/2015)"
+        }, 
+        {
+            "location": "/multistore_manager/#version-213-23042015", 
+            "text": "OC 2.0.2.0 mail support compatibility fix", 
+            "title": "Version 2.1.3 (23/04/2015)"
+        }, 
+        {
+            "location": "/multistore_manager/#version-212-24032015", 
+            "text": "Minor bug fixes", 
+            "title": "Version 2.1.2 (24/03/2015)"
+        }, 
+        {
+            "location": "/multistore_manager/#version-211-22122014", 
+            "text": "Update support Facebook link", 
+            "title": "Version 2.1.1 (22/12/2014)"
+        }, 
+        {
+            "location": "/multistore_manager/#version-210-14102014", 
+            "text": "OC 2 compatibility", 
+            "title": "Version 2.1.0 (14/10/2014)"
+        }, 
+        {
+            "location": "/multistore_manager/#version-20-27092013", 
+            "text": "Allow selection of payment modules for different store  Allow selection of shipping modules for different store  Allow selection of order total modules for different store", 
+            "title": "Version 2.0 (27/09/2013)"
+        }, 
+        {
+            "location": "/multistore_manager/#version-12-26082013", 
+            "text": "Allows user to view all stores and their selected template", 
+            "title": "Version 1.2 (26/08/2013)"
+        }, 
+        {
+            "location": "/multistore_manager/#version-11-07072013", 
+            "text": "Rewrote module to support post limit", 
+            "title": "Version 1.1 (07/07/2013)"
+        }, 
+        {
+            "location": "/multistore_manager/#version-10", 
+            "text": "Module created", 
+            "title": "Version 1.0"
+        }, 
+        {
+            "location": "/newsletter/", 
+            "text": "Newsletter\n\n\n\n\nCurrent Version: 3.0.1\n\n\nLast Updated: 22 July 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nThis extension will allow you to place a newsletter subscribe module around your website. Your customers will be able to subscribe to your newsletter without the need of creating an account with this module.\n\n\nFeatures\n\n\n\n\nSubscribe to your newsletter without an account\n\n\nValidates if email is attached to an account.\n\n\nAutomatically changes subscribe status of account for users with account\n\n\nWill not double send a newsletter to user with account and subscribed.\n\n\nUses advance ajax technology to submit form (won\u2019t redirect user away from page)\n\n\nAdmin page to view all subscribers that subscribed through this module\n\n\nAble to send out newsletter with unsubscribe link\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nNewsletter\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nNewsletter\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nNewsletter\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 2, 3 \n Cloud\n\n\n\n\n\n\nAdding Module to Layout\n\n\nOnce you have installed and enabled the extension, you can add the extension to your layout through the OpenCart's layout management page.\n\n\n\n\n\n\n\n\nViewing Subscribers\n\n\nYou can view the subscribers on your website through the newsletter subscribers page, which can be found in \nExtensions \n Newsletter Subscribers\n. Only subscribers that are not registered on your website will be shown here.\n\n\n\n\n\n\n\n\nOpenCart 1.5\n\n\n\n\n\n\nAdding Module to Layout\n\n\nOnce you have installed the extension, you can add the extension to your layout through the Mega Menu module settings page itself.\n\n\n\n\n\n\nViewing Subscribers\n\n\nYou can view the subscribers on your website through the newsletter subscribers page, which can be found in \nExtensions \n Newsletter Subscribers\n. Only subscribers that are not registered on your website will be shown here.\n\n\n\n\n\n\n\n\nChange Log\n\n\nVersion 3.0.1 (22/07/2017)\n\n\n\n\nFixed incorrect unsubscribe link for OpenCart 2.3 and 3 release\n\n\n\n\nVersion 3.0.0 (03/07/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 2.5.6 (11/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 2.5.5 (24/05/2016)\n\n\n\n\nFixed newsletter unsubscribe page for OpenCart 2 release \n\n\n\n\nVersion 2.5.4 (18/04/2016)\n\n\n\n\nAdded missing pagination for OpenCart 2 release\n\n\n\n\nVersion 2.5.3 (04/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\n\n\nVersion 2.5.2 (28/02/2016)\n\n\n\n\nFixed minor bug for OC 1.5 release \n\n\n\n\nVersion 2.5.1 (13/12/2015)\n\n\n\n\nFixed wrong unsubscribe link being sent\n\n\n\n\nVersion 2.5.0 (16/05/2015)\n\n\n\n\nMinor admin aesthetic improvements\n\n\n\n\nVersion 2.4.3 (23/04/2015)\n\n\n\n\nOC 2.0.2.0 mail support compatibility fix\n\n\n\n\nVersion 2.4.2 (10/02/2015)\n\n\n\n\nBug fixes for OC 2\n\n\n\n\nVersion 2.4.1 (22/12/2014)\n\n\n\n\nUpdate support Facebook link\n\n\n\n\nVersion 2.4.0 (14/10/2014)\n\n\n\n\nOC 2 compatibility\n\n\n\n\nVersion 2.3.0 (17/04/2014)\n\n\n\n\nSupports unsubscribe link in newsletter\n\n\n\n\nVersion 2.2.0 (04/03/2013)\n\n\n\n\nAllows enter button to submit form\n\n\n\n\nVersion 2.1.0 (08/01/2013)\n\n\n\n\nOpenCart v1.5.5 compatibility\n\n\n\n\nVersion 2.0.0 (08/12/2012)\n\n\n\n\nNewsletter subscribers list in admin panel", 
+            "title": "Newsletter"
+        }, 
+        {
+            "location": "/newsletter/#newsletter", 
+            "text": "Current Version: 3.0.1  Last Updated: 22 July 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "Newsletter"
+        }, 
+        {
+            "location": "/newsletter/#description", 
+            "text": "This extension will allow you to place a newsletter subscribe module around your website. Your customers will be able to subscribe to your newsletter without the need of creating an account with this module.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/newsletter/#features", 
+            "text": "Subscribe to your newsletter without an account  Validates if email is attached to an account.  Automatically changes subscribe status of account for users with account  Will not double send a newsletter to user with account and subscribed.  Uses advance ajax technology to submit form (won\u2019t redirect user away from page)  Admin page to view all subscribers that subscribed through this module  Able to send out newsletter with unsubscribe link", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/newsletter/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/newsletter/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Newsletter . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/newsletter/#opencart-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Newsletter . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 3"
+        }, 
+        {
+            "location": "/newsletter/#opencart-15-2", 
+            "text": "Unzip the files.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Newsletter . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 1.5 &amp; 2"
+        }, 
+        {
+            "location": "/newsletter/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/newsletter/#opencart-2-3-cloud", 
+            "text": "Adding Module to Layout  Once you have installed and enabled the extension, you can add the extension to your layout through the OpenCart's layout management page.     Viewing Subscribers  You can view the subscribers on your website through the newsletter subscribers page, which can be found in  Extensions   Newsletter Subscribers . Only subscribers that are not registered on your website will be shown here.", 
+            "title": "OpenCart 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/newsletter/#opencart-15", 
+            "text": "Adding Module to Layout  Once you have installed the extension, you can add the extension to your layout through the Mega Menu module settings page itself.    Viewing Subscribers  You can view the subscribers on your website through the newsletter subscribers page, which can be found in  Extensions   Newsletter Subscribers . Only subscribers that are not registered on your website will be shown here.", 
+            "title": "OpenCart 1.5"
+        }, 
+        {
+            "location": "/newsletter/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/newsletter/#version-301-22072017", 
+            "text": "Fixed incorrect unsubscribe link for OpenCart 2.3 and 3 release", 
+            "title": "Version 3.0.1 (22/07/2017)"
+        }, 
+        {
+            "location": "/newsletter/#version-300-03072017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Minor improvements and updates  Ceased support for OpenCart 1.5", 
+            "title": "Version 3.0.0 (03/07/2017)"
+        }, 
+        {
+            "location": "/newsletter/#version-256-11072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Version 2.5.6 (11/07/2016)"
+        }, 
+        {
+            "location": "/newsletter/#version-255-24052016", 
+            "text": "Fixed newsletter unsubscribe page for OpenCart 2 release", 
+            "title": "Version 2.5.5 (24/05/2016)"
+        }, 
+        {
+            "location": "/newsletter/#version-254-18042016", 
+            "text": "Added missing pagination for OpenCart 2 release", 
+            "title": "Version 2.5.4 (18/04/2016)"
+        }, 
+        {
+            "location": "/newsletter/#version-253-04032016", 
+            "text": "Fixed compatibility with OpenCart 2.2.0.0", 
+            "title": "Version 2.5.3 (04/03/2016)"
+        }, 
+        {
+            "location": "/newsletter/#version-252-28022016", 
+            "text": "Fixed minor bug for OC 1.5 release", 
+            "title": "Version 2.5.2 (28/02/2016)"
+        }, 
+        {
+            "location": "/newsletter/#version-251-13122015", 
+            "text": "Fixed wrong unsubscribe link being sent", 
+            "title": "Version 2.5.1 (13/12/2015)"
+        }, 
+        {
+            "location": "/newsletter/#version-250-16052015", 
+            "text": "Minor admin aesthetic improvements", 
+            "title": "Version 2.5.0 (16/05/2015)"
+        }, 
+        {
+            "location": "/newsletter/#version-243-23042015", 
+            "text": "OC 2.0.2.0 mail support compatibility fix", 
+            "title": "Version 2.4.3 (23/04/2015)"
+        }, 
+        {
+            "location": "/newsletter/#version-242-10022015", 
+            "text": "Bug fixes for OC 2", 
+            "title": "Version 2.4.2 (10/02/2015)"
+        }, 
+        {
+            "location": "/newsletter/#version-241-22122014", 
+            "text": "Update support Facebook link", 
+            "title": "Version 2.4.1 (22/12/2014)"
+        }, 
+        {
+            "location": "/newsletter/#version-240-14102014", 
+            "text": "OC 2 compatibility", 
+            "title": "Version 2.4.0 (14/10/2014)"
+        }, 
+        {
+            "location": "/newsletter/#version-230-17042014", 
+            "text": "Supports unsubscribe link in newsletter", 
+            "title": "Version 2.3.0 (17/04/2014)"
+        }, 
+        {
+            "location": "/newsletter/#version-220-04032013", 
+            "text": "Allows enter button to submit form", 
+            "title": "Version 2.2.0 (04/03/2013)"
+        }, 
+        {
+            "location": "/newsletter/#version-210-08012013", 
+            "text": "OpenCart v1.5.5 compatibility", 
+            "title": "Version 2.1.0 (08/01/2013)"
+        }, 
+        {
+            "location": "/newsletter/#version-200-08122012", 
+            "text": "Newsletter subscribers list in admin panel", 
+            "title": "Version 2.0.0 (08/12/2012)"
+        }, 
+        {
+            "location": "/option_description/", 
+            "text": "Option Description\n\n\n\n\nCurrent Version: 2.0.0\n\n\nLast Updated: 04 July 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nMany customers need more description about the option they are selecting when adding products to cart. This extension will do just that, allowing you to add a description to each of the options. \n\n\nFeatures\n\n\n\n\nAdd description to options\n\n\nRich text editor for entering description\n\n\nMulti-language description supported\n\n\nDisplays description in a popup when option name is clicked\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nOption Description\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nOption Description\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nOption Description\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\n\n\n\n\nSetting Option Description\n\n\nOption description can be configured in \nCatalog \n Options \n Edit Option\n. A text editor will be shown for each language installed on your website.\n\n\n\n\n\n\n\n\nChange Log\n\n\nVersion 2.0.0 (04/07/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 1.0.1 (11/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 1.0.0 (04/03/2016)\n\n\n\n\nUpdated installation manual\n\n\nVersion number remains unchanged\n\n\n\n\nVersion 1.0.0 (03/02/2016)\n\n\n\n\nExtension created", 
+            "title": "Option Description"
+        }, 
+        {
+            "location": "/option_description/#option-description", 
+            "text": "Current Version: 2.0.0  Last Updated: 04 July 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "Option Description"
+        }, 
+        {
+            "location": "/option_description/#description", 
+            "text": "Many customers need more description about the option they are selecting when adding products to cart. This extension will do just that, allowing you to add a description to each of the options.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/option_description/#features", 
+            "text": "Add description to options  Rich text editor for entering description  Multi-language description supported  Displays description in a popup when option name is clicked", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/option_description/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/option_description/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Option Description . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Please view configuration details below.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/option_description/#opencart-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Option Description . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Please view configuration details below.", 
+            "title": "OpenCart 3"
+        }, 
+        {
+            "location": "/option_description/#opencart-15-2", 
+            "text": "Unzip the files. Ensure that vQmod has been installed.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Option Description . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 1.5 &amp; 2"
+        }, 
+        {
+            "location": "/option_description/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/option_description/#opencart-15-2-3-cloud", 
+            "text": "Setting Option Description  Option description can be configured in  Catalog   Options   Edit Option . A text editor will be shown for each language installed on your website.", 
+            "title": "OpenCart 1.5, 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/option_description/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/option_description/#version-200-04072017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Minor improvements and updates  Ceased support for OpenCart 1.5", 
+            "title": "Version 2.0.0 (04/07/2017)"
+        }, 
+        {
+            "location": "/option_description/#version-101-11072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Version 1.0.1 (11/07/2016)"
+        }, 
+        {
+            "location": "/option_description/#version-100-04032016", 
+            "text": "Updated installation manual  Version number remains unchanged", 
+            "title": "Version 1.0.0 (04/03/2016)"
+        }, 
+        {
+            "location": "/option_description/#version-100-03022016", 
+            "text": "Extension created", 
+            "title": "Version 1.0.0 (03/02/2016)"
+        }, 
+        {
             "location": "/option_image/", 
-            "text": "Dependent Options\n\n\n\n\nCurrent Version: 5.0.1\n\n\nLast Updated: 04 September 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nOption Image allows you to display images next to your options, and it changes the main image when you click on an option value. Images can be added to drop down list, radio buttons, and check boxes.\n\n\nFeatures\n\n\n\n\nAdds images to product options\n\n\nMain image changes by clicking on option values\n\n\nOption image plus allows you to set a second option image at the product option\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nOption Image\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nOption Image\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nOption Image\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\n\n\n\n\nSetting Option Value Small Thumbnail Images\n\n\nAdd images to the option values in \nCatalog \n Options \n Edit Options\n. The image added here will be used for the small option thumbnail on the store front. \nselect\n type option will not show this small thumbnail.\n\n\n\n\n\n\n\n\nSetting Main Option Value Image (Option Image Plus)\n\n\nProceed to \nCatalog \n Products \n Edit Product \n Options Tab\n and add the options to the product. Set the option value image here if you are using Option Image Plus. If you are using Option Image, the small thumbnail image will be the main image shown.\n\n\n\n\n\n\n\n\nChange Log\n\n\nVersion 5.0.1 (04/09/2017)\n\n\n\n\nFixed incorrect OCMod script for OpenCart 3.0.0 release\n\n\n\n\nVersion 5.0.0 (04/07/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 4.3.2 (11/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 4.3.1 (04/03/2016)\n\n\n\n\nImproved script for easier integration with custom themes\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\n\n\nVersion 4.3.0 (18/05/2015)\n\n\n\n\nImproved administration interface\n\n\n\n\nVersion 4.2.2 (23/04/2015)\n\n\n\n\nFixed compatibility with OpenCart 2.0.2.0 mail\n\n\n\n\nVersion 4.2.1 (22/12/2014)\n\n\n\n\nFixed Facebook support link\n\n\n\n\nVersion 4.2.0 (14/10/2014)\n\n\n\n\nFixed compatibility with OpenCart 2.0.0.0\n\n\n\n\nVersion 4.1.1 (19/04/2014)\n\n\n\n\nImproved codes\n\n\n\n\nVersion 4.1.0 (08/01/2013)\n\n\n\n\nOpenCart v1.5.5 compatibility\n\n\n\n\nVersion 4.0.0 (01/12/2012)\n\n\n\n\nInstallation Improvements for Option Image\n\n\n\n\nVersion 3.1.0 (17/10/2012)\n\n\n\n\nBug fixes for Option Image Plus \n\n\n\n\nVersion 3.0.0 (03/10/2012)\n\n\n\n\nAdded Option Image Plus", 
+            "text": "Option Image\n\n\n\n\nCurrent Version: 5.0.1\n\n\nLast Updated: 04 September 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nOption Image allows you to display images next to your options, and it changes the main image when you click on an option value. Images can be added to drop down list, radio buttons, and check boxes.\n\n\nFeatures\n\n\n\n\nAdds images to product options\n\n\nMain image changes by clicking on option values\n\n\nOption image plus allows you to set a second option image at the product option\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nOption Image\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nOption Image\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nOption Image\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\n\n\n\n\nSetting Option Value Small Thumbnail Images\n\n\nAdd images to the option values in \nCatalog \n Options \n Edit Options\n. The image added here will be used for the small option thumbnail on the store front. \nselect\n type option will not show this small thumbnail.\n\n\n\n\n\n\n\n\nSetting Main Option Value Image (Option Image Plus)\n\n\nProceed to \nCatalog \n Products \n Edit Product \n Options Tab\n and add the options to the product. Set the option value image here if you are using Option Image Plus. If you are using Option Image, the small thumbnail image will be the main image shown.\n\n\n\n\n\n\n\n\nChange Log\n\n\nVersion 5.0.1 (04/09/2017)\n\n\n\n\nFixed incorrect OCMod script for OpenCart 3.0.0 release\n\n\n\n\nVersion 5.0.0 (04/07/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 4.3.2 (11/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 4.3.1 (04/03/2016)\n\n\n\n\nImproved script for easier integration with custom themes\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\n\n\nVersion 4.3.0 (18/05/2015)\n\n\n\n\nImproved administration interface\n\n\n\n\nVersion 4.2.2 (23/04/2015)\n\n\n\n\nFixed compatibility with OpenCart 2.0.2.0 mail\n\n\n\n\nVersion 4.2.1 (22/12/2014)\n\n\n\n\nFixed Facebook support link\n\n\n\n\nVersion 4.2.0 (14/10/2014)\n\n\n\n\nFixed compatibility with OpenCart 2.0.0.0\n\n\n\n\nVersion 4.1.1 (19/04/2014)\n\n\n\n\nImproved codes\n\n\n\n\nVersion 4.1.0 (08/01/2013)\n\n\n\n\nOpenCart v1.5.5 compatibility\n\n\n\n\nVersion 4.0.0 (01/12/2012)\n\n\n\n\nInstallation Improvements for Option Image\n\n\n\n\nVersion 3.1.0 (17/10/2012)\n\n\n\n\nBug fixes for Option Image Plus \n\n\n\n\nVersion 3.0.0 (03/10/2012)\n\n\n\n\nAdded Option Image Plus", 
             "title": "Option Image"
         }, 
         {
-            "location": "/option_image/#dependent-options", 
+            "location": "/option_image/#option-image", 
             "text": "Current Version: 5.0.1  Last Updated: 04 September 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
-            "title": "Dependent Options"
+            "title": "Option Image"
         }, 
         {
             "location": "/option_image/#description", 
@@ -3039,6 +3489,306 @@
             "location": "/option_image/#version-300-03102012", 
             "text": "Added Option Image Plus", 
             "title": "Version 3.0.0 (03/10/2012)"
+        }, 
+        {
+            "location": "/option_value_equals_sign/", 
+            "text": "Option Value Equals Sign\n\n\n\n\nCurrent Version: 2.0.0\n\n\nLast Updated: 05 July 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nOption Value Equals Sign allows you to set an equal sign for your price, weight, and reward points for your option values. The default OpenCart option values can only have a plus and minus sign, and this modification would just be the thing you need if you want an equal sign.\n\n\nThis extension also works with our Live Price Update extension.\n\n\nFeatures\n\n\n\n\nAdd an equal sign for your product option values\n\n\nEqual sign for option value price\n\n\nEqual sign for option value reward points\n\n\nEqual sign for option value weight\n\n\nWorks with all custom themes\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nOption Value Equals Sign\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nOption Value Equals Sign\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nOption Value Equals Sign\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\n\n\n\n\nSetting Equal Sign\n\n\nYou can configure the equal sign for your option values in \nCatalog \n Product \n Edit Product \n Option\n tab.\n\n\n\n\n\n\n\n\nChange Log\n\n\nVersion 2.0.0 (05/07/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 1.1.5 (11/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 1.1.4 (04/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\n\n\nVersion 1.1.3 (20/01/2016)\n\n\n\n\nFixed for OC 2.1.x releases\n\n\n\n\nVersion 1.1.2 (16/08/2015)\n\n\n\n\nFixed allow equal sign to be mixed with other signs\n\n\n\n\nVersion 1.1.1 (24/05/2015)\n\n\n\n\nFixed wrong file path\n\n\n\n\nVersion 1.1.0 (15/05/2015)\n\n\n\n\nMinor bug fixes", 
+            "title": "Option Value Equals Sign"
+        }, 
+        {
+            "location": "/option_value_equals_sign/#option-value-equals-sign", 
+            "text": "Current Version: 2.0.0  Last Updated: 05 July 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "Option Value Equals Sign"
+        }, 
+        {
+            "location": "/option_value_equals_sign/#description", 
+            "text": "Option Value Equals Sign allows you to set an equal sign for your price, weight, and reward points for your option values. The default OpenCart option values can only have a plus and minus sign, and this modification would just be the thing you need if you want an equal sign.  This extension also works with our Live Price Update extension.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/option_value_equals_sign/#features", 
+            "text": "Add an equal sign for your product option values  Equal sign for option value price  Equal sign for option value reward points  Equal sign for option value weight  Works with all custom themes", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/option_value_equals_sign/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/option_value_equals_sign/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Option Value Equals Sign . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Please view configuration details below.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/option_value_equals_sign/#opencart-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Option Value Equals Sign . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Please view configuration details below.", 
+            "title": "OpenCart 3"
+        }, 
+        {
+            "location": "/option_value_equals_sign/#opencart-15-2", 
+            "text": "Unzip the files. Ensure that vQmod has been installed.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Option Value Equals Sign . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 1.5 &amp; 2"
+        }, 
+        {
+            "location": "/option_value_equals_sign/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/option_value_equals_sign/#opencart-15-2-3-cloud", 
+            "text": "Setting Equal Sign  You can configure the equal sign for your option values in  Catalog   Product   Edit Product   Option  tab.", 
+            "title": "OpenCart 1.5, 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/option_value_equals_sign/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/option_value_equals_sign/#version-200-05072017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Minor improvements and updates  Ceased support for OpenCart 1.5", 
+            "title": "Version 2.0.0 (05/07/2017)"
+        }, 
+        {
+            "location": "/option_value_equals_sign/#version-115-11072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Version 1.1.5 (11/07/2016)"
+        }, 
+        {
+            "location": "/option_value_equals_sign/#version-114-04032016", 
+            "text": "Fixed compatibility with OpenCart 2.2.0.0", 
+            "title": "Version 1.1.4 (04/03/2016)"
+        }, 
+        {
+            "location": "/option_value_equals_sign/#version-113-20012016", 
+            "text": "Fixed for OC 2.1.x releases", 
+            "title": "Version 1.1.3 (20/01/2016)"
+        }, 
+        {
+            "location": "/option_value_equals_sign/#version-112-16082015", 
+            "text": "Fixed allow equal sign to be mixed with other signs", 
+            "title": "Version 1.1.2 (16/08/2015)"
+        }, 
+        {
+            "location": "/option_value_equals_sign/#version-111-24052015", 
+            "text": "Fixed wrong file path", 
+            "title": "Version 1.1.1 (24/05/2015)"
+        }, 
+        {
+            "location": "/option_value_equals_sign/#version-110-15052015", 
+            "text": "Minor bug fixes", 
+            "title": "Version 1.1.0 (15/05/2015)"
+        }, 
+        {
+            "location": "/options_with_quantities/", 
+            "text": "Options with Quantities\n\n\n\n\nCurrent Version: 3.0.0\n\n\nLast Updated: 05 July 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nOptions with Quantities allow your customers to shop quickly. They can add multiple quantities of different options choices to their cart in just one single click. This modification will give each option value a quantity box.\n\n\nFeatures\n\n\n\n\nAble to use multiple \u2018Options with Quantities\u2019 together\n\n\nAble to mix options type (e.g. Use Select Type options + Options w Quantities)\n\n\nAdd quantity box to each option value\n\n\nAdd new option type \u2013 Options w Quantities\n\n\nDoes not replace default option types\n\n\nOnly affects products that use \u2018Options w Quantities\u2019 for their option.\n\n\nRemoves \u2018Price\u2019 field as that will be confusing\n\n\nRemoves default \u2018Quantity\u2019 box as that will be confusing\n\n\nSimple installation\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nOptions with Quantities\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nOptions with Quantities\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nOptions with Quantities\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\n\n\n\n\nNew Option Type - Options w Quantities\n\n\nYou should now be able to find the new option type in \nCatalog \n Options \n Edit Option\n.\n\n\n\n\n\n\n\n\nChange Log\n\n\nVersion 3.0.0 (05/07/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 2.6.6 (11/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 2.6.5 (07/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\n\n\nVersion 2.6.4 (05/09/2015)\n\n\n\n\nFixed table ID (OC 2)\n\n\nSupport for Option Value Equals Sign\n\n\n\n\nVersion 2.6.3 (16/08/2015)\n\n\n\n\nFix issue with options disappearing when editing order (OC 2)\n\n\n\n\nVersion 2.6.2 (04/06/2015)\n\n\n\n\nBug fix for OC 2.0.3.0\n\n\n\n\nVersion 2.6.1 (18/05/2015)\n\n\n\n\nBug fix for controller class not found (OC 2)\n\n\n\n\nVersion 2.6.0 (17/05/2015)\n\n\n\n\nMinor admin aesthetic improvements\n\n\n\n\nVersion 2.5.1 (22/02/2015)\n\n\n\n\nOC 2.0.2.0 compatibility\n\n\n\n\nVersion 2.5.0 (14/10/2014)\n\n\n\n\nFixed compatibility with OpenCart 2.0.0.0\n\n\n\n\nVersion 2.4.1 (23/04/2014)\n\n\n\n\nFixed minor bugs", 
+            "title": "Options with Quantities"
+        }, 
+        {
+            "location": "/options_with_quantities/#options-with-quantities", 
+            "text": "Current Version: 3.0.0  Last Updated: 05 July 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "Options with Quantities"
+        }, 
+        {
+            "location": "/options_with_quantities/#description", 
+            "text": "Options with Quantities allow your customers to shop quickly. They can add multiple quantities of different options choices to their cart in just one single click. This modification will give each option value a quantity box.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/options_with_quantities/#features", 
+            "text": "Able to use multiple \u2018Options with Quantities\u2019 together  Able to mix options type (e.g. Use Select Type options + Options w Quantities)  Add quantity box to each option value  Add new option type \u2013 Options w Quantities  Does not replace default option types  Only affects products that use \u2018Options w Quantities\u2019 for their option.  Removes \u2018Price\u2019 field as that will be confusing  Removes default \u2018Quantity\u2019 box as that will be confusing  Simple installation", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/options_with_quantities/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/options_with_quantities/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Options with Quantities . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Please view configuration details below.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/options_with_quantities/#opencart-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Options with Quantities . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Please view configuration details below.", 
+            "title": "OpenCart 3"
+        }, 
+        {
+            "location": "/options_with_quantities/#opencart-15-2", 
+            "text": "Unzip the files. Ensure that vQmod has been installed.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Options with Quantities . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 1.5 &amp; 2"
+        }, 
+        {
+            "location": "/options_with_quantities/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/options_with_quantities/#opencart-15-2-3-cloud", 
+            "text": "New Option Type - Options w Quantities  You should now be able to find the new option type in  Catalog   Options   Edit Option .", 
+            "title": "OpenCart 1.5, 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/options_with_quantities/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/options_with_quantities/#version-300-05072017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Minor improvements and updates  Ceased support for OpenCart 1.5", 
+            "title": "Version 3.0.0 (05/07/2017)"
+        }, 
+        {
+            "location": "/options_with_quantities/#version-266-11072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Version 2.6.6 (11/07/2016)"
+        }, 
+        {
+            "location": "/options_with_quantities/#version-265-07032016", 
+            "text": "Fixed compatibility with OpenCart 2.2.0.0", 
+            "title": "Version 2.6.5 (07/03/2016)"
+        }, 
+        {
+            "location": "/options_with_quantities/#version-264-05092015", 
+            "text": "Fixed table ID (OC 2)  Support for Option Value Equals Sign", 
+            "title": "Version 2.6.4 (05/09/2015)"
+        }, 
+        {
+            "location": "/options_with_quantities/#version-263-16082015", 
+            "text": "Fix issue with options disappearing when editing order (OC 2)", 
+            "title": "Version 2.6.3 (16/08/2015)"
+        }, 
+        {
+            "location": "/options_with_quantities/#version-262-04062015", 
+            "text": "Bug fix for OC 2.0.3.0", 
+            "title": "Version 2.6.2 (04/06/2015)"
+        }, 
+        {
+            "location": "/options_with_quantities/#version-261-18052015", 
+            "text": "Bug fix for controller class not found (OC 2)", 
+            "title": "Version 2.6.1 (18/05/2015)"
+        }, 
+        {
+            "location": "/options_with_quantities/#version-260-17052015", 
+            "text": "Minor admin aesthetic improvements", 
+            "title": "Version 2.6.0 (17/05/2015)"
+        }, 
+        {
+            "location": "/options_with_quantities/#version-251-22022015", 
+            "text": "OC 2.0.2.0 compatibility", 
+            "title": "Version 2.5.1 (22/02/2015)"
+        }, 
+        {
+            "location": "/options_with_quantities/#version-250-14102014", 
+            "text": "Fixed compatibility with OpenCart 2.0.0.0", 
+            "title": "Version 2.5.0 (14/10/2014)"
+        }, 
+        {
+            "location": "/options_with_quantities/#version-241-23042014", 
+            "text": "Fixed minor bugs", 
+            "title": "Version 2.4.1 (23/04/2014)"
+        }, 
+        {
+            "location": "/order_limitation/", 
+            "text": "Order Limitation\n\n\n\n\nCurrent Version: 2.0.0\n\n\nLast Updated: 05 July 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nIf you need a way to limit the number of orders a specific customer group on your store can make, this is exactly what you need! Order Limitation allows you to limit the number of orders each customer from the specific customer group can make on your store within X days.\n\n\nFeatures\n\n\n\n\nLimit orders based on customer group\n\n\nLimit orders for customers with an account only\n\n\nSet a variable date length to limit across the store\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nOrder Limitation\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nOrder Limitation\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nOrder Limitation\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\n\n\n\n\nConfiguring Order Limitation\n\n\nYou can configure the limitation for each individual customer group in the customer group management page as per below.\n\n\n\n\n\n\n\n\nChange Log\n\n\nVersion 2.0.0 (05/07/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 1.2.1 (12/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 1.2.0 (09/03/2016)\n\n\n\n\nImproved administration interface\n\n\n\n\nVersion 1.1.4 (10/10/2015)\n\n\n\n\nFixed compatibility with OpenCart 2.1.0.0\n\n\n\n\nVersion 1.1.3 (23/04/2015)\n\n\n\n\nOC 2.0.2.0 mail support compatibility fix\n\n\n\n\nVersion 1.1.2 (10/02/2015)\n\n\n\n\nBug fixes for OC 2\n\n\n\n\nVersion 1.1.1 (22/12/2014)\n\n\n\n\nUpdate support Facebook link\n\n\n\n\nVersion 1.1.0 (14/10/2014)\n\n\n\n\nOC 2 compatibility\n\n\nLimit to include more than or equal to\n\n\n\n\nVersion 1.0.0 (04/02/2014)\n\n\n\n\nModule created", 
+            "title": "Order Limitation"
+        }, 
+        {
+            "location": "/order_limitation/#order-limitation", 
+            "text": "Current Version: 2.0.0  Last Updated: 05 July 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "Order Limitation"
+        }, 
+        {
+            "location": "/order_limitation/#description", 
+            "text": "If you need a way to limit the number of orders a specific customer group on your store can make, this is exactly what you need! Order Limitation allows you to limit the number of orders each customer from the specific customer group can make on your store within X days.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/order_limitation/#features", 
+            "text": "Limit orders based on customer group  Limit orders for customers with an account only  Set a variable date length to limit across the store", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/order_limitation/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/order_limitation/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Order Limitation . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Please view configuration details below.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/order_limitation/#opencart-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Order Limitation . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Please view configuration details below.", 
+            "title": "OpenCart 3"
+        }, 
+        {
+            "location": "/order_limitation/#opencart-15-2", 
+            "text": "Unzip the files. Ensure that vQmod has been installed.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Order Limitation . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 1.5 &amp; 2"
+        }, 
+        {
+            "location": "/order_limitation/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/order_limitation/#opencart-15-2-3-cloud", 
+            "text": "Configuring Order Limitation  You can configure the limitation for each individual customer group in the customer group management page as per below.", 
+            "title": "OpenCart 1.5, 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/order_limitation/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/order_limitation/#version-200-05072017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Minor improvements and updates  Ceased support for OpenCart 1.5", 
+            "title": "Version 2.0.0 (05/07/2017)"
+        }, 
+        {
+            "location": "/order_limitation/#version-121-12072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Version 1.2.1 (12/07/2016)"
+        }, 
+        {
+            "location": "/order_limitation/#version-120-09032016", 
+            "text": "Improved administration interface", 
+            "title": "Version 1.2.0 (09/03/2016)"
+        }, 
+        {
+            "location": "/order_limitation/#version-114-10102015", 
+            "text": "Fixed compatibility with OpenCart 2.1.0.0", 
+            "title": "Version 1.1.4 (10/10/2015)"
+        }, 
+        {
+            "location": "/order_limitation/#version-113-23042015", 
+            "text": "OC 2.0.2.0 mail support compatibility fix", 
+            "title": "Version 1.1.3 (23/04/2015)"
+        }, 
+        {
+            "location": "/order_limitation/#version-112-10022015", 
+            "text": "Bug fixes for OC 2", 
+            "title": "Version 1.1.2 (10/02/2015)"
+        }, 
+        {
+            "location": "/order_limitation/#version-111-22122014", 
+            "text": "Update support Facebook link", 
+            "title": "Version 1.1.1 (22/12/2014)"
+        }, 
+        {
+            "location": "/order_limitation/#version-110-14102014", 
+            "text": "OC 2 compatibility  Limit to include more than or equal to", 
+            "title": "Version 1.1.0 (14/10/2014)"
+        }, 
+        {
+            "location": "/order_limitation/#version-100-04022014", 
+            "text": "Module created", 
+            "title": "Version 1.0.0 (04/02/2014)"
         }, 
         {
             "location": "/quick_checkout/", 
