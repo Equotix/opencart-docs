@@ -3791,6 +3791,356 @@
             "title": "Version 1.0.0 (04/02/2014)"
         }, 
         {
+            "location": "/popup_history_manager/", 
+            "text": "Popup History Manager\n\n\n\n\nCurrent Version: 3.0.0\n\n\nLast Updated: 07 July 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nThis extension allows you to view and update the order histories of your orders directly from your order listing page. This saves you time from loading a new page just to view all history statuses and to update / notify your customers.\n\n\nFeatures\n\n\n\n\nPopup order history box\n\n\nView all order histories for the selected order\n\n\nUpdate order status without reloading the page\n\n\nDelete order history from the orders\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nPopup History Manager\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nPopup History Manager\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nPopup History Manager\n. Configure extension accordingly.\n\n\n\n\nConfigurations\n\n\nNo additional configuration is needed for Popup History Manager. You should now see a new button beside each order on your order listing page that allows you to open the popup.\n\n\nChange Log\n\n\nVersion 3.0.0 (07/07/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 2.0.1 (12/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 2.0.0 (09/03/2016)\n\n\n\n\nAdded ability to remove order history\n\n\nAdded administration interface\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\n\n\nVersion 1.1.0 (15/10/2014)\n\n\n\n\nFixed compatibility with OpenCart 2.0.0.0\n\n\n\n\nVersion 1.0.0 (19/12/2013)\n\n\n\n\nExtension created", 
+            "title": "Popup History Manager"
+        }, 
+        {
+            "location": "/popup_history_manager/#popup-history-manager", 
+            "text": "Current Version: 3.0.0  Last Updated: 07 July 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "Popup History Manager"
+        }, 
+        {
+            "location": "/popup_history_manager/#description", 
+            "text": "This extension allows you to view and update the order histories of your orders directly from your order listing page. This saves you time from loading a new page just to view all history statuses and to update / notify your customers.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/popup_history_manager/#features", 
+            "text": "Popup order history box  View all order histories for the selected order  Update order status without reloading the page  Delete order history from the orders", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/popup_history_manager/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/popup_history_manager/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Popup History Manager . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/popup_history_manager/#opencart-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Popup History Manager . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.", 
+            "title": "OpenCart 3"
+        }, 
+        {
+            "location": "/popup_history_manager/#opencart-15-2", 
+            "text": "Unzip the files. Ensure that vQmod has been installed.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Popup History Manager . Configure extension accordingly.", 
+            "title": "OpenCart 1.5 &amp; 2"
+        }, 
+        {
+            "location": "/popup_history_manager/#configurations", 
+            "text": "No additional configuration is needed for Popup History Manager. You should now see a new button beside each order on your order listing page that allows you to open the popup.", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/popup_history_manager/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/popup_history_manager/#version-300-07072017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Minor improvements and updates  Ceased support for OpenCart 1.5", 
+            "title": "Version 3.0.0 (07/07/2017)"
+        }, 
+        {
+            "location": "/popup_history_manager/#version-201-12072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Version 2.0.1 (12/07/2016)"
+        }, 
+        {
+            "location": "/popup_history_manager/#version-200-09032016", 
+            "text": "Added ability to remove order history  Added administration interface  Fixed compatibility with OpenCart 2.2.0.0", 
+            "title": "Version 2.0.0 (09/03/2016)"
+        }, 
+        {
+            "location": "/popup_history_manager/#version-110-15102014", 
+            "text": "Fixed compatibility with OpenCart 2.0.0.0", 
+            "title": "Version 1.1.0 (15/10/2014)"
+        }, 
+        {
+            "location": "/popup_history_manager/#version-100-19122013", 
+            "text": "Extension created", 
+            "title": "Version 1.0.0 (19/12/2013)"
+        }, 
+        {
+            "location": "/popup_login/", 
+            "text": "Popup Login\n\n\n\n\nCurrent Version: 2.0.0\n\n\nLast Updated: 07 July 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nThis extension modifies the default login link at the header to be a popup box instead. It reduces the need to load a page or redirect the customer away. Your customer can conveniently login on the page they are browsing and make an order.\n\n\nFeatures\n\n\n\n\nNo redirection away from page\n\n\nPopup login box\n\n\nCompatible with all themes that has a header login link\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nPopup Login\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nPopup Login\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nPopup Login\n. Configure extension accordingly.\n\n\n\n\nConfigurations\n\n\nNo additional configuration is needed for Popup Login. The header login link at your store front should now trigger a popup.\n\n\nChange Log\n\n\nVersion 2.0.0 (07/07/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 1.2.1 (12/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 1.2.0 (10/03/2016)\n\n\n\n\nAdded administration interface for installation\n\n\nFixed compatibility with OpenCart 2.2.0.0", 
+            "title": "Popup Login"
+        }, 
+        {
+            "location": "/popup_login/#popup-login", 
+            "text": "Current Version: 2.0.0  Last Updated: 07 July 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "Popup Login"
+        }, 
+        {
+            "location": "/popup_login/#description", 
+            "text": "This extension modifies the default login link at the header to be a popup box instead. It reduces the need to load a page or redirect the customer away. Your customer can conveniently login on the page they are browsing and make an order.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/popup_login/#features", 
+            "text": "No redirection away from page  Popup login box  Compatible with all themes that has a header login link", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/popup_login/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/popup_login/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Popup Login . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/popup_login/#opencart-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Popup Login . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.", 
+            "title": "OpenCart 3"
+        }, 
+        {
+            "location": "/popup_login/#opencart-15-2", 
+            "text": "Unzip the files. Ensure that vQmod has been installed.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Popup Login . Configure extension accordingly.", 
+            "title": "OpenCart 1.5 &amp; 2"
+        }, 
+        {
+            "location": "/popup_login/#configurations", 
+            "text": "No additional configuration is needed for Popup Login. The header login link at your store front should now trigger a popup.", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/popup_login/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/popup_login/#version-200-07072017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Minor improvements and updates  Ceased support for OpenCart 1.5", 
+            "title": "Version 2.0.0 (07/07/2017)"
+        }, 
+        {
+            "location": "/popup_login/#version-121-12072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Version 1.2.1 (12/07/2016)"
+        }, 
+        {
+            "location": "/popup_login/#version-120-10032016", 
+            "text": "Added administration interface for installation  Fixed compatibility with OpenCart 2.2.0.0", 
+            "title": "Version 1.2.0 (10/03/2016)"
+        }, 
+        {
+            "location": "/popup_order_manager/", 
+            "text": "Popup History Manager\n\n\n\n\nCurrent Version: 2.0.0\n\n\nLast Updated: 07 July 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nThis extension allows you to view all information of the order right from your order listing page, in a popup box. This allows you to save time from reloading each page just to have a quick look on the order information.\n\n\nFeatures\n\n\n\n\nPopup order information box\n\n\nView order histories and add order history right from the popup\n\n\nManage order just like in the order information page\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nPopup Order Manager\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nPopup Order Manager\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nPopup Order Manager\n. Configure extension accordingly.\n\n\n\n\nConfigurations\n\n\nNo additional configuration is needed for Popup Order Manager. You should now see a new button beside each order on your order listing page that allows you to open the popup.\n\n\nChange Log\n\n\nVersion 2.0.0 (07/07/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 1.2.1 (12/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 1.2.0 (10/03/2016)\n\n\n\n\nAdded administration interface for installation\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\n\n\nVersion 1.1.0 (15/10/2014)\n\n\n\n\nFixed compatibility with OpenCart 2.0.0.0\n\n\n\n\nVersion 1.0 (19/12/2013)\n\n\n\n\nExtension created", 
+            "title": "Popup Order Manager"
+        }, 
+        {
+            "location": "/popup_order_manager/#popup-history-manager", 
+            "text": "Current Version: 2.0.0  Last Updated: 07 July 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "Popup History Manager"
+        }, 
+        {
+            "location": "/popup_order_manager/#description", 
+            "text": "This extension allows you to view all information of the order right from your order listing page, in a popup box. This allows you to save time from reloading each page just to have a quick look on the order information.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/popup_order_manager/#features", 
+            "text": "Popup order information box  View order histories and add order history right from the popup  Manage order just like in the order information page", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/popup_order_manager/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/popup_order_manager/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Popup Order Manager . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/popup_order_manager/#opencart-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Popup Order Manager . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.", 
+            "title": "OpenCart 3"
+        }, 
+        {
+            "location": "/popup_order_manager/#opencart-15-2", 
+            "text": "Unzip the files. Ensure that vQmod has been installed.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Popup Order Manager . Configure extension accordingly.", 
+            "title": "OpenCart 1.5 &amp; 2"
+        }, 
+        {
+            "location": "/popup_order_manager/#configurations", 
+            "text": "No additional configuration is needed for Popup Order Manager. You should now see a new button beside each order on your order listing page that allows you to open the popup.", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/popup_order_manager/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/popup_order_manager/#version-200-07072017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Minor improvements and updates  Ceased support for OpenCart 1.5", 
+            "title": "Version 2.0.0 (07/07/2017)"
+        }, 
+        {
+            "location": "/popup_order_manager/#version-121-12072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Version 1.2.1 (12/07/2016)"
+        }, 
+        {
+            "location": "/popup_order_manager/#version-120-10032016", 
+            "text": "Added administration interface for installation  Fixed compatibility with OpenCart 2.2.0.0", 
+            "title": "Version 1.2.0 (10/03/2016)"
+        }, 
+        {
+            "location": "/popup_order_manager/#version-110-15102014", 
+            "text": "Fixed compatibility with OpenCart 2.0.0.0", 
+            "title": "Version 1.1.0 (15/10/2014)"
+        }, 
+        {
+            "location": "/popup_order_manager/#version-10-19122013", 
+            "text": "Extension created", 
+            "title": "Version 1.0 (19/12/2013)"
+        }, 
+        {
+            "location": "/pretty_html_email/", 
+            "text": "Pretty HTML Email\n\n\n\n\nCurrent Version: 4.0.1\n\n\nLast Updated: 07 September 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nFully customise the emails your store sends out with Pretty HTML Email. You can choose your own colour, choose your own text, and even add images to your emails! You\u2019re able to choose the start date and end date for the specific email template. With that, you will be able to set specific themed emails. (E.g. Christmas season, use template A. Other seasons, use template B).\n\n\nFeatures\n\n\n\n\nCustomise header background colour\n\n\nCustomise background colour\n\n\nCustomise header text colour\n\n\nFully customise display text\n\n\nFully customise layouts to use on\n\n\nAble to set auto response mail on contact form\n\n\nAble to BCC email to other email addresses\n\n\nMulti store support\n\n\nMulti language support\n\n\nOptional banner to replace logo\n\n\nColour picker for colour changes\n\n\nEmail function for admin to test templates\n\n\nComes with sample email templates (English Language Only)\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nPretty HTML Email\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nPretty HTML Email\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nPretty HTML Email\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\nThe email templates can be configured in the module settings itself. The template codes available for different email templates can be found right below the text editor.\n\n\nChange Log\n\n\nVersion 4.0.1 (07/09/2017)\n\n\n\n\nFixed minor bug with language text for OpenCart 3 release\n\n\n\n\nVersion 4.0.0 (08/07/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 3.1.2 (29/09/2016)\n\n\n\n\nFixed minor bugs with OpenCart 2.2 release\n\n\n\n\nVersion 3.1.1 (15/08/2016)\n\n\n\n\nFixed minor bugs\n\n\nUpgraded OpenCart 1.5  release\n\n\n\n\nVersion 3.1.0 (10/08/2016)\n\n\n\n\nOpenCart 2 only release\n\n\nFixed minor bugs\n\n\nAdded more template codes for order status update\n\n\nAdded copy templates function\n\n\n\n\nVersion 3.0.6 (12/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 3.0.5 (09/06/2016)\n\n\n\n\nFixed minor bug with forgotten password email\n\n\n\n\nVersion 3.0.4 (07/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\nFixed new order status template with multi line comments\n\n\n\n\nVersion 3.0.3 (12/02/2016)\n\n\n\n\nFixed wrong database prefix for OC 2.x release\n\n\n\n\nVersion 3.0.2 (09/02/2016)\n\n\n\n\nFixed wrong database prefix for automatic installation\n\n\n\n\nVersion 3.0.1 (08/12/2015)\n\n\n\n\nFixed order comments not showing up\n\n\nFixed plain text comments and products table\n\n\n\n\nVersion 3.0.0 (07/12/2015)\n\n\n\n\nAdded BCC feature\n\n\nAdded plain text message feature\n\n\nRewritten parsing of email for easier maintenance\n\n\n\n\nVersion 2.7.3 (17/10/2015)\n\n\n\n\nOC 2 compatibility\n\n\n\n\nVersion 2.7.2 (08/08/2015)\n\n\n\n\nFixed issue with \u2018send me a copy\u2019 for OC 2\n\n\n\n\nVersion 2.7.1 (03/06/2015)\n\n\n\n\nFixed issue with \u2018send me a copy\u2019 button\n\n\n\n\nVersion 2.7.0 (13/05/2015)\n\n\n\n\nMinor admin aesthetic improvements", 
+            "title": "Pretty HTML Email"
+        }, 
+        {
+            "location": "/pretty_html_email/#pretty-html-email", 
+            "text": "Current Version: 4.0.1  Last Updated: 07 September 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "Pretty HTML Email"
+        }, 
+        {
+            "location": "/pretty_html_email/#description", 
+            "text": "Fully customise the emails your store sends out with Pretty HTML Email. You can choose your own colour, choose your own text, and even add images to your emails! You\u2019re able to choose the start date and end date for the specific email template. With that, you will be able to set specific themed emails. (E.g. Christmas season, use template A. Other seasons, use template B).", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/pretty_html_email/#features", 
+            "text": "Customise header background colour  Customise background colour  Customise header text colour  Fully customise display text  Fully customise layouts to use on  Able to set auto response mail on contact form  Able to BCC email to other email addresses  Multi store support  Multi language support  Optional banner to replace logo  Colour picker for colour changes  Email function for admin to test templates  Comes with sample email templates (English Language Only)", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/pretty_html_email/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/pretty_html_email/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Pretty HTML Email . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Please view configuration details below.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/pretty_html_email/#opencart-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Pretty HTML Email . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Please view configuration details below.", 
+            "title": "OpenCart 3"
+        }, 
+        {
+            "location": "/pretty_html_email/#opencart-15-2", 
+            "text": "Unzip the files. Ensure that vQmod has been installed.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Pretty HTML Email . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 1.5 &amp; 2"
+        }, 
+        {
+            "location": "/pretty_html_email/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/pretty_html_email/#opencart-15-2-3-cloud", 
+            "text": "The email templates can be configured in the module settings itself. The template codes available for different email templates can be found right below the text editor.", 
+            "title": "OpenCart 1.5, 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/pretty_html_email/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/pretty_html_email/#version-401-07092017", 
+            "text": "Fixed minor bug with language text for OpenCart 3 release", 
+            "title": "Version 4.0.1 (07/09/2017)"
+        }, 
+        {
+            "location": "/pretty_html_email/#version-400-08072017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Minor improvements and updates  Ceased support for OpenCart 1.5", 
+            "title": "Version 4.0.0 (08/07/2017)"
+        }, 
+        {
+            "location": "/pretty_html_email/#version-312-29092016", 
+            "text": "Fixed minor bugs with OpenCart 2.2 release", 
+            "title": "Version 3.1.2 (29/09/2016)"
+        }, 
+        {
+            "location": "/pretty_html_email/#version-311-15082016", 
+            "text": "Fixed minor bugs  Upgraded OpenCart 1.5  release", 
+            "title": "Version 3.1.1 (15/08/2016)"
+        }, 
+        {
+            "location": "/pretty_html_email/#version-310-10082016", 
+            "text": "OpenCart 2 only release  Fixed minor bugs  Added more template codes for order status update  Added copy templates function", 
+            "title": "Version 3.1.0 (10/08/2016)"
+        }, 
+        {
+            "location": "/pretty_html_email/#version-306-12072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Version 3.0.6 (12/07/2016)"
+        }, 
+        {
+            "location": "/pretty_html_email/#version-305-09062016", 
+            "text": "Fixed minor bug with forgotten password email", 
+            "title": "Version 3.0.5 (09/06/2016)"
+        }, 
+        {
+            "location": "/pretty_html_email/#version-304-07032016", 
+            "text": "Fixed compatibility with OpenCart 2.2.0.0  Fixed new order status template with multi line comments", 
+            "title": "Version 3.0.4 (07/03/2016)"
+        }, 
+        {
+            "location": "/pretty_html_email/#version-303-12022016", 
+            "text": "Fixed wrong database prefix for OC 2.x release", 
+            "title": "Version 3.0.3 (12/02/2016)"
+        }, 
+        {
+            "location": "/pretty_html_email/#version-302-09022016", 
+            "text": "Fixed wrong database prefix for automatic installation", 
+            "title": "Version 3.0.2 (09/02/2016)"
+        }, 
+        {
+            "location": "/pretty_html_email/#version-301-08122015", 
+            "text": "Fixed order comments not showing up  Fixed plain text comments and products table", 
+            "title": "Version 3.0.1 (08/12/2015)"
+        }, 
+        {
+            "location": "/pretty_html_email/#version-300-07122015", 
+            "text": "Added BCC feature  Added plain text message feature  Rewritten parsing of email for easier maintenance", 
+            "title": "Version 3.0.0 (07/12/2015)"
+        }, 
+        {
+            "location": "/pretty_html_email/#version-273-17102015", 
+            "text": "OC 2 compatibility", 
+            "title": "Version 2.7.3 (17/10/2015)"
+        }, 
+        {
+            "location": "/pretty_html_email/#version-272-08082015", 
+            "text": "Fixed issue with \u2018send me a copy\u2019 for OC 2", 
+            "title": "Version 2.7.2 (08/08/2015)"
+        }, 
+        {
+            "location": "/pretty_html_email/#version-271-03062015", 
+            "text": "Fixed issue with \u2018send me a copy\u2019 button", 
+            "title": "Version 2.7.1 (03/06/2015)"
+        }, 
+        {
+            "location": "/pretty_html_email/#version-270-13052015", 
+            "text": "Minor admin aesthetic improvements", 
+            "title": "Version 2.7.0 (13/05/2015)"
+        }, 
+        {
             "location": "/quick_checkout/", 
             "text": "Quick Checkout\n\n\n\n\nCurrent Version: 11.0.0\n\n\nLast Updated: 30 June 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nQuick Checkout 10 is the final release for OpenCart 1.5.x. Please upgrade your OpenCart store to have access to Quick Checkout 11.\n\n\nDescription\n\n\nQuick Checkout enhances your customer's checkout experience. It allows you to fully customise your the checkout process from adding fields to removing fields! Quick Checkout is the top rated One Page Checkout solution in OpenCart with top-tier support.\n\n\nFeatures\n\n\n\n\nCustomise your checkout experience, enable / disable fields (eg. Telephone, Country, Zone, Company etc)\n\n\nEasy to use One Page Checkout\n\n\nCompatible with all payment modules\n\n\nCompatible with all shipping modules\n\n\nCompatible with all themes\n\n\n100% new files, no overwrites\n\n\nMulti-language supported\n\n\nMulti-store supported\n\n\nMulti columns layout\n\n\nSet fields sort position\n\n\nSet default values for fields\n\n\nSet placeholder text for fields\n\n\nSet fields required / optional\n\n\nResponsive feature to integrate with responsive themes\n\n\nSupports postal code based shipping modules\n\n\nEnable / Disable cart module\n\n\nEnable / Disable voucher / coupon / reward points module\n\n\nEnable / Disable login module\n\n\nEnable / Disable countdown timer\n\n\nEnable / Disable delivery field\n\n\nEnable / Disable delivery time field\n\n\nEnable / Disable order confirmation page\n\n\nSelect or Radio choice type for shipping \n payment\n\n\nSet default payment \n shipping method\n\n\nSet payment and shipping logo\n\n\nSet default newsletter status\n\n\nDisplay loading screen\n\n\nDisplay spinner loading icon or overlay loading design\n\n\nEnable / disable drop down survey response\n\n\nHighlight error fields\n\n\nAdd custom HTML header and footer content\n\n\nAdd custom CSS codes through admin panel\n\n\nEasy one click installation\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nQuick Checkout\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nQuick Checkout\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 2 \n 1.5\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nQuick Checkout\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nGeneral Settings\n\n\nStatus\n\n\nTurn on/off Quick Checkout. Set status to enable to begin using Quick Checkout.\n\n\nMinimum Order Amount\n\n\nThe minimum amount (in system's default currency) the cart total must reach before checkout is enabled.\n\n\nDebug\n\n\nThis function is for developer to debug javascript and checkout errors.\n\n\nConfirmation Page\n\n\nTurn on/off the order confirmation page. If disabled, customer will not see their order cart for confirmation before payment.\n\n\nAuto Save Data\n\n\nAllow the customer's information to be saved automatically when the customer starts entering information on your checkout page.\n\n\nAllow Users to Edit Cart Quantities\n\n\nAllow the customer to change the product quantity on the checkout page. Disable to prevent customer from changing quantity on the checkout page.\n\n\nHighlight Fields with Error\n\n\nEnable to highlight fields with error when checkout form is submitted.\n\n\nDisplay Error Below Fields\n\n\nEnable to display error message below each field when checkout form is submitted.\n\n\nAttempt Auto Submit\n\n\nAttempt to automatically submit the payment form. This will only work if the payment module you are using does not require additional information (e.g. Bank Transfer, PayPal Standard). Payment modules that require additional information such as credit card fields cannot be automatically submitted.\n\n\nPayment Button Targets\n\n\nThis is used to target the auto submit payment forms. If your payment module uses another button ID, add it to this field to target correctly for auto submit feature to work.\n\n\nProceed Button Text\n\n\nConfigure the text to be shown to customer to proceed to the next step of the checkout.\n\n\nDesign\n\n\nDisplay Load Screen\n\n\nDisplay the page loading screen when checkout page is loaded.\n\n\nLoading Display\n\n\nConfigure how the loading icon should be displayed.\n\n\nLayout\n\n\nConfigure the layout of the checkout page.\n\n\nResponsive Quick Checkout\n\n\nConfigure the checkout for a responsive design.\n\n\nSlide Effect\n\n\nConfigure the checkout transition when it proceeds to the order confirmation page.\n\n\nCustom CSS Codes\n\n\nAdd your custom CSS codes here if you wish to further style the checkout page.\n\n\nFields\n\n\nDisplay\n\n\nConfigure whether the field should be displayed to the customer on the checkout page.\n\n\nRequired\n\n\nConfigure whether the field is required to be filled in.\n\n\nDefault Value\n\n\nConfigure the default value for the field when it is loaded.\n\n\nPlaceholder\n\n\nConfigure the field placeholder.\n\n\nSort Order\n\n\nConfigure the field position when displayed on the checkout page.\n\n\nModules\n\n\nDisplay Coupon Module\n\n\nToggle on/off the coupon module on the checkout page.\n\n\nDisplay Voucher Module\n\n\nToggle on/off the voucher module on the checkout page.\n\n\nDisplay Reward Module\n\n\nToggle on/off the reward module on the checkout page.\n\n\nDisplay Cart Module\n\n\nToggle on/off the cart module on the checkout page.\n\n\nDisplay Login Module\n\n\nToggle on/off the login module for guest customers on the checkout page.\n\n\nCustom HTML Header\n\n\nAdd custom HTML text to the header of the checkout page.\n\n\nCustom HTML Footer\n\n\nAdd custom HTML text to the footer of the checkout page.\n\n\nPayment\n\n\nDisplay Payment Method Module\n\n\nTurn on/off the payment method module on the checkout page. The default selected payment module will be used if the payment method module is disabled.\n\n\nPayment Reloads Cart\n\n\nTurn on/off payment reloads cart feature. This is useful if your payment methods have additional fees.\n\n\nPayment Selection\n\n\nConfigure the payment method selection to be select or radio type display.\n\n\nDefault Payment Module\n\n\nConfigure the default payment method for checkout.\n\n\nPayment Logo URL\n\n\nConfigure the payment logo image URL to be loaded on the checkout page.\n\n\nShipping\n\n\nDisplay Shipping Method Module\n\n\nTurn on/off the shipping method module on the checkout page. The default selected shipping module will be used if the shipping method module is disabled.\n\n\nShipping Reloads Payment\n\n\nTurn on/off shipping reloads payment feature. This is useful if your payment methods are dependent on the selected shipping methods.\n\n\nShipping Selection\n\n\nConfigure the shipping method selection to be select or radio type display.\n\n\nDefault Shipping Module\n\n\nConfigure the default shipping method for checkout.\n\n\nShipping Logo URL\n\n\nConfigure the shipping logo image URL to be loaded on the checkout page.\n\n\nSurvey\n\n\nSurvey response will be captured in the order comments section.\n\n\nDisplay Survey Field\n\n\nConfigure the status of the survey field.\n\n\nSurvey Required\n\n\nConfigure if the survey field must be filled up before checkout.\n\n\nSurvey Question\n\n\nConfigure the survey question to be displayed to the customer.\n\n\nSurvey Type\n\n\nConfigure the type for the survey. Select \ntext\n for an open ended answer, and select \nselect\n for customer to select from a list of answers.\n\n\nDelivery\n\n\nAdditional delivery details are stored into the order comments section.\n\n\nDisplay Delivery Field\n\n\nTurn on/off the delivery field.\n\n\nDisplay Delivery Time\n\n\nConfigure whether the delivery time can be chosen by the customer, will only be an estimate, or is from a list of drop down timings.\n\n\nDelivery Date Required\n\n\nConfigure whether delivery date field must be filled in during checkout.\n\n\nDelivery Dates Unavailable\n\n\nConfigure the list of dates unavailable for delivery.\n\n\nDelivery Minimum Days in Advance\n\n\nConfigure the minimum number of days required in advance for delivery date selection.\n\n\nDelivery Maximum Days in Advance\n\n\nConfigure the maximum number of days allowed in advance for delivery selection.\n\n\nDelivery Earliest Hour\n\n\nConfigure the earliest hour the customer can select for delivery.\n\n\nDelivery Latest Hour\n\n\nConfigure the latest hour the customer can select for delivery.\n\n\nDelivery Days of Week to Disable\n\n\nConfigure the days of the week to disable delivery.\n\n\nTimer\n\n\nCountdown Timer\n\n\nTurn on/off the countdown timer.\n\n\nCountdown Starts\n\n\nConfigure how the countdown timer should start.\n\n\nCountdown Text\n\n\nThe text to display for the countdown timer. Use the \n{timer}\n template code to display the timer on the checkout page.\n\n\nAnalytics\n\n\nRecover Abandoned Carts\n\n\nPurchase our Recover Abandoned Carts extension to turn abandoned carts into sales.\n\n\nChange Log\n\n\nVersion 11.0.0 (30/06/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nFixed minor bugs and improvements\n\n\nRemoved fax field for OpenCart 3\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 10.1.0 (13/05/2017)\n\n\n\n\nAdded multi-language placeholder\n\n\nAdded multi-language default text\n\n\nFixed custom fields not hiding\n\n\nFixed custom fields validation\n\n\nFixed cart total display when login for price is enabled\n\n\nImproved email validation when field not required\n\n\nImproved shipping reloads payment\n\n\n\n\nVersion 10.0.6 (31/01/2017)\n\n\n\n\nFixed missing column language\n\n\n\n\nVersion 10.0.5 (26/01/2017)\n\n\n\n\nAdded ability to remove rewards, coupons and vouchers\n\n\n\n\nVersion 10.0.4 (16/11/2016)\n\n\n\n\nFixed minor bugs with OpenCart 1.5 release\n\n\nFixed minor bugs with minimum order feature\n\n\n\n\nVersion 10.0.3 (26/09/2016)\n\n\n\n\nFixed minor bugs\n\n\n\n\nVersion 10.0.2 (08/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 10.0.1 (20/05/2016)\n\n\n\n\nFixed force registration\n\n\nFixed minor bugs\n\n\n\n\nVersion 10.0.0 (03/05/2016)\n\n\n\n\nImproved feature to disable confirmation page\n\n\nImproved speed and performance by reducing ajax requests\n\n\nImproved auto submit feature\n\n\nImproved loading screen\n\n\nImproved auto submit targets\n\n\nImproved overlay design \n\n\nImproved delivery field and date picker\n\n\nImproved custom fields integration with OpenCart 2\n\n\nAdded default payment method\n\n\nAdded default shipping method\n\n\nAdded payment logos\n\n\nAdded shipping logos\n\n\nAdded place holder for fields\n\n\nAdded configurable proceed button language\n\n\nAdded minimum and maximum hours for delivery\n\n\nFixed minor bugs\n\n\nFixed minor layout issue\n\n\nRemoved loading gif from OC 1.5 release\n\n\n\n\nVersion 9.5.0 (08/04/2016)\n\n\n\n\nAdded custom CSS field\n\n\nAdded analytics tab\n\n\nAdded feature to remove confirmation page\n\n\nAdded auto submit target field\n\n\nAdded new overlay module loading feature\n\n\nFixed blank option for payment method\n\n\n\n\nVersion 9.4.5 (04/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\nLast release for OpenCart 1.5.1.x and OpenCart 1.5.2.x\n\n\n\n\nVersion 9.4.4 (20/01/2016)\n\n\n\n\nFixed minimum order cart validation\n\n\nImproved three columns layout design\n\n\n\n\nVersion 9.4.3 (23/12/2015)\n\n\n\n\nFixed issue with payment address refreshing shipping methods\n\n\n\n\nVersion 9.4.2 (06/12/2015)\n\n\n\n\nFixed order comments tag\n\n\nFixed issue with shipping address not saving on OC 1.5.x\n\n\n\n\nVersion 9.4.1 (04/12/2015)\n\n\n\n\nFixed fatal bug on OC 1.5.3.x to OC 1.5.6.x caused by v9.4.0\n\n\nFixed minor bug OC 2.1.0.x", 
             "title": "Quick Checkout"
