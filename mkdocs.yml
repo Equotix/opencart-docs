@@ -49,6 +49,11 @@ pages:
             - Option Value Equals Sign: 'option_value_equals_sign.md'
             - Options with Quantities: 'options_with_quantities.md'
             - Order Limitation: 'order_limitation.md'
+        - P:
+            - Popup History Manager: 'popup_history_manager.md'
+            - Popup Login: 'popup_login.md'
+            - Popup Order Manager: 'popup_order_manager.md'
+            - Pretty HTML Email: 'pretty_html_email.md'
         - Q:
             - Quick Checkout: 'quick_checkout.md'
         - R:
