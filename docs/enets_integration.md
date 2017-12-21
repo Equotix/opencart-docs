@@ -34,7 +34,7 @@ OpenCart Singapore eNETS payment integration. Supports eNETS & eNETS QR. UMAPI L
 
 ### OpenCart 1.5
 
-1. Unzip the files. Ensure that vQmod has been installed.
+1. Unzip the files.
 2. Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.
 3. In your admin panel, proceed to `Extensions >> Payments`. Then, install `eNETS Credit / Debit / QR`. Configure extension accordingly.
 

@@ -54,6 +54,10 @@ pages:
             - Popup Login: 'popup_login.md'
             - Popup Order Manager: 'popup_order_manager.md'
             - Pretty HTML Email: 'pretty_html_email.md'
+            - Price As Low As: 'price_as_low_as.md'
+            - Price Manager: 'price_manager.md'
+            - Product Date End: 'product_date_end.md'
+            - Product Geo Zone: 'product_geo_zone.md'
         - Q:
             - Quick Checkout: 'quick_checkout.md'
         - R:
