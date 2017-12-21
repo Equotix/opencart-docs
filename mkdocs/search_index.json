@@ -1547,7 +1547,7 @@
         }, 
         {
             "location": "/enets_integration/", 
-            "text": "eNETS Integration\n\n\n\n\nCurrent Version: 3.0.0\n\n\nLast Updated: 18 December 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nOpenCart Singapore eNETS payment integration. Supports eNETS \n eNETS QR. UMAPI Lite Integration no longer supported.\n\n\nFeatures\n\n\n\n\neNETS payment gateway integration\n\n\neNETS Credit, Debit \n QR payment gateway\n\n\nActivate payment module only when reaches the specific order total\n\n\nCaptures call back notification to automatically update order status\n\n\nSandbox mode for testing\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nPayments\n. Then, install \neNETS Credit / Debit / QR\n. Configure extensions accordingly.\n\n\n\n\nOpenCart 2 \n 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nPayments\n. Then, install \neNETS Credit / Debit / QR\n. Configure extension accordingly.\n\n\n\n\nOpenCart 1.5\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Payments\n. Then, install \neNETS Credit / Debit / QR\n. Configure extension accordingly.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\nUpon installing the respective payment modules you need, you will have to fill up your API details you have from eNETS. No additional configuration is required.\n\n\nChange Log\n\n\nVersion 3.0.0 (18/12/2017)\n\n\n\n\nAdded support for new eNETS API\n\n\nAdded QR payment support\n\n\nAdded API upgrade for OpenCart 1.5\n\n\nRemoved UMAPI Lite support\n\n\n\n\nVersion 2.0.0 (28/06/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 1.0.3 (10/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 1.0.2 (10/03/2016)\n\n\n\n\nFixed wrong path\n\n\n\n\nVersion 1.0.1 (07/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\nRemoved redundant codes\n\n\n\n\nVersion 1.0.0 (30/06/2015)\n\n\n\n\nPayment module created", 
+            "text": "eNETS Integration\n\n\n\n\nCurrent Version: 3.0.0\n\n\nLast Updated: 18 December 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nOpenCart Singapore eNETS payment integration. Supports eNETS \n eNETS QR. UMAPI Lite Integration no longer supported.\n\n\nFeatures\n\n\n\n\neNETS payment gateway integration\n\n\neNETS Credit, Debit \n QR payment gateway\n\n\nActivate payment module only when reaches the specific order total\n\n\nCaptures call back notification to automatically update order status\n\n\nSandbox mode for testing\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nPayments\n. Then, install \neNETS Credit / Debit / QR\n. Configure extensions accordingly.\n\n\n\n\nOpenCart 2 \n 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nPayments\n. Then, install \neNETS Credit / Debit / QR\n. Configure extension accordingly.\n\n\n\n\nOpenCart 1.5\n\n\n\n\nUnzip the files.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Payments\n. Then, install \neNETS Credit / Debit / QR\n. Configure extension accordingly.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\nUpon installing the respective payment modules you need, you will have to fill up your API details you have from eNETS. No additional configuration is required.\n\n\nChange Log\n\n\nVersion 3.0.0 (18/12/2017)\n\n\n\n\nAdded support for new eNETS API\n\n\nAdded QR payment support\n\n\nAdded API upgrade for OpenCart 1.5\n\n\nRemoved UMAPI Lite support\n\n\n\n\nVersion 2.0.0 (28/06/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 1.0.3 (10/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 1.0.2 (10/03/2016)\n\n\n\n\nFixed wrong path\n\n\n\n\nVersion 1.0.1 (07/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\nRemoved redundant codes\n\n\n\n\nVersion 1.0.0 (30/06/2015)\n\n\n\n\nPayment module created", 
             "title": "eNETS Integration"
         }, 
         {
@@ -1582,7 +1582,7 @@
         }, 
         {
             "location": "/enets_integration/#opencart-15", 
-            "text": "Unzip the files. Ensure that vQmod has been installed.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Payments . Then, install  eNETS Credit / Debit / QR . Configure extension accordingly.", 
+            "text": "Unzip the files.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Payments . Then, install  eNETS Credit / Debit / QR . Configure extension accordingly.", 
             "title": "OpenCart 1.5"
         }, 
         {
@@ -4139,6 +4139,346 @@
             "location": "/pretty_html_email/#version-270-13052015", 
             "text": "Minor admin aesthetic improvements", 
             "title": "Version 2.7.0 (13/05/2015)"
+        }, 
+        {
+            "location": "/price_as_low_as/", 
+            "text": "Price As Low As\n\n\n\n\nCurrent Version: 2.0.0\n\n\nLast Updated: 10 July 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nShow your customers the best price available for each product right at the category pages and the default modules on OpenCart. Best price is obtained from your quantity discounts. You can now up your sales by showing your customers the lowest price you offer to them.\n\n\nFeatures\n\n\n\n\nShows price as low as feature on featured, bestseller, latest, and specials module.\n\n\nShows price as low as feature on category, manufacturer, search, and specials page\n\n\nDisplay lowest price offer from your quantity discount\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nPrice As Low As\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nPrice As Low As\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nPrice As Low As\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\n\n\n\n\nSetting Quantity Discounts\n\n\nYou can configure the quantity discounts in \nCatalog \n Product \n Edit Product \n Discount\n tab. Once discounts have been setup, the discounts will show un on the front end.\n\n\n\n\n\n\n\n\nChange Log\n\n\nVersion 2.0.0 (05/07/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 1.1.5 (11/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 1.1.4 (04/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\n\n\nVersion 1.1.3 (20/01/2016)\n\n\n\n\nFixed for OC 2.1.x releases\n\n\n\n\nVersion 1.1.2 (16/08/2015)\n\n\n\n\nFixed allow equal sign to be mixed with other signs\n\n\n\n\nVersion 1.1.1 (24/05/2015)\n\n\n\n\nFixed wrong file path\n\n\n\n\nVersion 1.1.0 (15/05/2015)\n\n\n\n\nMinor bug fixes", 
+            "title": "Price As Low As"
+        }, 
+        {
+            "location": "/price_as_low_as/#price-as-low-as", 
+            "text": "Current Version: 2.0.0  Last Updated: 10 July 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "Price As Low As"
+        }, 
+        {
+            "location": "/price_as_low_as/#description", 
+            "text": "Show your customers the best price available for each product right at the category pages and the default modules on OpenCart. Best price is obtained from your quantity discounts. You can now up your sales by showing your customers the lowest price you offer to them.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/price_as_low_as/#features", 
+            "text": "Shows price as low as feature on featured, bestseller, latest, and specials module.  Shows price as low as feature on category, manufacturer, search, and specials page  Display lowest price offer from your quantity discount", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/price_as_low_as/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/price_as_low_as/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Price As Low As . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Please view configuration details below.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/price_as_low_as/#opencart-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Price As Low As . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Please view configuration details below.", 
+            "title": "OpenCart 3"
+        }, 
+        {
+            "location": "/price_as_low_as/#opencart-15-2", 
+            "text": "Unzip the files. Ensure that vQmod has been installed.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Price As Low As . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 1.5 &amp; 2"
+        }, 
+        {
+            "location": "/price_as_low_as/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/price_as_low_as/#opencart-15-2-3-cloud", 
+            "text": "Setting Quantity Discounts  You can configure the quantity discounts in  Catalog   Product   Edit Product   Discount  tab. Once discounts have been setup, the discounts will show un on the front end.", 
+            "title": "OpenCart 1.5, 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/price_as_low_as/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/price_as_low_as/#version-200-05072017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Minor improvements and updates  Ceased support for OpenCart 1.5", 
+            "title": "Version 2.0.0 (05/07/2017)"
+        }, 
+        {
+            "location": "/price_as_low_as/#version-115-11072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Version 1.1.5 (11/07/2016)"
+        }, 
+        {
+            "location": "/price_as_low_as/#version-114-04032016", 
+            "text": "Fixed compatibility with OpenCart 2.2.0.0", 
+            "title": "Version 1.1.4 (04/03/2016)"
+        }, 
+        {
+            "location": "/price_as_low_as/#version-113-20012016", 
+            "text": "Fixed for OC 2.1.x releases", 
+            "title": "Version 1.1.3 (20/01/2016)"
+        }, 
+        {
+            "location": "/price_as_low_as/#version-112-16082015", 
+            "text": "Fixed allow equal sign to be mixed with other signs", 
+            "title": "Version 1.1.2 (16/08/2015)"
+        }, 
+        {
+            "location": "/price_as_low_as/#version-111-24052015", 
+            "text": "Fixed wrong file path", 
+            "title": "Version 1.1.1 (24/05/2015)"
+        }, 
+        {
+            "location": "/price_as_low_as/#version-110-15052015", 
+            "text": "Minor bug fixes", 
+            "title": "Version 1.1.0 (15/05/2015)"
+        }, 
+        {
+            "location": "/price_manager/", 
+            "text": "Price Manager\n\n\n\n\nCurrent Version: 2.0.0\n\n\nLast Updated: 10 July 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nPrice Manager allows you to easily and quickly manage the prices, discounts, and specials of your products from one single interface. Using Ajax technology, it allows you to easily save each product without reloading the page. Additionally, it also allows you to mass update the prices of all your products.\n\n\nFeatures\n\n\n\n\nEdit each product discounts and specials individually\n\n\nUpdate products with instant save feature in our module\n\n\nMass update price of products\n\n\nMass update discounts of products\n\n\nMass update specials of products\n\n\nAll in one interface for easy management\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nPrice Manager\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nPrice Manager\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nPrice Manager\n. Configure extension accordingly.\n\n\n\n\nConfigurations\n\n\nNo additional configuration is needed for Price Manager. You can configure the prices and manage the products right from Price Manager's interface.\n\n\nChange Log\n\n\nVersion 2.0.0 (10/07/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 1.3.1 (04/03/2016)\n\n\n\n\nUpdated installation manual\n\n\nVersion number remains unchanged\n\n\n\n\nVersion 1.3.1 (10/10/2015)\n\n\n\n\nMade compatible for OC 2.1.0.0\n\n\n\n\nVersion 1.3.0 (21/05/2015)\n\n\n\n\nMinor bug fixes\n\n\n\n\nVersion 1.2.1 (23/04/2015)\n\n\n\n\nOC 2.0.2.0 mail support compatibility fix\n\n\n\n\nVersion 1.2.0 (31/10/2014)\n\n\n\n\nOC 2 compatibility\n\n\nAdded change individual price function\n\n\n\n\nVersion 1.1.1 (28/08/2014)\n\n\n\n\nAdded missing SET price function\n\n\n\n\nVersion 1.1.0 (13/11/2013)\n\n\n\n\nBug fixes", 
+            "title": "Price Manager"
+        }, 
+        {
+            "location": "/price_manager/#price-manager", 
+            "text": "Current Version: 2.0.0  Last Updated: 10 July 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "Price Manager"
+        }, 
+        {
+            "location": "/price_manager/#description", 
+            "text": "Price Manager allows you to easily and quickly manage the prices, discounts, and specials of your products from one single interface. Using Ajax technology, it allows you to easily save each product without reloading the page. Additionally, it also allows you to mass update the prices of all your products.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/price_manager/#features", 
+            "text": "Edit each product discounts and specials individually  Update products with instant save feature in our module  Mass update price of products  Mass update discounts of products  Mass update specials of products  All in one interface for easy management", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/price_manager/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/price_manager/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Price Manager . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/price_manager/#opencart-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Price Manager . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.", 
+            "title": "OpenCart 3"
+        }, 
+        {
+            "location": "/price_manager/#opencart-15-2", 
+            "text": "Unzip the files.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Price Manager . Configure extension accordingly.", 
+            "title": "OpenCart 1.5 &amp; 2"
+        }, 
+        {
+            "location": "/price_manager/#configurations", 
+            "text": "No additional configuration is needed for Price Manager. You can configure the prices and manage the products right from Price Manager's interface.", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/price_manager/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/price_manager/#version-200-10072017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Minor improvements and updates  Ceased support for OpenCart 1.5", 
+            "title": "Version 2.0.0 (10/07/2017)"
+        }, 
+        {
+            "location": "/price_manager/#version-131-04032016", 
+            "text": "Updated installation manual  Version number remains unchanged", 
+            "title": "Version 1.3.1 (04/03/2016)"
+        }, 
+        {
+            "location": "/price_manager/#version-131-10102015", 
+            "text": "Made compatible for OC 2.1.0.0", 
+            "title": "Version 1.3.1 (10/10/2015)"
+        }, 
+        {
+            "location": "/price_manager/#version-130-21052015", 
+            "text": "Minor bug fixes", 
+            "title": "Version 1.3.0 (21/05/2015)"
+        }, 
+        {
+            "location": "/price_manager/#version-121-23042015", 
+            "text": "OC 2.0.2.0 mail support compatibility fix", 
+            "title": "Version 1.2.1 (23/04/2015)"
+        }, 
+        {
+            "location": "/price_manager/#version-120-31102014", 
+            "text": "OC 2 compatibility  Added change individual price function", 
+            "title": "Version 1.2.0 (31/10/2014)"
+        }, 
+        {
+            "location": "/price_manager/#version-111-28082014", 
+            "text": "Added missing SET price function", 
+            "title": "Version 1.1.1 (28/08/2014)"
+        }, 
+        {
+            "location": "/price_manager/#version-110-13112013", 
+            "text": "Bug fixes", 
+            "title": "Version 1.1.0 (13/11/2013)"
+        }, 
+        {
+            "location": "/product_date_end/", 
+            "text": "Option Value Equals Sign\n\n\n\n\nCurrent Version: 2.0.0\n\n\nLast Updated: 10 July 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nDo you need to remove certain products after a certain date? This extension will do just what you need. Configure your products to end after the set date you have configured.\n\n\nFeatures\n\n\n\n\nSet a \u2018date end\u2019 for your products\n\n\nProducts will end automatically when expired\n\n\nProduct page will still be available by accessing page directly, but cannot be added to cart\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nProduct Date End\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nProduct Date End\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nProduct Date End\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\n\n\n\n\nSetting Equal Sign\n\n\nYou can configure the product date end feature in \nCatalog \n Product \n Edit Product \n Data\n tab.\n\n\n\n\n\n\n\n\nChange Log\n\n\nVersion 2.0.0 (10/07/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 1.1.2 (12/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 1.1.1 (01/04/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\n\n\nVersion 1.1.0 (10/03/2016)\n\n\n\n\nAdded administration interface for installation\n\n\n\n\nVersion 1.0.1 (10/10/2015)\n\n\n\n\nFixed minor bugs for OpenCart 2\n\n\nSet default date end to be 10 years\n\n\n\n\nVersion 1.0.0 (28/01/2015)\n\n\n\n\nModule created", 
+            "title": "Product Date End"
+        }, 
+        {
+            "location": "/product_date_end/#option-value-equals-sign", 
+            "text": "Current Version: 2.0.0  Last Updated: 10 July 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "Option Value Equals Sign"
+        }, 
+        {
+            "location": "/product_date_end/#description", 
+            "text": "Do you need to remove certain products after a certain date? This extension will do just what you need. Configure your products to end after the set date you have configured.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/product_date_end/#features", 
+            "text": "Set a \u2018date end\u2019 for your products  Products will end automatically when expired  Product page will still be available by accessing page directly, but cannot be added to cart", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/product_date_end/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/product_date_end/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Product Date End . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Please view configuration details below.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/product_date_end/#opencart-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Product Date End . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Please view configuration details below.", 
+            "title": "OpenCart 3"
+        }, 
+        {
+            "location": "/product_date_end/#opencart-15-2", 
+            "text": "Unzip the files. Ensure that vQmod has been installed.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Product Date End . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 1.5 &amp; 2"
+        }, 
+        {
+            "location": "/product_date_end/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/product_date_end/#opencart-15-2-3-cloud", 
+            "text": "Setting Equal Sign  You can configure the product date end feature in  Catalog   Product   Edit Product   Data  tab.", 
+            "title": "OpenCart 1.5, 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/product_date_end/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/product_date_end/#version-200-10072017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Minor improvements and updates  Ceased support for OpenCart 1.5", 
+            "title": "Version 2.0.0 (10/07/2017)"
+        }, 
+        {
+            "location": "/product_date_end/#version-112-12072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Version 1.1.2 (12/07/2016)"
+        }, 
+        {
+            "location": "/product_date_end/#version-111-01042016", 
+            "text": "Fixed compatibility with OpenCart 2.2.0.0", 
+            "title": "Version 1.1.1 (01/04/2016)"
+        }, 
+        {
+            "location": "/product_date_end/#version-110-10032016", 
+            "text": "Added administration interface for installation", 
+            "title": "Version 1.1.0 (10/03/2016)"
+        }, 
+        {
+            "location": "/product_date_end/#version-101-10102015", 
+            "text": "Fixed minor bugs for OpenCart 2  Set default date end to be 10 years", 
+            "title": "Version 1.0.1 (10/10/2015)"
+        }, 
+        {
+            "location": "/product_date_end/#version-100-28012015", 
+            "text": "Module created", 
+            "title": "Version 1.0.0 (28/01/2015)"
+        }, 
+        {
+            "location": "/product_geo_zone/", 
+            "text": "Product Geo Zone\n\n\n\n\nCurrent Version: 2.0.0\n\n\nLast Updated: 10 July 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nProduct Geo Zone allows you to limit the shipping location of certain products in your store.\n\n\nFor example, if you only ship product X within your country, but the rest of your products in store can be shipped across the world, you will use this extension to limit the location product X can be shipped to using the OpenCart Geo Zones feature. It will prevent your customer from checking out if the product cannot be shipped to their location.\n\n\nFeatures\n\n\n\n\nLimit products to certain geo zones\n\n\nPrevent checking out if product cannot be shipped to the location\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nProduct Geo Zone\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nProduct Geo Zone\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nProduct Geo Zone\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\n\n\n\n\nConfiguring Geo Zones\n\n\nYou can setup Geo Zones in \nSystem \n Localisation \n Geo Zones\n. Multiple countries can be added into a single Geo Zone. Once that is done, you can link up the geo zones to the products.\n\n\n\n\n\n\nLimiting Products to Geo Zone\n\n\nYou can configure the product's geo zone in \nCatalog \n Product \n Edit Product \n Data\n tab. Once linked, the product will be restricted to the geo zone configured.\n\n\n\n\n\n\n\n\nChange Log\n\n\nVersion 2.0.0 (10/07/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 1.1.2 (26/01/2017)\n\n\n\n\nAdded validation at shipping method step\n\n\n\n\nVersion 1.1.1 (12/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 1.1.0 (10/03/2016)\n\n\n\n\nAdded administration interface for installation", 
+            "title": "Product Geo Zone"
+        }, 
+        {
+            "location": "/product_geo_zone/#product-geo-zone", 
+            "text": "Current Version: 2.0.0  Last Updated: 10 July 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "Product Geo Zone"
+        }, 
+        {
+            "location": "/product_geo_zone/#description", 
+            "text": "Product Geo Zone allows you to limit the shipping location of certain products in your store.  For example, if you only ship product X within your country, but the rest of your products in store can be shipped across the world, you will use this extension to limit the location product X can be shipped to using the OpenCart Geo Zones feature. It will prevent your customer from checking out if the product cannot be shipped to their location.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/product_geo_zone/#features", 
+            "text": "Limit products to certain geo zones  Prevent checking out if product cannot be shipped to the location", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/product_geo_zone/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/product_geo_zone/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Product Geo Zone . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Please view configuration details below.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/product_geo_zone/#opencart-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Product Geo Zone . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Please view configuration details below.", 
+            "title": "OpenCart 3"
+        }, 
+        {
+            "location": "/product_geo_zone/#opencart-15-2", 
+            "text": "Unzip the files. Ensure that vQmod has been installed.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Product Geo Zone . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 1.5 &amp; 2"
+        }, 
+        {
+            "location": "/product_geo_zone/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/product_geo_zone/#opencart-15-2-3-cloud", 
+            "text": "Configuring Geo Zones  You can setup Geo Zones in  System   Localisation   Geo Zones . Multiple countries can be added into a single Geo Zone. Once that is done, you can link up the geo zones to the products.    Limiting Products to Geo Zone  You can configure the product's geo zone in  Catalog   Product   Edit Product   Data  tab. Once linked, the product will be restricted to the geo zone configured.", 
+            "title": "OpenCart 1.5, 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/product_geo_zone/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/product_geo_zone/#version-200-10072017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Minor improvements and updates  Ceased support for OpenCart 1.5", 
+            "title": "Version 2.0.0 (10/07/2017)"
+        }, 
+        {
+            "location": "/product_geo_zone/#version-112-26012017", 
+            "text": "Added validation at shipping method step", 
+            "title": "Version 1.1.2 (26/01/2017)"
+        }, 
+        {
+            "location": "/product_geo_zone/#version-111-12072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Version 1.1.1 (12/07/2016)"
+        }, 
+        {
+            "location": "/product_geo_zone/#version-110-10032016", 
+            "text": "Added administration interface for installation", 
+            "title": "Version 1.1.0 (10/03/2016)"
         }, 
         {
             "location": "/quick_checkout/", 
