@@ -58,9 +58,14 @@ pages:
             - Price Manager: 'price_manager.md'
             - Product Date End: 'product_date_end.md'
             - Product Geo Zone: 'product_geo_zone.md'
+            - Purchase Order: 'purchase_order.md'
+            - Purchase Store Credits: 'purchase_store_credits.md'
         - Q:
             - Quick Checkout: 'quick_checkout.md'
+            - Quick Order Update: 'quick_order_update.md'
         - R:
+            - Recently Sold: 'recently_sold.md'
+            - Recently Viewed: 'recently_viewed.md'
             - Recover Abandoned Cart: 'recover_abandoned_cart.md'
         - S:
             - Shopping Cart: 'shopping_cart.md'
