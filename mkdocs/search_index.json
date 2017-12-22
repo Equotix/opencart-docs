@@ -4481,6 +4481,226 @@
             "title": "Version 1.1.0 (10/03/2016)"
         }, 
         {
+            "location": "/purchase_order/", 
+            "text": "Purchase Order\n\n\n\n\nCurrent Version: 2.0.0\n\n\nLast Updated: 10 July 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nPurchase Order allows you to easily coordinate your purchase orders with your vendors through your administration panel. Skip the hassle of manually submitting your purchase orders to your vendors.\n\n\nFeatures\n\n\n\n\nAdd custom vendors\n\n\nAdd custom payment methods\n\n\nAdd custom shipping methods\n\n\nAdd purchase orders\n\n\nPrint orders\n\n\nOptional automated stock update upon receiving order\n\n\nOptional automated email vendor upon receiving order\n\n\nEmails vendors upon adding orders\n\n\nSet optional product cost on product\n\n\nSet optional product model on product\n\n\nSet optional product title on product\n\n\nSupport product options\n\n\nAble to populate products for Purchase Order based on selected vendor\n\n\nAble to populate options combinations for each product\n\n\nAble to hide received orders from listing\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nPurchase Order\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nPurchase Order\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nPurchase Order\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\n\n\n\n\nModule Configurations\n\n\nBasic configurations for the extension is located within the module, which can be found in \nExtensions \n Modules \n Purchase Order\n.\n\n\n\n\n\n\n\n\nAdding Payment Methods, Shipping Methods and Vendors\n\n\nGet started by adding payment methods, shipping methods and vendors, which can be accessed through the \nCatalog\n menu.\n\n\n\n\n\n\n\n\nAdding Purchase Orders\n\n\nYou can begin adding purchase orders into the system and start using the extension once the above has been configured. The purchase orders page can be accessed through the \nCatalog\n menu as well.\n\n\n\n\n\n\nChange Log\n\n\nVersion 2.0.0 (10/07/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 1.3.8 (12/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 1.3.7 (13/04/2016)\n\n\n\n\nFixed issues with undefined currency\n\n\n\n\nVersion 1.3.6 (27/03/2016)\n\n\n\n\nFixed issues with sending email\n\n\n\n\nVersion 1.3.5 (07/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\n\n\nVersion 1.3.4 (12/01/2016)\n\n\n\n\nFixed zone list not loading up on newer OC 2 releases\n\n\n\n\nVersion 1.3.3 (13/12/2015)\n\n\n\n\nFixed quantity not removed when user uncheck \u2018received\u2019\n\n\n\n\nVersion 1.3.2 (05/06/2015)\n\n\n\n\nFixed issue with date picker not working properly (OC 2)\n\n\n\n\nVersion 1.3.1 (04/06/2015)\n\n\n\n\nFixed issue with multiple rows of same results\n\n\nFixed issue with search filter\n\n\n\n\nVersion 1.3.0 (19/05/2015)\n\n\n\n\nMinor admin aesthetic improvements\n\n\n\n\nVersion 1.2.1 (23/04/2015)\n\n\n\n\nOC 2.0.2.0 mail support compatibility fix\n\n\n\n\nVersion 1.2.0 (24/03/2015)\n\n\n\n\nAdded purchase order filter function\n\n\n\n\nVersion 1.1.2 (06/02/2015)\n\n\n\n\nBug fixes\n\n\n\n\nVersion 1.1.1 (23/12/2014)\n\n\n\n\nUpdate support Facebook link\n\n\n\n\nVersion 1.1.0 (27/10/2014)\n\n\n\n\nOC 2 compatibility\n\n\n\n\nVersion 1.0.1 (05/05/2014)\n\n\n\n\nMinor bug fix\n\n\n\n\nVersion 1.0.0 (11/03/2014)\n\n\n\n\nModule released", 
+            "title": "Purchase Order"
+        }, 
+        {
+            "location": "/purchase_order/#purchase-order", 
+            "text": "Current Version: 2.0.0  Last Updated: 10 July 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "Purchase Order"
+        }, 
+        {
+            "location": "/purchase_order/#description", 
+            "text": "Purchase Order allows you to easily coordinate your purchase orders with your vendors through your administration panel. Skip the hassle of manually submitting your purchase orders to your vendors.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/purchase_order/#features", 
+            "text": "Add custom vendors  Add custom payment methods  Add custom shipping methods  Add purchase orders  Print orders  Optional automated stock update upon receiving order  Optional automated email vendor upon receiving order  Emails vendors upon adding orders  Set optional product cost on product  Set optional product model on product  Set optional product title on product  Support product options  Able to populate products for Purchase Order based on selected vendor  Able to populate options combinations for each product  Able to hide received orders from listing", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/purchase_order/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/purchase_order/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Purchase Order . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Please view configuration details below.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/purchase_order/#opencart-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Purchase Order . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Please view configuration details below.", 
+            "title": "OpenCart 3"
+        }, 
+        {
+            "location": "/purchase_order/#opencart-15-2", 
+            "text": "Unzip the files. Ensure that vQmod has been installed.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Purchase Order . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 1.5 &amp; 2"
+        }, 
+        {
+            "location": "/purchase_order/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/purchase_order/#opencart-15-2-3-cloud", 
+            "text": "Module Configurations  Basic configurations for the extension is located within the module, which can be found in  Extensions   Modules   Purchase Order .     Adding Payment Methods, Shipping Methods and Vendors  Get started by adding payment methods, shipping methods and vendors, which can be accessed through the  Catalog  menu.     Adding Purchase Orders  You can begin adding purchase orders into the system and start using the extension once the above has been configured. The purchase orders page can be accessed through the  Catalog  menu as well.", 
+            "title": "OpenCart 1.5, 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/purchase_order/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/purchase_order/#version-200-10072017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Minor improvements and updates  Ceased support for OpenCart 1.5", 
+            "title": "Version 2.0.0 (10/07/2017)"
+        }, 
+        {
+            "location": "/purchase_order/#version-138-12072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Version 1.3.8 (12/07/2016)"
+        }, 
+        {
+            "location": "/purchase_order/#version-137-13042016", 
+            "text": "Fixed issues with undefined currency", 
+            "title": "Version 1.3.7 (13/04/2016)"
+        }, 
+        {
+            "location": "/purchase_order/#version-136-27032016", 
+            "text": "Fixed issues with sending email", 
+            "title": "Version 1.3.6 (27/03/2016)"
+        }, 
+        {
+            "location": "/purchase_order/#version-135-07032016", 
+            "text": "Fixed compatibility with OpenCart 2.2.0.0", 
+            "title": "Version 1.3.5 (07/03/2016)"
+        }, 
+        {
+            "location": "/purchase_order/#version-134-12012016", 
+            "text": "Fixed zone list not loading up on newer OC 2 releases", 
+            "title": "Version 1.3.4 (12/01/2016)"
+        }, 
+        {
+            "location": "/purchase_order/#version-133-13122015", 
+            "text": "Fixed quantity not removed when user uncheck \u2018received\u2019", 
+            "title": "Version 1.3.3 (13/12/2015)"
+        }, 
+        {
+            "location": "/purchase_order/#version-132-05062015", 
+            "text": "Fixed issue with date picker not working properly (OC 2)", 
+            "title": "Version 1.3.2 (05/06/2015)"
+        }, 
+        {
+            "location": "/purchase_order/#version-131-04062015", 
+            "text": "Fixed issue with multiple rows of same results  Fixed issue with search filter", 
+            "title": "Version 1.3.1 (04/06/2015)"
+        }, 
+        {
+            "location": "/purchase_order/#version-130-19052015", 
+            "text": "Minor admin aesthetic improvements", 
+            "title": "Version 1.3.0 (19/05/2015)"
+        }, 
+        {
+            "location": "/purchase_order/#version-121-23042015", 
+            "text": "OC 2.0.2.0 mail support compatibility fix", 
+            "title": "Version 1.2.1 (23/04/2015)"
+        }, 
+        {
+            "location": "/purchase_order/#version-120-24032015", 
+            "text": "Added purchase order filter function", 
+            "title": "Version 1.2.0 (24/03/2015)"
+        }, 
+        {
+            "location": "/purchase_order/#version-112-06022015", 
+            "text": "Bug fixes", 
+            "title": "Version 1.1.2 (06/02/2015)"
+        }, 
+        {
+            "location": "/purchase_order/#version-111-23122014", 
+            "text": "Update support Facebook link", 
+            "title": "Version 1.1.1 (23/12/2014)"
+        }, 
+        {
+            "location": "/purchase_order/#version-110-27102014", 
+            "text": "OC 2 compatibility", 
+            "title": "Version 1.1.0 (27/10/2014)"
+        }, 
+        {
+            "location": "/purchase_order/#version-101-05052014", 
+            "text": "Minor bug fix", 
+            "title": "Version 1.0.1 (05/05/2014)"
+        }, 
+        {
+            "location": "/purchase_order/#version-100-11032014", 
+            "text": "Module released", 
+            "title": "Version 1.0.0 (11/03/2014)"
+        }, 
+        {
+            "location": "/purchase_store_credits/", 
+            "text": "Purchase Store Credits\n\n\n\n\nCurrent Version: 2.0.0\n\n\nLast Updated: 11 July 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nDo you want to allow your customers to purchase store credits? Sell your store credits just like how gift vouchers work on OpenCart with this extension.\n\n\nFeatures\n\n\n\n\nConfigure products to give store credits\n\n\nStore credits cannot be used to purchase store credits\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nPurchase Store Credits\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPopup notification will now show up when a product is added.\n\n\n\n\nOpenCart 2 \n 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nPurchase Store Credits\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPopup notification will now show up when a product is added.\n\n\n\n\nOpenCart 1.5\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nPurchase Store Credits\n. Configure extension accordingly.\n\n\nPopup notification will now show up when a product is added.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\n\n\nConfiguring Products with Credits\n\n\n\n\nYou can assign credits in the product form. Upon assigning the products, if a customer purchases the product, the customer will receive the credits you have assigned.\n\n\n\n\nChange Log\n\n\nVersion 2.0.0 (11/07/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 1.0.3 (10/11/2016)\n\n\n\n\nFixed quantity not being taken into account\n\n\n\n\nVersion 1.0.2 (12/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 1.0.1 (21/06/2016)\n\n\n\n\nFixed minor bugs\n\n\n\n\nVersion 1.0.0 (02/06/2016)\n\n\n\n\nExtension created", 
+            "title": "Purchase Store Credits"
+        }, 
+        {
+            "location": "/purchase_store_credits/#purchase-store-credits", 
+            "text": "Current Version: 2.0.0  Last Updated: 11 July 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "Purchase Store Credits"
+        }, 
+        {
+            "location": "/purchase_store_credits/#description", 
+            "text": "Do you want to allow your customers to purchase store credits? Sell your store credits just like how gift vouchers work on OpenCart with this extension.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/purchase_store_credits/#features", 
+            "text": "Configure products to give store credits  Store credits cannot be used to purchase store credits", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/purchase_store_credits/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/purchase_store_credits/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Purchase Store Credits . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Popup notification will now show up when a product is added.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/purchase_store_credits/#opencart-2-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Purchase Store Credits . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Popup notification will now show up when a product is added.", 
+            "title": "OpenCart 2 &amp; 3"
+        }, 
+        {
+            "location": "/purchase_store_credits/#opencart-15", 
+            "text": "Unzip the files. Ensure that vQmod has been installed.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Purchase Store Credits . Configure extension accordingly.  Popup notification will now show up when a product is added.", 
+            "title": "OpenCart 1.5"
+        }, 
+        {
+            "location": "/purchase_store_credits/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/purchase_store_credits/#opencart-15-2-3-cloud", 
+            "text": "Configuring Products with Credits   You can assign credits in the product form. Upon assigning the products, if a customer purchases the product, the customer will receive the credits you have assigned.", 
+            "title": "OpenCart 1.5, 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/purchase_store_credits/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/purchase_store_credits/#version-200-11072017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Minor improvements and updates  Ceased support for OpenCart 1.5", 
+            "title": "Version 2.0.0 (11/07/2017)"
+        }, 
+        {
+            "location": "/purchase_store_credits/#version-103-10112016", 
+            "text": "Fixed quantity not being taken into account", 
+            "title": "Version 1.0.3 (10/11/2016)"
+        }, 
+        {
+            "location": "/purchase_store_credits/#version-102-12072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Version 1.0.2 (12/07/2016)"
+        }, 
+        {
+            "location": "/purchase_store_credits/#version-101-21062016", 
+            "text": "Fixed minor bugs", 
+            "title": "Version 1.0.1 (21/06/2016)"
+        }, 
+        {
+            "location": "/purchase_store_credits/#version-100-02062016", 
+            "text": "Extension created", 
+            "title": "Version 1.0.0 (02/06/2016)"
+        }, 
+        {
             "location": "/quick_checkout/", 
             "text": "Quick Checkout\n\n\n\n\nCurrent Version: 11.0.0\n\n\nLast Updated: 30 June 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nQuick Checkout 10 is the final release for OpenCart 1.5.x. Please upgrade your OpenCart store to have access to Quick Checkout 11.\n\n\nDescription\n\n\nQuick Checkout enhances your customer's checkout experience. It allows you to fully customise your the checkout process from adding fields to removing fields! Quick Checkout is the top rated One Page Checkout solution in OpenCart with top-tier support.\n\n\nFeatures\n\n\n\n\nCustomise your checkout experience, enable / disable fields (eg. Telephone, Country, Zone, Company etc)\n\n\nEasy to use One Page Checkout\n\n\nCompatible with all payment modules\n\n\nCompatible with all shipping modules\n\n\nCompatible with all themes\n\n\n100% new files, no overwrites\n\n\nMulti-language supported\n\n\nMulti-store supported\n\n\nMulti columns layout\n\n\nSet fields sort position\n\n\nSet default values for fields\n\n\nSet placeholder text for fields\n\n\nSet fields required / optional\n\n\nResponsive feature to integrate with responsive themes\n\n\nSupports postal code based shipping modules\n\n\nEnable / Disable cart module\n\n\nEnable / Disable voucher / coupon / reward points module\n\n\nEnable / Disable login module\n\n\nEnable / Disable countdown timer\n\n\nEnable / Disable delivery field\n\n\nEnable / Disable delivery time field\n\n\nEnable / Disable order confirmation page\n\n\nSelect or Radio choice type for shipping \n payment\n\n\nSet default payment \n shipping method\n\n\nSet payment and shipping logo\n\n\nSet default newsletter status\n\n\nDisplay loading screen\n\n\nDisplay spinner loading icon or overlay loading design\n\n\nEnable / disable drop down survey response\n\n\nHighlight error fields\n\n\nAdd custom HTML header and footer content\n\n\nAdd custom CSS codes through admin panel\n\n\nEasy one click installation\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nQuick Checkout\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nQuick Checkout\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 2 \n 1.5\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nQuick Checkout\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nGeneral Settings\n\n\nStatus\n\n\nTurn on/off Quick Checkout. Set status to enable to begin using Quick Checkout.\n\n\nMinimum Order Amount\n\n\nThe minimum amount (in system's default currency) the cart total must reach before checkout is enabled.\n\n\nDebug\n\n\nThis function is for developer to debug javascript and checkout errors.\n\n\nConfirmation Page\n\n\nTurn on/off the order confirmation page. If disabled, customer will not see their order cart for confirmation before payment.\n\n\nAuto Save Data\n\n\nAllow the customer's information to be saved automatically when the customer starts entering information on your checkout page.\n\n\nAllow Users to Edit Cart Quantities\n\n\nAllow the customer to change the product quantity on the checkout page. Disable to prevent customer from changing quantity on the checkout page.\n\n\nHighlight Fields with Error\n\n\nEnable to highlight fields with error when checkout form is submitted.\n\n\nDisplay Error Below Fields\n\n\nEnable to display error message below each field when checkout form is submitted.\n\n\nAttempt Auto Submit\n\n\nAttempt to automatically submit the payment form. This will only work if the payment module you are using does not require additional information (e.g. Bank Transfer, PayPal Standard). Payment modules that require additional information such as credit card fields cannot be automatically submitted.\n\n\nPayment Button Targets\n\n\nThis is used to target the auto submit payment forms. If your payment module uses another button ID, add it to this field to target correctly for auto submit feature to work.\n\n\nProceed Button Text\n\n\nConfigure the text to be shown to customer to proceed to the next step of the checkout.\n\n\nDesign\n\n\nDisplay Load Screen\n\n\nDisplay the page loading screen when checkout page is loaded.\n\n\nLoading Display\n\n\nConfigure how the loading icon should be displayed.\n\n\nLayout\n\n\nConfigure the layout of the checkout page.\n\n\nResponsive Quick Checkout\n\n\nConfigure the checkout for a responsive design.\n\n\nSlide Effect\n\n\nConfigure the checkout transition when it proceeds to the order confirmation page.\n\n\nCustom CSS Codes\n\n\nAdd your custom CSS codes here if you wish to further style the checkout page.\n\n\nFields\n\n\nDisplay\n\n\nConfigure whether the field should be displayed to the customer on the checkout page.\n\n\nRequired\n\n\nConfigure whether the field is required to be filled in.\n\n\nDefault Value\n\n\nConfigure the default value for the field when it is loaded.\n\n\nPlaceholder\n\n\nConfigure the field placeholder.\n\n\nSort Order\n\n\nConfigure the field position when displayed on the checkout page.\n\n\nModules\n\n\nDisplay Coupon Module\n\n\nToggle on/off the coupon module on the checkout page.\n\n\nDisplay Voucher Module\n\n\nToggle on/off the voucher module on the checkout page.\n\n\nDisplay Reward Module\n\n\nToggle on/off the reward module on the checkout page.\n\n\nDisplay Cart Module\n\n\nToggle on/off the cart module on the checkout page.\n\n\nDisplay Login Module\n\n\nToggle on/off the login module for guest customers on the checkout page.\n\n\nCustom HTML Header\n\n\nAdd custom HTML text to the header of the checkout page.\n\n\nCustom HTML Footer\n\n\nAdd custom HTML text to the footer of the checkout page.\n\n\nPayment\n\n\nDisplay Payment Method Module\n\n\nTurn on/off the payment method module on the checkout page. The default selected payment module will be used if the payment method module is disabled.\n\n\nPayment Reloads Cart\n\n\nTurn on/off payment reloads cart feature. This is useful if your payment methods have additional fees.\n\n\nPayment Selection\n\n\nConfigure the payment method selection to be select or radio type display.\n\n\nDefault Payment Module\n\n\nConfigure the default payment method for checkout.\n\n\nPayment Logo URL\n\n\nConfigure the payment logo image URL to be loaded on the checkout page.\n\n\nShipping\n\n\nDisplay Shipping Method Module\n\n\nTurn on/off the shipping method module on the checkout page. The default selected shipping module will be used if the shipping method module is disabled.\n\n\nShipping Reloads Payment\n\n\nTurn on/off shipping reloads payment feature. This is useful if your payment methods are dependent on the selected shipping methods.\n\n\nShipping Selection\n\n\nConfigure the shipping method selection to be select or radio type display.\n\n\nDefault Shipping Module\n\n\nConfigure the default shipping method for checkout.\n\n\nShipping Logo URL\n\n\nConfigure the shipping logo image URL to be loaded on the checkout page.\n\n\nSurvey\n\n\nSurvey response will be captured in the order comments section.\n\n\nDisplay Survey Field\n\n\nConfigure the status of the survey field.\n\n\nSurvey Required\n\n\nConfigure if the survey field must be filled up before checkout.\n\n\nSurvey Question\n\n\nConfigure the survey question to be displayed to the customer.\n\n\nSurvey Type\n\n\nConfigure the type for the survey. Select \ntext\n for an open ended answer, and select \nselect\n for customer to select from a list of answers.\n\n\nDelivery\n\n\nAdditional delivery details are stored into the order comments section.\n\n\nDisplay Delivery Field\n\n\nTurn on/off the delivery field.\n\n\nDisplay Delivery Time\n\n\nConfigure whether the delivery time can be chosen by the customer, will only be an estimate, or is from a list of drop down timings.\n\n\nDelivery Date Required\n\n\nConfigure whether delivery date field must be filled in during checkout.\n\n\nDelivery Dates Unavailable\n\n\nConfigure the list of dates unavailable for delivery.\n\n\nDelivery Minimum Days in Advance\n\n\nConfigure the minimum number of days required in advance for delivery date selection.\n\n\nDelivery Maximum Days in Advance\n\n\nConfigure the maximum number of days allowed in advance for delivery selection.\n\n\nDelivery Earliest Hour\n\n\nConfigure the earliest hour the customer can select for delivery.\n\n\nDelivery Latest Hour\n\n\nConfigure the latest hour the customer can select for delivery.\n\n\nDelivery Days of Week to Disable\n\n\nConfigure the days of the week to disable delivery.\n\n\nTimer\n\n\nCountdown Timer\n\n\nTurn on/off the countdown timer.\n\n\nCountdown Starts\n\n\nConfigure how the countdown timer should start.\n\n\nCountdown Text\n\n\nThe text to display for the countdown timer. Use the \n{timer}\n template code to display the timer on the checkout page.\n\n\nAnalytics\n\n\nRecover Abandoned Carts\n\n\nPurchase our Recover Abandoned Carts extension to turn abandoned carts into sales.\n\n\nChange Log\n\n\nVersion 11.0.0 (30/06/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nFixed minor bugs and improvements\n\n\nRemoved fax field for OpenCart 3\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 10.1.0 (13/05/2017)\n\n\n\n\nAdded multi-language placeholder\n\n\nAdded multi-language default text\n\n\nFixed custom fields not hiding\n\n\nFixed custom fields validation\n\n\nFixed cart total display when login for price is enabled\n\n\nImproved email validation when field not required\n\n\nImproved shipping reloads payment\n\n\n\n\nVersion 10.0.6 (31/01/2017)\n\n\n\n\nFixed missing column language\n\n\n\n\nVersion 10.0.5 (26/01/2017)\n\n\n\n\nAdded ability to remove rewards, coupons and vouchers\n\n\n\n\nVersion 10.0.4 (16/11/2016)\n\n\n\n\nFixed minor bugs with OpenCart 1.5 release\n\n\nFixed minor bugs with minimum order feature\n\n\n\n\nVersion 10.0.3 (26/09/2016)\n\n\n\n\nFixed minor bugs\n\n\n\n\nVersion 10.0.2 (08/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 10.0.1 (20/05/2016)\n\n\n\n\nFixed force registration\n\n\nFixed minor bugs\n\n\n\n\nVersion 10.0.0 (03/05/2016)\n\n\n\n\nImproved feature to disable confirmation page\n\n\nImproved speed and performance by reducing ajax requests\n\n\nImproved auto submit feature\n\n\nImproved loading screen\n\n\nImproved auto submit targets\n\n\nImproved overlay design \n\n\nImproved delivery field and date picker\n\n\nImproved custom fields integration with OpenCart 2\n\n\nAdded default payment method\n\n\nAdded default shipping method\n\n\nAdded payment logos\n\n\nAdded shipping logos\n\n\nAdded place holder for fields\n\n\nAdded configurable proceed button language\n\n\nAdded minimum and maximum hours for delivery\n\n\nFixed minor bugs\n\n\nFixed minor layout issue\n\n\nRemoved loading gif from OC 1.5 release\n\n\n\n\nVersion 9.5.0 (08/04/2016)\n\n\n\n\nAdded custom CSS field\n\n\nAdded analytics tab\n\n\nAdded feature to remove confirmation page\n\n\nAdded auto submit target field\n\n\nAdded new overlay module loading feature\n\n\nFixed blank option for payment method\n\n\n\n\nVersion 9.4.5 (04/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\nLast release for OpenCart 1.5.1.x and OpenCart 1.5.2.x\n\n\n\n\nVersion 9.4.4 (20/01/2016)\n\n\n\n\nFixed minimum order cart validation\n\n\nImproved three columns layout design\n\n\n\n\nVersion 9.4.3 (23/12/2015)\n\n\n\n\nFixed issue with payment address refreshing shipping methods\n\n\n\n\nVersion 9.4.2 (06/12/2015)\n\n\n\n\nFixed order comments tag\n\n\nFixed issue with shipping address not saving on OC 1.5.x\n\n\n\n\nVersion 9.4.1 (04/12/2015)\n\n\n\n\nFixed fatal bug on OC 1.5.3.x to OC 1.5.6.x caused by v9.4.0\n\n\nFixed minor bug OC 2.1.0.x", 
             "title": "Quick Checkout"
@@ -4934,6 +5154,246 @@
             "location": "/quick_checkout/#version-941-04122015", 
             "text": "Fixed fatal bug on OC 1.5.3.x to OC 1.5.6.x caused by v9.4.0  Fixed minor bug OC 2.1.0.x", 
             "title": "Version 9.4.1 (04/12/2015)"
+        }, 
+        {
+            "location": "/quick_order_update/", 
+            "text": "Quick Order Update\n\n\n\n\nCurrent Version: 2.0.0\n\n\nLast Updated: 11 July 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nEver needed to quickly edit only a couple of fields for your orders, but do not wish to go through the long process of editing each order? Quick Order Update does just what you need!\n\n\nFeatures\n\n\n\n\nQuick edit order details by clicking on fields\n\n\nFollowing fields can be edited:\n\n\nEmail\n\n\nTelephone\n\n\nPayment First Name\n\n\nPayment Last Name\n\n\nPayment Company\n\n\nPayment Address 1\n\n\nPayment Address 2\n\n\nPayment City\n\n\nPayment Postcode\n\n\nPayment Zone\n\n\nPayment Country\n\n\nPayment Method\n\n\nShipping First Name\n\n\nShipping Last Name\n\n\nShipping Company\n\n\nShipping Address 1\n\n\nShipping Address 2\n\n\nShipping City\n\n\nShipping Postcode\n\n\nShipping Zone\n\n\nShipping Country\n\n\nShipping Method\n\n\n\n\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nQuick Order Update\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPopup notification will now show up when a product is added.\n\n\n\n\nOpenCart 2 \n 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nQuick Order Update\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPopup notification will now show up when a product is added.\n\n\n\n\nOpenCart 1.5\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nQuick Order Update\n. Configure extension accordingly.\n\n\nPopup notification will now show up when a product is added.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\n\n\nUsing Quick Order Update\n\n\n\n\nYou can click on the editable fields in the order information page to quickly update the fields. Clicking out of the field will automatically save the changes.\n\n\n\n\nChange Log\n\n\nVersion 2.0.0 (11/07/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 1.1.0 (09/12/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0 and above", 
+            "title": "Quick Order Update"
+        }, 
+        {
+            "location": "/quick_order_update/#quick-order-update", 
+            "text": "Current Version: 2.0.0  Last Updated: 11 July 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "Quick Order Update"
+        }, 
+        {
+            "location": "/quick_order_update/#description", 
+            "text": "Ever needed to quickly edit only a couple of fields for your orders, but do not wish to go through the long process of editing each order? Quick Order Update does just what you need!", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/quick_order_update/#features", 
+            "text": "Quick edit order details by clicking on fields  Following fields can be edited:  Email  Telephone  Payment First Name  Payment Last Name  Payment Company  Payment Address 1  Payment Address 2  Payment City  Payment Postcode  Payment Zone  Payment Country  Payment Method  Shipping First Name  Shipping Last Name  Shipping Company  Shipping Address 1  Shipping Address 2  Shipping City  Shipping Postcode  Shipping Zone  Shipping Country  Shipping Method", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/quick_order_update/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/quick_order_update/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Quick Order Update . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Popup notification will now show up when a product is added.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/quick_order_update/#opencart-2-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Quick Order Update . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Popup notification will now show up when a product is added.", 
+            "title": "OpenCart 2 &amp; 3"
+        }, 
+        {
+            "location": "/quick_order_update/#opencart-15", 
+            "text": "Unzip the files. Ensure that vQmod has been installed.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Quick Order Update . Configure extension accordingly.  Popup notification will now show up when a product is added.", 
+            "title": "OpenCart 1.5"
+        }, 
+        {
+            "location": "/quick_order_update/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/quick_order_update/#opencart-15-2-3-cloud", 
+            "text": "Using Quick Order Update   You can click on the editable fields in the order information page to quickly update the fields. Clicking out of the field will automatically save the changes.", 
+            "title": "OpenCart 1.5, 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/quick_order_update/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/quick_order_update/#version-200-11072017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Minor improvements and updates  Ceased support for OpenCart 1.5", 
+            "title": "Version 2.0.0 (11/07/2017)"
+        }, 
+        {
+            "location": "/quick_order_update/#version-110-09122016", 
+            "text": "Fixed compatibility with OpenCart 2.2.0.0 and above", 
+            "title": "Version 1.1.0 (09/12/2016)"
+        }, 
+        {
+            "location": "/recently_sold/", 
+            "text": "Recently Sold\n\n\n\n\nCurrent Version: 2.0.0\n\n\nLast Updated: 11 July 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nRecently Sold allows your customers to see the most recently sold products on your store.\n\n\nIf you do not have any recently sold products, the latest products will be shown instead.\n\n\nFeatures\n\n\n\n\nDisplay recently sold products to customer\n\n\nDisplays latest products if there isn\u2019t enough products to fill up the module\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nRecently Sold\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 2 \n 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nRecently Sold\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5\n\n\n\n\nUnzip the files.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nRecently Sold\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 2, 3 \n Cloud\n\n\n\n\n\n\nAdding Module to Layout\n\n\nOnce you have installed and enabled the extension, you can add the extension to your layout through the OpenCart's layout management page.\n\n\n\n\n\n\n\n\nOpenCart 1.5\n\n\n\n\n\n\nAdding Module to Layout\n\n\nOnce you have installed the extension, you can add the extension to your layout through the Recently Sold module settings page itself.\n\n\n\n\n\n\nChange Log\n\n\nVersion 2.0.0 (11/07/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nFixed minor bugs and improvements\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 1.0.3 (12/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 1.0.2 (07/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\n\n\nVersion 1.0.1 (10/10/2015)\n\n\n\n\nFixed minor bugs\n\n\n\n\nVersion 1.0.0 (04/06/2015)\n\n\n\n\nModule created", 
+            "title": "Recently Sold"
+        }, 
+        {
+            "location": "/recently_sold/#recently-sold", 
+            "text": "Current Version: 2.0.0  Last Updated: 11 July 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "Recently Sold"
+        }, 
+        {
+            "location": "/recently_sold/#description", 
+            "text": "Recently Sold allows your customers to see the most recently sold products on your store.  If you do not have any recently sold products, the latest products will be shown instead.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/recently_sold/#features", 
+            "text": "Display recently sold products to customer  Displays latest products if there isn\u2019t enough products to fill up the module", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/recently_sold/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/recently_sold/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Recently Sold . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/recently_sold/#opencart-2-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Recently Sold . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 2 &amp; 3"
+        }, 
+        {
+            "location": "/recently_sold/#opencart-15", 
+            "text": "Unzip the files.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Recently Sold . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 1.5"
+        }, 
+        {
+            "location": "/recently_sold/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/recently_sold/#opencart-2-3-cloud", 
+            "text": "Adding Module to Layout  Once you have installed and enabled the extension, you can add the extension to your layout through the OpenCart's layout management page.", 
+            "title": "OpenCart 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/recently_sold/#opencart-15_1", 
+            "text": "Adding Module to Layout  Once you have installed the extension, you can add the extension to your layout through the Recently Sold module settings page itself.", 
+            "title": "OpenCart 1.5"
+        }, 
+        {
+            "location": "/recently_sold/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/recently_sold/#version-200-11072017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Fixed minor bugs and improvements  Ceased support for OpenCart 1.5", 
+            "title": "Version 2.0.0 (11/07/2017)"
+        }, 
+        {
+            "location": "/recently_sold/#version-103-12072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Version 1.0.3 (12/07/2016)"
+        }, 
+        {
+            "location": "/recently_sold/#version-102-07032016", 
+            "text": "Fixed compatibility with OpenCart 2.2.0.0", 
+            "title": "Version 1.0.2 (07/03/2016)"
+        }, 
+        {
+            "location": "/recently_sold/#version-101-10102015", 
+            "text": "Fixed minor bugs", 
+            "title": "Version 1.0.1 (10/10/2015)"
+        }, 
+        {
+            "location": "/recently_sold/#version-100-04062015", 
+            "text": "Module created", 
+            "title": "Version 1.0.0 (04/06/2015)"
+        }, 
+        {
+            "location": "/recently_viewed/", 
+            "text": "Recently Viewed\n\n\n\n\nCurrent Version: 2.0.0\n\n\nLast Updated: 11 July 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nRecently Viewed allows your customers to see their recently viewed products. Your customers no longer need to search their browser history when trying to find products they had just recently viewed.\n\n\nIf your customer has no recently viewed products, the latest products will be shown instead.\n\n\nFeatures\n\n\n\n\nDisplay recently viewed products to customer\n\n\nRemembers customer\u2019s recently viewed product even if customer closes browser\n\n\nDisplays latest products if there isn\u2019t enough products to fill up the module\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nRecently Viewed\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 2 \n 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nRecently Viewed\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5\n\n\n\n\nUnzip the files.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nRecently Viewed\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 2, 3 \n Cloud\n\n\n\n\n\n\nAdding Module to Layout\n\n\nOnce you have installed and enabled the extension, you can add the extension to your layout through the OpenCart's layout management page.\n\n\n\n\n\n\n\n\nOpenCart 1.5\n\n\n\n\n\n\nAdding Module to Layout\n\n\nOnce you have installed the extension, you can add the extension to your layout through the Recently Viewed module settings page itself.\n\n\n\n\n\n\nChange Log\n\n\nVersion 2.0.0 (11/07/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nFixed minor bugs and improvements\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 1.0.4 (12/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 1.0.3 (07/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\n\n\nVersion 1.0.2 (04/01/2016)\n\n\n\n\nFixed minor bugs\n\n\n\n\nVersion 1.0.1 (14/12/2015)\n\n\n\n\nMinor improvements\n\n\n\n\nVersion 1.0.0 (04/06/2015)\n\n\n\n\nModule created", 
+            "title": "Recently Viewed"
+        }, 
+        {
+            "location": "/recently_viewed/#recently-viewed", 
+            "text": "Current Version: 2.0.0  Last Updated: 11 July 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "Recently Viewed"
+        }, 
+        {
+            "location": "/recently_viewed/#description", 
+            "text": "Recently Viewed allows your customers to see their recently viewed products. Your customers no longer need to search their browser history when trying to find products they had just recently viewed.  If your customer has no recently viewed products, the latest products will be shown instead.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/recently_viewed/#features", 
+            "text": "Display recently viewed products to customer  Remembers customer\u2019s recently viewed product even if customer closes browser  Displays latest products if there isn\u2019t enough products to fill up the module", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/recently_viewed/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/recently_viewed/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Recently Viewed . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/recently_viewed/#opencart-2-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Recently Viewed . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 2 &amp; 3"
+        }, 
+        {
+            "location": "/recently_viewed/#opencart-15", 
+            "text": "Unzip the files.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Recently Viewed . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 1.5"
+        }, 
+        {
+            "location": "/recently_viewed/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/recently_viewed/#opencart-2-3-cloud", 
+            "text": "Adding Module to Layout  Once you have installed and enabled the extension, you can add the extension to your layout through the OpenCart's layout management page.", 
+            "title": "OpenCart 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/recently_viewed/#opencart-15_1", 
+            "text": "Adding Module to Layout  Once you have installed the extension, you can add the extension to your layout through the Recently Viewed module settings page itself.", 
+            "title": "OpenCart 1.5"
+        }, 
+        {
+            "location": "/recently_viewed/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/recently_viewed/#version-200-11072017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Fixed minor bugs and improvements  Ceased support for OpenCart 1.5", 
+            "title": "Version 2.0.0 (11/07/2017)"
+        }, 
+        {
+            "location": "/recently_viewed/#version-104-12072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Version 1.0.4 (12/07/2016)"
+        }, 
+        {
+            "location": "/recently_viewed/#version-103-07032016", 
+            "text": "Fixed compatibility with OpenCart 2.2.0.0", 
+            "title": "Version 1.0.3 (07/03/2016)"
+        }, 
+        {
+            "location": "/recently_viewed/#version-102-04012016", 
+            "text": "Fixed minor bugs", 
+            "title": "Version 1.0.2 (04/01/2016)"
+        }, 
+        {
+            "location": "/recently_viewed/#version-101-14122015", 
+            "text": "Minor improvements", 
+            "title": "Version 1.0.1 (14/12/2015)"
+        }, 
+        {
+            "location": "/recently_viewed/#version-100-04062015", 
+            "text": "Module created", 
+            "title": "Version 1.0.0 (04/06/2015)"
         }, 
         {
             "location": "/recover_abandoned_cart/", 
