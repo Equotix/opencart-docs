@@ -4322,13 +4322,13 @@
         }, 
         {
             "location": "/product_date_end/", 
-            "text": "Option Value Equals Sign\n\n\n\n\nCurrent Version: 2.0.0\n\n\nLast Updated: 10 July 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nDo you need to remove certain products after a certain date? This extension will do just what you need. Configure your products to end after the set date you have configured.\n\n\nFeatures\n\n\n\n\nSet a \u2018date end\u2019 for your products\n\n\nProducts will end automatically when expired\n\n\nProduct page will still be available by accessing page directly, but cannot be added to cart\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nProduct Date End\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nProduct Date End\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nProduct Date End\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\n\n\n\n\nSetting Equal Sign\n\n\nYou can configure the product date end feature in \nCatalog \n Product \n Edit Product \n Data\n tab.\n\n\n\n\n\n\n\n\nChange Log\n\n\nVersion 2.0.0 (10/07/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 1.1.2 (12/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 1.1.1 (01/04/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\n\n\nVersion 1.1.0 (10/03/2016)\n\n\n\n\nAdded administration interface for installation\n\n\n\n\nVersion 1.0.1 (10/10/2015)\n\n\n\n\nFixed minor bugs for OpenCart 2\n\n\nSet default date end to be 10 years\n\n\n\n\nVersion 1.0.0 (28/01/2015)\n\n\n\n\nModule created", 
+            "text": "Product Date End\n\n\n\n\nCurrent Version: 2.0.0\n\n\nLast Updated: 10 July 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nDo you need to remove certain products after a certain date? This extension will do just what you need. Configure your products to end after the set date you have configured.\n\n\nFeatures\n\n\n\n\nSet a \u2018date end\u2019 for your products\n\n\nProducts will end automatically when expired\n\n\nProduct page will still be available by accessing page directly, but cannot be added to cart\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nProduct Date End\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nProduct Date End\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nProduct Date End\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\n\n\n\n\nSetting Equal Sign\n\n\nYou can configure the product date end feature in \nCatalog \n Product \n Edit Product \n Data\n tab.\n\n\n\n\n\n\n\n\nChange Log\n\n\nVersion 2.0.0 (10/07/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 1.1.2 (12/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 1.1.1 (01/04/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\n\n\nVersion 1.1.0 (10/03/2016)\n\n\n\n\nAdded administration interface for installation\n\n\n\n\nVersion 1.0.1 (10/10/2015)\n\n\n\n\nFixed minor bugs for OpenCart 2\n\n\nSet default date end to be 10 years\n\n\n\n\nVersion 1.0.0 (28/01/2015)\n\n\n\n\nModule created", 
             "title": "Product Date End"
         }, 
         {
-            "location": "/product_date_end/#option-value-equals-sign", 
+            "location": "/product_date_end/#product-date-end", 
             "text": "Current Version: 2.0.0  Last Updated: 10 July 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
-            "title": "Option Value Equals Sign"
+            "title": "Product Date End"
         }, 
         {
             "location": "/product_date_end/#description", 
@@ -4479,6 +4479,96 @@
             "location": "/product_geo_zone/#version-110-10032016", 
             "text": "Added administration interface for installation", 
             "title": "Version 1.1.0 (10/03/2016)"
+        }, 
+        {
+            "location": "/product_stock_mobile_app/", 
+            "text": "Product Stock Mobile App\n\n\n\n\nCurrent Version: 2.0.0\n\n\nLast Updated: 10 July 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nProduct Stock Mobile Application allows you to scan your product\u2019s barcode or enter its SKU to update the product. A barcode list can also be generated from the store administration panel.\n\n\nFeatures\n\n\n\n\nAndroid mobile application built with security in mind\n\n\nEnter barcode for products from your admin panel\n\n\nEnter barcode for each product option values\n\n\nUpdate product stock quantity from mobile application\n\n\nUpdate product price from mobile application\n\n\nUpdate product status from mobile application\n\n\nBarcode scanner for Android mobile application\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nProduct Stock Mobile Application\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nDownload the Android mobile application from the Google Play Store or the iOS mobile application from the Apple App Store. Do a search for \u2018OC Product Stock\u2019 by Equotix.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nProduct Stock Mobile Application\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nDownload the Android mobile application from the Google Play Store or the iOS mobile application from the Apple App Store. Do a search for \u2018OC Product Stock\u2019 by Equotix.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nProduct Stock Mobile Application\n. Configure extension accordingly.\n\n\nDownload the Android mobile application from the Google Play Store or the iOS mobile application from the Apple App Store. Do a search for \u2018OC Product Stock\u2019 by Equotix.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\n\n\n\n\nConfiguring Barcode or SKU\n\n\nYou can mass generate barcodes for your products and options in our extension settings. Alternatively, you can configure the SKU or barcode in \nCatalog \n Products \n Edit Product \n Data\n tab. For options with option values, it can be configured in the \nOption\n tab.\n\n\n\n\n\n\n\n\nUsing the Mobile Application\n\n\nLogging into the Application\n\n\nYou can start using the mobile application once you login. Login to your store admin by entering your store admin URL, username and password.\n\n\n\n\nScan a Barcode or Enter a SKU\n\n\nScan a barcode or enter a SKU to begin updating a product. You will be able to update the product price, quantity or status through the mobile application.\n\n\n\n\n\n\n\n\nChange Log\n\n\nVersion 2.0.0 (10/07/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 1.1.4 (12/02/2017)\n\n\n\n\nFixed permission issue for OpenCart 2.3 releases\n\n\n\n\nVersion 1.1.3 (24/10/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0 due to previous release\n\n\n\n\nVersion 1.1.2 (12/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\nImproved mobile application\n\n\n\n\nVersion 1.1.1 (13/04/2016)\n\n\n\n\nFixed undefined currency error\n\n\n\n\nVersion 1.1.0 (10/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\nUpdated administration interface\n\n\n\n\nVersion 1.0.0 (22/04/2015)\n\n\n\n\nModule released", 
+            "title": "Product Stock Mobile App"
+        }, 
+        {
+            "location": "/product_stock_mobile_app/#product-stock-mobile-app", 
+            "text": "Current Version: 2.0.0  Last Updated: 10 July 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "Product Stock Mobile App"
+        }, 
+        {
+            "location": "/product_stock_mobile_app/#description", 
+            "text": "Product Stock Mobile Application allows you to scan your product\u2019s barcode or enter its SKU to update the product. A barcode list can also be generated from the store administration panel.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/product_stock_mobile_app/#features", 
+            "text": "Android mobile application built with security in mind  Enter barcode for products from your admin panel  Enter barcode for each product option values  Update product stock quantity from mobile application  Update product price from mobile application  Update product status from mobile application  Barcode scanner for Android mobile application", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/product_stock_mobile_app/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/product_stock_mobile_app/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Product Stock Mobile Application . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Download the Android mobile application from the Google Play Store or the iOS mobile application from the Apple App Store. Do a search for \u2018OC Product Stock\u2019 by Equotix.  Please view configuration details below.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/product_stock_mobile_app/#opencart-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Product Stock Mobile Application . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Download the Android mobile application from the Google Play Store or the iOS mobile application from the Apple App Store. Do a search for \u2018OC Product Stock\u2019 by Equotix.  Please view configuration details below.", 
+            "title": "OpenCart 3"
+        }, 
+        {
+            "location": "/product_stock_mobile_app/#opencart-15-2", 
+            "text": "Unzip the files. Ensure that vQmod has been installed.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Product Stock Mobile Application . Configure extension accordingly.  Download the Android mobile application from the Google Play Store or the iOS mobile application from the Apple App Store. Do a search for \u2018OC Product Stock\u2019 by Equotix.  Please view configuration details below.", 
+            "title": "OpenCart 1.5 &amp; 2"
+        }, 
+        {
+            "location": "/product_stock_mobile_app/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/product_stock_mobile_app/#opencart-15-2-3-cloud", 
+            "text": "Configuring Barcode or SKU  You can mass generate barcodes for your products and options in our extension settings. Alternatively, you can configure the SKU or barcode in  Catalog   Products   Edit Product   Data  tab. For options with option values, it can be configured in the  Option  tab.     Using the Mobile Application  Logging into the Application  You can start using the mobile application once you login. Login to your store admin by entering your store admin URL, username and password.   Scan a Barcode or Enter a SKU  Scan a barcode or enter a SKU to begin updating a product. You will be able to update the product price, quantity or status through the mobile application.", 
+            "title": "OpenCart 1.5, 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/product_stock_mobile_app/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/product_stock_mobile_app/#version-200-10072017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Minor improvements and updates  Ceased support for OpenCart 1.5", 
+            "title": "Version 2.0.0 (10/07/2017)"
+        }, 
+        {
+            "location": "/product_stock_mobile_app/#version-114-12022017", 
+            "text": "Fixed permission issue for OpenCart 2.3 releases", 
+            "title": "Version 1.1.4 (12/02/2017)"
+        }, 
+        {
+            "location": "/product_stock_mobile_app/#version-113-24102016", 
+            "text": "Fixed compatibility with OpenCart 2.2.0.0 due to previous release", 
+            "title": "Version 1.1.3 (24/10/2016)"
+        }, 
+        {
+            "location": "/product_stock_mobile_app/#version-112-12072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0  Improved mobile application", 
+            "title": "Version 1.1.2 (12/07/2016)"
+        }, 
+        {
+            "location": "/product_stock_mobile_app/#version-111-13042016", 
+            "text": "Fixed undefined currency error", 
+            "title": "Version 1.1.1 (13/04/2016)"
+        }, 
+        {
+            "location": "/product_stock_mobile_app/#version-110-10032016", 
+            "text": "Fixed compatibility with OpenCart 2.2.0.0  Updated administration interface", 
+            "title": "Version 1.1.0 (10/03/2016)"
+        }, 
+        {
+            "location": "/product_stock_mobile_app/#version-100-22042015", 
+            "text": "Module released", 
+            "title": "Version 1.0.0 (22/04/2015)"
         }, 
         {
             "location": "/purchase_order/", 
@@ -5534,6 +5624,116 @@
             "location": "/recover_abandoned_cart/#version-101-09022016", 
             "text": "Fixed minor bugs  Improved cron job handling", 
             "title": "Version 1.0.1 (09/02/2016)"
+        }, 
+        {
+            "location": "/redirection_manager/", 
+            "text": "Redirection Manager\n\n\n\n\nCurrent Version: 2.0.0\n\n\nLast Updated: 11 July 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nRedirection Manager allows you to manage the 404 pages on your website and easily set up redirections on your website to redirect customers to different URLs.\n\n\nFor example, if you had recently changed the URL of one of your product, or recently removed a product, but wish to redirect your customer to a new page, you can easily enter in the URLs and the system will redirect customers accordingly.\n\n\nAlso, if customers are regularly hitting a 404 link on your page, you can log those pages with our Redirection Manager, and set up redirections to send them to the correct URLs on your website.\n\n\nFeatures\n\n\n\n\nLog 404 pages your customers are getting on your website\n\n\nSupports OpenCart multi-store feature\n\n\nSet various server response codes for redirection\n\n\nChoose the \u2018From\u2019 and \u2018To\u2019 link for redirection\n\n\nSet up wildcard matching for URLs or partial matching for URLs\n\n\nEasily add redirections for your OpenCart store from the admin panel\n\n\nHits counter to track the number of times the \u2018from\u2019 URL is reached by your customers\n\n\nExclude certain URLs based on keywords from being logged\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nIn your admin panel, proceed to \nUser \n User\n. Give yourself permission to access and modify the Redirection Manager page.\n\n\nProceed to Extensions \n Modifications and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nIn your admin panel, proceed to \nUser \n User\n. Give yourself permission to access and modify the Redirection Manager page.\n\n\nProceed to Extensions \n Modifications and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nUser \n User\n. Give yourself permission to access and modify the Redirection Manager page.\n\n\nView your admin dashboard page for the installation to be completed.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\n\n\n\n\nAccessing Redirection Manager\n\n\nRedirection manager can be accessed via your administration panel \nExtensions \n Redirection Manager\n.\n\n\n\n\n\n\n\n\nRedirect From Setup\n\n\nYou can setup the system to detect using wildcard URLs. All you need to do is to make use of either \n%\n or \n_\n. \n%\n will match 0 or more characters, while \n_\n will match any single characters.\n\n\nFor example, \n%www.example.com\n will match \nhttps://www.example.com\n, \nhttp://www.example.com\n, and \nanythingwww.example.com\n. \nwww.exam_le.com\n will match \nwww.example.com\n, \nwww.examOle.com\n, and \nwww.examXle.com\n.\n\n\n\n\n\n\nChange Log\n\n\nVersion 2.0.0 (11/07/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 1.2.5 (06/11/2016)\n\n\n\n\nFixed minor bugs for OpenCart 1.5 release\n\n\n\n\nVersion 1.2.4 (13/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 1.2.3 (01/04/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\n\n\nVersion 1.2.2 (27/03/2016)\n\n\n\n\nFixed missing exclude values being shown after saving\n\n\n\n\nVersion 1.2.1 (07/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\n\n\nVersion 1.2.0 (13/12/2015)\n\n\n\n\nAdded feature to exclude logging by keywords\n\n\n\n\nVersion 1.1.1 (24/05/2015)\n\n\n\n\nFixed extension not saving settings\n\n\n\n\nVersion 1.1.0 (19/05/2015)\n\n\n\n\nMinor admin aesthetic improvements\n\n\n\n\nVersion 1.0.1 (23/04/2015)\n\n\n\n\nOC 2.0.2.0 mail support compatibility fix\n\n\n\n\nVersion 1.0.0 (14/01/2015)\n\n\n\n\nModule created.", 
+            "title": "Redirection Manager"
+        }, 
+        {
+            "location": "/redirection_manager/#redirection-manager", 
+            "text": "Current Version: 2.0.0  Last Updated: 11 July 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "Redirection Manager"
+        }, 
+        {
+            "location": "/redirection_manager/#description", 
+            "text": "Redirection Manager allows you to manage the 404 pages on your website and easily set up redirections on your website to redirect customers to different URLs.  For example, if you had recently changed the URL of one of your product, or recently removed a product, but wish to redirect your customer to a new page, you can easily enter in the URLs and the system will redirect customers accordingly.  Also, if customers are regularly hitting a 404 link on your page, you can log those pages with our Redirection Manager, and set up redirections to send them to the correct URLs on your website.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/redirection_manager/#features", 
+            "text": "Log 404 pages your customers are getting on your website  Supports OpenCart multi-store feature  Set various server response codes for redirection  Choose the \u2018From\u2019 and \u2018To\u2019 link for redirection  Set up wildcard matching for URLs or partial matching for URLs  Easily add redirections for your OpenCart store from the admin panel  Hits counter to track the number of times the \u2018from\u2019 URL is reached by your customers  Exclude certain URLs based on keywords from being logged", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/redirection_manager/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/redirection_manager/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  In your admin panel, proceed to  User   User . Give yourself permission to access and modify the Redirection Manager page.  Proceed to Extensions   Modifications and click the blue refresh button.  Please view configuration details below.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/redirection_manager/#opencart-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  In your admin panel, proceed to  User   User . Give yourself permission to access and modify the Redirection Manager page.  Proceed to Extensions   Modifications and click the blue refresh button.  Please view configuration details below.", 
+            "title": "OpenCart 3"
+        }, 
+        {
+            "location": "/redirection_manager/#opencart-15-2", 
+            "text": "Unzip the files. Ensure that vQmod has been installed.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  User   User . Give yourself permission to access and modify the Redirection Manager page.  View your admin dashboard page for the installation to be completed.  Please view configuration details below.", 
+            "title": "OpenCart 1.5 &amp; 2"
+        }, 
+        {
+            "location": "/redirection_manager/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/redirection_manager/#opencart-15-2-3-cloud", 
+            "text": "Accessing Redirection Manager  Redirection manager can be accessed via your administration panel  Extensions   Redirection Manager .     Redirect From Setup  You can setup the system to detect using wildcard URLs. All you need to do is to make use of either  %  or  _ .  %  will match 0 or more characters, while  _  will match any single characters.  For example,  %www.example.com  will match  https://www.example.com ,  http://www.example.com , and  anythingwww.example.com .  www.exam_le.com  will match  www.example.com ,  www.examOle.com , and  www.examXle.com .", 
+            "title": "OpenCart 1.5, 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/redirection_manager/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/redirection_manager/#version-200-11072017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Minor improvements and updates  Ceased support for OpenCart 1.5", 
+            "title": "Version 2.0.0 (11/07/2017)"
+        }, 
+        {
+            "location": "/redirection_manager/#version-125-06112016", 
+            "text": "Fixed minor bugs for OpenCart 1.5 release", 
+            "title": "Version 1.2.5 (06/11/2016)"
+        }, 
+        {
+            "location": "/redirection_manager/#version-124-13072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Version 1.2.4 (13/07/2016)"
+        }, 
+        {
+            "location": "/redirection_manager/#version-123-01042016", 
+            "text": "Fixed compatibility with OpenCart 2.2.0.0", 
+            "title": "Version 1.2.3 (01/04/2016)"
+        }, 
+        {
+            "location": "/redirection_manager/#version-122-27032016", 
+            "text": "Fixed missing exclude values being shown after saving", 
+            "title": "Version 1.2.2 (27/03/2016)"
+        }, 
+        {
+            "location": "/redirection_manager/#version-121-07032016", 
+            "text": "Fixed compatibility with OpenCart 2.2.0.0", 
+            "title": "Version 1.2.1 (07/03/2016)"
+        }, 
+        {
+            "location": "/redirection_manager/#version-120-13122015", 
+            "text": "Added feature to exclude logging by keywords", 
+            "title": "Version 1.2.0 (13/12/2015)"
+        }, 
+        {
+            "location": "/redirection_manager/#version-111-24052015", 
+            "text": "Fixed extension not saving settings", 
+            "title": "Version 1.1.1 (24/05/2015)"
+        }, 
+        {
+            "location": "/redirection_manager/#version-110-19052015", 
+            "text": "Minor admin aesthetic improvements", 
+            "title": "Version 1.1.0 (19/05/2015)"
+        }, 
+        {
+            "location": "/redirection_manager/#version-101-23042015", 
+            "text": "OC 2.0.2.0 mail support compatibility fix", 
+            "title": "Version 1.0.1 (23/04/2015)"
+        }, 
+        {
+            "location": "/redirection_manager/#version-100-14012015", 
+            "text": "Module created.", 
+            "title": "Version 1.0.0 (14/01/2015)"
         }, 
         {
             "location": "/shopping_cart/", 
