@@ -58,6 +58,7 @@ pages:
             - Price Manager: 'price_manager.md'
             - Product Date End: 'product_date_end.md'
             - Product Geo Zone: 'product_geo_zone.md'
+            - Product Stock Mobile App: 'product_stock_mobile_app.md'
             - Purchase Order: 'purchase_order.md'
             - Purchase Store Credits: 'purchase_store_credits.md'
         - Q:
@@ -67,6 +68,7 @@ pages:
             - Recently Sold: 'recently_sold.md'
             - Recently Viewed: 'recently_viewed.md'
             - Recover Abandoned Cart: 'recover_abandoned_cart.md'
+            - Redirection Manager: 'redirection_manager.md'
         - S:
             - Shopping Cart: 'shopping_cart.md'
         - X:
