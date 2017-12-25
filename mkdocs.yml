@@ -69,8 +69,23 @@ pages:
             - Recently Viewed: 'recently_viewed.md'
             - Recover Abandoned Cart: 'recover_abandoned_cart.md'
             - Redirection Manager: 'redirection_manager.md'
+            - Related Pro: 'related_pro.md'
         - S:
+            - Send From China: 'send_from_china.md'
+            - SEO Pack: 'seo_pack.md'
+            - Serial Key Extension: 'serial_key_extension.md'
             - Shopping Cart: 'shopping_cart.md'
+            - Show Price in Cart: 'show_price_in_cart.md'
+            - Side Contact Form: 'side_contact_form.md'
+            - Sidebar Menu: 'sidebar_menu.md'
+            - Specials Countdown: 'specials_countdown.md'
+            - Specials Timer: 'specials_timer.md'
+        - T:
+            - Testimonials Slider: 'testimonials_slider.md'
+            - Tiered Pricing: 'tiered_pricing.md'
+            - Two Factor Authentication SMS: 'two_factor_authentication_sms.md'
+        - W:
+            - Watermark: 'watermark.md'
         - X:
             - Xero Integration: 'xero_integration.md'
 site_name: MarketInSG Documentations
