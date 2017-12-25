@@ -5736,6 +5736,531 @@
             "title": "Version 1.0.0 (14/01/2015)"
         }, 
         {
+            "location": "/related_pro/", 
+            "text": "Related Pro\n\n\n\n\nCurrent Version: 3.0.0\n\n\nLast Updated: 11 July 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nRelated Pro allows you to customise your related products easily. It allows the system to fetch similarly named products, products in the same categories, and even products you had manually set as related products as the related products at the product\u2019s page. Randomise your related products, limit them, or even remove the default OpenCart\u2019s related products section easily with this module.\n\n\nFeatures\n\n\n\n\nFetch related products from similar named products\n\n\nFetch related products from similar category\n\n\nRandomise related products\n\n\nRemove OpenCart\u2019s related products section (configurable)\n\n\nLimit related products\n\n\nAdd related products module to product page\n\n\nDisplay module in tab (OpenCart 2, 3 \n Cloud)\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nRelated Pro\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 2 \n 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nRelated Pro\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5\n\n\n\n\nUnzip the files.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nRelated Pro\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 2, 3 \n Cloud\n\n\n\n\n\n\nAdding Module to Layout\n\n\nOnce you have installed and enabled the extension, you can add the extension to your \nproduct page\n layout through the OpenCart's layout management page.\n\n\n\n\n\n\n\n\nOpenCart 1.5\n\n\n\n\n\n\nAdding Module to Layout\n\n\nOnce you have installed the extension, you can add the extension to your \nproduct page\n layout through the Related Pro module settings page itself.\n\n\n\n\n\n\nChange Log\n\n\nVersion 3.0.0 (11/07/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nFixed minor bugs and improvements\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 2.2.3 (12/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 2.2.2 (07/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\n\n\nVersion 2.2.1 (19/06/2015)\n\n\n\n\nCritical bug fix for OC 2 wrong require_once file\n\n\n\n\nVersion 2.2.0 (17/06/2015)\n\n\n\n\nMinor admin aesthetic improvements\n\n\n\n\nVersion 2.1.4 (23/04/2015)\n\n\n\n\nOC 2.0.2.0 mail support compatibility fix\n\n\n\n\nVersion 2.1.3 (26/03/2015)\n\n\n\n\nMinor bug fix for products with no category\n\n\n\n\nVersion 2.1.2 (03/02/2015)\n\n\n\n\nBug fixes for \u2018AND\u2019 condition\n\n\n\n\nVersion 2.1.1 (23/12/2014)\n\n\n\n\nUpdate support Facebook link\n\n\n\n\nVersion 2.1.0 (20/10/2014)\n\n\n\n\nOC 2 compatibility\n\n\n\n\nVersion 2.0.0 (02/09/2014)\n\n\n\n\nBetter character escaping\n\n\nConditions joining\n\n\nWords exclusion\n\n\nBetter search matching\n\n\n\n\nVersion 1.0.1 (24/05/2014)\n\n\n\n\nMinor bug fixes\n\n\n\n\nVersion 1.0 (16/05/2014)\n\n\n\n\nModule created.", 
+            "title": "Related Pro"
+        }, 
+        {
+            "location": "/related_pro/#related-pro", 
+            "text": "Current Version: 3.0.0  Last Updated: 11 July 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "Related Pro"
+        }, 
+        {
+            "location": "/related_pro/#description", 
+            "text": "Related Pro allows you to customise your related products easily. It allows the system to fetch similarly named products, products in the same categories, and even products you had manually set as related products as the related products at the product\u2019s page. Randomise your related products, limit them, or even remove the default OpenCart\u2019s related products section easily with this module.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/related_pro/#features", 
+            "text": "Fetch related products from similar named products  Fetch related products from similar category  Randomise related products  Remove OpenCart\u2019s related products section (configurable)  Limit related products  Add related products module to product page  Display module in tab (OpenCart 2, 3   Cloud)", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/related_pro/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/related_pro/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Related Pro . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/related_pro/#opencart-2-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Related Pro . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 2 &amp; 3"
+        }, 
+        {
+            "location": "/related_pro/#opencart-15", 
+            "text": "Unzip the files.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Related Pro . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 1.5"
+        }, 
+        {
+            "location": "/related_pro/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/related_pro/#opencart-2-3-cloud", 
+            "text": "Adding Module to Layout  Once you have installed and enabled the extension, you can add the extension to your  product page  layout through the OpenCart's layout management page.", 
+            "title": "OpenCart 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/related_pro/#opencart-15_1", 
+            "text": "Adding Module to Layout  Once you have installed the extension, you can add the extension to your  product page  layout through the Related Pro module settings page itself.", 
+            "title": "OpenCart 1.5"
+        }, 
+        {
+            "location": "/related_pro/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/related_pro/#version-300-11072017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Fixed minor bugs and improvements  Ceased support for OpenCart 1.5", 
+            "title": "Version 3.0.0 (11/07/2017)"
+        }, 
+        {
+            "location": "/related_pro/#version-223-12072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Version 2.2.3 (12/07/2016)"
+        }, 
+        {
+            "location": "/related_pro/#version-222-07032016", 
+            "text": "Fixed compatibility with OpenCart 2.2.0.0", 
+            "title": "Version 2.2.2 (07/03/2016)"
+        }, 
+        {
+            "location": "/related_pro/#version-221-19062015", 
+            "text": "Critical bug fix for OC 2 wrong require_once file", 
+            "title": "Version 2.2.1 (19/06/2015)"
+        }, 
+        {
+            "location": "/related_pro/#version-220-17062015", 
+            "text": "Minor admin aesthetic improvements", 
+            "title": "Version 2.2.0 (17/06/2015)"
+        }, 
+        {
+            "location": "/related_pro/#version-214-23042015", 
+            "text": "OC 2.0.2.0 mail support compatibility fix", 
+            "title": "Version 2.1.4 (23/04/2015)"
+        }, 
+        {
+            "location": "/related_pro/#version-213-26032015", 
+            "text": "Minor bug fix for products with no category", 
+            "title": "Version 2.1.3 (26/03/2015)"
+        }, 
+        {
+            "location": "/related_pro/#version-212-03022015", 
+            "text": "Bug fixes for \u2018AND\u2019 condition", 
+            "title": "Version 2.1.2 (03/02/2015)"
+        }, 
+        {
+            "location": "/related_pro/#version-211-23122014", 
+            "text": "Update support Facebook link", 
+            "title": "Version 2.1.1 (23/12/2014)"
+        }, 
+        {
+            "location": "/related_pro/#version-210-20102014", 
+            "text": "OC 2 compatibility", 
+            "title": "Version 2.1.0 (20/10/2014)"
+        }, 
+        {
+            "location": "/related_pro/#version-200-02092014", 
+            "text": "Better character escaping  Conditions joining  Words exclusion  Better search matching", 
+            "title": "Version 2.0.0 (02/09/2014)"
+        }, 
+        {
+            "location": "/related_pro/#version-101-24052014", 
+            "text": "Minor bug fixes", 
+            "title": "Version 1.0.1 (24/05/2014)"
+        }, 
+        {
+            "location": "/related_pro/#version-10-16052014", 
+            "text": "Module created.", 
+            "title": "Version 1.0 (16/05/2014)"
+        }, 
+        {
+            "location": "/send_from_china/", 
+            "text": "Send From China\n\n\n\n\nCurrent Version: 3.0.0\n\n\nLast Updated: 11 July 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nThis extension integrates Send From China (http://www.sendfromchina.com/) mailing services with your website. Give your customers an estimated shipping fee based on the services and the location right away.\n\n\nThis extension will work as long as Send From China supports your country as the mailing origin and it covers all locations that Send From China supports. Contact their sales representative for up to date information. (Send From China only returns currency value in Chinese Yuan [CNY].)\n\n\nDo note that warehouse and dropshipping is not supported with this API at the moment. Only retreiving of shipping rates is supported.\n\n\nFeatures\n\n\n\n\nRates are always up to date and live from Send From China\n\n\nYou select which services to offer\n\n\nOption to display delivery time\n\n\nOption to display delivery class\n\n\nOption to display delivery weight\n\n\nSupports tax class\n\n\nSupports geo zones\n\n\nUses Send From China API Integration\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nShipping\n. Then, install \nSend From China\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 2 \n 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nShipping\n. Then, install \nSend From China\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5\n\n\n\n\nUnzip the files.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Shipping\n. Then, install \nSend From China\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\n\n\n\n\nWeight Class\n\n\nSend From China only accepts Kilogram as the weight class. Please select that for the configuration.\n\n\n\n\n\n\nCNY Currency\n\n\nSend From China returns currency value in Chinese Yuan (CNY). Please ensure you have added the currency into your store in \nSystem \n Localisation \n Currencies\n with the currency code \nCNY\n. You may leave the currency disabled if you do not want to use it at the store front.\n\n\n\n\n\n\nSOAP and API Details\n\n\nPlease ensure that your server has SOAP installed to use Send From China API. You will need an account with Send From China if you wish to enter the API details into the configurations.\n\n\n\n\n\n\nChange Log\n\n\nVersion 3.0.0 (11/07/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nFixed minor bugs and improvements\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 2.2.4 (25/04/2017)\n\n\n\n\nFixed issue with incorrect price display\n\n\nFixed issue with licensing system (OpenCart 2.3)\n\n\n\n\nVersion 2.2.3 (12/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 2.2.2 (10/03/2016)\n\n\n\n\nFixed wrong path\n\n\n\n\nVersion 2.2.1 (07/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\n\n\nVersion 2.2.0 (19/06/2015)\n\n\n\n\nImproved administration interface\n\n\n\n\nVersion 2.1.3 (23/04/2015)\n\n\n\n\nFixed mail compatibility with OpenCart 2.0.2.0\n\n\n\n\nVersion 2.1.2 (03/02/2015)\n\n\n\n\nFixed issue to improve support for smaller weights\n\n\n\n\nVersion 2.1.1 (23/12/2014)\n\n\n\n\nUpdate support Facebook link\n\n\n\n\nVersion 2.1.0 (20/10/2014)\n\n\n\n\nOC 2 compatibility\n\n\n\n\nVersion 2.0.0 (05/04/2013)\n\n\n\n\nEnable version 2.0 of Send From China API using SOAP\n\n\nAllow selection between SOAP and XML version\n\n\n\n\nVersion 1.0 (03/04/2013)\n\n\n\n\nShipping module created", 
+            "title": "Send From China"
+        }, 
+        {
+            "location": "/send_from_china/#send-from-china", 
+            "text": "Current Version: 3.0.0  Last Updated: 11 July 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "Send From China"
+        }, 
+        {
+            "location": "/send_from_china/#description", 
+            "text": "This extension integrates Send From China (http://www.sendfromchina.com/) mailing services with your website. Give your customers an estimated shipping fee based on the services and the location right away.  This extension will work as long as Send From China supports your country as the mailing origin and it covers all locations that Send From China supports. Contact their sales representative for up to date information. (Send From China only returns currency value in Chinese Yuan [CNY].)  Do note that warehouse and dropshipping is not supported with this API at the moment. Only retreiving of shipping rates is supported.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/send_from_china/#features", 
+            "text": "Rates are always up to date and live from Send From China  You select which services to offer  Option to display delivery time  Option to display delivery class  Option to display delivery weight  Supports tax class  Supports geo zones  Uses Send From China API Integration", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/send_from_china/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/send_from_china/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Shipping . Then, install  Send From China . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/send_from_china/#opencart-2-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Shipping . Then, install  Send From China . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 2 &amp; 3"
+        }, 
+        {
+            "location": "/send_from_china/#opencart-15", 
+            "text": "Unzip the files.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Shipping . Then, install  Send From China . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 1.5"
+        }, 
+        {
+            "location": "/send_from_china/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/send_from_china/#opencart-15-2-3-cloud", 
+            "text": "Weight Class  Send From China only accepts Kilogram as the weight class. Please select that for the configuration.    CNY Currency  Send From China returns currency value in Chinese Yuan (CNY). Please ensure you have added the currency into your store in  System   Localisation   Currencies  with the currency code  CNY . You may leave the currency disabled if you do not want to use it at the store front.    SOAP and API Details  Please ensure that your server has SOAP installed to use Send From China API. You will need an account with Send From China if you wish to enter the API details into the configurations.", 
+            "title": "OpenCart 1.5, 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/send_from_china/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/send_from_china/#version-300-11072017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Fixed minor bugs and improvements  Ceased support for OpenCart 1.5", 
+            "title": "Version 3.0.0 (11/07/2017)"
+        }, 
+        {
+            "location": "/send_from_china/#version-224-25042017", 
+            "text": "Fixed issue with incorrect price display  Fixed issue with licensing system (OpenCart 2.3)", 
+            "title": "Version 2.2.4 (25/04/2017)"
+        }, 
+        {
+            "location": "/send_from_china/#version-223-12072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Version 2.2.3 (12/07/2016)"
+        }, 
+        {
+            "location": "/send_from_china/#version-222-10032016", 
+            "text": "Fixed wrong path", 
+            "title": "Version 2.2.2 (10/03/2016)"
+        }, 
+        {
+            "location": "/send_from_china/#version-221-07032016", 
+            "text": "Fixed compatibility with OpenCart 2.2.0.0", 
+            "title": "Version 2.2.1 (07/03/2016)"
+        }, 
+        {
+            "location": "/send_from_china/#version-220-19062015", 
+            "text": "Improved administration interface", 
+            "title": "Version 2.2.0 (19/06/2015)"
+        }, 
+        {
+            "location": "/send_from_china/#version-213-23042015", 
+            "text": "Fixed mail compatibility with OpenCart 2.0.2.0", 
+            "title": "Version 2.1.3 (23/04/2015)"
+        }, 
+        {
+            "location": "/send_from_china/#version-212-03022015", 
+            "text": "Fixed issue to improve support for smaller weights", 
+            "title": "Version 2.1.2 (03/02/2015)"
+        }, 
+        {
+            "location": "/send_from_china/#version-211-23122014", 
+            "text": "Update support Facebook link", 
+            "title": "Version 2.1.1 (23/12/2014)"
+        }, 
+        {
+            "location": "/send_from_china/#version-210-20102014", 
+            "text": "OC 2 compatibility", 
+            "title": "Version 2.1.0 (20/10/2014)"
+        }, 
+        {
+            "location": "/send_from_china/#version-200-05042013", 
+            "text": "Enable version 2.0 of Send From China API using SOAP  Allow selection between SOAP and XML version", 
+            "title": "Version 2.0.0 (05/04/2013)"
+        }, 
+        {
+            "location": "/send_from_china/#version-10-03042013", 
+            "text": "Shipping module created", 
+            "title": "Version 1.0 (03/04/2013)"
+        }, 
+        {
+            "location": "/seo_pack/", 
+            "text": "SEO Pack\n\n\n\n\nCurrent Version: 3.0.0\n\n\nLast Updated: 12 July 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nSEO pack changes your ugly URLs into nice URLs, and also provide you with an auto SEO keyword generator. Additional features such as generating related products can be done with this mod.\n\n\nExamples:\n\n\n\n\nRemoves index.php?route=common/home\n\n\nChanges website.com/index.php?route=information/contact to short and sweet website.com/information/contact\n\n\nChange all URLs site wide to be SEO friendly (All website.com/index.php?route=xxx/yyy becomes website.com/xxx/yyy)\n\n\n\n\nFeatures\n\n\n\n\nSEO friendly URL site wide, including common/home and other pages\n\n\nIntelligent SEO keyword generator\n\n\nIntelligent related products generator (generated based off products in same categories)\n\n\nOne click clear all products SEO keyword\n\n\nOne click generate all products SEO keyword\n\n\nOne click clear all categories SEO keyword\n\n\nOne click generate all categories SEO keyword\n\n\nOne click clear all information SEO keyword\n\n\nOne click generate all information SEO keyword\n\n\nOne click clear all manufacturer SEO keyword\n\n\nOne click generate all manufacturer SEO keyword\n\n\nAllow randomizing related products\n\n\nAllow limiting of related products\n\n\nManage site wide SEO keywords in one place\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nSEO Pack\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nSEO Pack\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nSEO Pack\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\n\n\n\n\nAuto Generating SEO Keyword\n\n\nLeave your SEO keyword field empty for the system to automatically generate the SEO keyword.\n\n\n\n\n\n\nMass Generating / Clearing SEO Keywords\n\n\nYou can mass generate / clear SEO keywords through the buttons available in our extension's settings.\n\n\n\n\n\n\nChange Log\n\n\nVersion 3.0.0 (12/07/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nFixed minor bugs and improvements\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 2.3.4 (02/11/2016)\n\n\n\n\nImproved special characters handling\n\n\nImproved multiple hyphens handling\n\n\n\n\nVersion 2.3.3 (10/10/2016)\n\n\n\n\nImproved special characters handling\n\n\n\n\nVersion 2.3.2 (12/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 2.3.1 (08/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\n\n\nVersion 2.3.0 (15/05/2015)\n\n\n\n\nMinor admin aesthetic improvements\n\n\n\n\nVersion 2.2.3 (23/04/2015)\n\n\n\n\nOC 2.0.2.0 mail support compatibility fix\n\n\n\n\nVersion 2.2.2 (06/02/2015)\n\n\n\n\nCatch unrecognised SEO URLs error\n\n\n\n\nVersion 2.2.1 (23/12/2014)\n\n\n\n\nUpdate support Facebook link\n\n\n\n\nVersion 2.2.0 (20/10/2014)\n\n\n\n\nOC 2 compatibility\n\n\n\n\nVersion 2.1.0 (27/07/2013)\n\n\n\n\nRemoval of Page Cache feature\n\n\n\n\nVersion 2.0.0 (04/05/2013)\n\n\n\n\nBug fixes\n\n\nWorkload reduce for generating related products\n\n\nSupport desk\n\n\nPagination for all SEO keywords\n\n\nImproved queries", 
+            "title": "SEO Pack"
+        }, 
+        {
+            "location": "/seo_pack/#seo-pack", 
+            "text": "Current Version: 3.0.0  Last Updated: 12 July 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "SEO Pack"
+        }, 
+        {
+            "location": "/seo_pack/#description", 
+            "text": "SEO pack changes your ugly URLs into nice URLs, and also provide you with an auto SEO keyword generator. Additional features such as generating related products can be done with this mod.  Examples:   Removes index.php?route=common/home  Changes website.com/index.php?route=information/contact to short and sweet website.com/information/contact  Change all URLs site wide to be SEO friendly (All website.com/index.php?route=xxx/yyy becomes website.com/xxx/yyy)", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/seo_pack/#features", 
+            "text": "SEO friendly URL site wide, including common/home and other pages  Intelligent SEO keyword generator  Intelligent related products generator (generated based off products in same categories)  One click clear all products SEO keyword  One click generate all products SEO keyword  One click clear all categories SEO keyword  One click generate all categories SEO keyword  One click clear all information SEO keyword  One click generate all information SEO keyword  One click clear all manufacturer SEO keyword  One click generate all manufacturer SEO keyword  Allow randomizing related products  Allow limiting of related products  Manage site wide SEO keywords in one place", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/seo_pack/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/seo_pack/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  SEO Pack . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/seo_pack/#opencart-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  SEO Pack . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 3"
+        }, 
+        {
+            "location": "/seo_pack/#opencart-15-2", 
+            "text": "Unzip the files.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  SEO Pack . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 1.5 &amp; 2"
+        }, 
+        {
+            "location": "/seo_pack/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/seo_pack/#opencart-15-2-3-cloud", 
+            "text": "Auto Generating SEO Keyword  Leave your SEO keyword field empty for the system to automatically generate the SEO keyword.    Mass Generating / Clearing SEO Keywords  You can mass generate / clear SEO keywords through the buttons available in our extension's settings.", 
+            "title": "OpenCart 1.5, 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/seo_pack/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/seo_pack/#version-300-12072017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Fixed minor bugs and improvements  Ceased support for OpenCart 1.5", 
+            "title": "Version 3.0.0 (12/07/2017)"
+        }, 
+        {
+            "location": "/seo_pack/#version-234-02112016", 
+            "text": "Improved special characters handling  Improved multiple hyphens handling", 
+            "title": "Version 2.3.4 (02/11/2016)"
+        }, 
+        {
+            "location": "/seo_pack/#version-233-10102016", 
+            "text": "Improved special characters handling", 
+            "title": "Version 2.3.3 (10/10/2016)"
+        }, 
+        {
+            "location": "/seo_pack/#version-232-12072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Version 2.3.2 (12/07/2016)"
+        }, 
+        {
+            "location": "/seo_pack/#version-231-08032016", 
+            "text": "Fixed compatibility with OpenCart 2.2.0.0", 
+            "title": "Version 2.3.1 (08/03/2016)"
+        }, 
+        {
+            "location": "/seo_pack/#version-230-15052015", 
+            "text": "Minor admin aesthetic improvements", 
+            "title": "Version 2.3.0 (15/05/2015)"
+        }, 
+        {
+            "location": "/seo_pack/#version-223-23042015", 
+            "text": "OC 2.0.2.0 mail support compatibility fix", 
+            "title": "Version 2.2.3 (23/04/2015)"
+        }, 
+        {
+            "location": "/seo_pack/#version-222-06022015", 
+            "text": "Catch unrecognised SEO URLs error", 
+            "title": "Version 2.2.2 (06/02/2015)"
+        }, 
+        {
+            "location": "/seo_pack/#version-221-23122014", 
+            "text": "Update support Facebook link", 
+            "title": "Version 2.2.1 (23/12/2014)"
+        }, 
+        {
+            "location": "/seo_pack/#version-220-20102014", 
+            "text": "OC 2 compatibility", 
+            "title": "Version 2.2.0 (20/10/2014)"
+        }, 
+        {
+            "location": "/seo_pack/#version-210-27072013", 
+            "text": "Removal of Page Cache feature", 
+            "title": "Version 2.1.0 (27/07/2013)"
+        }, 
+        {
+            "location": "/seo_pack/#version-200-04052013", 
+            "text": "Bug fixes  Workload reduce for generating related products  Support desk  Pagination for all SEO keywords  Improved queries", 
+            "title": "Version 2.0.0 (04/05/2013)"
+        }, 
+        {
+            "location": "/serial_key_extension/", 
+            "text": "Serial Key Extension\n\n\n\n\nCurrent Version: 5.0.0\n\n\nLast Updated: 12 July 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nSerial Key extension allows you to sell serial keys or any other downloadable products to your customers. This extension will ensure each customer gets their unique download files. Best use for serial keys download, accounts selling, or any other stores that needs to give each customer a unique download file different from each other.\n\n\nFeatures\n\n\n\n\nLow downloads (serial keys) email notification\n\n\nOut of downloads (serial keys) email notification\n\n\nEmail notification if customer had purchased and there isn\u2019t any unique download (serial key) available for him at the moment.\n\n\nMultiple uploads supported\n\n\nDrag and drop upload supported \n\n\nMass keys upload available using textarea function\n\n\nFiles uploaded are encrypted for security\n\n\nConfigure which order status to release the download to customers\n\n\nConfigure which order status to revoke download from customers\n\n\nCan be used with any themes\n\n\nUnlimited downloads (serial keys) can be added to each product\n\n\nEnsure each download is unique to each customer\n\n\nImage, txt, pdf, zip file upload supported\n\n\nOptional function to attach downloads (serial keys) to order confirmation email\n\n\nOptional function to return keys back to unused state for deleted orders\n\n\nOptional function to assign product options with a download group\n\n\nPre order function\n\n\nCommon file function to allow upload of shared common file\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nDownloads (Serial Key)\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nDownloads (Serial Key)\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nDownloads (Serial Key)\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\n\n\n\n\nBasic Configurations\n\n\nConfigure the extension settings in the extension's page. Basic configurations such as the download parts release status, and the email notification settings can be done here.\n\n\n\n\n\n\nCreating Download Groups\n\n\nCreate a pool for your serial keys to be placed into. You can do so from the menu \nCatalog \n Downloads \n Download Groups\n.\n\n\n\n\n\n\n\n\nAdding Keys to Group\n\n\nAdd serial keys to the newly created download groups. You can do so from the menu \nCatalog \n Downloads \n Download Parts\n.\n\n\n\n\n\n\n\n\nLinking Download Group to Product\n\n\nLink your download group to a product. You can do so in \nCatalog \n Products \n Edit Product \n Links\n tab. Once the download group has been linked to the product, any customer that purchases this product will receive a single download part from the linked group. The system will look into the assigned download group, and issue an unused download part to the customer.\n\n\n\n\n\n\n\n\nCommon File Feature\n\n\nIf you wish to issue a common file to all customers (i.e. the same file for all customers), you can select the \"Common File\" option. Customers that purchases a product with the common file option enabled will get the download file that was uploaded into the download group.\n\n\n\n\n\n\n\n\nPre-Order Feature\n\n\nIf you are selling a pre-order product, and does not want the out of stock notification email to be sent, you can enable the option \"Pre-Order Group\" in the download group page.\n\n\n\n\n\n\nOrders with Unassigned Download Parts\n\n\nYou can find a the list of orders with unassigned download parts in \nSales \n Orders \n Downloads\n. Orders are showing up here because you ran out of unused keys in the group. You will need to add more keys to the download group before you update the order status of the order using the Add Order History feature in OpenCart.\n\n\n\n\n\n\nText Area Upload\n\n\nThe text area upload function gives you the ability to mass upload serial keys if they are stored in an Excel or CSV file. All you need to do is to enter a key each line, and the system will add it into the download group for you.\n\n\n\n\n\n\n\n\nFile Uploader\n\n\nYou can mass upload files using the file uploader available.\n\n\n\n\n\n\n\n\nChange Log\n\n\nVersion 5.0.0 (12/07/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nFixed minor bugs and improvements\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 4.1.4 (11/01/2017)\n\n\n\n\nFixed OC 2.3 file upload issue\n\n\nFixed data that are not validated before sending across \n\n\n\n\nVersion 4.1.3 (26/09/2016)\n\n\n\n\nFixed missing update button for OpenCart 2 release\n\n\n\n\nVersion 4.1.2 (12/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 4.1.1 (07/04/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\n\n\nVersion 4.1.0 (08/03/2016)\n\n\n\n\nMinor admin aesthetic improvements\n\n\n\n\nVersion 3.4.0 (14/05/2015)\n\n\n\n\nMinor admin aesthetic improvements\n\n\n\n\nVersion 4.0.3 (22/04/2015)\n\n\n\n\nMinor bug fixes for out of stock download page(OC 2)\n\n\n\n\nVersion 4.0.2 (21/01/2015)\n\n\n\n\nBug fixes (OC 2)\n\n\n\n\nVersion 4.0.1 (23/12/2014)\n\n\n\n\nUpdate support Facebook link\n\n\nMinor bug fixes\n\n\n\n\nVersion 4.0.0 (24/10/2014)\n\n\n\n\nOC 2 compatibility\n\n\nCommon file feature to share common files\n\n\nUpdated uploader\n\n\n\n\nVersion 3.3.0 (24/10/2014)\n\n\n\n\nPreorder status\n\n\n\n\nVersion 3.2.2 (20/08/2014)\n\n\n\n\nBug fixes\n\n\n\n\nVersion 3.2.1 (27/06/2014)\n\n\n\n\nBug fixes\n\n\n\n\nVersion 3.2.0 (23/02/2014)\n\n\n\n\nPreorder function\n\n\nTurn off email notification\n\n\nDownload keys folder moved\n\n\nBug fixes\n\n\n\n\nVersion 3.1.0 (29/09/2013)\n\n\n\n\nAllow options to be able to be assigned with download group\n\n\nUpdate admin upload script\n\n\n\n\nVersion 3.0.0 (11/08/2013)\n\n\n\n\nAttachments in order status update email\n\n\nCancel return key back to unused state\n\n\nUploader ### Version update\n\n\nChunking to support large files upload\n\n\nBug fixes\n\n\n\n\nVersion 2.3.0 (31/05/2013)\n\n\n\n\nAttachments in order confirmation email\n\n\nDeleted orders returns key back to unused state\n\n\nMinor fixes\n\n\nBuilt in support system\n\n\n\n\nVersion 2.2.0 (22/04/2013)\n\n\n\n\nAble to download back the files you uploaded\n\n\nImages size fixed\n\n\n\n\nVersion 2.1.0 (17/04/2013)\n\n\n\n\nImproved encryption\n\n\n\n\nVersion 2.0.0 (15/04/2013)\n\n\n\n\nMajor improvements\n\n\nSecurity enhancements\n\n\nNew textarea feature\n\n\nEncryption for uploaded files\n\n\nAllow control of status to release download\n\n\nBug fixes\n\n\n\n\nVersion 1.2.0 (17/01/2013)\n\n\n\n\nQuantity bug fix\n\n\n\n\nVersion 1.1.0 (09/01/2013)\n\n\n\n\nOpenCart v1.5.5 compatibility", 
+            "title": "Serial Key Extension"
+        }, 
+        {
+            "location": "/serial_key_extension/#serial-key-extension", 
+            "text": "Current Version: 5.0.0  Last Updated: 12 July 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "Serial Key Extension"
+        }, 
+        {
+            "location": "/serial_key_extension/#description", 
+            "text": "Serial Key extension allows you to sell serial keys or any other downloadable products to your customers. This extension will ensure each customer gets their unique download files. Best use for serial keys download, accounts selling, or any other stores that needs to give each customer a unique download file different from each other.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/serial_key_extension/#features", 
+            "text": "Low downloads (serial keys) email notification  Out of downloads (serial keys) email notification  Email notification if customer had purchased and there isn\u2019t any unique download (serial key) available for him at the moment.  Multiple uploads supported  Drag and drop upload supported   Mass keys upload available using textarea function  Files uploaded are encrypted for security  Configure which order status to release the download to customers  Configure which order status to revoke download from customers  Can be used with any themes  Unlimited downloads (serial keys) can be added to each product  Ensure each download is unique to each customer  Image, txt, pdf, zip file upload supported  Optional function to attach downloads (serial keys) to order confirmation email  Optional function to return keys back to unused state for deleted orders  Optional function to assign product options with a download group  Pre order function  Common file function to allow upload of shared common file", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/serial_key_extension/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/serial_key_extension/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Downloads (Serial Key) . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/serial_key_extension/#opencart-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Downloads (Serial Key) . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 3"
+        }, 
+        {
+            "location": "/serial_key_extension/#opencart-15-2", 
+            "text": "Unzip the files.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Downloads (Serial Key) . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 1.5 &amp; 2"
+        }, 
+        {
+            "location": "/serial_key_extension/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/serial_key_extension/#opencart-15-2-3-cloud", 
+            "text": "Basic Configurations  Configure the extension settings in the extension's page. Basic configurations such as the download parts release status, and the email notification settings can be done here.    Creating Download Groups  Create a pool for your serial keys to be placed into. You can do so from the menu  Catalog   Downloads   Download Groups .     Adding Keys to Group  Add serial keys to the newly created download groups. You can do so from the menu  Catalog   Downloads   Download Parts .     Linking Download Group to Product  Link your download group to a product. You can do so in  Catalog   Products   Edit Product   Links  tab. Once the download group has been linked to the product, any customer that purchases this product will receive a single download part from the linked group. The system will look into the assigned download group, and issue an unused download part to the customer.     Common File Feature  If you wish to issue a common file to all customers (i.e. the same file for all customers), you can select the \"Common File\" option. Customers that purchases a product with the common file option enabled will get the download file that was uploaded into the download group.     Pre-Order Feature  If you are selling a pre-order product, and does not want the out of stock notification email to be sent, you can enable the option \"Pre-Order Group\" in the download group page.    Orders with Unassigned Download Parts  You can find a the list of orders with unassigned download parts in  Sales   Orders   Downloads . Orders are showing up here because you ran out of unused keys in the group. You will need to add more keys to the download group before you update the order status of the order using the Add Order History feature in OpenCart.    Text Area Upload  The text area upload function gives you the ability to mass upload serial keys if they are stored in an Excel or CSV file. All you need to do is to enter a key each line, and the system will add it into the download group for you.     File Uploader  You can mass upload files using the file uploader available.", 
+            "title": "OpenCart 1.5, 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/serial_key_extension/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/serial_key_extension/#version-500-12072017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Fixed minor bugs and improvements  Ceased support for OpenCart 1.5", 
+            "title": "Version 5.0.0 (12/07/2017)"
+        }, 
+        {
+            "location": "/serial_key_extension/#version-414-11012017", 
+            "text": "Fixed OC 2.3 file upload issue  Fixed data that are not validated before sending across", 
+            "title": "Version 4.1.4 (11/01/2017)"
+        }, 
+        {
+            "location": "/serial_key_extension/#version-413-26092016", 
+            "text": "Fixed missing update button for OpenCart 2 release", 
+            "title": "Version 4.1.3 (26/09/2016)"
+        }, 
+        {
+            "location": "/serial_key_extension/#version-412-12072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Version 4.1.2 (12/07/2016)"
+        }, 
+        {
+            "location": "/serial_key_extension/#version-411-07042016", 
+            "text": "Fixed compatibility with OpenCart 2.2.0.0", 
+            "title": "Version 4.1.1 (07/04/2016)"
+        }, 
+        {
+            "location": "/serial_key_extension/#version-410-08032016", 
+            "text": "Minor admin aesthetic improvements", 
+            "title": "Version 4.1.0 (08/03/2016)"
+        }, 
+        {
+            "location": "/serial_key_extension/#version-340-14052015", 
+            "text": "Minor admin aesthetic improvements", 
+            "title": "Version 3.4.0 (14/05/2015)"
+        }, 
+        {
+            "location": "/serial_key_extension/#version-403-22042015", 
+            "text": "Minor bug fixes for out of stock download page(OC 2)", 
+            "title": "Version 4.0.3 (22/04/2015)"
+        }, 
+        {
+            "location": "/serial_key_extension/#version-402-21012015", 
+            "text": "Bug fixes (OC 2)", 
+            "title": "Version 4.0.2 (21/01/2015)"
+        }, 
+        {
+            "location": "/serial_key_extension/#version-401-23122014", 
+            "text": "Update support Facebook link  Minor bug fixes", 
+            "title": "Version 4.0.1 (23/12/2014)"
+        }, 
+        {
+            "location": "/serial_key_extension/#version-400-24102014", 
+            "text": "OC 2 compatibility  Common file feature to share common files  Updated uploader", 
+            "title": "Version 4.0.0 (24/10/2014)"
+        }, 
+        {
+            "location": "/serial_key_extension/#version-330-24102014", 
+            "text": "Preorder status", 
+            "title": "Version 3.3.0 (24/10/2014)"
+        }, 
+        {
+            "location": "/serial_key_extension/#version-322-20082014", 
+            "text": "Bug fixes", 
+            "title": "Version 3.2.2 (20/08/2014)"
+        }, 
+        {
+            "location": "/serial_key_extension/#version-321-27062014", 
+            "text": "Bug fixes", 
+            "title": "Version 3.2.1 (27/06/2014)"
+        }, 
+        {
+            "location": "/serial_key_extension/#version-320-23022014", 
+            "text": "Preorder function  Turn off email notification  Download keys folder moved  Bug fixes", 
+            "title": "Version 3.2.0 (23/02/2014)"
+        }, 
+        {
+            "location": "/serial_key_extension/#version-310-29092013", 
+            "text": "Allow options to be able to be assigned with download group  Update admin upload script", 
+            "title": "Version 3.1.0 (29/09/2013)"
+        }, 
+        {
+            "location": "/serial_key_extension/#version-300-11082013", 
+            "text": "Attachments in order status update email  Cancel return key back to unused state  Uploader ### Version update  Chunking to support large files upload  Bug fixes", 
+            "title": "Version 3.0.0 (11/08/2013)"
+        }, 
+        {
+            "location": "/serial_key_extension/#version-230-31052013", 
+            "text": "Attachments in order confirmation email  Deleted orders returns key back to unused state  Minor fixes  Built in support system", 
+            "title": "Version 2.3.0 (31/05/2013)"
+        }, 
+        {
+            "location": "/serial_key_extension/#version-220-22042013", 
+            "text": "Able to download back the files you uploaded  Images size fixed", 
+            "title": "Version 2.2.0 (22/04/2013)"
+        }, 
+        {
+            "location": "/serial_key_extension/#version-210-17042013", 
+            "text": "Improved encryption", 
+            "title": "Version 2.1.0 (17/04/2013)"
+        }, 
+        {
+            "location": "/serial_key_extension/#version-200-15042013", 
+            "text": "Major improvements  Security enhancements  New textarea feature  Encryption for uploaded files  Allow control of status to release download  Bug fixes", 
+            "title": "Version 2.0.0 (15/04/2013)"
+        }, 
+        {
+            "location": "/serial_key_extension/#version-120-17012013", 
+            "text": "Quantity bug fix", 
+            "title": "Version 1.2.0 (17/01/2013)"
+        }, 
+        {
+            "location": "/serial_key_extension/#version-110-09012013", 
+            "text": "OpenCart v1.5.5 compatibility", 
+            "title": "Version 1.1.0 (09/01/2013)"
+        }, 
+        {
             "location": "/shopping_cart/", 
             "text": "Shopping Cart\n\n\n\n\nCurrent Version: 4.0.0\n\n\nLast Updated: 13 July 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nShopping Cart is a simple module to display the customer\u2019s shopping cart anywhere on your website. You can place it at left, right, top, or even bottom of the page\u2019s layout in your OpenCart store. It also comes with animation when you add an item to cart.\n\n\nFeatures\n\n\n\n\nAuto update cart when an item is added\n\n\nAnimation when an item is added\n\n\nAnimation available even if cart is not displayed\n\n\nSimple styling to match your theme\n\n\nSmall cross beside each item for quick removal from cart\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nShopping Cart\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nGo to the layouts management page in your admin and add this module to the layout you wish to display on. \n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nShopping Cart\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nGo to the layouts management page in your admin and add this module to the layout you wish to display on.\n\n\n\n\nOpenCart 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nShopping Cart\n. Configure extension accordingly.\n\n\nGo to the layouts management page in your admin and add this module to the layout you wish to display on. \n\n\n\n\nOpenCart 1.5\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nShopping Cart\n. Configure extension accordingly.\n\n\nAdd this module to the layout you wish to display on right from the module settings page.\n\n\n\n\nConfigurations\n\n\nOpenCart 2, 3 \n Cloud\n\n\n\n\n\n\nAdding Module to Layout\n\n\nOnce you have installed and enabled the extension, you can add the extension to your layout through the OpenCart's layout management page.\n\n\n\n\n\n\n\n\nOpenCart 1.5\n\n\n\n\n\n\nAdding Module to Layout\n\n\nOnce you have installed the extension, you can add the extension to your layout through the Shopping Cart module settings page itself.\n\n\n\n\n\n\nChange Log\n\n\nVersion 4.0.0 (13/07/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nFixed minor bugs and improvements\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 3.3.5 (26/09/2016)\n\n\n\n\nFixed minor bugs\n\n\nAdded minor improvements\n\n\n\n\nVersion 3.3.4 (12/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 3.3.3 (08/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\n\n\nVersion 3.3.2 (24/02/2016)\n\n\n\n\nFixed compatibility issues with OC 2.1.0.0\n\n\n\n\nVersion 3.3.1 (20/05/2015)\n\n\n\n\nFixed minor permission issues\n\n\n\n\nVersion 3.3.0 (14/05/2015)\n\n\n\n\nMinor admin aesthetic improvements\n\n\n\n\nVersion 3.2.4 (23/04/2015)\n\n\n\n\nOC 2.0.2.0 mail support compatibility fix\n\n\n\n\nVersion 3.2.3 (02/04/2015)\n\n\n\n\nOC 2.0.2.0 compatibility\n\n\n\n\nVersion 3.2.2 (28/01/2015)\n\n\n\n\nOC 2 version bug fixes\n\n\n\n\nVersion 3.2.1 (23/12/2014)\n\n\n\n\nUpdated support Facebook link\n\n\n\n\nVersion 3.2.0 (10/10/2014)\n\n\n\n\nAdded OpenCart 2.0 compatibility\n\n\n\n\nVersion 3.1.0(25/06/2013)\n\n\n\n\nBug fixes for v1.5.2.1 to v1.5.5.1\n\n\n\n\nVersion 3.0.0 (07/05/2013)\n\n\n\n\nAnimation now on all pages\n\n\nMerged for all different versions of OpenCart\n\n\nSupport desk in admin panel", 
             "title": "Shopping Cart"
@@ -5869,6 +6394,806 @@
             "location": "/shopping_cart/#version-300-07052013", 
             "text": "Animation now on all pages  Merged for all different versions of OpenCart  Support desk in admin panel", 
             "title": "Version 3.0.0 (07/05/2013)"
+        }, 
+        {
+            "location": "/show_price_in_cart/", 
+            "text": "Show Price in Cart\n\n\n\n\nCurrent Version: 2.0.0\n\n\nLast Updated: 13 July 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nShow Price in Cart allows you to hide your product prices from the public, and only showing the price when the product has been added to the shopping cart. This will prevent your competitors from easily browsing and comparing prices with your store, and also prevent casual shoppers from comparing prices between multiple shops.\n\n\nFeatures\n\n\n\n\nHide prices from listing\n\n\nOnly display product price when item is added into shopping cart\n\n\nHide prices only for selected products\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nShow Price in Cart\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nShow Price in Cart\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nShow Price in Cart\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\n\n\n\n\nConfiguring Show Price in Cart\n\n\nShow price in cart can be enabled only for specific products. You can do so in \nCatalog \n Products \n Edit Product \n Data\n tab. Selecting the option will enable the feature for the specific product.\n\n\n\n\n\n\n\n\nChange Log\n\n\nVersion 2.0.0 (13/07/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 1.0.2 (12/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 1.0.1 (08/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\n\n\nVersion 1.0.0 (25/06/2015)\n\n\n\n\nExtension created", 
+            "title": "Show Price in Cart"
+        }, 
+        {
+            "location": "/show_price_in_cart/#show-price-in-cart", 
+            "text": "Current Version: 2.0.0  Last Updated: 13 July 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "Show Price in Cart"
+        }, 
+        {
+            "location": "/show_price_in_cart/#description", 
+            "text": "Show Price in Cart allows you to hide your product prices from the public, and only showing the price when the product has been added to the shopping cart. This will prevent your competitors from easily browsing and comparing prices with your store, and also prevent casual shoppers from comparing prices between multiple shops.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/show_price_in_cart/#features", 
+            "text": "Hide prices from listing  Only display product price when item is added into shopping cart  Hide prices only for selected products", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/show_price_in_cart/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/show_price_in_cart/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Show Price in Cart . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Please view configuration details below.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/show_price_in_cart/#opencart-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Show Price in Cart . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Please view configuration details below.", 
+            "title": "OpenCart 3"
+        }, 
+        {
+            "location": "/show_price_in_cart/#opencart-15-2", 
+            "text": "Unzip the files. Ensure that vQmod has been installed.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Show Price in Cart . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 1.5 &amp; 2"
+        }, 
+        {
+            "location": "/show_price_in_cart/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/show_price_in_cart/#opencart-15-2-3-cloud", 
+            "text": "Configuring Show Price in Cart  Show price in cart can be enabled only for specific products. You can do so in  Catalog   Products   Edit Product   Data  tab. Selecting the option will enable the feature for the specific product.", 
+            "title": "OpenCart 1.5, 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/show_price_in_cart/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/show_price_in_cart/#version-200-13072017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Minor improvements and updates  Ceased support for OpenCart 1.5", 
+            "title": "Version 2.0.0 (13/07/2017)"
+        }, 
+        {
+            "location": "/show_price_in_cart/#version-102-12072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Version 1.0.2 (12/07/2016)"
+        }, 
+        {
+            "location": "/show_price_in_cart/#version-101-08032016", 
+            "text": "Fixed compatibility with OpenCart 2.2.0.0", 
+            "title": "Version 1.0.1 (08/03/2016)"
+        }, 
+        {
+            "location": "/show_price_in_cart/#version-100-25062015", 
+            "text": "Extension created", 
+            "title": "Version 1.0.0 (25/06/2015)"
+        }, 
+        {
+            "location": "/side_contact_form/", 
+            "text": "Side Contact Form\n\n\n\n\nCurrent Version: 2.0.0\n\n\nLast Updated: 13 July 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nSide Contact Form is a simple extension that adds a side button to your website. On hover over the button, a quick contact form will slide out for the user to fill in. Using Ajax technology, the user never gets redirected away from the page even when he submits the form.\n\n\nFeatures\n\n\n\n\nDisplays a simple contact form\n\n\nSubmit the contact form without being redirected away\n\n\nAdmin panel for easy configuration of placment\n\n\nSlide out animation effect\n\n\nOptional captcha function (You can turn it on or off)\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nSide Contact Form\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 2 \n 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nSide Contact Form\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5\n\n\n\n\nUnzip the files.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nSide Contact Form\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 2, 3 \n Cloud\n\n\n\n\n\n\nAdding Module to Layout\n\n\nOnce you have installed and enabled the extension, you can add the extension to your layout through the OpenCart's layout management page.\n\n\n\n\n\n\n\n\nOpenCart 1.5\n\n\n\n\n\n\nAdding Module to Layout\n\n\nOnce you have installed the extension, you can add the extension to your layout through the Side Contact Form module settings page itself.\n\n\n\n\n\n\nChange Log\n\n\nVersion 2.0.0 (13/07/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nFixed minor bugs and improvements\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 1.5.2 (12/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 1.5.1 (01/04/2016)\n\n\n\n\nFixed missing files\n\n\n\n\nVersion 1.5.0 (10/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\n\n\nVersion 1.4.2 (23/04/2015)\n\n\n\n\nOC 2.0.2.0 mail support compatibility fix\n\n\n\n\nVersion 1.4.1 (23/12/2014)\n\n\n\n\nUpdate support Facebook link\n\n\n\n\nVersion 1.4.0 (20/10/2014)\n\n\n\n\nOC 2 compatibility\n\n\n\n\nVersion 1.3.0 (09/01/2013)\n\n\n\n\nOpenCart v1.5.5 compatibility", 
+            "title": "Side Contact Form"
+        }, 
+        {
+            "location": "/side_contact_form/#side-contact-form", 
+            "text": "Current Version: 2.0.0  Last Updated: 13 July 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "Side Contact Form"
+        }, 
+        {
+            "location": "/side_contact_form/#description", 
+            "text": "Side Contact Form is a simple extension that adds a side button to your website. On hover over the button, a quick contact form will slide out for the user to fill in. Using Ajax technology, the user never gets redirected away from the page even when he submits the form.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/side_contact_form/#features", 
+            "text": "Displays a simple contact form  Submit the contact form without being redirected away  Admin panel for easy configuration of placment  Slide out animation effect  Optional captcha function (You can turn it on or off)", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/side_contact_form/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/side_contact_form/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Side Contact Form . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/side_contact_form/#opencart-2-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Side Contact Form . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 2 &amp; 3"
+        }, 
+        {
+            "location": "/side_contact_form/#opencart-15", 
+            "text": "Unzip the files.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Side Contact Form . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 1.5"
+        }, 
+        {
+            "location": "/side_contact_form/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/side_contact_form/#opencart-2-3-cloud", 
+            "text": "Adding Module to Layout  Once you have installed and enabled the extension, you can add the extension to your layout through the OpenCart's layout management page.", 
+            "title": "OpenCart 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/side_contact_form/#opencart-15_1", 
+            "text": "Adding Module to Layout  Once you have installed the extension, you can add the extension to your layout through the Side Contact Form module settings page itself.", 
+            "title": "OpenCart 1.5"
+        }, 
+        {
+            "location": "/side_contact_form/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/side_contact_form/#version-200-13072017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Fixed minor bugs and improvements  Ceased support for OpenCart 1.5", 
+            "title": "Version 2.0.0 (13/07/2017)"
+        }, 
+        {
+            "location": "/side_contact_form/#version-152-12072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Version 1.5.2 (12/07/2016)"
+        }, 
+        {
+            "location": "/side_contact_form/#version-151-01042016", 
+            "text": "Fixed missing files", 
+            "title": "Version 1.5.1 (01/04/2016)"
+        }, 
+        {
+            "location": "/side_contact_form/#version-150-10032016", 
+            "text": "Fixed compatibility with OpenCart 2.2.0.0", 
+            "title": "Version 1.5.0 (10/03/2016)"
+        }, 
+        {
+            "location": "/side_contact_form/#version-142-23042015", 
+            "text": "OC 2.0.2.0 mail support compatibility fix", 
+            "title": "Version 1.4.2 (23/04/2015)"
+        }, 
+        {
+            "location": "/side_contact_form/#version-141-23122014", 
+            "text": "Update support Facebook link", 
+            "title": "Version 1.4.1 (23/12/2014)"
+        }, 
+        {
+            "location": "/side_contact_form/#version-140-20102014", 
+            "text": "OC 2 compatibility", 
+            "title": "Version 1.4.0 (20/10/2014)"
+        }, 
+        {
+            "location": "/side_contact_form/#version-130-09012013", 
+            "text": "OpenCart v1.5.5 compatibility", 
+            "title": "Version 1.3.0 (09/01/2013)"
+        }, 
+        {
+            "location": "/sidebar_menu/", 
+            "text": "Sidebar Menu\n\n\n\n\nCurrent Version: 3.0.0\n\n\nLast Updated: 13 July 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nSidebar Menu is similar to the default 'Category' Module. It allows you to have a drop down menu instead of the default listing for the sub-categories. Sidebar Menu comes with a standalone CCS file, which allows you to easily customise it to match your theme's design!\n\n\nFeatures\n\n\n\n\nMulti layers menu\n\n\nSupports up to 4 layers\n\n\nCustomisable CSS to match your theme\n\n\n100% CSS, works even in JavaScript disabled browser\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nSidebar Menu\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 2 \n 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nSidebar Menu\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5\n\n\n\n\nUnzip the files.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nSidebar Menu\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 2, 3 \n Cloud\n\n\n\n\n\n\nAdding Module to Layout\n\n\nOnce you have installed and enabled the extension, you can add the extension to your layout through the OpenCart's layout management page.\n\n\n\n\n\n\n\n\nOpenCart 1.5\n\n\n\n\n\n\nAdding Module to Layout\n\n\nOnce you have installed the extension, you can add the extension to your layout through the Sidebar Menu module settings page itself.\n\n\n\n\n\n\nChange Log\n\n\nVersion 3.0.0 (13/07/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nFixed minor bugs and improvements\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 2.3.2 (12/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 2.3.1 (01/04/2016)\n\n\n\n\nFixed minor bug\n\n\n\n\nVersion 2.3.0 (10/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\n\n\nVersion 2.2.2 (23/04/2015)\n\n\n\n\nOC 2.0.2.0 mail support compatibility fix\n\n\n\n\nVersion 2.2.1 (23/12/2014)\n\n\n\n\nUpdate support Facebook link\n\n\n\n\nVersion 2.2.0 (20/10/2014)\n\n\n\n\nFixed compatibility with OpenCart 2.0.0.0", 
+            "title": "Sidebar Menu"
+        }, 
+        {
+            "location": "/sidebar_menu/#sidebar-menu", 
+            "text": "Current Version: 3.0.0  Last Updated: 13 July 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "Sidebar Menu"
+        }, 
+        {
+            "location": "/sidebar_menu/#description", 
+            "text": "Sidebar Menu is similar to the default 'Category' Module. It allows you to have a drop down menu instead of the default listing for the sub-categories. Sidebar Menu comes with a standalone CCS file, which allows you to easily customise it to match your theme's design!", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/sidebar_menu/#features", 
+            "text": "Multi layers menu  Supports up to 4 layers  Customisable CSS to match your theme  100% CSS, works even in JavaScript disabled browser", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/sidebar_menu/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/sidebar_menu/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Sidebar Menu . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/sidebar_menu/#opencart-2-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Sidebar Menu . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 2 &amp; 3"
+        }, 
+        {
+            "location": "/sidebar_menu/#opencart-15", 
+            "text": "Unzip the files.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Sidebar Menu . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 1.5"
+        }, 
+        {
+            "location": "/sidebar_menu/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/sidebar_menu/#opencart-2-3-cloud", 
+            "text": "Adding Module to Layout  Once you have installed and enabled the extension, you can add the extension to your layout through the OpenCart's layout management page.", 
+            "title": "OpenCart 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/sidebar_menu/#opencart-15_1", 
+            "text": "Adding Module to Layout  Once you have installed the extension, you can add the extension to your layout through the Sidebar Menu module settings page itself.", 
+            "title": "OpenCart 1.5"
+        }, 
+        {
+            "location": "/sidebar_menu/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/sidebar_menu/#version-300-13072017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Fixed minor bugs and improvements  Ceased support for OpenCart 1.5", 
+            "title": "Version 3.0.0 (13/07/2017)"
+        }, 
+        {
+            "location": "/sidebar_menu/#version-232-12072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Version 2.3.2 (12/07/2016)"
+        }, 
+        {
+            "location": "/sidebar_menu/#version-231-01042016", 
+            "text": "Fixed minor bug", 
+            "title": "Version 2.3.1 (01/04/2016)"
+        }, 
+        {
+            "location": "/sidebar_menu/#version-230-10032016", 
+            "text": "Fixed compatibility with OpenCart 2.2.0.0", 
+            "title": "Version 2.3.0 (10/03/2016)"
+        }, 
+        {
+            "location": "/sidebar_menu/#version-222-23042015", 
+            "text": "OC 2.0.2.0 mail support compatibility fix", 
+            "title": "Version 2.2.2 (23/04/2015)"
+        }, 
+        {
+            "location": "/sidebar_menu/#version-221-23122014", 
+            "text": "Update support Facebook link", 
+            "title": "Version 2.2.1 (23/12/2014)"
+        }, 
+        {
+            "location": "/sidebar_menu/#version-220-20102014", 
+            "text": "Fixed compatibility with OpenCart 2.0.0.0", 
+            "title": "Version 2.2.0 (20/10/2014)"
+        }, 
+        {
+            "location": "/specials_countdown/", 
+            "text": "Specials Countdown\n\n\n\n\nCurrent Version: 3.0.0\n\n\nLast Updated: 13 July 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nSpecials Countdown allows you to display a countdown timer on the products that are on promotion, showing the time left before the offer ends.\n\n\nThe countdown timer comes in 3 colours, blue, white, or purple. Specials Countdown comes with an admin panel for you to easily manage the timer. Easily choose your preferred colour from the admin panel.\n\n\nFeatures\n\n\n\n\nAdmin panel for easy customisation\n\n\n3 colours to choose from\n\n\nCountdown time to special price ending date\n\n\nExtension can only be shown on the product page\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nSpecials Countdown\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 2 \n 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nSpecials Countdown\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5\n\n\n\n\nUnzip the files.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nSpecials Countdown\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 2, 3 \n Cloud\n\n\n\n\n\n\nAdding Module to Layout\n\n\nOnce you have installed and enabled the extension, you can add the extension to your \nproduct page\n layout through the OpenCart's layout management page.\n\n\n\n\n\n\n\n\nOpenCart 1.5\n\n\n\n\n\n\nAdding Module to Layout\n\n\nOnce you have installed the extension, you can add the extension to your \nproduct page\n layout through the Specials Countdown module settings page itself.\n\n\n\n\n\n\nChange Log\n\n\nVersion 3.0.0 (13/07/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nFixed minor bugs and improvements\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 2.3.1 (13/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 2.3.0 (11/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\nEnhanced administration interface\n\n\n\n\nVersion 2.2.2 (23/04/2015)\n\n\n\n\nOC 2.0.2.0 mail support compatibility fix\n\n\n\n\nVersion 2.2.1 (23/12/2014)\n\n\n\n\nUpdate support Facebook link\n\n\n\n\nVersion 2.2.0 (20/10/2014)\n\n\n\n\nOC 2 compatibility\n\n\n\n\nVersion 2.1.1 (20/01/2015)\n\n\n\n\nFixed minor group ID bug in model file (1.5)", 
+            "title": "Specials Countdown"
+        }, 
+        {
+            "location": "/specials_countdown/#specials-countdown", 
+            "text": "Current Version: 3.0.0  Last Updated: 13 July 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "Specials Countdown"
+        }, 
+        {
+            "location": "/specials_countdown/#description", 
+            "text": "Specials Countdown allows you to display a countdown timer on the products that are on promotion, showing the time left before the offer ends.  The countdown timer comes in 3 colours, blue, white, or purple. Specials Countdown comes with an admin panel for you to easily manage the timer. Easily choose your preferred colour from the admin panel.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/specials_countdown/#features", 
+            "text": "Admin panel for easy customisation  3 colours to choose from  Countdown time to special price ending date  Extension can only be shown on the product page", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/specials_countdown/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/specials_countdown/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Specials Countdown . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/specials_countdown/#opencart-2-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Specials Countdown . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 2 &amp; 3"
+        }, 
+        {
+            "location": "/specials_countdown/#opencart-15", 
+            "text": "Unzip the files.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Specials Countdown . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 1.5"
+        }, 
+        {
+            "location": "/specials_countdown/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/specials_countdown/#opencart-2-3-cloud", 
+            "text": "Adding Module to Layout  Once you have installed and enabled the extension, you can add the extension to your  product page  layout through the OpenCart's layout management page.", 
+            "title": "OpenCart 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/specials_countdown/#opencart-15_1", 
+            "text": "Adding Module to Layout  Once you have installed the extension, you can add the extension to your  product page  layout through the Specials Countdown module settings page itself.", 
+            "title": "OpenCart 1.5"
+        }, 
+        {
+            "location": "/specials_countdown/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/specials_countdown/#version-300-13072017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Fixed minor bugs and improvements  Ceased support for OpenCart 1.5", 
+            "title": "Version 3.0.0 (13/07/2017)"
+        }, 
+        {
+            "location": "/specials_countdown/#version-231-13072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Version 2.3.1 (13/07/2016)"
+        }, 
+        {
+            "location": "/specials_countdown/#version-230-11032016", 
+            "text": "Fixed compatibility with OpenCart 2.2.0.0  Enhanced administration interface", 
+            "title": "Version 2.3.0 (11/03/2016)"
+        }, 
+        {
+            "location": "/specials_countdown/#version-222-23042015", 
+            "text": "OC 2.0.2.0 mail support compatibility fix", 
+            "title": "Version 2.2.2 (23/04/2015)"
+        }, 
+        {
+            "location": "/specials_countdown/#version-221-23122014", 
+            "text": "Update support Facebook link", 
+            "title": "Version 2.2.1 (23/12/2014)"
+        }, 
+        {
+            "location": "/specials_countdown/#version-220-20102014", 
+            "text": "OC 2 compatibility", 
+            "title": "Version 2.2.0 (20/10/2014)"
+        }, 
+        {
+            "location": "/specials_countdown/#version-211-20012015", 
+            "text": "Fixed minor group ID bug in model file (1.5)", 
+            "title": "Version 2.1.1 (20/01/2015)"
+        }, 
+        {
+            "location": "/specials_timer/", 
+            "text": "Specials Timer\n\n\n\n\nCurrent Version: 2.0.0\n\n\nLast Updated: 13 July 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nSpecials Timer is a simple timer that countdowns to the end of your deals. You can place it anywhere on your website and attach a custom banner image to each of the products you wish to feature as a special deal.\n\n\nFeatures\n\n\n\n\nCountdown timer\n\n\nSelect a featured image for each product\n\n\nHover over to show more details\n\n\nNo flash, fully jQuery animation\n\n\nSupports Internet Explorer, Google Chrome, FireFox, Safari etc.\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nSpecials Timer\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 2 \n 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nSpecials Timer\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5\n\n\n\n\nUnzip the files.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nSpecials Timer\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 2, 3 \n Cloud\n\n\n\n\n\n\nAdding Module to Layout\n\n\nOnce you have installed and enabled the extension, you can add the extension to your layout through the OpenCart's layout management page.\n\n\n\n\n\n\n\n\nOpenCart 1.5\n\n\n\n\n\n\nAdding Module to Layout\n\n\nOnce you have installed the extension, you can add the extension to your layout through the Specials Timer module settings page itself.\n\n\n\n\n\n\nChange Log\n\n\nVersion 2.0.0 (13/07/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 1.4.2 (13/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 1.4.1 (08/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\n\n\nVersion 1.4.0 (17/06/2015)\n\n\n\n\nMerged OC 1.5 releases\n\n\nFix issue with missing remove button on OC 2\n\n\n\n\nVersion 1.3.2 (23/04/2015)\n\n\n\n\nOC 2.0.2.0 mail support compatibility fix\n\n\n\n\nVersion 1.3.1 (23/12/2014)\n\n\n\n\nUpdate support Facebook link\n\n\n\n\nVersion 1.3.0 (21/10/2014)\n\n\n\n\nOC 2 compatibility", 
+            "title": "Specials Timer"
+        }, 
+        {
+            "location": "/specials_timer/#specials-timer", 
+            "text": "Current Version: 2.0.0  Last Updated: 13 July 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "Specials Timer"
+        }, 
+        {
+            "location": "/specials_timer/#description", 
+            "text": "Specials Timer is a simple timer that countdowns to the end of your deals. You can place it anywhere on your website and attach a custom banner image to each of the products you wish to feature as a special deal.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/specials_timer/#features", 
+            "text": "Countdown timer  Select a featured image for each product  Hover over to show more details  No flash, fully jQuery animation  Supports Internet Explorer, Google Chrome, FireFox, Safari etc.", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/specials_timer/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/specials_timer/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Specials Timer . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/specials_timer/#opencart-2-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Specials Timer . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 2 &amp; 3"
+        }, 
+        {
+            "location": "/specials_timer/#opencart-15", 
+            "text": "Unzip the files.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Specials Timer . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 1.5"
+        }, 
+        {
+            "location": "/specials_timer/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/specials_timer/#opencart-2-3-cloud", 
+            "text": "Adding Module to Layout  Once you have installed and enabled the extension, you can add the extension to your layout through the OpenCart's layout management page.", 
+            "title": "OpenCart 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/specials_timer/#opencart-15_1", 
+            "text": "Adding Module to Layout  Once you have installed the extension, you can add the extension to your layout through the Specials Timer module settings page itself.", 
+            "title": "OpenCart 1.5"
+        }, 
+        {
+            "location": "/specials_timer/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/specials_timer/#version-200-13072017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Minor improvements and updates  Ceased support for OpenCart 1.5", 
+            "title": "Version 2.0.0 (13/07/2017)"
+        }, 
+        {
+            "location": "/specials_timer/#version-142-13072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Version 1.4.2 (13/07/2016)"
+        }, 
+        {
+            "location": "/specials_timer/#version-141-08032016", 
+            "text": "Fixed compatibility with OpenCart 2.2.0.0", 
+            "title": "Version 1.4.1 (08/03/2016)"
+        }, 
+        {
+            "location": "/specials_timer/#version-140-17062015", 
+            "text": "Merged OC 1.5 releases  Fix issue with missing remove button on OC 2", 
+            "title": "Version 1.4.0 (17/06/2015)"
+        }, 
+        {
+            "location": "/specials_timer/#version-132-23042015", 
+            "text": "OC 2.0.2.0 mail support compatibility fix", 
+            "title": "Version 1.3.2 (23/04/2015)"
+        }, 
+        {
+            "location": "/specials_timer/#version-131-23122014", 
+            "text": "Update support Facebook link", 
+            "title": "Version 1.3.1 (23/12/2014)"
+        }, 
+        {
+            "location": "/specials_timer/#version-130-21102014", 
+            "text": "OC 2 compatibility", 
+            "title": "Version 1.3.0 (21/10/2014)"
+        }, 
+        {
+            "location": "/testimonials_slider/", 
+            "text": "Testimonials Slider\n\n\n\n\nCurrent Version: 2.0.0\n\n\nLast Updated: 13 July 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nTestimonials Slider allows you to display testimonials from your clients in a smart way. You can attach an image, and the slider supports multi language!\n\n\nFeatures\n\n\n\n\nSlider animation\n\n\nMulti language supported\n\n\nAble to attach image\n\n\nCan be placed anywhere on your website\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nTestimonials Slider\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 2 \n 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nTestimonials Slider\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5\n\n\n\n\nUnzip the files.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nTestimonials Slider\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 2, 3 \n Cloud\n\n\n\n\n\n\nAdding Module to Layout\n\n\nOnce you have installed and enabled the extension, you can add the extension to your layout through the OpenCart's layout management page.\n\n\n\n\n\n\n\n\nOpenCart 1.5\n\n\n\n\n\n\nAdding Module to Layout\n\n\nOnce you have installed the extension, you can add the extension to your layout through the Testimonials Slider module settings page itself.\n\n\n\n\n\n\nChange Log\n\n\nVersion 2.0.0 (13/07/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 1.3.1 (13/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 1.3.0 (11/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\nImproved administration interface\n\n\n\n\nVersion 1.2.2 (23/04/2015)\n\n\n\n\nOC 2.0.2.0 mail support compatibility fix\n\n\n\n\nVersion 1.2.1 (23/12/2014)\n\n\n\n\nUpdate support Facebook link\n\n\n\n\nVersion 1.2.0 (21/10/2014)\n\n\n\n\nOC 2 compatibility\n\n\n\n\nVersion 1.1.0 (14/02/2014)\n\n\n\n\nSupports column left and column right", 
+            "title": "Testimonials Slider"
+        }, 
+        {
+            "location": "/testimonials_slider/#testimonials-slider", 
+            "text": "Current Version: 2.0.0  Last Updated: 13 July 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "Testimonials Slider"
+        }, 
+        {
+            "location": "/testimonials_slider/#description", 
+            "text": "Testimonials Slider allows you to display testimonials from your clients in a smart way. You can attach an image, and the slider supports multi language!", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/testimonials_slider/#features", 
+            "text": "Slider animation  Multi language supported  Able to attach image  Can be placed anywhere on your website", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/testimonials_slider/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/testimonials_slider/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Testimonials Slider . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/testimonials_slider/#opencart-2-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Testimonials Slider . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 2 &amp; 3"
+        }, 
+        {
+            "location": "/testimonials_slider/#opencart-15", 
+            "text": "Unzip the files.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Testimonials Slider . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 1.5"
+        }, 
+        {
+            "location": "/testimonials_slider/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/testimonials_slider/#opencart-2-3-cloud", 
+            "text": "Adding Module to Layout  Once you have installed and enabled the extension, you can add the extension to your layout through the OpenCart's layout management page.", 
+            "title": "OpenCart 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/testimonials_slider/#opencart-15_1", 
+            "text": "Adding Module to Layout  Once you have installed the extension, you can add the extension to your layout through the Testimonials Slider module settings page itself.", 
+            "title": "OpenCart 1.5"
+        }, 
+        {
+            "location": "/testimonials_slider/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/testimonials_slider/#version-200-13072017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Minor improvements and updates  Ceased support for OpenCart 1.5", 
+            "title": "Version 2.0.0 (13/07/2017)"
+        }, 
+        {
+            "location": "/testimonials_slider/#version-131-13072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Version 1.3.1 (13/07/2016)"
+        }, 
+        {
+            "location": "/testimonials_slider/#version-130-11032016", 
+            "text": "Fixed compatibility with OpenCart 2.2.0.0  Improved administration interface", 
+            "title": "Version 1.3.0 (11/03/2016)"
+        }, 
+        {
+            "location": "/testimonials_slider/#version-122-23042015", 
+            "text": "OC 2.0.2.0 mail support compatibility fix", 
+            "title": "Version 1.2.2 (23/04/2015)"
+        }, 
+        {
+            "location": "/testimonials_slider/#version-121-23122014", 
+            "text": "Update support Facebook link", 
+            "title": "Version 1.2.1 (23/12/2014)"
+        }, 
+        {
+            "location": "/testimonials_slider/#version-120-21102014", 
+            "text": "OC 2 compatibility", 
+            "title": "Version 1.2.0 (21/10/2014)"
+        }, 
+        {
+            "location": "/testimonials_slider/#version-110-14022014", 
+            "text": "Supports column left and column right", 
+            "title": "Version 1.1.0 (14/02/2014)"
+        }, 
+        {
+            "location": "/tiered_pricing/", 
+            "text": "Tiered Pricing\n\n\n\n\nCurrent Version: 2.0.0\n\n\nLast Updated: 13 July 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nSet tiered pricing for your products based on categories or across the website.\n\n\nFor example, you can setup discounts as per follow:\n\n\n\n\nPurchase X or more items from Category Y at $Z\n\n\nPurchase X or more items from ANY categories at $Z\n\n\nPurchase X or more of Product Y at $Z\n\n\n\n\nFeatures\n\n\n\n\nAllow tiered pricing for products\n\n\nAllow OpenCart discounts to work across categories\n\n\nSet category limitation for OpenCart discounts from admin panel\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nTiered Pricing\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nTiered Pricing\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nTiered Pricing\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\n\n\n\n\nConfiguring Discounts\n\n\nSetup discounts for tiered pricing to show up. You can do so in \nCatalog \n Products \n Edit Product \n Discount\n tab.\n\n\n\n\n\n\n\n\nChange Log\n\n\nVersion 2.0.0 (13/07/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 1.1.5 (27/02/2017)\n\n\n\n\nFixed minor bugs with price being replaced (OC 2 Release)\n\n\n\n\nVersion 1.1.4 (13/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 1.1.3 (01/04/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\n\n\nVersion 1.1.2 (08/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\n\n\nVersion 1.1.1 (02/03/2016)\n\n\n\n\nFixed incomplete compatibility fix in previous release\n\n\n\n\nVersion 1.1.0 (01/03/2016)\n\n\n\n\nImproved installation method\n\n\nFixed compatibility issue with OC 2.1.x\n\n\n\n\nVersion 1.0.1 (10/03/2015)\n\n\n\n\nBug fix for OC 2 release", 
+            "title": "Tiered Pricing"
+        }, 
+        {
+            "location": "/tiered_pricing/#tiered-pricing", 
+            "text": "Current Version: 2.0.0  Last Updated: 13 July 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "Tiered Pricing"
+        }, 
+        {
+            "location": "/tiered_pricing/#description", 
+            "text": "Set tiered pricing for your products based on categories or across the website.  For example, you can setup discounts as per follow:   Purchase X or more items from Category Y at $Z  Purchase X or more items from ANY categories at $Z  Purchase X or more of Product Y at $Z", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/tiered_pricing/#features", 
+            "text": "Allow tiered pricing for products  Allow OpenCart discounts to work across categories  Set category limitation for OpenCart discounts from admin panel", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/tiered_pricing/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/tiered_pricing/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Tiered Pricing . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Please view configuration details below.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/tiered_pricing/#opencart-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Tiered Pricing . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Please view configuration details below.", 
+            "title": "OpenCart 3"
+        }, 
+        {
+            "location": "/tiered_pricing/#opencart-15-2", 
+            "text": "Unzip the files. Ensure that vQmod has been installed.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Tiered Pricing . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 1.5 &amp; 2"
+        }, 
+        {
+            "location": "/tiered_pricing/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/tiered_pricing/#opencart-15-2-3-cloud", 
+            "text": "Configuring Discounts  Setup discounts for tiered pricing to show up. You can do so in  Catalog   Products   Edit Product   Discount  tab.", 
+            "title": "OpenCart 1.5, 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/tiered_pricing/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/tiered_pricing/#version-200-13072017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Minor improvements and updates  Ceased support for OpenCart 1.5", 
+            "title": "Version 2.0.0 (13/07/2017)"
+        }, 
+        {
+            "location": "/tiered_pricing/#version-115-27022017", 
+            "text": "Fixed minor bugs with price being replaced (OC 2 Release)", 
+            "title": "Version 1.1.5 (27/02/2017)"
+        }, 
+        {
+            "location": "/tiered_pricing/#version-114-13072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Version 1.1.4 (13/07/2016)"
+        }, 
+        {
+            "location": "/tiered_pricing/#version-113-01042016", 
+            "text": "Fixed compatibility with OpenCart 2.2.0.0", 
+            "title": "Version 1.1.3 (01/04/2016)"
+        }, 
+        {
+            "location": "/tiered_pricing/#version-112-08032016", 
+            "text": "Fixed compatibility with OpenCart 2.2.0.0", 
+            "title": "Version 1.1.2 (08/03/2016)"
+        }, 
+        {
+            "location": "/tiered_pricing/#version-111-02032016", 
+            "text": "Fixed incomplete compatibility fix in previous release", 
+            "title": "Version 1.1.1 (02/03/2016)"
+        }, 
+        {
+            "location": "/tiered_pricing/#version-110-01032016", 
+            "text": "Improved installation method  Fixed compatibility issue with OC 2.1.x", 
+            "title": "Version 1.1.0 (01/03/2016)"
+        }, 
+        {
+            "location": "/tiered_pricing/#version-101-10032015", 
+            "text": "Bug fix for OC 2 release", 
+            "title": "Version 1.0.1 (10/03/2015)"
+        }, 
+        {
+            "location": "/two_factor_authentication_sms/", 
+            "text": "Two Factor Authentication (SMS)\n\n\n\n\nCurrent Version: 2.0.0\n\n\nLast Updated: 14 July 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nTwo Factor Authentication (SMS) allows you to setup 2FA security for your customers\u2019 accounts. A OTP SMS will be sent to the customer\u2019s mobile phone number and the customer has to enter the OTP to login to view his account details on your store.\n\n\nNote: A Logic Message (\nhttps://www.logicmessage.com\n) account is required to send SMSes.\n\n\nFeatures\n\n\n\n\nSend OTP SMS to customer when they login\n\n\nCustomers with invalid phone number will be allowed to login without verification\n\n\nConfigurable OTP SMS template\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nTwo Factor Authentication (SMS)\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nTwo Factor Authentication (SMS)\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nTwo Factor Authentication (SMS)\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\n\n\n\n\nSender\n\n\nEnter the purchased phone number or personalised sender ID you have in your Logic Message account.\n\n\n\n\n\n\nAuth Key \n Auth Secret\n\n\nEnter the auth key and auth secret you have from the Logic Message API Application you have created.\n\n\n\n\n\n\nDefault Country Prefix\n\n\nIf the phone number customer is using is not a valid number, the default country prefix will be appended to the customer's phone number before sending an SMS.\n\n\n\n\n\n\nChange Log\n\n\nVersion 2.0.0 (14/07/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nAdded ability to remove leading zeroes\n\n\n\n\nVersion 1.0.1 (26/01/2017)\n\n\n\n\nFixed minor bugs\n\n\n\n\nVersion 1.0.0 (06/01/2017)\n\n\n\n\nModule released.", 
+            "title": "Two Factor Authentication SMS"
+        }, 
+        {
+            "location": "/two_factor_authentication_sms/#two-factor-authentication-sms", 
+            "text": "Current Version: 2.0.0  Last Updated: 14 July 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "Two Factor Authentication (SMS)"
+        }, 
+        {
+            "location": "/two_factor_authentication_sms/#description", 
+            "text": "Two Factor Authentication (SMS) allows you to setup 2FA security for your customers\u2019 accounts. A OTP SMS will be sent to the customer\u2019s mobile phone number and the customer has to enter the OTP to login to view his account details on your store.  Note: A Logic Message ( https://www.logicmessage.com ) account is required to send SMSes.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/two_factor_authentication_sms/#features", 
+            "text": "Send OTP SMS to customer when they login  Customers with invalid phone number will be allowed to login without verification  Configurable OTP SMS template", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/two_factor_authentication_sms/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/two_factor_authentication_sms/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Two Factor Authentication (SMS) . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/two_factor_authentication_sms/#opencart-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Two Factor Authentication (SMS) . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 3"
+        }, 
+        {
+            "location": "/two_factor_authentication_sms/#opencart-15-2", 
+            "text": "Unzip the files. Ensure that vQmod has been installed.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Two Factor Authentication (SMS) . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 1.5 &amp; 2"
+        }, 
+        {
+            "location": "/two_factor_authentication_sms/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/two_factor_authentication_sms/#opencart-15-2-3-cloud", 
+            "text": "Sender  Enter the purchased phone number or personalised sender ID you have in your Logic Message account.    Auth Key   Auth Secret  Enter the auth key and auth secret you have from the Logic Message API Application you have created.    Default Country Prefix  If the phone number customer is using is not a valid number, the default country prefix will be appended to the customer's phone number before sending an SMS.", 
+            "title": "OpenCart 1.5, 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/two_factor_authentication_sms/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/two_factor_authentication_sms/#version-200-14072017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Minor improvements and updates  Added ability to remove leading zeroes", 
+            "title": "Version 2.0.0 (14/07/2017)"
+        }, 
+        {
+            "location": "/two_factor_authentication_sms/#version-101-26012017", 
+            "text": "Fixed minor bugs", 
+            "title": "Version 1.0.1 (26/01/2017)"
+        }, 
+        {
+            "location": "/two_factor_authentication_sms/#version-100-06012017", 
+            "text": "Module released.", 
+            "title": "Version 1.0.0 (06/01/2017)"
+        }, 
+        {
+            "location": "/watermark/", 
+            "text": "Watermark\n\n\n\n\nCurrent Version: 2.0.0\n\n\nLast Updated: 14 July 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nAdd watermark to your images easily with our Watermark extension. No complicated configurations, no complicated setup. Just upload, and choose your watermark logo and you are good to go.\n\n\nFeatures\n\n\n\n\nAdd watermark to images on OpenCart store\n\n\nAble to select the position of the watermark\n\n\nAble to select which images should have the watermark\n\n\nAble to adjust the proportion of the watermark to the image size\n\n\nAble to adjust watermark rotation angle\n\n\nSimple configurations, easy to use\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nWatermark\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nWatermark\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nWatermark\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\n\n\n\n\nSetting Up Watermark Image\n\n\nPlease ensure you have selected a PNG image to be used as the watermark. Only PNG image is selected.\n\n\n\n\n\n\nClearing Image Cache\n\n\nYou will have to clear your image cache before any changes are reflected.\n\n\n\n\n\n\n\n\nChange Log\n\n\nVersion 2.0.0 (14/07/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 1.1.2 (13/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 1.1.1 (20/04/2016)\n\n\n\n\nFixed transparency when opacity is used without rotation\n\n\n\n\nVersion 1.1.0 (15/04/2016)\n\n\n\n\nAdded watermark rotation angle\n\n\nFixed transparency when opacity is used\n\n\n\n\nVersion 1.0.0 (13/04/2016)\n\n\n\n\nModule created.", 
+            "title": "Watermark"
+        }, 
+        {
+            "location": "/watermark/#watermark", 
+            "text": "Current Version: 2.0.0  Last Updated: 14 July 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "Watermark"
+        }, 
+        {
+            "location": "/watermark/#description", 
+            "text": "Add watermark to your images easily with our Watermark extension. No complicated configurations, no complicated setup. Just upload, and choose your watermark logo and you are good to go.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/watermark/#features", 
+            "text": "Add watermark to images on OpenCart store  Able to select the position of the watermark  Able to select which images should have the watermark  Able to adjust the proportion of the watermark to the image size  Able to adjust watermark rotation angle  Simple configurations, easy to use", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/watermark/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/watermark/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Watermark . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Please view configuration details below.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/watermark/#opencart-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Watermark . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Please view configuration details below.", 
+            "title": "OpenCart 3"
+        }, 
+        {
+            "location": "/watermark/#opencart-15-2", 
+            "text": "Unzip the files. Ensure that vQmod has been installed.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Watermark . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 1.5 &amp; 2"
+        }, 
+        {
+            "location": "/watermark/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/watermark/#opencart-15-2-3-cloud", 
+            "text": "Setting Up Watermark Image  Please ensure you have selected a PNG image to be used as the watermark. Only PNG image is selected.    Clearing Image Cache  You will have to clear your image cache before any changes are reflected.", 
+            "title": "OpenCart 1.5, 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/watermark/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/watermark/#version-200-14072017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Minor improvements and updates  Ceased support for OpenCart 1.5", 
+            "title": "Version 2.0.0 (14/07/2017)"
+        }, 
+        {
+            "location": "/watermark/#version-112-13072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Version 1.1.2 (13/07/2016)"
+        }, 
+        {
+            "location": "/watermark/#version-111-20042016", 
+            "text": "Fixed transparency when opacity is used without rotation", 
+            "title": "Version 1.1.1 (20/04/2016)"
+        }, 
+        {
+            "location": "/watermark/#version-110-15042016", 
+            "text": "Added watermark rotation angle  Fixed transparency when opacity is used", 
+            "title": "Version 1.1.0 (15/04/2016)"
+        }, 
+        {
+            "location": "/watermark/#version-100-13042016", 
+            "text": "Module created.", 
+            "title": "Version 1.0.0 (13/04/2016)"
         }, 
         {
             "location": "/xero_integration/", 
