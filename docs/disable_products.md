@@ -26,13 +26,13 @@ Have hundreds or thousands of products in store? Some of your products are witho
 2. Proceed to `Extensions >> Extensions` and select `Modules`. Then, install `Disable Products`. Configure extension accordingly.
 3. Start the automated process by clicking the button in the extension.
 
-### OpenCart 3
+### OpenCart 2 & 3
 
 1. Go to `Admin >> Extensions >> Installer` to upload the extension zip file.
 2. Proceed to `Extensions >> Extensions` and select `Modules`. Then, install `Disable Products`. Configure extension accordingly.
 3. Start the automated process by clicking the button in the extension.
 
-### OpenCart 1.5 & 2
+### OpenCart 1.5
 
 1. Unzip the files.
 2. Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.

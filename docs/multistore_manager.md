@@ -30,15 +30,15 @@ Multistore Manager allows you to assign all your products, categories, informati
 2. Proceed to `Extensions >> Extensions` and select `Modules`. Then, install `MultiStore Manager`. Configure extension accordingly.
 3. Please view configuration details below.
 
-### OpenCart 2 & 3
+### OpenCart 3
 
 1. Go to `Admin >> Extensions >> Installer` to upload the extension zip file.
 2. Proceed to `Extensions >> Extensions` and select `Modules`. Then, install `MultiStore Manager`. Configure extension accordingly.
 3. Please view configuration details below.
 
-### OpenCart 1.5
+### OpenCart 1.5 & 2
 
-1. Unzip the files.
+1. Unzip the files. Ensure that vQmod has been installed.
 2. Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.
 3. In your admin panel, proceed to `Extensions >> Modules`. Then, install `MultiStore Manager`. Configure extension accordingly.
 4. Please view configuration details below.

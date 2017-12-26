@@ -48,14 +48,14 @@ Ever needed to quickly edit only a couple of fields for your orders, but do not 
 3. Proceed to `Extensions >> Modifications` and click the blue refresh button.
 4. Popup notification will now show up when a product is added.
 
-### OpenCart 2 & 3
+### OpenCart 3
 
 1. Go to `Admin >> Extensions >> Installer` to upload the extension zip file.
 2. Proceed to `Extensions >> Extensions` and select `Modules`. Then, install `Quick Order Update`. Configure extension accordingly.
 3. Proceed to `Extensions >> Modifications` and click the blue refresh button.
 4. Popup notification will now show up when a product is added.
 
-### OpenCart 1.5
+### OpenCart 1.5 & 2
 
 1. Unzip the files. Ensure that vQmod has been installed.
 2. Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.

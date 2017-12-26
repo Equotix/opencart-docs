@@ -37,14 +37,14 @@ Manually typing the same order history comments for each of your orders can be t
 3. Proceed to `Extensions >> Modifications` and click the blue refresh button.
 4. Please view configuration details below.
 
-### OpenCart 3
+### OpenCart 2 & 3
 
 1. Go to `Admin >> Extensions >> Installer` to upload the extension zip file.
 2. Proceed to `Extensions >> Extensions` and select `Modules`. Then, install `Canned Messages`. Configure extension accordingly.
 3. Proceed to `Extensions >> Modifications` and click the blue refresh button.
 4. Please view configuration details below.
 
-### OpenCart 1.5 & 2
+### OpenCart 1.5
 
 1. Unzip the files. Ensure that vQmod has been installed.
 2. Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.

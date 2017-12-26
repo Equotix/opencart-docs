@@ -27,13 +27,13 @@ The old `<marquee>` tags in html are jumpy. This extension improves on the tag a
 2. Proceed to `Extensions >> Extensions` and select `Modules`. Then, install `Marquee Text`. Configure extension accordingly.
 3. Please view configuration details below.
 
-### OpenCart 3
+### OpenCart 2 & 3
 
 1. Go to `Admin >> Extensions >> Installer` to upload the extension zip file.
 2. Proceed to `Extensions >> Extensions` and select `Modules`. Then, install `Marquee Text`. Configure extension accordingly.
 3. Please view configuration details below.
 
-### OpenCart 1.5 & 2
+### OpenCart 1.5
 
 1. Unzip the files.
 2. Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.
