@@ -3,7 +3,7 @@
 * Current Version: 2.0.0
 * Last Updated: 14 July 2017
 * License: [Commercial License][1]
-* Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x
+* Compatibility: OpenCart 2.x, 3.x
 
 
 [1]: https://www.marketinsg.com/usage-license
