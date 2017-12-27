@@ -40,6 +40,7 @@ pages:
             - Marquee Text: 'marquee_text.md'
             - Mass Order History Update: 'mass_order_history_update.md'
             - Mega Menu: 'mega_menu.md'
+            - Multi-Shipping: 'multi_shipping.md'
             - MultiStore Manager: 'multistore_manager.md'
         - N:
             - Newsletter: 'newsletter.md'
