@@ -3016,6 +3016,91 @@
             "title": "Version 1.1.0 (08/01/2013)"
         }, 
         {
+            "location": "/multi_shipping/", 
+            "text": "Multi-Shipping\n\n\n\n\nCurrent Version: 2.0.0\n\n\nLast Updated: 27 December 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nEver wanted to allow your customers to ship products to various addresses in one single order? Multi-Shipping allows your customers just do that! This extension is an add-on for our Quick Checkout extension. You will need to purchase Quick Checkout before purchasing this extension.\n\n\nFeatures\n\n\n\n\nAllow customers to ship products to multiple addresses\n\n\nAllow shipping price to be multiplied by number of addresses shipped to\n\n\nAdmin can view the addresses customer wants to ship products to\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nQuick Checkout - Multi-Shipping\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nQuick Checkout should now be able to accept multiple shipping addresses for registered customers.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nQuick Checkout - Multi-Shipping\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nQuick Checkout should now be able to accept multiple shipping addresses for registered customers.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nQuick Checkout - Multi-Shipping\n. Configure extension accordingly.\n\n\nQuick Checkout should now be able to accept multiple shipping addresses for registered customers.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\n\n\nShipping Rate\n\n\n\n\nIf you require shipping rates to be multipled by the number of addresses selected, you can enable this functionality. Otherwise, using flat rate will charge customer a flat fee for shipping.\n\n\nChange Log\n\n\nVersion 2.0.0 (27/12/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0\n\n\nFixed minor bugs with OpenCart 2.3.0.2 release\n\n\n\n\nVersion 1.3.3 (11/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 1.3.2 (13/06/2016)\n\n\n\n\nFixed compatibility issues with OpenCart 2.2.0.0\n\n\n\n\nVersion 1.3.1 (07/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\n\n\nVersion 1.3.0 (01/11/2016)\n\n\n\n\nRewrote and improved extension\n\n\n\n\nVersion 1.2.1 (24/06/2015)\n\n\n\n\nFixed minor bugs", 
+            "title": "Multi-Shipping"
+        }, 
+        {
+            "location": "/multi_shipping/#multi-shipping", 
+            "text": "Current Version: 2.0.0  Last Updated: 27 December 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "title": "Multi-Shipping"
+        }, 
+        {
+            "location": "/multi_shipping/#description", 
+            "text": "Ever wanted to allow your customers to ship products to various addresses in one single order? Multi-Shipping allows your customers just do that! This extension is an add-on for our Quick Checkout extension. You will need to purchase Quick Checkout before purchasing this extension.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/multi_shipping/#features", 
+            "text": "Allow customers to ship products to multiple addresses  Allow shipping price to be multiplied by number of addresses shipped to  Admin can view the addresses customer wants to ship products to", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/multi_shipping/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/multi_shipping/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Quick Checkout - Multi-Shipping . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Quick Checkout should now be able to accept multiple shipping addresses for registered customers.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/multi_shipping/#opencart-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Quick Checkout - Multi-Shipping . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Quick Checkout should now be able to accept multiple shipping addresses for registered customers.", 
+            "title": "OpenCart 3"
+        }, 
+        {
+            "location": "/multi_shipping/#opencart-15-2", 
+            "text": "Unzip the files. Ensure that vQmod has been installed.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Quick Checkout - Multi-Shipping . Configure extension accordingly.  Quick Checkout should now be able to accept multiple shipping addresses for registered customers.", 
+            "title": "OpenCart 1.5 &amp; 2"
+        }, 
+        {
+            "location": "/multi_shipping/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/multi_shipping/#opencart-15-2-3-cloud", 
+            "text": "Shipping Rate   If you require shipping rates to be multipled by the number of addresses selected, you can enable this functionality. Otherwise, using flat rate will charge customer a flat fee for shipping.", 
+            "title": "OpenCart 1.5, 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/multi_shipping/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/multi_shipping/#version-200-27122017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0  Fixed minor bugs with OpenCart 2.3.0.2 release", 
+            "title": "Version 2.0.0 (27/12/2017)"
+        }, 
+        {
+            "location": "/multi_shipping/#version-133-11072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Version 1.3.3 (11/07/2016)"
+        }, 
+        {
+            "location": "/multi_shipping/#version-132-13062016", 
+            "text": "Fixed compatibility issues with OpenCart 2.2.0.0", 
+            "title": "Version 1.3.2 (13/06/2016)"
+        }, 
+        {
+            "location": "/multi_shipping/#version-131-07032016", 
+            "text": "Fixed compatibility with OpenCart 2.2.0.0", 
+            "title": "Version 1.3.1 (07/03/2016)"
+        }, 
+        {
+            "location": "/multi_shipping/#version-130-01112016", 
+            "text": "Rewrote and improved extension", 
+            "title": "Version 1.3.0 (01/11/2016)"
+        }, 
+        {
+            "location": "/multi_shipping/#version-121-24062015", 
+            "text": "Fixed minor bugs", 
+            "title": "Version 1.2.1 (24/06/2015)"
+        }, 
+        {
             "location": "/multistore_manager/", 
             "text": "MultiStore Manager\n\n\n\n\nCurrent Version: 3.0.0\n\n\nLast Updated: 03 July 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nMultistore Manager allows you to assign all your products, categories, information pages, layouts, and manufacturers from stores to stores all on one single page. This will save you the trouble of needing to manually modify each of the layouts, products or categories whenever you create a new store. Additionally, you can restrict the shipping methods, payment methods, and order total modules to each individual store.\n\n\nFeatures\n\n\n\n\nLoad the products, categories, information pages, manufacturers and layouts without needing to refresh the page.\n\n\nAssign your products, categories, information pages, manufacturers and layout from one single page to different stores.\n\n\nAllows you to track the products, categories, information pages, manufacturers and layouts assigned to the different stores in one single page.\n\n\nView all stores and their current selected template from one single list\n\n\nAllow selection of payment modules for different store\n\n\nAllow selection of shipping modules for different store\n\n\nAllow selection of order total modules for different store\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nMultiStore Manager\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nMultiStore Manager\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nMultiStore Manager\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\n\n\n\n\nView \n Edit Feature\n\n\nView\n will display the list of categories, products, information, manufacturers, and layouts from the selected store. \nEdit\n will be the store you wish to update. Please select carefully and update accordingly.\n\n\n\n\n\n\n\n\nManaging Extensions\n\n\nYou will be able to turn on/off various payment modules, shipping modules and order total modules in the \nExtensions\n tab.\n\n\n\n\n\n\nChange Log\n\n\nVersion 3.0.0 (03/07/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 2.2.5 (02/11/2016)\n\n\n\n\nFixed redundant codes\n\n\n\n\nVersion 2.2.4 (11/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 2.2.3 (04/03/2016)\n\n\n\n\nUpdated installation manual\n\n\nVersion number remains unchanged\n\n\n\n\nVersion 2.2.3 (31/12/2015)\n\n\n\n\nFixed issue with save button\n\n\n\n\nVersion 2.2.2 (08/08/2015)\n\n\n\n\nFixed wrong require_once file name\n\n\n\n\nVersion 2.2.1 (04/07/2015)\n\n\n\n\nMinor bug fixes for OC 2\n\n\n\n\nVersion 2.2.0 (17/06/2015)\n\n\n\n\nMinor admin aesthetic improvements\n\n\n\n\nVersion 2.1.3 (23/04/2015)\n\n\n\n\nOC 2.0.2.0 mail support compatibility fix\n\n\n\n\nVersion 2.1.2 (24/03/2015)\n\n\n\n\nMinor bug fixes\n\n\n\n\nVersion 2.1.1 (22/12/2014)\n\n\n\n\nUpdate support Facebook link\n\n\n\n\nVersion 2.1.0 (14/10/2014)\n\n\n\n\nOC 2 compatibility\n\n\n\n\nVersion 2.0 (27/09/2013)\n\n\n\n\nAllow selection of payment modules for different store\n\n\nAllow selection of shipping modules for different store\n\n\nAllow selection of order total modules for different store\n\n\n\n\nVersion 1.2 (26/08/2013)\n\n\n\n\nAllows user to view all stores and their selected template \n\n\n\n\nVersion 1.1 (07/07/2013)\n\n\n\n\nRewrote module to support post limit\n\n\n\n\nVersion 1.0\n\n\n\n\nModule created", 
             "title": "MultiStore Manager"
@@ -7047,12 +7132,12 @@
         }, 
         {
             "location": "/two_factor_authentication_sms/", 
-            "text": "Two Factor Authentication (SMS)\n\n\n\n\nCurrent Version: 2.0.0\n\n\nLast Updated: 14 July 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nTwo Factor Authentication (SMS) allows you to setup 2FA security for your customers\u2019 accounts. A OTP SMS will be sent to the customer\u2019s mobile phone number and the customer has to enter the OTP to login to view his account details on your store.\n\n\nNote: A Logic Message (\nhttps://www.logicmessage.com\n) account is required to send SMSes.\n\n\nFeatures\n\n\n\n\nSend OTP SMS to customer when they login\n\n\nCustomers with invalid phone number will be allowed to login without verification\n\n\nConfigurable OTP SMS template\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nTwo Factor Authentication (SMS)\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nTwo Factor Authentication (SMS)\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nTwo Factor Authentication (SMS)\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\n\n\n\n\nSender\n\n\nEnter the purchased phone number or personalised sender ID you have in your Logic Message account.\n\n\n\n\n\n\nAuth Key \n Auth Secret\n\n\nEnter the auth key and auth secret you have from the Logic Message API Application you have created.\n\n\n\n\n\n\nDefault Country Prefix\n\n\nIf the phone number customer is using is not a valid number, the default country prefix will be appended to the customer's phone number before sending an SMS.\n\n\n\n\n\n\nChange Log\n\n\nVersion 2.0.0 (14/07/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nAdded ability to remove leading zeroes\n\n\n\n\nVersion 1.0.1 (26/01/2017)\n\n\n\n\nFixed minor bugs\n\n\n\n\nVersion 1.0.0 (06/01/2017)\n\n\n\n\nModule released.", 
+            "text": "Two Factor Authentication (SMS)\n\n\n\n\nCurrent Version: 2.0.0\n\n\nLast Updated: 14 July 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 2.x, 3.x\n\n\n\n\nDescription\n\n\nTwo Factor Authentication (SMS) allows you to setup 2FA security for your customers\u2019 accounts. A OTP SMS will be sent to the customer\u2019s mobile phone number and the customer has to enter the OTP to login to view his account details on your store.\n\n\nNote: A Logic Message (\nhttps://www.logicmessage.com\n) account is required to send SMSes.\n\n\nFeatures\n\n\n\n\nSend OTP SMS to customer when they login\n\n\nCustomers with invalid phone number will be allowed to login without verification\n\n\nConfigurable OTP SMS template\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nTwo Factor Authentication (SMS)\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nTwo Factor Authentication (SMS)\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nTwo Factor Authentication (SMS)\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\n\n\n\n\nSender\n\n\nEnter the purchased phone number or personalised sender ID you have in your Logic Message account.\n\n\n\n\n\n\nAuth Key \n Auth Secret\n\n\nEnter the auth key and auth secret you have from the Logic Message API Application you have created.\n\n\n\n\n\n\nDefault Country Prefix\n\n\nIf the phone number customer is using is not a valid number, the default country prefix will be appended to the customer's phone number before sending an SMS.\n\n\n\n\n\n\nChange Log\n\n\nVersion 2.0.0 (14/07/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nAdded ability to remove leading zeroes\n\n\n\n\nVersion 1.0.1 (26/01/2017)\n\n\n\n\nFixed minor bugs\n\n\n\n\nVersion 1.0.0 (06/01/2017)\n\n\n\n\nModule released.", 
             "title": "Two Factor Authentication SMS"
         }, 
         {
             "location": "/two_factor_authentication_sms/#two-factor-authentication-sms", 
-            "text": "Current Version: 2.0.0  Last Updated: 14 July 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "text": "Current Version: 2.0.0  Last Updated: 14 July 2017  License:  Commercial License  Compatibility: OpenCart 2.x, 3.x", 
             "title": "Two Factor Authentication (SMS)"
         }, 
         {
