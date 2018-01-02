@@ -4566,6 +4566,71 @@
             "title": "Version 1.1.0 (10/03/2016)"
         }, 
         {
+            "location": "/product_option_links/", 
+            "text": "Product Option Links\n\n\n\n\nCurrent Version: 2.0.0\n\n\nLast Updated 02 January 2018\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 2.x, 3.x\n\n\n\n\nDescription\n\n\nProduct Option Links allow you to setup different set of default options for a specific product. This way, you can advertise different combinations of a product using various links to pre-set the options.\n\n\nFeatures\n\n\n\n\nSetup option links to preset option values\n\n\nUnlimited option links for all products\n\n\nUser-friendly administration panel to setup links\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nProduct Option Links\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpencart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nProduct Option Links\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpencart 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nProduct Option Links\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpencart 2, 3 \n Cloud\n\n\nUpon installation of Product Option Links, you should be able to configure the product option links within the module.\n\n\nChange Log\n\n\nVersion 2.0.0 (02/01/2018)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nExtension packaged as an installer\n\n\n\n\nVersion 1.0.0 (08/12/2016)\n\n\n\n\nExtension created", 
+            "title": "Product Option Links"
+        }, 
+        {
+            "location": "/product_option_links/#product-option-links", 
+            "text": "Current Version: 2.0.0  Last Updated 02 January 2018  License:  Commercial License  Compatibility: OpenCart 2.x, 3.x", 
+            "title": "Product Option Links"
+        }, 
+        {
+            "location": "/product_option_links/#description", 
+            "text": "Product Option Links allow you to setup different set of default options for a specific product. This way, you can advertise different combinations of a product using various links to pre-set the options.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/product_option_links/#features", 
+            "text": "Setup option links to preset option values  Unlimited option links for all products  User-friendly administration panel to setup links", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/product_option_links/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/product_option_links/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Product Option Links . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Please view configuration details below.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/product_option_links/#opencart-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Product Option Links . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Please view configuration details below.", 
+            "title": "Opencart 3"
+        }, 
+        {
+            "location": "/product_option_links/#opencart-2", 
+            "text": "Unzip the files. Ensure that vQmod has been installed.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Product Option Links . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "Opencart 2"
+        }, 
+        {
+            "location": "/product_option_links/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/product_option_links/#opencart-2-3-cloud", 
+            "text": "Upon installation of Product Option Links, you should be able to configure the product option links within the module.", 
+            "title": "Opencart 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/product_option_links/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/product_option_links/#version-200-02012018", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Extension packaged as an installer", 
+            "title": "Version 2.0.0 (02/01/2018)"
+        }, 
+        {
+            "location": "/product_option_links/#version-100-08122016", 
+            "text": "Extension created", 
+            "title": "Version 1.0.0 (08/12/2016)"
+        }, 
+        {
             "location": "/product_stock_mobile_app/", 
             "text": "Product Stock Mobile App\n\n\n\n\nCurrent Version: 2.0.0\n\n\nLast Updated: 10 July 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nProduct Stock Mobile Application allows you to scan your product\u2019s barcode or enter its SKU to update the product. A barcode list can also be generated from the store administration panel.\n\n\nFeatures\n\n\n\n\nAndroid mobile application built with security in mind\n\n\nEnter barcode for products from your admin panel\n\n\nEnter barcode for each product option values\n\n\nUpdate product stock quantity from mobile application\n\n\nUpdate product price from mobile application\n\n\nUpdate product status from mobile application\n\n\nBarcode scanner for Android mobile application\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nProduct Stock Mobile Application\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nDownload the Android mobile application from the Google Play Store or the iOS mobile application from the Apple App Store. Do a search for \u2018OC Product Stock\u2019 by Equotix.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nProduct Stock Mobile Application\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nDownload the Android mobile application from the Google Play Store or the iOS mobile application from the Apple App Store. Do a search for \u2018OC Product Stock\u2019 by Equotix.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nProduct Stock Mobile Application\n. Configure extension accordingly.\n\n\nDownload the Android mobile application from the Google Play Store or the iOS mobile application from the Apple App Store. Do a search for \u2018OC Product Stock\u2019 by Equotix.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\n\n\n\n\nConfiguring Barcode or SKU\n\n\nYou can mass generate barcodes for your products and options in our extension settings. Alternatively, you can configure the SKU or barcode in \nCatalog \n Products \n Edit Product \n Data\n tab. For options with option values, it can be configured in the \nOption\n tab.\n\n\n\n\n\n\n\n\nUsing the Mobile Application\n\n\nLogging into the Application\n\n\nYou can start using the mobile application once you login. Login to your store admin by entering your store admin URL, username and password.\n\n\n\n\nScan a Barcode or Enter a SKU\n\n\nScan a barcode or enter a SKU to begin updating a product. You will be able to update the product price, quantity or status through the mobile application.\n\n\n\n\n\n\n\n\nChange Log\n\n\nVersion 2.0.0 (10/07/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 1.1.4 (12/02/2017)\n\n\n\n\nFixed permission issue for OpenCart 2.3 releases\n\n\n\n\nVersion 1.1.3 (24/10/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0 due to previous release\n\n\n\n\nVersion 1.1.2 (12/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\nImproved mobile application\n\n\n\n\nVersion 1.1.1 (13/04/2016)\n\n\n\n\nFixed undefined currency error\n\n\n\n\nVersion 1.1.0 (10/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\nUpdated administration interface\n\n\n\n\nVersion 1.0.0 (22/04/2015)\n\n\n\n\nModule released", 
             "title": "Product Stock Mobile App"
