@@ -10,8 +10,7 @@
 
 ## Description
 
-Product Option Links allow you to setup different set of default options for a specific product. 
-This way, you can advertise different combinations of a product using various links to pre-set the options.
+Product Option Links allow you to setup different set of default options for a specific product. This way, you can advertise different combinations of a product using various links to pre-set the options.
 
 ## Features
 
