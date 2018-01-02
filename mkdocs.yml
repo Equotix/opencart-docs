@@ -59,6 +59,7 @@ pages:
             - Price Manager: 'price_manager.md'
             - Product Date End: 'product_date_end.md'
             - Product Geo Zone: 'product_geo_zone.md'
+            - Product Option Links: 'product_option_links.md'
             - Product Stock Mobile App: 'product_stock_mobile_app.md'
             - Purchase Order: 'purchase_order.md'
             - Purchase Store Credits: 'purchase_store_credits.md'
