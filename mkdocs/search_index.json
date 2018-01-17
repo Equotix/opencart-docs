@@ -4721,6 +4721,66 @@
             "title": "Version 1.0.0 (22/04/2015)"
         }, 
         {
+            "location": "/product_variants/", 
+            "text": "Product Variants\n\n\n\n\nCurrent Version: 1.0.0\n\n\nLast Updated 17 January 2018\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 2.x, 3.x\n\n\n\n\nDescription\n\n\nDo you have different variations / options of the product, but they are not displayed obviously on the product page? This is just what you need! Show the different variations of the product on the product page, set an image and name, and you are good to go!\n\n\nWith our Product Variants extension, you will now be able to continue managing products that are releated separately, without using OpenCart's \"options\" feature. This will allow you to easily manage your product stocks and model number as well, since OpenCart's \"options\" does not have a unique SKU / model field for each option.\n\n\nFeatures\n\n\n\n\nDisplay product variants on the product page\n\n\nSeamlessly switch between different products\n\n\nSort the displayed variants\n\n\nManage all variants in one single page\n\n\nMulti-language supported\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nProduct Variants\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpencart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nProduct Variants\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpencart 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nProduct Variants\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpencart 2, 3 \n Cloud\n\n\nUpon installation of Product Variants, you should be able to configure the product different variants within the module.\n\n\nGroup Name\n\n\nThis is an internal reference field for the admin.\n\n\nTitle\n\n\nThis will be the title shown on the product page. Label it something you want your customers to see.\n\n\nProducts\n\n\nSearch for the products you wish to add into this variant group. This is an auto-complete field, enter some characters and click on the product from the drop down list to add it.\n\n\nChange Log\n\n\nVersion 1.0.0 (17/01/2018)\n\n\n\n\nExtension created", 
+            "title": "Product Variants"
+        }, 
+        {
+            "location": "/product_variants/#product-variants", 
+            "text": "Current Version: 1.0.0  Last Updated 17 January 2018  License:  Commercial License  Compatibility: OpenCart 2.x, 3.x", 
+            "title": "Product Variants"
+        }, 
+        {
+            "location": "/product_variants/#description", 
+            "text": "Do you have different variations / options of the product, but they are not displayed obviously on the product page? This is just what you need! Show the different variations of the product on the product page, set an image and name, and you are good to go!  With our Product Variants extension, you will now be able to continue managing products that are releated separately, without using OpenCart's \"options\" feature. This will allow you to easily manage your product stocks and model number as well, since OpenCart's \"options\" does not have a unique SKU / model field for each option.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/product_variants/#features", 
+            "text": "Display product variants on the product page  Seamlessly switch between different products  Sort the displayed variants  Manage all variants in one single page  Multi-language supported", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/product_variants/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/product_variants/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Product Variants . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Please view configuration details below.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/product_variants/#opencart-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Product Variants . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Please view configuration details below.", 
+            "title": "Opencart 3"
+        }, 
+        {
+            "location": "/product_variants/#opencart-2", 
+            "text": "Unzip the files. Ensure that vQmod has been installed.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Product Variants . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "Opencart 2"
+        }, 
+        {
+            "location": "/product_variants/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/product_variants/#opencart-2-3-cloud", 
+            "text": "Upon installation of Product Variants, you should be able to configure the product different variants within the module.  Group Name  This is an internal reference field for the admin.  Title  This will be the title shown on the product page. Label it something you want your customers to see.  Products  Search for the products you wish to add into this variant group. This is an auto-complete field, enter some characters and click on the product from the drop down list to add it.", 
+            "title": "Opencart 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/product_variants/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/product_variants/#version-100-17012018", 
+            "text": "Extension created", 
+            "title": "Version 1.0.0 (17/01/2018)"
+        }, 
+        {
             "location": "/purchase_order/", 
             "text": "Purchase Order\n\n\n\n\nCurrent Version: 2.0.0\n\n\nLast Updated: 10 July 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nPurchase Order allows you to easily coordinate your purchase orders with your vendors through your administration panel. Skip the hassle of manually submitting your purchase orders to your vendors.\n\n\nFeatures\n\n\n\n\nAdd custom vendors\n\n\nAdd custom payment methods\n\n\nAdd custom shipping methods\n\n\nAdd purchase orders\n\n\nPrint orders\n\n\nOptional automated stock update upon receiving order\n\n\nOptional automated email vendor upon receiving order\n\n\nEmails vendors upon adding orders\n\n\nSet optional product cost on product\n\n\nSet optional product model on product\n\n\nSet optional product title on product\n\n\nSupport product options\n\n\nAble to populate products for Purchase Order based on selected vendor\n\n\nAble to populate options combinations for each product\n\n\nAble to hide received orders from listing\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nPurchase Order\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nPurchase Order\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nPurchase Order\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\n\n\n\n\nModule Configurations\n\n\nBasic configurations for the extension is located within the module, which can be found in \nExtensions \n Modules \n Purchase Order\n.\n\n\n\n\n\n\n\n\nAdding Payment Methods, Shipping Methods and Vendors\n\n\nGet started by adding payment methods, shipping methods and vendors, which can be accessed through the \nCatalog\n menu.\n\n\n\n\n\n\n\n\nAdding Purchase Orders\n\n\nYou can begin adding purchase orders into the system and start using the extension once the above has been configured. The purchase orders page can be accessed through the \nCatalog\n menu as well.\n\n\n\n\n\n\nChange Log\n\n\nVersion 2.0.0 (10/07/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 1.3.8 (12/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 1.3.7 (13/04/2016)\n\n\n\n\nFixed issues with undefined currency\n\n\n\n\nVersion 1.3.6 (27/03/2016)\n\n\n\n\nFixed issues with sending email\n\n\n\n\nVersion 1.3.5 (07/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\n\n\nVersion 1.3.4 (12/01/2016)\n\n\n\n\nFixed zone list not loading up on newer OC 2 releases\n\n\n\n\nVersion 1.3.3 (13/12/2015)\n\n\n\n\nFixed quantity not removed when user uncheck \u2018received\u2019\n\n\n\n\nVersion 1.3.2 (05/06/2015)\n\n\n\n\nFixed issue with date picker not working properly (OC 2)\n\n\n\n\nVersion 1.3.1 (04/06/2015)\n\n\n\n\nFixed issue with multiple rows of same results\n\n\nFixed issue with search filter\n\n\n\n\nVersion 1.3.0 (19/05/2015)\n\n\n\n\nMinor admin aesthetic improvements\n\n\n\n\nVersion 1.2.1 (23/04/2015)\n\n\n\n\nOC 2.0.2.0 mail support compatibility fix\n\n\n\n\nVersion 1.2.0 (24/03/2015)\n\n\n\n\nAdded purchase order filter function\n\n\n\n\nVersion 1.1.2 (06/02/2015)\n\n\n\n\nBug fixes\n\n\n\n\nVersion 1.1.1 (23/12/2014)\n\n\n\n\nUpdate support Facebook link\n\n\n\n\nVersion 1.1.0 (27/10/2014)\n\n\n\n\nOC 2 compatibility\n\n\n\n\nVersion 1.0.1 (05/05/2014)\n\n\n\n\nMinor bug fix\n\n\n\n\nVersion 1.0.0 (11/03/2014)\n\n\n\n\nModule released", 
             "title": "Purchase Order"
@@ -5459,6 +5519,141 @@
             "location": "/quick_order_update/#version-110-09122016", 
             "text": "Fixed compatibility with OpenCart 2.2.0.0 and above", 
             "title": "Version 1.1.0 (09/12/2016)"
+        }, 
+        {
+            "location": "/quick_registration/", 
+            "text": "Quick Registration\n\n\n\n\nCurrent Version 3.0.0\n\n\nLast Updated: 31/12/2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 2.x, 3.x\n\n\n\n\nDescription\n\n\nQuick registration enhances your customers\u2019 registration experiences. \nIt allows you to remove unnecessary fields for quicker registration and have the ability to change registration to \u2018invitation only\u2019 mode.\n\n\nFeatures\n\n\n\n\nCustomise your registration experience, enable / disable fields (eg. Fax, Country, Zone, Company etc.)\n\n\nRearrange your fields position\n\n\nSet default newsletter field status\n\n\nOptional 'invitation only' mode\n\n\nOptional invitation credits for referral\n\n\nCustomers can send invitation email to their friends\n\n\n100% new files\n\n\nNeat layout for easy integration with custom theme\n\n\nEasy to use one page registration\n\n\nMulti-store compatible\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nQuick Registration\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nQuick Registration\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nQuick Registration\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nGeneral\n\n\nStatus\n\n\nTurn on/off Quick Registration. Set status to enable to begin using Quick Registration.\n\n\nInvitation\n\n\nTo enable / disable invitation.\n\n\nInvitation Only\n\n\nTo enable / disable \nInvitation Only\n mode.\n\n\nCredits for Successfully Referring\n\n\nCredits given to customer on a successful referral.\n\n\nCredits for Successful Referred Sign Up\n\n\nCredits given to referred customer on sign up.\n\n\nFields\n\n\nDisplay\n\n\nConfigure whether the field should be displayed to the customer on register page.\n\n\nRequired\n\n\nConfigure whether the field is required to be filled in.\n\n\nDefault Value\n\n\nConfigure the default value for the field when it is loaded.\n\n\nSort Order\n\n\nConfigure the field position when displayed on the register page.\n\n\nChange Log\n\n\nVersion 3.0.0 (31/12/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\n\n\nVersion 2.0.2 (26/09/2016)\n\n\n\n\nFixed minor bugs\n\n\n\n\nVersion 2.0.1 (12/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 2.0.0 (18/04/2016)\n\n\n\n\nFixed compatibility with OpenCart 2\n\n\nAdded feature to customise each fields\n\n\nAdded invitation only feature\n\n\nAdded invitation credits\n\n\nDropped support for OpenCart 1.5.x\n\n\n\n\nVersion 1.1.0 (09/01/2013)\n\n\n\n\nOpenCart v1.5.5.0 compatibility\n\n\n\n\nVersion 1.0.0\n\n\n\n\nExtension created", 
+            "title": "Quick Registration"
+        }, 
+        {
+            "location": "/quick_registration/#quick-registration", 
+            "text": "Current Version 3.0.0  Last Updated: 31/12/2017  License:  Commercial License  Compatibility: OpenCart 2.x, 3.x", 
+            "title": "Quick Registration"
+        }, 
+        {
+            "location": "/quick_registration/#description", 
+            "text": "Quick registration enhances your customers\u2019 registration experiences. \nIt allows you to remove unnecessary fields for quicker registration and have the ability to change registration to \u2018invitation only\u2019 mode.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/quick_registration/#features", 
+            "text": "Customise your registration experience, enable / disable fields (eg. Fax, Country, Zone, Company etc.)  Rearrange your fields position  Set default newsletter field status  Optional 'invitation only' mode  Optional invitation credits for referral  Customers can send invitation email to their friends  100% new files  Neat layout for easy integration with custom theme  Easy to use one page registration  Multi-store compatible", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/quick_registration/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/quick_registration/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Quick Registration . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Please view configuration details below.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/quick_registration/#opencart-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Quick Registration . Configure extension accordingly.  Proceed to  Extensions   Modifications  and click the blue refresh button.  Please view configuration details below.", 
+            "title": "OpenCart 3"
+        }, 
+        {
+            "location": "/quick_registration/#opencart-2", 
+            "text": "Unzip the files. Ensure that vQmod has been installed.  Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.  In your admin panel, proceed to  Extensions   Modules . Then, install  Quick Registration . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 2"
+        }, 
+        {
+            "location": "/quick_registration/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/quick_registration/#general", 
+            "text": "", 
+            "title": "General"
+        }, 
+        {
+            "location": "/quick_registration/#status", 
+            "text": "Turn on/off Quick Registration. Set status to enable to begin using Quick Registration.", 
+            "title": "Status"
+        }, 
+        {
+            "location": "/quick_registration/#invitation", 
+            "text": "To enable / disable invitation.", 
+            "title": "Invitation"
+        }, 
+        {
+            "location": "/quick_registration/#invitation-only", 
+            "text": "To enable / disable  Invitation Only  mode.", 
+            "title": "Invitation Only"
+        }, 
+        {
+            "location": "/quick_registration/#credits-for-successfully-referring", 
+            "text": "Credits given to customer on a successful referral.", 
+            "title": "Credits for Successfully Referring"
+        }, 
+        {
+            "location": "/quick_registration/#credits-for-successful-referred-sign-up", 
+            "text": "Credits given to referred customer on sign up.", 
+            "title": "Credits for Successful Referred Sign Up"
+        }, 
+        {
+            "location": "/quick_registration/#fields", 
+            "text": "", 
+            "title": "Fields"
+        }, 
+        {
+            "location": "/quick_registration/#display", 
+            "text": "Configure whether the field should be displayed to the customer on register page.", 
+            "title": "Display"
+        }, 
+        {
+            "location": "/quick_registration/#required", 
+            "text": "Configure whether the field is required to be filled in.", 
+            "title": "Required"
+        }, 
+        {
+            "location": "/quick_registration/#default-value", 
+            "text": "Configure the default value for the field when it is loaded.", 
+            "title": "Default Value"
+        }, 
+        {
+            "location": "/quick_registration/#sort-order", 
+            "text": "Configure the field position when displayed on the register page.", 
+            "title": "Sort Order"
+        }, 
+        {
+            "location": "/quick_registration/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/quick_registration/#version-300-31122017", 
+            "text": "Fixed compatibility with OpenCart 3.0.0.0  Minor improvements and updates", 
+            "title": "Version 3.0.0 (31/12/2017)"
+        }, 
+        {
+            "location": "/quick_registration/#version-202-26092016", 
+            "text": "Fixed minor bugs", 
+            "title": "Version 2.0.2 (26/09/2016)"
+        }, 
+        {
+            "location": "/quick_registration/#version-201-12072016", 
+            "text": "Fixed compatibility with OpenCart 2.3.0.0", 
+            "title": "Version 2.0.1 (12/07/2016)"
+        }, 
+        {
+            "location": "/quick_registration/#version-200-18042016", 
+            "text": "Fixed compatibility with OpenCart 2  Added feature to customise each fields  Added invitation only feature  Added invitation credits  Dropped support for OpenCart 1.5.x", 
+            "title": "Version 2.0.0 (18/04/2016)"
+        }, 
+        {
+            "location": "/quick_registration/#version-110-09012013", 
+            "text": "OpenCart v1.5.5.0 compatibility", 
+            "title": "Version 1.1.0 (09/01/2013)"
+        }, 
+        {
+            "location": "/quick_registration/#version-100", 
+            "text": "Extension created", 
+            "title": "Version 1.0.0"
         }, 
         {
             "location": "/recently_sold/", 
