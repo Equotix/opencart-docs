@@ -67,6 +67,7 @@ pages:
         - Q:
             - Quick Checkout: 'quick_checkout.md'
             - Quick Order Update: 'quick_order_update.md'
+            - Quick Registration: 'quick_registration.md'
         - R:
             - Recently Sold: 'recently_sold.md'
             - Recently Viewed: 'recently_viewed.md'
