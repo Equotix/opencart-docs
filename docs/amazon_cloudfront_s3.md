@@ -1,7 +1,7 @@
 # Amazon CloudFront / S3
 
-* Current Version: 1.0.0
-* Last Updated 08 February 2018
+* Current Version: 1.1.0
+* Last Updated 19 February 2018
 * License: [Commercial License][1]
 * Compatibility: OpenCart 2.x, 3.x
 
@@ -16,8 +16,10 @@ Speed up image loading on your website using Amazon CloudFront. This integration
 
 * Link OpenCart store to S3 and CloudFront
 * Easily serve images through CloudFront
+* Easily upload the Download files to S3
 * One click build or clear image cache
-* Easily invalidate CloudFront URL by clearing cache
+* One click to export download files to S3
+* Easily invalidate CloudFront URL by clearing image cache
 
 ### Installation
 
@@ -62,6 +64,7 @@ Upon installation of Amazon CloudFront / S3, you should will need to enter your 
 
 5. Save and create the bucket.
 6. Copy the bucket name and put it into your OpenCart settings.
+7. Repeat steps above for the second bucket, and do not grant public read access for your download files bucket.
 
 #### Setting Up CloudFront
 
@@ -98,5 +101,7 @@ Upon installation of Amazon CloudFront / S3, you should will need to enter your 
 
 ## Change Log
 
+### Version 1.1.0 (19/02/2018)
+* Added download files integration with S3
 ### Version 1.0.0 (08/02/2018)
 * Extension created
