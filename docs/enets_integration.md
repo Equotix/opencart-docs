@@ -1,7 +1,7 @@
 # eNETS Integration
 
-* Current Version: 3.0.0
-* Last Updated: 18 December 2017
+* Current Version: 3.0.2
+* Last Updated: 23 February 2018
 * License: [Commercial License][1]
 * Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x
 
@@ -46,6 +46,10 @@ Upon installing the respective payment modules you need, you will have to fill u
 
 ## Change Log
 
+### Version 3.0.2 (23/02/2018)
+* Improved handling of callbacks from eNETS
+### Version 3.0.1 (NA)
+* Release cancelled
 ### Version 3.0.0 (18/12/2017)
 * Added support for new eNETS API
 * Added QR payment support
