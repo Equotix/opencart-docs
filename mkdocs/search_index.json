@@ -1627,12 +1627,12 @@
         }, 
         {
             "location": "/enets_integration/", 
-            "text": "eNETS Integration\n\n\n\n\nCurrent Version: 3.0.0\n\n\nLast Updated: 18 December 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nOpenCart Singapore eNETS payment integration. Supports eNETS \n eNETS QR. UMAPI Lite Integration no longer supported.\n\n\nFeatures\n\n\n\n\neNETS payment gateway integration\n\n\neNETS Credit, Debit \n QR payment gateway\n\n\nActivate payment module only when reaches the specific order total\n\n\nCaptures call back notification to automatically update order status\n\n\nSandbox mode for testing\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nPayments\n. Then, install \neNETS Credit / Debit / QR\n. Configure extensions accordingly.\n\n\n\n\nOpenCart 2 \n 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nPayments\n. Then, install \neNETS Credit / Debit / QR\n. Configure extension accordingly.\n\n\n\n\nOpenCart 1.5\n\n\n\n\nUnzip the files.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Payments\n. Then, install \neNETS Credit / Debit / QR\n. Configure extension accordingly.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\nUpon installing the respective payment modules you need, you will have to fill up your API details you have from eNETS. No additional configuration is required.\n\n\nChange Log\n\n\nVersion 3.0.0 (18/12/2017)\n\n\n\n\nAdded support for new eNETS API\n\n\nAdded QR payment support\n\n\nAdded API upgrade for OpenCart 1.5\n\n\nRemoved UMAPI Lite support\n\n\n\n\nVersion 2.0.0 (28/06/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 1.0.3 (10/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 1.0.2 (10/03/2016)\n\n\n\n\nFixed wrong path\n\n\n\n\nVersion 1.0.1 (07/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\nRemoved redundant codes\n\n\n\n\nVersion 1.0.0 (30/06/2015)\n\n\n\n\nPayment module created", 
+            "text": "eNETS Integration\n\n\n\n\nCurrent Version: 3.0.2\n\n\nLast Updated: 23 February 2018\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nOpenCart Singapore eNETS payment integration. Supports eNETS \n eNETS QR. UMAPI Lite Integration no longer supported.\n\n\nFeatures\n\n\n\n\neNETS payment gateway integration\n\n\neNETS Credit, Debit \n QR payment gateway\n\n\nActivate payment module only when reaches the specific order total\n\n\nCaptures call back notification to automatically update order status\n\n\nSandbox mode for testing\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nPayments\n. Then, install \neNETS Credit / Debit / QR\n. Configure extensions accordingly.\n\n\n\n\nOpenCart 2 \n 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nPayments\n. Then, install \neNETS Credit / Debit / QR\n. Configure extension accordingly.\n\n\n\n\nOpenCart 1.5\n\n\n\n\nUnzip the files.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Payments\n. Then, install \neNETS Credit / Debit / QR\n. Configure extension accordingly.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\nUpon installing the respective payment modules you need, you will have to fill up your API details you have from eNETS. No additional configuration is required.\n\n\nChange Log\n\n\nVersion 3.0.2 (23/02/2018)\n\n\n\n\nImproved handling of callbacks from eNETS\n\n\n\n\nVersion 3.0.1 (NA)\n\n\n\n\nRelease cancelled\n\n\n\n\nVersion 3.0.0 (18/12/2017)\n\n\n\n\nAdded support for new eNETS API\n\n\nAdded QR payment support\n\n\nAdded API upgrade for OpenCart 1.5\n\n\nRemoved UMAPI Lite support\n\n\n\n\nVersion 2.0.0 (28/06/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 1.0.3 (10/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 1.0.2 (10/03/2016)\n\n\n\n\nFixed wrong path\n\n\n\n\nVersion 1.0.1 (07/03/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\nRemoved redundant codes\n\n\n\n\nVersion 1.0.0 (30/06/2015)\n\n\n\n\nPayment module created", 
             "title": "eNETS Integration"
         }, 
         {
             "location": "/enets_integration/#enets-integration", 
-            "text": "Current Version: 3.0.0  Last Updated: 18 December 2017  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
+            "text": "Current Version: 3.0.2  Last Updated: 23 February 2018  License:  Commercial License  Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x", 
             "title": "eNETS Integration"
         }, 
         {
@@ -1679,6 +1679,16 @@
             "location": "/enets_integration/#change-log", 
             "text": "", 
             "title": "Change Log"
+        }, 
+        {
+            "location": "/enets_integration/#version-302-23022018", 
+            "text": "Improved handling of callbacks from eNETS", 
+            "title": "Version 3.0.2 (23/02/2018)"
+        }, 
+        {
+            "location": "/enets_integration/#version-301-na", 
+            "text": "Release cancelled", 
+            "title": "Version 3.0.1 (NA)"
         }, 
         {
             "location": "/enets_integration/#version-300-18122017", 
