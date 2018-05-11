@@ -1,7 +1,7 @@
 # Product Stock Mobile App
 
-* Current Version: 2.0.0
-* Last Updated: 10 July 2017
+* Current Version: 2.1.0
+* Last Updated: 11 May 2018
 * License: [Commercial License][1]
 * Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x
 
@@ -10,17 +10,17 @@
 
 ## Description
 
-Product Stock Mobile Application allows you to scan your product’s barcode or enter its SKU to update the product. A barcode list can also be generated from the store administration panel.
+Product Stock Mobile Application allows you to link your OpenCart store to our mobile app. The mobile app will allow you to scan your product’s barcode or enter its SKU to update the product (quantity, price & status). A barcode list can also be generated from the store administration panel.
 
 ## Features
 
-* Android mobile application built with security in mind
+* Android & iOS mobile application
 * Enter barcode for products from your admin panel
-* Enter barcode for each product option values
-* Update product stock quantity from mobile application
-* Update product price from mobile application
+* Enter barcode / SKU for each product option value
+* Update product / option value stock quantity from mobile application
+* Update product / option value price from mobile application
 * Update product status from mobile application
-* Barcode scanner for Android mobile application
+* Barcode scanner for Android and iOS mobile application
 
 ## Installation
 
@@ -29,7 +29,7 @@ Product Stock Mobile Application allows you to scan your product’s barcode or 
 1. Purchase the extension from your administration panel.
 2. Proceed to `Extensions >> Extensions` and select `Modules`. Then, install `Product Stock Mobile Application`. Configure extension accordingly.
 3. Proceed to `Extensions >> Modifications` and click the blue refresh button.
-4. Download the Android mobile application from the Google Play Store or the iOS mobile application from the Apple App Store. Do a search for ‘OC Product Stock’ by Equotix.
+4. Download the Android mobile application from the Google Play Store or the iOS mobile application from the Apple App Store. Do a search for ‘OpenCart Product Stock’ by Equotix.
 5. Please view configuration details below.
 
 ### OpenCart 3
@@ -37,7 +37,7 @@ Product Stock Mobile Application allows you to scan your product’s barcode or 
 1. Go to `Admin >> Extensions >> Installer` to upload the extension zip file.
 2. Proceed to `Extensions >> Extensions` and select `Modules`. Then, install `Product Stock Mobile Application`. Configure extension accordingly.
 3. Proceed to `Extensions >> Modifications` and click the blue refresh button.
-4. Download the Android mobile application from the Google Play Store or the iOS mobile application from the Apple App Store. Do a search for ‘OC Product Stock’ by Equotix.
+4. Download the Android mobile application from the Google Play Store or the iOS mobile application from the Apple App Store. Do a search for ‘OpenCart Product Stock’ by Equotix.
 5. Please view configuration details below.
 
 ### OpenCart 1.5 & 2
@@ -45,7 +45,7 @@ Product Stock Mobile Application allows you to scan your product’s barcode or 
 1. Unzip the files. Ensure that vQmod has been installed.
 2. Upload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.
 3. In your admin panel, proceed to `Extensions >> Modules`. Then, install `Product Stock Mobile Application`. Configure extension accordingly.
-4. Download the Android mobile application from the Google Play Store or the iOS mobile application from the Apple App Store. Do a search for ‘OC Product Stock’ by Equotix.
+4. Download the Android mobile application from the Google Play Store or the iOS mobile application from the Apple App Store. Do a search for ‘OpenCart Product Stock’ by Equotix.
 5. Please view configuration details below.
 
 ## Configurations
@@ -74,6 +74,10 @@ Product Stock Mobile Application allows you to scan your product’s barcode or 
 
 ## Change Log
 
+### Version 2.1.0 (11/05/2018)
+* Fixed minor issues with OpenCart 3
+* Added image URL for API to support latest app updates
+* Code improvements and maintenance
 ### Version 2.0.0 (10/07/2017)
 * Fixed compatibility with OpenCart 3.0.0.0
 * Minor improvements and updates
