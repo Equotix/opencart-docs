@@ -1,7 +1,7 @@
 # Amazon CloudFront / S3
 
-* Current Version: 1.1.0
-* Last Updated 19 February 2018
+* Current Version: 1.1.1
+* Last Updated 15 May 2018
 * License: [Commercial License][1]
 * Compatibility: OpenCart 2.x, 3.x
 
@@ -101,6 +101,8 @@ Upon installation of Amazon CloudFront / S3, you should will need to enter your 
 
 ## Change Log
 
+### Version 1.1.1 (15/05/2018)
+* Fixed incorrect function being called in OC 2.0 release
 ### Version 1.1.0 (19/02/2018)
 * Added download files integration with S3
 ### Version 1.0.0 (08/02/2018)

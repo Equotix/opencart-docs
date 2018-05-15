@@ -1,7 +1,7 @@
 # MultiStore Manager
 
-* Current Version: 3.0.0
-* Last Updated: 03 July 2017
+* Current Version: 3.0.1
+* Last Updated: 15 May 2018
 * License: [Commercial License][1]
 * Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x
 
@@ -59,6 +59,8 @@ Multistore Manager allows you to assign all your products, categories, informati
 
 ## Change Log
 
+### Version 3.0.1 (15/05/2018)
+* Fixed missing comma in OpenCart 3 release
 ### Version 3.0.0 (03/07/2017)
 * Fixed compatibility with OpenCart 3.0.0.0
 * Minor improvements and updates

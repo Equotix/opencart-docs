@@ -1,7 +1,7 @@
 # Watermark
 
-* Current Version: 2.0.0
-* Last Updated: 14 July 2017
+* Current Version: 2.0.1
+* Last Updated: 15 May 2018
 * License: [Commercial License][1]
 * Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x
 
@@ -60,6 +60,8 @@ Add watermark to your images easily with our Watermark extension. No complicated
 
 ## Change Log
 
+### Version 2.0.1 (15/05/2018)
+* Fixed watermark not generated when cache image is of the same size
 ### Version 2.0.0 (14/07/2017)
 * Fixed compatibility with OpenCart 3.0.0.0
 * Minor improvements and updates
