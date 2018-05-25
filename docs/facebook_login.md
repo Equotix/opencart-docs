@@ -1,7 +1,7 @@
 # Facebook Login
 
-* Current Version: 2.0.0
-* Last Updated: 28 June 2017
+* Current Version: 3.0.0
+* Last Updated: 25 May 2018
 * License: [Commercial License][1]
 * Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x
 
@@ -15,15 +15,15 @@ Facebook login is a quick and popular login method. Integrating your store’s l
 ## Features
 
 * Allow Facebook login on your store
-* Allow user to create an account on your website with one click
+* Allow user to create an account on your website in one click
 * Does not override account details if user is already a customer
-* Redirects back to current page they were viewing for registered customers
-* Customisable button, heading, and display text.
+* Customisable button, heading, and display text
 * Multi language buttons and texts
 * Multi store login supported
 * Set Facebook registered customers to a specific customer group
 * Set button alignment
 * Optionally display a module box around the button
+* Optionally display Facebook login button at specific target locations
 
 ## Installation
 
@@ -46,25 +46,33 @@ Facebook login is a quick and popular login method. Integrating your store’s l
 3. In your admin panel, proceed to `Extensions >> Modules`. Then, install `Facebook Login`. Configure extension accordingly.
 4. Please view configuration details below.
 
+## Upgrading
+
+### All Versions
+
+1. It is recommended to make a backup of your website before proceeding.
+2. Follow the installation steps above to upgrade the extension. Files should be replaced.
+3. Head over to the extension page and update any new configurations available.
+
 ## Configurations
 
-### Getting Facebook App ID
+### Getting Facebook App ID and Secret
 
 You will need a Facebook account to setup your Facebook App ID.
 
 1. Proceed to https://developers.facebook.com/apps.
 2. Click ‘Add a New App’.
-3. Select ‘Website’ when asked for a platform.
-4. Give your app a name.
-5. Select the category that best matches the app. Click ‘Create App ID’.
-6. Skip quick start and proceed to the app settings page.
-7. In the settings tab, perform the following:
-	1. Fill in your ‘App Domain’. E.g. ('marketinsg.com' will do, do not add the 'www' or 'http://')
-	2. Add your ‘Site URL’ under ‘Website’.
-	3. Add a contact email.
-8. Click ‘Save’.
+3. Give your app a name.
+4. Select 'Facebook Login' when asked for a product, then select 'Web'.
+5. Fill in your 'Site URL'. E.g. ('marketinsg.com', do not add 'www' or 'http://').
+6. Save your settings and click on Facebook Login settings.
+7. Fill up "Valid OAuth Redirect URIs" with your website redirect URL (https://www.website.com/index.php?route=extension/module/fblogin/redirect).
+8. Proceed to the app basic settings tab and fill in your privacy URL, email address and app category.
 9. Proceed to the ‘App Review’ tab and change your app to public.
 10. Grab your ‘Application ID’ and fill it into our extension’s configurations in your administration panel.
+11. Grab your 'Application Secret' from the basic settings tab.
+
+![Screenshot](images/facebook_login/image-2.png)
 
 ### OpenCart 2, 3 & Cloud
 
@@ -82,6 +90,11 @@ You will need a Facebook account to setup your Facebook App ID.
 
 ## Change Log
 
+### Version 3.0.0 (25/05/2018)
+* Improved Facebook API
+* Added feature to place button at target location
+* Added support for custom javascript codes
+* Added support for custom Facebook login button image
 ### Version 2.0.0 (28/06/2017)
 * Fixed compatibility with OpenCart 3.0.0.0
 * Fixed minor bugs and improvements

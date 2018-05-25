@@ -1,7 +1,7 @@
 # Xero Integration
 
-* Current Version: 4.1.1
-* Last Updated: 19 November 2017
+* Current Version: 4.1.2
+* Last Updated: 09 December 2017
 * License: [Commercial License][1]
 * Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x
 
