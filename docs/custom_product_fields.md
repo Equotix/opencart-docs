@@ -1,7 +1,7 @@
 # Custom Product Fields
 
-* Current Version: 3.0.0
-* Last Updated: 27 June 2017
+* Current Version: 3.0.1
+* Last Updated: 12 July 2018
 * License: [Commercial License][1]
 * Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x
 
@@ -70,6 +70,8 @@ Custom Product Fields also supports searching of the fields (except for checkbox
 
 ## Change Log
 
+### Version 3.0.1 (12/07/2018)
+* Fixed null columns handling for OpenCart 3
 ### Version 3.0.0 (27/06/2017)
 * Fixed compatibility with OpenCart 3.0.0.0
 * Minor updates and improvements

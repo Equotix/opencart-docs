@@ -1,7 +1,7 @@
 # Facebook Login
 
-* Current Version: 3.0.0
-* Last Updated: 25 May 2018
+* Current Version: 3.0.1
+* Last Updated: 12 July 2018
 * License: [Commercial License][1]
 * Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x
 
@@ -90,6 +90,10 @@ You will need a Facebook account to setup your Facebook App ID.
 
 ## Change Log
 
+### Version 3.0.1 (12/07/2018)
+* Fixed redirection URL
+* Fixed OpenCart 3 sign up issues
+* Added redirection to address book for new sign ups
 ### Version 3.0.0 (25/05/2018)
 * Improved Facebook API
 * Added feature to place button at target location
