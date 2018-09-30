@@ -29,6 +29,8 @@ pages:
             - Feature Categories: 'feature_categories.md'
             - Follow Up Email: 'follow_up_email.md'
             - Footer Position: 'footer_position.md'
+        - G:
+            - Google Login: 'google_login.md'
         - H:
             - Hover Image: 'hover_image.md'
         - I:
@@ -95,7 +97,7 @@ pages:
             - Xero Integration: 'xero_integration.md'
 site_name: MarketInSG Documentations
 site_description: MarketInSG product documentations - OpenCart extensions Singapore.
-copyright: MarketInSG &copy; 2017
+copyright: MarketInSG &copy; 2018
 remote_branch: gh-pages
 theme: material
 site_favicon: 'images/favicon.png'
