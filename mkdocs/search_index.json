@@ -2421,6 +2421,76 @@
             "title": "Version 1.1.0 (17/08/2012)"
         }, 
         {
+            "location": "/google_login/", 
+            "text": "Google Login\n\n\n\n\nCurrent Version: 1.0.0\n\n\nLast Updated: 01 October 2018\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 2.x, 3.x\n\n\n\n\nDescription\n\n\nGet Google Login for your website. Allow customers to quickly sign up or login on your website with their Google (Gmail) account. Skip the hassle of remembering multiple passwords, all your customers need is their Google password, making it much easier to shop on your website. Our Google Login supports OpenCart multi-language and multi-store feature.\n\n\nFeatures\n\n\n\n\nAllow Google login on your store\n\n\nAllow user to create an account on your website in one click\n\n\nDoes not override account details if user is already a customer\n\n\nCustomisable button, heading, and display text\n\n\nMobile responsive supported\n\n\nMulti language buttons and texts\n\n\nMulti store login supported\n\n\nSet Google registered customers to a specific customer group\n\n\nSet button alignment\n\n\nOptionally display a module box around the button\n\n\nOptionally display Google login button at specific target locations\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nGoogle Login\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 2 \n 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nGoogle Login\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nUpgrading\n\n\nAll Versions\n\n\n\n\nIt is recommended to make a backup of your website before proceeding.\n\n\nFollow the installation steps above to upgrade the extension. Files should be replaced.\n\n\nHead over to the extension page and update any new configurations available.\n\n\n\n\nConfigurations\n\n\nGetting Google Client ID\n\n\nYou will need a Google account to retreive your Google Client ID.\n\n\n\n\nProceed to https://console.cloud.google.com/apis.\n\n\nSelect \"Credentials\", followed by \"Create Credentials\".\n\n\nCreate a new \"OAuth client ID\".\n\n\nFor Application type, select \"Web Application\".\n\n\nEnter a name for this credential. E.g. ('marketinsg.com').\n\n\nEnter the URL for your website.\n\n\nUpon saving, you should see your OAuth client ID. Copy everything up till \".apps.googleusercontent.com\".\n\n\n\n\n\n\nOpenCart 2, 3 \n Cloud\n\n\n\n\n\n\nAdding Module to Layout\n\n\nOnce you have installed and enabled the extension, you can add the extension to your layout through the OpenCart's layout management page.\n\n\n\n\n\n\nChange Log\n\n\nVersion 1.0.0 (01/10/2018)\n\n\n\n\nInitial release", 
+            "title": "Google Login"
+        }, 
+        {
+            "location": "/google_login/#google-login", 
+            "text": "Current Version: 1.0.0  Last Updated: 01 October 2018  License:  Commercial License  Compatibility: OpenCart 2.x, 3.x", 
+            "title": "Google Login"
+        }, 
+        {
+            "location": "/google_login/#description", 
+            "text": "Get Google Login for your website. Allow customers to quickly sign up or login on your website with their Google (Gmail) account. Skip the hassle of remembering multiple passwords, all your customers need is their Google password, making it much easier to shop on your website. Our Google Login supports OpenCart multi-language and multi-store feature.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/google_login/#features", 
+            "text": "Allow Google login on your store  Allow user to create an account on your website in one click  Does not override account details if user is already a customer  Customisable button, heading, and display text  Mobile responsive supported  Multi language buttons and texts  Multi store login supported  Set Google registered customers to a specific customer group  Set button alignment  Optionally display a module box around the button  Optionally display Google login button at specific target locations", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/google_login/#installation", 
+            "text": "", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/google_login/#opencart-cloud", 
+            "text": "Purchase the extension from your administration panel.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Google Login . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart Cloud"
+        }, 
+        {
+            "location": "/google_login/#opencart-2-3", 
+            "text": "Go to  Admin   Extensions   Installer  to upload the extension zip file.  Proceed to  Extensions   Extensions  and select  Modules . Then, install  Google Login . Configure extension accordingly.  Please view configuration details below.", 
+            "title": "OpenCart 2 &amp; 3"
+        }, 
+        {
+            "location": "/google_login/#upgrading", 
+            "text": "", 
+            "title": "Upgrading"
+        }, 
+        {
+            "location": "/google_login/#all-versions", 
+            "text": "It is recommended to make a backup of your website before proceeding.  Follow the installation steps above to upgrade the extension. Files should be replaced.  Head over to the extension page and update any new configurations available.", 
+            "title": "All Versions"
+        }, 
+        {
+            "location": "/google_login/#configurations", 
+            "text": "", 
+            "title": "Configurations"
+        }, 
+        {
+            "location": "/google_login/#getting-google-client-id", 
+            "text": "You will need a Google account to retreive your Google Client ID.   Proceed to https://console.cloud.google.com/apis.  Select \"Credentials\", followed by \"Create Credentials\".  Create a new \"OAuth client ID\".  For Application type, select \"Web Application\".  Enter a name for this credential. E.g. ('marketinsg.com').  Enter the URL for your website.  Upon saving, you should see your OAuth client ID. Copy everything up till \".apps.googleusercontent.com\".", 
+            "title": "Getting Google Client ID"
+        }, 
+        {
+            "location": "/google_login/#opencart-2-3-cloud", 
+            "text": "Adding Module to Layout  Once you have installed and enabled the extension, you can add the extension to your layout through the OpenCart's layout management page.", 
+            "title": "OpenCart 2, 3 &amp; Cloud"
+        }, 
+        {
+            "location": "/google_login/#change-log", 
+            "text": "", 
+            "title": "Change Log"
+        }, 
+        {
+            "location": "/google_login/#version-100-01102018", 
+            "text": "Initial release", 
+            "title": "Version 1.0.0 (01/10/2018)"
+        }, 
+        {
             "location": "/hover_image/", 
             "text": "Hover Image\n\n\n\n\nCurrent Version: 2.0.0\n\n\nLast Updated: 30 June 2017\n\n\nLicense: \nCommercial License\n\n\nCompatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x\n\n\n\n\nDescription\n\n\nHover Image allows you to display images to next to your options, and changes the main image upon hovering over the option values.\n\n\nFeatures\n\n\n\n\nAdds images to product options (radio, checkbox)\n\n\nMain image changes when mouse hover over the image\n\n\nAll images are cached to reduce server workload\n\n\n\n\nInstallation\n\n\nOpenCart Cloud\n\n\n\n\nPurchase the extension from your administration panel.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nHover Image\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 3\n\n\n\n\nGo to \nAdmin \n Extensions \n Installer\n to upload the extension zip file.\n\n\nProceed to \nExtensions \n Extensions\n and select \nModules\n. Then, install \nHover Image\n. Configure extension accordingly.\n\n\nProceed to \nExtensions \n Modifications\n and click the blue refresh button.\n\n\nPlease view configuration details below.\n\n\n\n\nOpenCart 1.5 \n 2\n\n\n\n\nUnzip the files. Ensure that vQmod has been installed.\n\n\nUpload the files WITHIN the upload folder to your OpenCart installation folder with a FTP client. The folders should merge.\n\n\nIn your admin panel, proceed to \nExtensions \n Modules\n. Then, install \nHover Image\n. Configure extension accordingly.\n\n\nPlease view configuration details below.\n\n\n\n\nConfigurations\n\n\nOpenCart 1.5, 2, 3 \n Cloud\n\n\n\n\n\n\nSetting Option Value Image\n\n\nAdd images to the option values in \nCatalog \n Options \n Edit Options\n. The image added here will be used for the small option thumbnail on the store front. \nselect\n type option will not show this small thumbnail.\n\n\n\n\n\n\n\n\nChange Log\n\n\nVersion 2.0.0 (30/06/2017)\n\n\n\n\nFixed compatibility with OpenCart 3.0.0.0\n\n\nMinor improvements and updates\n\n\nCeased support for OpenCart 1.5\n\n\n\n\nVersion 1.3.3 (11/07/2016)\n\n\n\n\nFixed compatibility with OpenCart 2.3.0.0\n\n\n\n\nVersion 1.3.2 (07/03/2016)\n\n\n\n\nFixed wrong file directory\n\n\nFixed compatibility with OpenCart 2.2.0.0\n\n\n\n\nVersion 1.3.1 (28/02/2016)\n\n\n\n\nFixed error in OC 1.5\n\n\n\n\nVersion 1.3.0 (24/02/2016)\n\n\n\n\nImproved installation method\n\n\nImproved codes standard for easier integration with custom themes\n\n\n\n\nVersion 1.2.0 (13/10/2014)\n\n\n\n\nFixed compatibility with OpenCart 2.0.0.0\n\n\n\n\nVersion 1.1.0 (19/04/2014)\n\n\n\n\nCode improvements", 
             "title": "Hover Image"
