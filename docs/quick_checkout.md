@@ -1,7 +1,7 @@
 # Quick Checkout
 
 * Current Version: 11.0.1
-* Last Updated: 30 June 2017
+* Last Updated: 05 March 2019
 * License: [Commercial License][1]
 * Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x
 
