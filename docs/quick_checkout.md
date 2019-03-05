@@ -1,6 +1,6 @@
 # Quick Checkout
 
-* Current Version: 11.0.0
+* Current Version: 11.0.1
 * Last Updated: 30 June 2017
 * License: [Commercial License][1]
 * Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x
@@ -321,6 +321,9 @@ The text to display for the countdown timer. Use the `{timer}` template code to 
 Purchase our Recover Abandoned Carts extension to turn abandoned carts into sales.
 
 ## Change Log
+
+### Version 11.0.1 (05/03/2019)
+* Fixed minor bugs and improvements
 
 ### Version 11.0.0 (30/06/2017)
 * Fixed compatibility with OpenCart 3.0.0.0
