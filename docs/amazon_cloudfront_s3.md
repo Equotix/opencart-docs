@@ -101,6 +101,8 @@ Upon installation of Amazon CloudFront / S3, you should will need to enter your 
 
 ## Change Log
 
+### Version 1.1.2 (14/04/2019)
+* Fixed incorrect function being called in OC 3.0
 ### Version 1.1.1 (15/05/2018)
 * Fixed incorrect function being called in OC 2.0 release
 ### Version 1.1.0 (19/02/2018)
