@@ -1646,6 +1646,13 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
+  <a href="#version-500-18122019" title="Version 5.0.0 (18/12/2019)" class="md-nav__link">
+    Version 5.0.0 (18/12/2019)
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#version-412-09122017" title="Version 4.1.2 (09/12/2017)" class="md-nav__link">
     Version 4.1.2 (09/12/2017)
   </a>
@@ -1864,6 +1871,13 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
+  <a href="#version-500-18122019" title="Version 5.0.0 (18/12/2019)" class="md-nav__link">
+    Version 5.0.0 (18/12/2019)
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#version-412-09122017" title="Version 4.1.2 (09/12/2017)" class="md-nav__link">
     Version 4.1.2 (09/12/2017)
   </a>
@@ -1983,8 +1997,8 @@
                 
                 <h1 id="xero-integration">Xero Integration</h1>
 <ul>
-<li>Current Version: 4.1.2</li>
-<li>Last Updated: 09 December 2017</li>
+<li>Current Version: 5.0.0</li>
+<li>Last Updated: 18 December 2019</li>
 <li>License: <a href="https://www.marketinsg.com/usage-license">Commercial License</a></li>
 <li>Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x</li>
 </ul>
@@ -2033,19 +2047,27 @@
 <p>If you do not have an account with Xero, please sign up at https://www.xero.com before proceeding.</p>
 </li>
 <li>
-<p>Getting your Key &amp; Secret</p>
-<p>Generate a new certificate (see point 5 below) or use the certificate included in the zip package of our software. Proceed to https://app.xero.com/Application/ to setup your application.</p>
+<p>Getting your Client ID &amp; Client Secret</p>
 <ol>
-<li>Add an application.</li>
-<li>Select "Private Application".</li>
-<li>Enter an Application Name (e.g. OpenCart Integration).</li>
-<li>Select an organisation for application to access.</li>
-<li>Upload the certificate file (file is located in our zip folder (<code>system/library/xero/certs/xero_public.cer</code>).</li>
-<li>Agree to Xero's terms and conditions.</li>
-<li>Save the application.</li>
-<li>You will now be presented with the consumer key and consumer secret.</li>
+<li>Create an application at https://developer.xero.com/myapps/ by clicking on "New App".</li>
+<li>Enter an App Name (e.g. OpenCart Integration).</li>
+<li>Enter Company or applcation URL. Fill it with your OpenCart URL (with "https") (e.g. https://www.example.com/).</li>
+<li>Enter OAuth 2.0 redirect URI. Fill it with your OpenCart URL (with "https") and append "index.php?route=extension/module/xero/authorise" (for OpenCart 3) or "index.php?route=module/xero/authorise" (for OpenCart 2) (e.g. https://www.example.com/index.php?route=extension/module/xero/authorise).</li>
+<li>Click "Create App" to create the application.</li>
+<li>Click "generate a secret" to generate your client secret.</li>
+<li>Copy your client ID and client secret to our OpenCart extension settings.</li>
 </ol>
 <p><img alt="Screenshot" src="../images/xero_integration/image-2.png" /></p>
+</li>
+<li>
+<p>Authorise Website</p>
+<ol>
+<li>Upon saving the settings with your client ID and client secret, you will be presented with an "authorise" button on the same page.</li>
+<li>Click on the "authorise" button. You will be directed to login on Xero's website.</li>
+<li>Click "allow access".</li>
+<li>Select your organisation from the drop down list and click "continue".</li>
+<li>You will be redirected back, and you should see a success message. You can now close the tab and your Xero integration setup is completed.</li>
+</ol>
 </li>
 <li>
 <p>Setup Cron Job</p>
@@ -2053,10 +2075,10 @@
 </li>
 <li>
 <p>Xero Integration Configurations</p>
-<p><strong>API Consumer Key</strong></p>
-<p>The API Consumer Key is available from your Xero application. This is a required field for authentication.</p>
-<p><strong>API Secret Key</strong></p>
-<p>The API Secret Key is available from your Xero application. This is a required field for authentication.</p>
+<p><strong>Client ID</strong></p>
+<p>The client ID is available from your Xero application. This is a required field for authentication.</p>
+<p><strong>Client Secret Key</strong></p>
+<p>The Client Secret Key is available from your Xero application. This is a required field for authentication.</p>
 <p><strong>HTTP Loopback Workaround</strong></p>
 <p>This is a workaround for web hosts that have HTTP loopback prevention. Do not enable this unless your orders are not exporting and you have confirmed that loopback prevention is enabled on your server.</p>
 <p><strong>Token</strong></p>
@@ -2092,46 +2114,13 @@
 <p><strong>Debug Order</strong></p>
 <p>This is useful to debug specific order ID that's having issues being exported. Debug needs to be enabled before this feature will work.</p>
 </li>
-<li>
-<p>Generating Your Certificate (optional)</p>
-<p>If you wish to generate your own certificate, please follow the instructions below.</p>
-<p><strong>Windows</strong></p>
-<ol>
-<li>Download and extract the zip file (<a href="https://www.dropbox.com/sh/r70yevrfgqh6tjm/FFzIj2YhYj">https://www.dropbox.com/sh/r70yevrfgqh6tjm/FFzIj2YhYj</a>) to your C drive so the path directioy is now C:\openssl.</li>
-<li>Search for <code>cmd</code> on your system and right click &gt;&gt; run as administrator.</li>
-<li>Change directory to the folder C:\openssl\bin\ with the following command:
-    cd C:\openssl\bin</li>
-<li>
-<p>Run the following commands to generate a certificate. A couple of questions would be asked. Answer them as accurately as possible.</p>
-<blockquote>
-<p>set OPENSSL_CONF=c:\openssl\bin\openssl.cfg</p>
-<p>openssl genrsa -out xero_private.pem 1024</p>
-<p>openssl req -newkey rsa:1024 -x509 -key xero_private.pem -out xero_public.cer -days 1095</p>
-</blockquote>
-</li>
-<li>
-<p>You should now find the certificate in your C:\openssl\bin\ folder. The 2 files xero_private.pem and xero_public.cer will be what you need.</p>
-</li>
-<li>Upload the 2 generated files to system/library/xero/certs/.</li>
-</ol>
-<p><strong>Linux and OS X</strong></p>
-<ol>
-<li>Open <code>terminal</code> and navigate to a directory you wish to generate the certificates in.</li>
-<li>
-<p>Run the following commands to generate a certificate. A couple of questions would be asked. Answer them as accurately as possible.</p>
-<blockquote>
-<p>openssl genrsa -out xero_private.pem 1024</p>
-<p>openssl req -newkey rsa:1024 -x509 -key xero_private.pem -out xero_public.cer</p>
-</blockquote>
-</li>
-<li>
-<p>You should now find the certificate in the directory you have generated in. The 2 files xero_private.pem and xero_public.cer will be what you need.</p>
-</li>
-<li>Upload the 2 generated files to system/library/xero/certs/.</li>
-</ol>
-</li>
 </ol>
 <h2 id="change-log">Change Log</h2>
+<h3 id="version-500-18122019">Version 5.0.0 (18/12/2019)</h3>
+<ul>
+<li>Updated Xero integration to support OAuth 2.0</li>
+<li>Codes cleanup</li>
+</ul>
 <h3 id="version-412-09122017">Version 4.1.2 (09/12/2017)</h3>
 <ul>
 <li>Minor bug fixes</li>
