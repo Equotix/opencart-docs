@@ -1,7 +1,7 @@
 # Xero Integration
 
-* Current Version: 5.0.1
-* Last Updated: 18 December 2019
+* Current Version: 5.0.2
+* Last Updated: 10 February 2020
 * License: [Commercial License][1]
 * Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x
 
@@ -161,6 +161,8 @@ Xero Integration allows you to export your OpenCart orders, customers and produc
 
 ## Change Log
 
+### Version 5.0.2 (10/02/2020)
+* Fixed issue with registering of customer when Xero is not authorised
 ### Version 5.0.1 (19/12/2019)
 * Minor bug fixes
 ### Version 5.0.0 (18/12/2019)
