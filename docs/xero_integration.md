@@ -1,7 +1,7 @@
 # Xero Integration
 
-* Current Version: 5.0.2
-* Last Updated: 10 February 2020
+* Current Version: 6.1.0
+* Last Updated: 30 May 2023
 * License: [Commercial License][1]
 * Compatibility: OpenCart 1.5.1.x, 1.5.2.x, 1.5.3.x, 1.5.4.x, 1.5.5.x, 1.5.6.x, 2.x, 3.x
 
@@ -160,7 +160,30 @@ Xero Integration allows you to export your OpenCart orders, customers and produc
 	This is useful to debug specific order ID that's having issues being exported. Debug needs to be enabled before this feature will work.
 
 ## Change Log
-
+### Version 6.1.0 (30/05/2023)
+* Bug fixes and code optimisations
+### Version 6.0.5 (21/09/2021)
+* Fixed bug with currency conversion
+* Improved handling of rounding
+### Version 6.0.4 (18/05/2021)
+* Fixed bug with the authorisation URL
+* Improved automated authorisation renewal process
+### Version 6.0.3 (13/03/2021)
+* Fixed bug on marking orders exported
+* Fixed bug on installation
+### Version 6.0.2 (01/03/2021)
+* Fixed bugs on contact export
+* Fixed timeout authorisation
+### Version 6.0.1 (13/01/2021)
+* Fixed critical bugs preventing installation
+### Version 6.0.0 (22/12/2020)
+* Rebuild of the extension
+* Added feature to view the export status for the orders
+* Added feature to handle failed exports
+* Added feature to handle payments and refunded orders
+* Added feature to redirect to the admin after authorisation
+* Removed debug order feature
+* Removed HTTP loopback support
 ### Version 5.0.2 (10/02/2020)
 * Fixed issue with registering of customer when Xero is not authorised
 ### Version 5.0.1 (19/12/2019)
